@@ -230,10 +230,27 @@ with open(OFFSET_FILE, 'w') as f:
     f.write(str(max_update_id + 1))
 
 import subprocess
+
+# Configure git
 subprocess.run(['git', 'config', 'user.name', 'github-actions'], check=True)
 subprocess.run(['git', 'config', 'user.email', 'actions@github.com'], check=True)
-subprocess.run(['git', 'add', BASE_DIR, PROCESSED_FILE, OFFSET_FILE], check=True)
-subprocess.run(['git', 'add', '-u', BASE_DIR], check=True)
+
+# Always stage these two files
+subprocess.run(['git', 'add', PROCESSED_FILE, OFFSET_FILE], check=True)
+
+# Only stage tg/files if it exists and has files
+if os.path.exists(BASE_DIR) and os.listdir(BASE_DIR):
+    subprocess.run(['git', 'add', BASE_DIR], check=True)
+    # Also stage deletions in tg/files
+    subprocess.run(['git', 'add', '-u', BASE_DIR], check=True)
+
+# Check if there's anything to commit
+result = subprocess.run(['git', 'diff', '--cached', '--quiet'], capture_output=True)
+if result.returncode == 0:
+    print("No changes to commit.")
+    sys.exit(0)
+
+# Commit and push
 subprocess.run(['git', 'commit', '-m', f'Process {len(messages)} messages'], check=True)
 subprocess.run(['git', 'push'], check=True)
 

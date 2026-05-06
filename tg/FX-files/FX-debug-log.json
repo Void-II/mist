@@ -247,6 +247,13 @@
         "issue_number": 8,
         "message_id": 393
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:47:06.479Z",
+      "event": "processing_message",
+      "data": {
+        "message_id": 394
+      }
     }
   ]
 }

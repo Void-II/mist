@@ -62,7 +62,7 @@
           "height": 720
         }
       ],
-      "caption": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂµ #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
+      "caption": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂµ #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
       "caption_entities": [
         {
           "offset": 3,
@@ -86,10 +86,10 @@
       "date": 1778095043,
       "forward_origin": {
         "type": "hidden_user",
-        "sender_user_name": "MÃÂÃÂ¦hd!",
+        "sender_user_name": "MÃÂÃÂÃÂÃÂ¦hd!",
         "date": 1767000717
       },
-      "forward_sender_name": "MÃÂÃÂ¦hd!",
+      "forward_sender_name": "MÃÂÃÂÃÂÃÂ¦hd!",
       "forward_date": 1767000717,
       "audio": {
         "duration": 214,
@@ -153,7 +153,7 @@
         "file_unique_id": "AgADQR0AAnAtwVM",
         "file_size": 4004
       },
-      "caption": "Ã¢ÂÂ¡Ã¯Â¸ÂÃÂÃÂªÃÂµÃÂ ÃÂ¨ÃÂ§ ÃÂÃÂÃÂ ÃÂ§ÃÂÃÂÃÂªÃÂ±ÃÂÃÂª ÃÂÃÂ§\n\n\nÃÂÃÂ§ÃÂÃÂ© ÃÂ ÃÂ±ÃÂ ÃÂ§ÃÂ©ÃÂ´ÃÂÃ¢ÂÂ¤Ã¯Â¸Â\n\nÃ¢ÂÂ¤Ã¯Â¸Â@Error404Bin\nÃ¢ÂÂ¤Ã¯Â¸Â@ErrorBin",
+      "caption": "ÃÂ¢ÃÂÃÂ¡ÃÂ¯ÃÂ¸ÃÂÃÂÃÂÃÂÃÂªÃÂÃÂµÃÂÃÂ ÃÂÃÂ¨ÃÂÃÂ§ ÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂªÃÂÃÂ±ÃÂÃÂÃÂÃÂª ÃÂÃÂÃÂÃÂ§\n\n\nÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ© ÃÂÃÂ ÃÂÃÂ±ÃÂÃÂ ÃÂÃÂ§ÃÂÃÂ©ÃÂÃÂ´ÃÂÃÂÃÂ¢ÃÂÃÂ¤ÃÂ¯ÃÂ¸ÃÂ\n\nÃÂ¢ÃÂÃÂ¤ÃÂ¯ÃÂ¸ÃÂ@Error404Bin\nÃÂ¢ÃÂÃÂ¤ÃÂ¯ÃÂ¸ÃÂ@ErrorBin",
       "caption_entities": [
         {
           "offset": 47,
@@ -220,7 +220,7 @@
         "file_unique_id": "AgADvR0AAtj60FM",
         "file_size": 2658407
       },
-      "caption": "ÙØ¶Ø¹ÛØª Ù¾Ø§Ø³Ø§Ú\n@odin_club\n@Arvanpingbot",
+      "caption": "ÃÂÃÂ¶ÃÂ¹ÃÂÃÂª ÃÂ¾ÃÂ§ÃÂ³ÃÂ§ÃÂ\n@odin_club\n@Arvanpingbot",
       "caption_entities": [
         {
           "offset": 12,
@@ -295,7 +295,7 @@
           "height": 1280
         }
       ],
-      "caption": "ترکیب رسمی دوتیم برای بازی برگشت امشب🔥\n@odin_club\n@Arvanpingbot",
+      "caption": "ØªØ±Ú©ÛØ¨ Ø±Ø³ÙÛ Ø¯ÙØªÛÙ Ø¨Ø±Ø§Û Ø¨Ø§Ø²Û Ø¨Ø±Ú¯Ø´Øª Ø§ÙØ´Ø¨ð¥\n@odin_club\n@Arvanpingbot",
       "caption_entities": [
         {
           "offset": 40,
@@ -308,9 +308,71 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 397,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778095044,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "message_id": 276,
+        "date": 1778003270
+      },
+      "forward_from_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "forward_from_message_id": 276,
+      "forward_date": 1778003270,
+      "media_group_id": "14224760351785204",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjWn7k8M8kXUpxbpY0edZxZq6-1OdAAK4Emsb2PrQUxxZrr50alBbAQADAgADcwADOwQ",
+          "file_unique_id": "AQADuBJrG9j60FN4",
+          "file_size": 1859,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjWn7k8M8kXUpxbpY0edZxZq6-1OdAAK4Emsb2PrQUxxZrr50alBbAQADAgADbQADOwQ",
+          "file_unique_id": "AQADuBJrG9j60FNy",
+          "file_size": 26560,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjWn7k8M8kXUpxbpY0edZxZq6-1OdAAK4Emsb2PrQUxxZrr50alBbAQADAgADeAADOwQ",
+          "file_unique_id": "AQADuBJrG9j60FN9",
+          "file_size": 110059,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjWn7k8M8kXUpxbpY0edZxZq6-1OdAAK4Emsb2PrQUxxZrr50alBbAQADAgADeQADOwQ",
+          "file_unique_id": "AQADuBJrG9j60FN-",
+          "file_size": 204049,
+          "width": 1024,
+          "height": 1280
+        }
+      ]
     }
   ],
   "processed_count": 0,
   "last_cleanup": "2026-05-06T19:18:52.344Z",
-  "last_updated": "2026-05-06T19:46:15.038Z"
+  "last_updated": "2026-05-06T19:46:17.277Z"
 }

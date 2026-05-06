@@ -239,6 +239,14 @@
         "file_size": 3463651,
         "category": "audio"
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:47:03.395Z",
+      "event": "comment_added",
+      "data": {
+        "issue_number": 8,
+        "message_id": 393
+      }
     }
   ]
 }

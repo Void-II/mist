@@ -515,6 +515,15 @@
       "data": {
         "update_id": 590439369
       }
+    },
+    {
+      "timestamp": "2026-05-06T20:14:53.606Z",
+      "event": "error",
+      "data": {
+        "message": "Unexpected end of JSON input",
+        "path": "/webhook",
+        "stack": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at getFileContent (worker.js:92:17)\n    at async addToQueue (worker.js:290:17)\n    at async Object.fetch (worker.js:642:11)"
+      }
     }
   ]
 }

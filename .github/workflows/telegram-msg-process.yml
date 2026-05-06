@@ -1,38 +1,112 @@
-name: Process Telegram Messages
+# .github/workflows/telegram-processor.yml
+name: Telegram Message Processor
 
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: 'Processing mode'
+        required: true
+        type: choice
+        options:
+          - process_new
+          - process_message
+          - setup_webhook
+          - check_status
       message_id:
-        description: 'Telegram message ID (leave empty to process all pending)'
+        description: 'Message ID (required for process_message mode)'
         required: false
+        type: string
+      last_message_id:
+        description: 'Last processed message ID (for process_new mode)'
+        required: false
+        type: string
+        default: '0'
 
 jobs:
   process:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      issues: write
-
+    timeout-minutes: 30
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          ref: main
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.12'
-
-      - name: Install dependencies
-        run: pip install requests PyGithub
-
-      - name: Process messages
+          node-version: '20'
+      
+      - name: Process Telegram Messages
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          REPO: ${{ github.repository }}
-          MESSAGE_ID: ${{ github.event.inputs.message_id }}
-        run: python scripts/process_pending.py
+          CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+        run: |
+          # Determine the processing mode
+          MODE="${{ github.event.inputs.mode }}"
+          
+          if [ "$MODE" = "process_new" ]; then
+            echo "Processing new messages..."
+            LAST_ID="${{ github.event.inputs.last_message_id }}"
+            
+            # Try to read last message ID from progress file if not provided
+            if [ -z "$LAST_ID" ] || [ "$LAST_ID" = "0" ]; then
+              if [ -f "tg/progress.json" ]; then
+                LAST_ID=$(jq -r '.last_message_id // 0' tg/progress.json)
+              fi
+            fi
+            
+            echo "Starting from message ID: $LAST_ID"
+            
+            RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-new" \
+              -H "Content-Type: application/json" \
+              -d "{\"lastMessageId\": $LAST_ID}")
+            
+            echo "Response: $RESPONSE"
+            
+          elif [ "$MODE" = "process_message" ]; then
+            MESSAGE_ID="${{ github.event.inputs.message_id }}"
+            echo "Processing message ID: $MESSAGE_ID"
+            
+            if [ -z "$MESSAGE_ID" ]; then
+              echo "Error: message_id is required for process_message mode"
+              exit 1
+            fi
+            
+            RESPONSE=$(curl -s -X POST "${CLOUDFLARE_WORKER_URL}/process-message" \
+              -H "Content-Type: application/json" \
+              -d "{\"messageId\": $MESSAGE_ID}")
+            
+            echo "Response: $RESPONSE"
+            
+          elif [ "$MODE" = "setup_webhook" ]; then
+            echo "Setting up Telegram webhook..."
+            
+            RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/setup-webhook")
+            echo "Response: $RESPONSE"
+            
+          elif [ "$MODE" = "check_status" ]; then
+            echo "Checking processing status..."
+            
+            RESPONSE=$(curl -s "${CLOUDFLARE_WORKER_URL}/status")
+            echo "Status: $RESPONSE"
+            
+            # Parse and display status
+            echo "$RESPONSE" | jq '.'
+          fi
+      
+      - name: Commit progress updates
+        if: always()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Check if there are changes to commit
+          if [[ $(git status --porcelain) ]]; then
+            git add tg/
+            git commit -m "Update message processing progress [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi

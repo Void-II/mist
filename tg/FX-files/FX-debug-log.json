@@ -188,6 +188,13 @@
       "data": {
         "update_id": 590439365
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:46:47.719Z",
+      "event": "processing_queue",
+      "data": {
+        "message_count": 12
+      }
     }
   ]
 }

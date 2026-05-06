@@ -204,6 +204,197 @@
           "custom_emoji_id": "5839312792611466526"
         }
       ]
+    },
+    {
+      "message_id": 426,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778101854,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1001947988075,
+          "title": "Matin SenPai",
+          "username": "MatinSenPaii",
+          "type": "channel"
+        },
+        "message_id": 2968,
+        "author_signature": "᯽マティ️️ン先輩",
+        "date": 1778081294
+      },
+      "forward_from_chat": {
+        "id": -1001947988075,
+        "title": "Matin SenPai",
+        "username": "MatinSenPaii",
+        "type": "channel"
+      },
+      "forward_from_message_id": 2968,
+      "forward_signature": "᯽マティ️️ン先輩",
+      "forward_date": 1778081294,
+      "video": {
+        "duration": 493,
+        "width": 1920,
+        "height": 1080,
+        "file_name": "mhr-phone.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 1280,
+            "height": 720,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIBfGn7h_1b6vsSSGWIlEubCRR4DzxeAALdBwAC_9bhRyTXUnQ-ZrBTOwQ",
+            "file_unique_id": "AgAD3QcAAv_W4Uc",
+            "file_size": 51470879
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIBfGn7h_1BS6Jy13mJ9dj8RwIs_sqdAAIbCAACiw_ZR7lERBtLD19QOwQ",
+            "file_unique_id": "AgADGwgAAosP2Uc",
+            "file_size": 67458727
+          },
+          {
+            "width": 852,
+            "height": 480,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIBfGn7h_2ygPWLEKOeDyYOvBdWRhw_AAJoDAAC8YvZRz1D5eTMPK5bOwQ",
+            "file_unique_id": "AgADaAwAAvGL2Uc",
+            "file_size": 27222017
+          },
+          {
+            "width": 852,
+            "height": 480,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIBfGn7h_0oed9qZoQRXiMnhzloH818AAKBBwACp83ZR-KVuLSvQPN8OwQ",
+            "file_unique_id": "AgADgQcAAqfN2Uc",
+            "file_size": 34690355
+          },
+          {
+            "width": 1920,
+            "height": 1080,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIBfGn7h_04GALRszxj_yJWcQnYSNoCAAK1CQACDNnZR5CVqSfOszNsOwQ",
+            "file_unique_id": "AgADtQkAAgzZ2Uc",
+            "file_size": 107984029
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgF8afuH_f0j3AzBhyjx503L5cuSTHoAAu0LAAKsZuBHZyvNok4-UvIBAAdtAAM7BA",
+          "file_unique_id": "AQAD7QsAAqxm4Edy",
+          "file_size": 20808,
+          "width": 320,
+          "height": 180
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgF8afuH_f0j3AzBhyjx503L5cuSTHoAAu0LAAKsZuBHZyvNok4-UvIBAAdtAAM7BA",
+          "file_unique_id": "AQAD7QsAAqxm4Edy",
+          "file_size": 20808,
+          "width": 320,
+          "height": 180
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIBfGn7h_39I9wMwYco8edNy-XLkkx6AALtCwACrGbgR2crzaJOPlLyOwQ",
+        "file_unique_id": "AgAD7QsAAqxm4Ec",
+        "file_size": 108253777
+      },
+      "caption": "☠️ آموزش ساخت متد MHR با گوشی + کاهش مصرف ریکوئست های گوگل\n\n⚡️لینک‌های داخلی جهت دانلود: https://t.me/MatinSenPaii/2969\n\nلینک پروژه اصلی: https://github.com/therealaleph/MasterHttpRelayVPN-RUST\n\n ⭐️توی این ویدئو بهتون یاد میدم که چطوری متد MHR رو صفر تا صد با گوشی بسازین، به علاوه‌ی آموزش یه کوچولو کاهش مصرف ریکوئست‌ها(به نظرم دیپلویمنت بیشتر بسازید راحتتره)\n\n🚀لینک‌های دانلود با نت داخلی:\nhttps://t.me/MatinSenPaii/2969\n\n⚠️ پیش‌نیازها و نکات مهم: \n1️⃣ این ویدئو هیچ پیش نیازی نداره\n\n✉️ تماشا در تلگرام \n\n📹 تماشا در یوتوب\n\n💰 دونیت",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5447246917744478110"
+        },
+        {
+          "offset": 60,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5438571934210082705"
+        },
+        {
+          "offset": 89,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 138,
+          "length": 55,
+          "type": "url"
+        },
+        {
+          "offset": 196,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5447644863644320013"
+        },
+        {
+          "offset": 362,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5372917041193828849"
+        },
+        {
+          "offset": 393,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 425,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5447644880824181073"
+        },
+        {
+          "offset": 452,
+          "length": 3,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5794182096603847292"
+        },
+        {
+          "offset": 487,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5069150690295677651"
+        },
+        {
+          "offset": 490,
+          "length": 16,
+          "type": "text_link",
+          "url": "https://t.me/MatinSenPaii/2968"
+        },
+        {
+          "offset": 508,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5071261477743100913"
+        },
+        {
+          "offset": 511,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://youtu.be/7YdJIJloIxY"
+        },
+        {
+          "offset": 527,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5069054607582298852"
+        },
+        {
+          "offset": 530,
+          "length": 5,
+          "type": "text_link",
+          "url": "https://matinsenpai.pages.dev/"
+        }
+      ]
     }
   ]
 }

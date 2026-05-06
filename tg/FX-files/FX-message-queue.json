@@ -55,6 +55,155 @@
           "type": "code"
         }
       ]
+    },
+    {
+      "message_id": 425,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778101835,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1002258272508,
+          "title": "اینترنت آزاد",
+          "username": "mitivpn",
+          "type": "channel"
+        },
+        "message_id": 16739,
+        "date": 1777227147
+      },
+      "forward_from_chat": {
+        "id": -1002258272508,
+        "title": "اینترنت آزاد",
+        "username": "mitivpn",
+        "type": "channel"
+      },
+      "forward_from_message_id": 16739,
+      "forward_date": 1777227147,
+      "document": {
+        "file_name": "NetMeli⚡.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIBqWn7rktopOntvhcPEyxtygY3S7s7AAIhBgACpih5R2TKRL-6XpqQOwQ",
+        "file_unique_id": "AgADIQYAAqYoeUc",
+        "file_size": 11480
+      },
+      "caption": "🌐 کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون\n\nنت ملی؟ فکرشم نکن❤️\n\n🔹نحوه اتصال داخل اندروید کلیک کن👉\n\n🔹نحوه اتصال داخل آیفون کلیک کن👉\n\n✌️ فیلترینگ شدید و نت ملی رو باهاش قورت بده\n\nاینترنت آزاد برای همه, یا هیچکس 🖤\n\nT.me/MiTiVPN 🥇",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "6032986263991099713"
+        },
+        {
+          "offset": 3,
+          "length": 104,
+          "type": "bold"
+        },
+        {
+          "offset": 107,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5798893448094293897"
+        },
+        {
+          "offset": 109,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 111,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5951811553895388029"
+        },
+        {
+          "offset": 113,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/42"
+        },
+        {
+          "offset": 137,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5415758949129404605"
+        },
+        {
+          "offset": 148,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5951811553895388029"
+        },
+        {
+          "offset": 150,
+          "length": 21,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/13"
+        },
+        {
+          "offset": 172,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 179,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5415758949129404605"
+        },
+        {
+          "offset": 183,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "6037328454452518028"
+        },
+        {
+          "offset": 186,
+          "length": 74,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5836797333345413210"
+        },
+        {
+          "offset": 262,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 264,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 276,
+          "length": 1,
+          "type": "bold"
+        },
+        {
+          "offset": 277,
+          "length": 2,
+          "type": "custom_emoji",
+          "custom_emoji_id": "5839312792611466526"
+        }
+      ]
     }
   ]
 }

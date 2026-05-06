@@ -252,6 +252,57 @@
         "file_unique_id": "AgADRBsAAmcOCVI",
         "file_size": 3463651
       }
+    },
+    {
+      "message_id": 422,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778100832,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "message_id": 151,
+        "date": 1777896910
+      },
+      "forward_from_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "forward_from_message_id": 151,
+      "forward_date": 1777896910,
+      "document": {
+        "file_name": "@Error404Bin.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIBimn7k8MciXYBvtp4qm14LJILCupYAAJBHQACcC3BUwpZQcvywnzSOwQ",
+        "file_unique_id": "AgADQR0AAnAtwVM",
+        "file_size": 4004
+      },
+      "caption": "⚡️متصل با همه اینترنت ها\n\n\nلایک و ری اکشن❤️\n\n❤️@Error404Bin\n❤️@ErrorBin",
+      "caption_entities": [
+        {
+          "offset": 47,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 62,
+          "length": 9,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

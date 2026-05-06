@@ -1,51 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 421,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778100832,
-      "forward_origin": {
-        "type": "hidden_user",
-        "sender_user_name": "Mæhd!",
-        "date": 1767000717
-      },
-      "forward_sender_name": "Mæhd!",
-      "forward_date": 1767000717,
-      "audio": {
-        "duration": 214,
-        "file_name": "Reza-Bahram-Yar-128.mp3",
-        "mime_type": "audio/mpeg",
-        "title": "Yar",
-        "performer": "Reza Bahram",
-        "thumbnail": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgGJafuTw-GAPMG1DyOHRXGxBPYcRhgAAkQbAAJnDglStnPKaXhZKAUBAAdzAAM7BA",
-          "file_unique_id": "AQADRBsAAmcOCVJ4",
-          "file_size": 2280,
-          "width": 90,
-          "height": 90
-        },
-        "thumb": {
-          "file_id": "AAMCBAADIQUABOo8MncAAgGJafuTw-GAPMG1DyOHRXGxBPYcRhgAAkQbAAJnDglStnPKaXhZKAUBAAdzAAM7BA",
-          "file_unique_id": "AQADRBsAAmcOCVJ4",
-          "file_size": 2280,
-          "width": 90,
-          "height": 90
-        },
-        "file_id": "CQACAgQAAyEFAATqPDJ3AAIBiWn7k8PhgDzBtQ8jh0VxsQT2HEYYAAJEGwACZw4JUrZzyml4WSgFOwQ",
-        "file_unique_id": "AgADRBsAAmcOCVI",
-        "file_size": 3463651
-      }
-    },
-    {
       "message_id": 422,
       "sender_chat": {
         "id": -1003929813623,

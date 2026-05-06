@@ -136,6 +136,77 @@
           "height": 1280
         }
       ]
+    },
+    {
+      "message_id": 420,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778100832,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1001243366048,
+          "title": "NetBlocks",
+          "username": "netblocks",
+          "type": "channel"
+        },
+        "message_id": 1478,
+        "date": 1778053039
+      },
+      "forward_from_chat": {
+        "id": -1001243366048,
+        "title": "NetBlocks",
+        "username": "netblocks",
+        "type": "channel"
+      },
+      "forward_from_message_id": 1478,
+      "forward_date": 1778053039,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBiGn7k3JsZ0rle0xcECHB3w4VoDsZAAJCDmsb2qXZU8WPAuXhjluxAQADAgADcwADOwQ",
+          "file_unique_id": "AQADQg5rG9ql2VN4",
+          "file_size": 781,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBiGn7k3JsZ0rle0xcECHB3w4VoDsZAAJCDmsb2qXZU8WPAuXhjluxAQADAgADbQADOwQ",
+          "file_unique_id": "AQADQg5rG9ql2VNy",
+          "file_size": 9514,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBiGn7k3JsZ0rle0xcECHB3w4VoDsZAAJCDmsb2qXZU8WPAuXhjluxAQADAgADeAADOwQ",
+          "file_unique_id": "AQADQg5rG9ql2VN9",
+          "file_size": 35659,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBiGn7k3JsZ0rle0xcECHB3w4VoDsZAAJCDmsb2qXZU8WPAuXhjluxAQADAgADeQADOwQ",
+          "file_unique_id": "AQADQg5rG9ql2VN-",
+          "file_size": 50416,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "📵 #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
+      "caption_entities": [
+        {
+          "offset": 3,
+          "length": 5,
+          "type": "hashtag"
+        }
+      ]
     }
   ]
 }

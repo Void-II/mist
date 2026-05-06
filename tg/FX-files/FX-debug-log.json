@@ -44,6 +44,13 @@
         "message": "btoa() can only operate on characters in the Latin1 (ISO/IEC 8859-1) range.",
         "path": "/webhook"
       }
+    },
+    {
+      "timestamp": "2026-05-06T19:41:17.545Z",
+      "event": "webhook_received",
+      "data": {
+        "update_id": 590439354
+      }
     }
   ]
 }

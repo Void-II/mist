@@ -62,7 +62,7 @@
           "height": 720
         }
       ],
-      "caption": "ÃÂ°ÃÂÃÂÃÂµ #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
+      "caption": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂµ #Iran's internet blackout is entering its 68th day after 1608 hours. The general public have now been largely cut off from the global internet for 70% of the year 2026 to date, with some reporting no contact since the beginning of the first digital shutdown in January.",
       "caption_entities": [
         {
           "offset": 3,
@@ -86,10 +86,10 @@
       "date": 1778095043,
       "forward_origin": {
         "type": "hidden_user",
-        "sender_user_name": "MÃÂ¦hd!",
+        "sender_user_name": "MÃÂÃÂ¦hd!",
         "date": 1767000717
       },
-      "forward_sender_name": "MÃÂ¦hd!",
+      "forward_sender_name": "MÃÂÃÂ¦hd!",
       "forward_date": 1767000717,
       "audio": {
         "duration": 214,
@@ -153,7 +153,7 @@
         "file_unique_id": "AgADQR0AAnAtwVM",
         "file_size": 4004
       },
-      "caption": "â¡ï¸ÙØªØµÙ Ø¨Ø§ ÙÙÙ Ø§ÛÙØªØ±ÙØª ÙØ§\n\n\nÙØ§ÛÚ© Ù Ø±Û Ø§Ú©Ø´Ùâ¤ï¸\n\nâ¤ï¸@Error404Bin\nâ¤ï¸@ErrorBin",
+      "caption": "Ã¢ÂÂ¡Ã¯Â¸ÂÃÂÃÂªÃÂµÃÂ ÃÂ¨ÃÂ§ ÃÂÃÂÃÂ ÃÂ§ÃÂÃÂÃÂªÃÂ±ÃÂÃÂª ÃÂÃÂ§\n\n\nÃÂÃÂ§ÃÂÃÂ© ÃÂ ÃÂ±ÃÂ ÃÂ§ÃÂ©ÃÂ´ÃÂÃ¢ÂÂ¤Ã¯Â¸Â\n\nÃ¢ÂÂ¤Ã¯Â¸Â@Error404Bin\nÃ¢ÂÂ¤Ã¯Â¸Â@ErrorBin",
       "caption_entities": [
         {
           "offset": 47,
@@ -220,7 +220,7 @@
         "file_unique_id": "AgADvR0AAtj60FM",
         "file_size": 2658407
       },
-      "caption": "وضعیت پاساژ\n@odin_club\n@Arvanpingbot",
+      "caption": "ÙØ¶Ø¹ÛØª Ù¾Ø§Ø³Ø§Ú\n@odin_club\n@Arvanpingbot",
       "caption_entities": [
         {
           "offset": 12,
@@ -233,9 +233,84 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 396,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778095044,
+      "forward_origin": {
+        "type": "channel",
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "message_id": 275,
+        "date": 1778003270
+      },
+      "forward_from_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "forward_from_message_id": 275,
+      "forward_date": 1778003270,
+      "media_group_id": "14224760351785204",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjGn7k8PSZvVwH4lDWhOS70SYnMGHAAK3Emsb2PrQU01YfSPAPdM8AQADAgADcwADOwQ",
+          "file_unique_id": "AQADtxJrG9j60FN4",
+          "file_size": 1925,
+          "width": 68,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjGn7k8PSZvVwH4lDWhOS70SYnMGHAAK3Emsb2PrQU01YfSPAPdM8AQADAgADbQADOwQ",
+          "file_unique_id": "AQADtxJrG9j60FNy",
+          "file_size": 21577,
+          "width": 243,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjGn7k8PSZvVwH4lDWhOS70SYnMGHAAK3Emsb2PrQU01YfSPAPdM8AQADAgADeAADOwQ",
+          "file_unique_id": "AQADtxJrG9j60FN9",
+          "file_size": 80908,
+          "width": 607,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBjGn7k8PSZvVwH4lDWhOS70SYnMGHAAK3Emsb2PrQU01YfSPAPdM8AQADAgADeQADOwQ",
+          "file_unique_id": "AQADtxJrG9j60FN-",
+          "file_size": 147131,
+          "width": 971,
+          "height": 1280
+        }
+      ],
+      "caption": "ترکیب رسمی دوتیم برای بازی برگشت امشب🔥\n@odin_club\n@Arvanpingbot",
+      "caption_entities": [
+        {
+          "offset": 40,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 51,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ],
   "processed_count": 0,
   "last_cleanup": "2026-05-06T19:18:52.344Z",
-  "last_updated": "2026-05-06T19:46:12.697Z"
+  "last_updated": "2026-05-06T19:46:15.038Z"
 }

@@ -1,62 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 424,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778101816,
-      "forward_origin": {
-        "type": "user",
-        "sender_user": {
-          "id": 8292171222,
-          "is_bot": true,
-          "first_name": "APK downloader",
-          "username": "Gpl_dl_bot"
-        },
-        "date": 1773283709
-      },
-      "forward_from": {
-        "id": 8292171222,
-        "is_bot": true,
-        "first_name": "APK downloader",
-        "username": "Gpl_dl_bot"
-      },
-      "forward_date": 1773283709,
-      "document": {
-        "file_name": "com.github.shadowsocks_arm64-v8a_default.apk",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAIBqGn7rjjmAQtx2D1QgvXa_Qqg8lKzAALQGwAC1FeQUVry3GMur5BmOwQ",
-        "file_unique_id": "AgAD0BsAAtRXkFE",
-        "file_size": 8197575
-      },
-      "caption": "✅ com.github.shadowsocks\n- Arch: arm64-v8a | SDK: default",
-      "caption_entities": [
-        {
-          "offset": 2,
-          "length": 22,
-          "type": "bold"
-        },
-        {
-          "offset": 33,
-          "length": 9,
-          "type": "code"
-        },
-        {
-          "offset": 50,
-          "length": 7,
-          "type": "code"
-        }
-      ]
-    },
-    {
       "message_id": 425,
       "sender_chat": {
         "id": -1003929813623,

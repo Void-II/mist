@@ -1,31 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 2,
-      "from": {
-        "id": 177590614,
-        "is_bot": false,
-        "first_name": "Mæhd!",
-        "username": "VstLrd",
-        "language_code": "en"
-      },
-      "chat": {
-        "id": 177590614,
-        "first_name": "Mæhd!",
-        "username": "VstLrd",
-        "type": "private"
-      },
-      "date": 1778103294,
-      "text": "/start",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 6,
-          "type": "bot_command"
-        }
-      ]
-    },
-    {
       "message_id": 429,
       "sender_chat": {
         "id": -1003929813623,

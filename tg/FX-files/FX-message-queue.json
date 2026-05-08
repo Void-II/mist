@@ -47,6 +47,65 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 435,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778142692,
+      "text": "آموزش متصل شدن با اپ WhiteDNS (یک کلاینت برای روش StormDNS) روی اندروید\n\n\n1- بعد از اجرای برنامه، پایین سمت چپ قسمت Profiles رو باز کنید روی Create new connection بزنید و Name رو یه چیز دلخواه بذارید. گزینه های بعدی یعنی Domain و Encryption Key رو میتونید از این پست که دامین و انکریپشن‌کی گذاشتیم بردارید بزنید و بعدش سیو کنید. (میتونید چند تا کانکشن به همین شکل بسازید) \n\n2- وارد صفحه اصلی برنامه بشید و توی کادری که آیپی ها هست باید لیست DNS Resolver بذارید که تو پست براتون قرار میدم\n\n3- حالا اگه فقط بخواین تلگرام رو باز کنید از بالای برنامه روی Proxy mode بذارین و وصلش کنید و در نهایت وقتی وصل شد به این پروکسی توی تلگرام وصل شید:\n\nhttps://t.me/socks?server=127.0.0.1&port=10886\n\nنکات:\n\nاگه بخواین کل گوشی از حالت وی پی ان استفاده کنه باید از بالای برنامه گزینه Full VPN رو بزنید و بعد وصل شید اما این روش های مبتنی بر DNS کلا کند هستن، با همون پروکسی مود وصل شین در حد تلگرام باشه کفایت میکنه\n\nزمانی که وصلش میکنید میتونید از پایین برنامه سمت راست قسمت لاگ Logs چک کنید ببینید چندتا ریزالور رو اسکن کرده و اینطوری راحت تر میتونید بفهمید چه زمانی وصل میشه. هروقت تو صفحه اصلی برنامه سبز شد یعنی وصل شده\n\nتوسعه دهنده:\nWhiteDNS\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 71,
+          "type": "bold"
+        },
+        {
+          "offset": 259,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://t.me/NetAccount/17362"
+        },
+        {
+          "offset": 639,
+          "length": 46,
+          "type": "url"
+        },
+        {
+          "offset": 687,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 1146,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 1155,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 1164,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

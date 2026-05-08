@@ -3005,6 +3005,67 @@
       "link_preview_options": {
         "url": "https://t.me/SimorghVpnRobot?start=ref_6948878650"
       }
+    },
+    {
+      "message_id": 530,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778279574,
+      "text": "https://t.me/SuppereVpnBot?start=ref_6948878650\n\nhttps://t.me/ProtecVIP_Bot?start=ref_6948878650\n\nhttps://t.me/NullVIPBot?start=ref_6948878650\n\nhttps://t.me/MrEdisonRoBot?start=ref-6948878650\nچهارتا با رفرال سرورای خوبی میدن.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 49,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 98,
+          "length": 44,
+          "type": "url"
+        },
+        {
+          "offset": 144,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 226,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

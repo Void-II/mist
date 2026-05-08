@@ -1239,6 +1239,63 @@
         }
       ],
       "caption": "⭕️هم‌اکنون شاخص فلافل در جنوب ایران به شدت صعودی شد\n🤣🤣🤣"
+    },
+    {
+      "message_id": 476,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778181742,
+      "animation": {
+        "mime_type": "video/mp4",
+        "duration": 7,
+        "width": 512,
+        "height": 368,
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHcafzmbhnrl1OQ-kTEwBBqas7JAhkAAo0bAAI0HtFSB4pDKkw1YwoBAAdtAAM7BA",
+          "file_unique_id": "AQADjRsAAjQe0VJy",
+          "file_size": 11993,
+          "width": 320,
+          "height": 230
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHcafzmbhnrl1OQ-kTEwBBqas7JAhkAAo0bAAI0HtFSB4pDKkw1YwoBAAdtAAM7BA",
+          "file_unique_id": "AQADjRsAAjQe0VJy",
+          "file_size": 11993,
+          "width": 320,
+          "height": 230
+        },
+        "file_id": "CgACAgQAAyEFAATqPDJ3AAIB3Gn85m4Z65dTkPpExMAQamrOyQIZAAKNGwACNB7RUgeKQypMNWMKOwQ",
+        "file_unique_id": "AgADjRsAAjQe0VI",
+        "file_size": 190358
+      },
+      "document": {
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHcafzmbhnrl1OQ-kTEwBBqas7JAhkAAo0bAAI0HtFSB4pDKkw1YwoBAAdtAAM7BA",
+          "file_unique_id": "AQADjRsAAjQe0VJy",
+          "file_size": 11993,
+          "width": 320,
+          "height": 230
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHcafzmbhnrl1OQ-kTEwBBqas7JAhkAAo0bAAI0HtFSB4pDKkw1YwoBAAdtAAM7BA",
+          "file_unique_id": "AQADjRsAAjQe0VJy",
+          "file_size": 11993,
+          "width": 320,
+          "height": 230
+        },
+        "file_id": "CgACAgQAAyEFAATqPDJ3AAIB3Gn85m4Z65dTkPpExMAQamrOyQIZAAKNGwACNB7RUgeKQypMNWMKOwQ",
+        "file_unique_id": "AgADjRsAAjQe0VI",
+        "file_size": 190358
+      }
     }
   ]
 }

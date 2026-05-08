@@ -1931,6 +1931,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 502,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778248373,
+      "text": "vless://baee8abc-aead-aae2-ac9c-9c5a79b1a77c@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.242#https%3A%2F%2Ft.me%2FError404Bin\n\n1g\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 165,
+          "type": "code"
+        },
+        {
+          "offset": 170,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 183,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

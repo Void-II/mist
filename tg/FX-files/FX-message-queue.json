@@ -127,6 +127,51 @@
         "file_unique_id": "AgADQSIAAleE4VM",
         "file_size": 154596
       }
+    },
+    {
+      "message_id": 438,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778144785,
+      "media_group_id": "14225158286330804",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBtmn8VhHFZXA2NFNNfkTtgWlYuZgVAAIgDmsbFTbgU2psuP_AcsyfAQADAgADcwADOwQ",
+          "file_unique_id": "AQADIA5rGxU24FN4",
+          "file_size": 877,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBtmn8VhHFZXA2NFNNfkTtgWlYuZgVAAIgDmsbFTbgU2psuP_AcsyfAQADAgADbQADOwQ",
+          "file_unique_id": "AQADIA5rGxU24FNy",
+          "file_size": 9718,
+          "width": 143,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBtmn8VhHFZXA2NFNNfkTtgWlYuZgVAAIgDmsbFTbgU2psuP_AcsyfAQADAgADeAADOwQ",
+          "file_unique_id": "AQADIA5rGxU24FN9",
+          "file_size": 37623,
+          "width": 358,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBtmn8VhHFZXA2NFNNfkTtgWlYuZgVAAIgDmsbFTbgU2psuP_AcsyfAQADAgADeQADOwQ",
+          "file_unique_id": "AQADIA5rGxU24FN-",
+          "file_size": 63010,
+          "width": 573,
+          "height": 1280
+        }
+      ]
     }
   ]
 }

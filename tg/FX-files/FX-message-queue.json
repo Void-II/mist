@@ -1281,6 +1281,21 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 479,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778182692,
+      "text": "🔴 منابع عبری از حمله جنگنده های اماراتی با پشتیبانی لجستیکی آمریکا خبر میدهند\n🟢"
     }
   ]
 }

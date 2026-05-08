@@ -331,6 +331,33 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 451,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778177235,
+      "text": "احتمالا اخبار دیروز درگیری والورده و شوامنی رو شنیدین.\n\nطبق ادعای آاس امروز والورده هی میپیچه به پای شوامنی و بهش میگه تو باعث شدی خبر درگیری دیروز رسانه‌ای بشه.\n\nشوامنی هم کله‌ش کیری میشه با مشت میزنه تو صورت والورده و اون هم با برخورد این مشت بیهوش میشه.\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 257,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 268,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

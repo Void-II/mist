@@ -1124,6 +1124,61 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 473,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778180649,
+      "reply_to_message": {
+        "message_id": 471,
+        "sender_chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "date": 1778180613,
+        "text": "🔴فوری-منبع اسراییلی\n\nجنگنده های امارات ٫ اسکله بهمن قشم را بمباران کرد"
+      },
+      "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "🤣",
+        "set_name": "M2_S_pack",
+        "is_animated": false,
+        "is_video": false,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHZafziKWI11fPVx1Ce47sOXhAJVV4AAkwVAAIzgaFSIsy7E4qu6MEBAAdtAAM7BA",
+          "file_unique_id": "AQADTBUAAjOBoVJy",
+          "file_size": 4634,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHZafziKWI11fPVx1Ce47sOXhAJVV4AAkwVAAIzgaFSIsy7E4qu6MEBAAdtAAM7BA",
+          "file_unique_id": "AQADTBUAAjOBoVJy",
+          "file_size": 4634,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "CAACAgQAAyEFAATqPDJ3AAIB2Wn84iliNdXz1cdQnuO7Dl4QCVVeAAJMFQACM4GhUiLMuxOKrujBOwQ",
+        "file_unique_id": "AgADTBUAAjOBoVI",
+        "file_size": 11832
+      }
     }
   ]
 }

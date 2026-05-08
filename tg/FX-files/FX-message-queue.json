@@ -1599,6 +1599,21 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 489,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778183516,
+      "text": "میگن سپاه زده"
     }
   ]
 }

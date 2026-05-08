@@ -2357,7 +2357,7 @@
       }
     },
     {
-      "message_id": 513,
+      "message_id": 514,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2368,22 +2368,32 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778257368,
-      "text": "تو کانالش نوشته تست بسته میشه بزودی 🤣بگیریدددد\n\n• Sent via TeleFeed",
+      "date": 1778262894,
+      "text": "🎁 تخفیف ویژه فقط برای امروز\n\n🎗سرعت متناسب با پیک مصرف\n🎗دارای ساب و بدون ضریب\n🎗مناسب برای تمامی سیستم ها\n🎗 آیپی مولتی آلمان، هلند، انگلیس، ترکیه، آمریکا، امارات\n🎗تضمین مصرف تا پایان حجم\n🎗مناسب برای تمامی اپراتور ها\n🎗مناسب برای اینستا، تلگرام و یوتیوب\n\n━━━━━━━━━━━━\n\n📶 حجم: 1 گیگ\n💳 قیمت فقط 300/000\n\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 60,
+          "offset": 122,
+          "length": 42,
+          "type": "bold"
+        },
+        {
+          "offset": 314,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 342,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 60,
+          "offset": 342,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 60,
+          "offset": 342,
           "length": 8,
           "type": "underline"
         }

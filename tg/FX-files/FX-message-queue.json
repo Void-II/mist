@@ -1323,6 +1323,33 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 481,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778182896,
+      "text": "شنیده شدن انفجار های مجدد اسکله بهمن در جزیره قشم\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 50,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 61,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

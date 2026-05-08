@@ -1767,6 +1767,42 @@
         "file_unique_id": "AgADGxwAAoOx6VM",
         "file_size": 3245
       }
+    },
+    {
+      "message_id": 497,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778246693,
+      "text": "استارتش کنید شب ساعت ۹بیام همه کافینگاش بزارم براتون❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -1491,6 +1491,33 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 486,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778183423,
+      "text": "خبرگزاری مهر: امارات بهمون حمله کرد\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 36,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 47,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

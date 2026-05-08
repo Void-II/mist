@@ -1732,6 +1732,41 @@
       },
       "date": 1778189174,
       "text": "🚨 شبکه خبر :\n\n جنگ با آمریکا مجدد آغاز شد"
+    },
+    {
+      "message_id": 496,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778234986,
+      "document": {
+        "file_name": "sysx_cloud_theme.png",
+        "mime_type": "image/png",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHwaf22aivwtGYMVjhqELqAo2BWMmIAAhscAAKDselTNkyikzrg5ZIBAAdtAAM7BA",
+          "file_unique_id": "AQADGxwAAoOx6VNy",
+          "file_size": 4303,
+          "width": 192,
+          "height": 192
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgHwaf22aivwtGYMVjhqELqAo2BWMmIAAhscAAKDselTNkyikzrg5ZIBAAdtAAM7BA",
+          "file_unique_id": "AQADGxwAAoOx6VNy",
+          "file_size": 4303,
+          "width": 192,
+          "height": 192
+        },
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIB8Gn9tmor8LRmDFY4ahC6gKNgVjJiAAIbHAACg7HpUzZMopM64OWSOwQ",
+        "file_unique_id": "AgADGxwAAoOx6VM",
+        "file_size": 3245
+      }
     }
   ]
 }

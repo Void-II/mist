@@ -1437,6 +1437,33 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 484,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778183338,
+      "text": "رئال مادرید اعلام کرده که والورده به خاطر ضربه مغزی شدید، 10 تا 14 روز خونه استراحت میکنه.\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 91,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 102,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

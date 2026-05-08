@@ -2028,6 +2028,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 505,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778249333,
+      "text": "آمریکا به صورت رسمی از وجود موجودات فضایی رونمایی کرد😐\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 56,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 67,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

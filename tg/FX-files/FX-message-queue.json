@@ -1517,7 +1517,7 @@
       }
     },
     {
-      "message_id": 441,
+      "message_id": 442,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -1528,46 +1528,20 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778160349,
-      "text": "🔴پروکسی سایفون\n\n🔴Host : 62.220.126.56\n\n🔴Port : 26132\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp",
+      "date": 1778164216,
+      "text": "بلاتکلیفم مث ج‌ا و امریکا\n\n@odin_club\n@Arvanpingbot",
       "entities": [
         {
-          "offset": 2,
-          "length": 14,
-          "type": "bold"
-        },
-        {
-          "offset": 26,
-          "length": 14,
-          "type": "code"
-        },
-        {
-          "offset": 50,
-          "length": 5,
-          "type": "code"
-        },
-        {
-          "offset": 70,
-          "length": 8,
-          "type": "text_link",
-          "url": "https://t.me/+3eerO6lYZyEzNzc0"
-        },
-        {
-          "offset": 79,
-          "length": 8,
-          "type": "text_link",
-          "url": "https://t.me/+1NpCb-pp0txjNWE0"
-        },
-        {
-          "offset": 88,
+          "offset": 27,
           "length": 10,
-          "type": "text_link",
-          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+          "type": "mention"
+        },
+        {
+          "offset": 38,
+          "length": 13,
+          "type": "mention"
         }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
+      ]
     }
   ]
 }

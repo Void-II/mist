@@ -942,7 +942,7 @@
       ]
     },
     {
-      "message_id": 465,
+      "message_id": 466,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -953,23 +953,37 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778180354,
-      "text": "میگن حمله صورت گرفته به جمهوری اسلامی توسط امارات بوده احتمالا.\nتایید یا تکذیب نمی‌شود\n@odin_club\n@Arvanpingbot",
+      "date": 1778180371,
+      "text": "نسخه جدید برنامه V2rayNG اندروید \n\nنسخه 2.1.5\n\nلینک دانلود داخلی \n\n@Error404Bin\n@ErrorBin",
       "entities": [
         {
-          "offset": 87,
-          "length": 10,
+          "offset": 0,
+          "length": 33,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 18,
+          "type": "text_link",
+          "url": "https://punkpaste.ir/f/V2rayNG-v2-1-5-6ge06b"
+        },
+        {
+          "offset": 67,
+          "length": 12,
           "type": "mention"
         },
         {
-          "offset": 98,
-          "length": 13,
+          "offset": 80,
+          "length": 9,
           "type": "mention"
         }
-      ]
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     },
     {
-      "message_id": 467,
+      "message_id": 468,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -980,16 +994,43 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778180398,
-      "text": "فوری/ منابع عربی: چندین تانکر سوخت رسان نیروی هوایی ایالات متحده از امارات متحده عربی برخاسته‌اند.\n@odin_club\n@Arvanpingbot",
+      "date": 1778180442,
+      "reply_to_message": {
+        "message_id": 463,
+        "sender_chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "chat": {
+          "id": -1003929813623,
+          "title": "Backup",
+          "type": "channel"
+        },
+        "date": 1778180302,
+        "text": "اسکله بهمن قشم بمباران شد \n@odin_club\n@Arvanpingbot",
+        "entities": [
+          {
+            "offset": 27,
+            "length": 10,
+            "type": "mention"
+          },
+          {
+            "offset": 38,
+            "length": 13,
+            "type": "mention"
+          }
+        ]
+      },
+      "text": "فارس تایید کرده\n@odin_club\n@Arvanpingbot",
       "entities": [
         {
-          "offset": 99,
+          "offset": 16,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 110,
+          "offset": 27,
           "length": 13,
           "type": "mention"
         }

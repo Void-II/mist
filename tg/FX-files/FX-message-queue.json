@@ -215,6 +215,56 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 448,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778174486,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBwGn8yhaD_mYJSCHUljika9PiW_16AAKAD2sbjH_pU1SI7Ft2-a7PAQADAgADcwADOwQ",
+          "file_unique_id": "AQADgA9rG4x_6VN4",
+          "file_size": 727,
+          "width": 90,
+          "height": 36
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBwGn8yhaD_mYJSCHUljika9PiW_16AAKAD2sbjH_pU1SI7Ft2-a7PAQADAgADbQADOwQ",
+          "file_unique_id": "AQADgA9rG4x_6VNy",
+          "file_size": 7781,
+          "width": 320,
+          "height": 129
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIBwGn8yhaD_mYJSCHUljika9PiW_16AAKAD2sbjH_pU1SI7Ft2-a7PAQADAgADeAADOwQ",
+          "file_unique_id": "AQADgA9rG4x_6VN9",
+          "file_size": 20525,
+          "width": 720,
+          "height": 291
+        }
+      ],
+      "caption": "حالا اینو ببینید!\nیه اکانت تو توییتر سال ۲۰۲۲ یعنی چهار سال قبل نوشته بود:\nسال ۲۰۲۳: کرونا تموم شد\nسال ۲۰۲۶: هانتا ویروس [شروع میشه].\n\nاز وقتی اخبار هانتا ویروس اومده این توییت میلیون‌ها بازدید گرفته و در سطح جهانی پخش شده.\n@odin_club\n@Arvanpingbot",
+      "caption_entities": [
+        {
+          "offset": 224,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 235,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

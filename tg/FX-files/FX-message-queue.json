@@ -570,6 +570,33 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 458,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778179281,
+      "text": "یه خبرایی داره میاد\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 20,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 31,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

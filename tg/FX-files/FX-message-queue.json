@@ -942,7 +942,7 @@
       ]
     },
     {
-      "message_id": 466,
+      "message_id": 465,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -953,34 +953,47 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1778180371,
-      "text": "نسخه جدید برنامه V2rayNG اندروید \n\nنسخه 2.1.5\n\nلینک دانلود داخلی \n\n@Error404Bin\n@ErrorBin",
+      "date": 1778180354,
+      "text": "میگن حمله صورت گرفته به جمهوری اسلامی توسط امارات بوده احتمالا.\nتایید یا تکذیب نمی‌شود\n@odin_club\n@Arvanpingbot",
       "entities": [
         {
-          "offset": 0,
-          "length": 33,
-          "type": "bold"
-        },
-        {
-          "offset": 47,
-          "length": 18,
-          "type": "text_link",
-          "url": "https://punkpaste.ir/f/V2rayNG-v2-1-5-6ge06b"
-        },
-        {
-          "offset": 67,
-          "length": 12,
+          "offset": 87,
+          "length": 10,
           "type": "mention"
         },
         {
-          "offset": 80,
-          "length": 9,
+          "offset": 98,
+          "length": 13,
           "type": "mention"
         }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
+      ]
+    },
+    {
+      "message_id": 467,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778180398,
+      "text": "فوری/ منابع عربی: چندین تانکر سوخت رسان نیروی هوایی ایالات متحده از امارات متحده عربی برخاسته‌اند.\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 99,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 110,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

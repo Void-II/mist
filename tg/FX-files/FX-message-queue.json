@@ -1067,6 +1067,21 @@
           "type": "mention"
         }
       ]
+    },
+    {
+      "message_id": 470,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778180483,
+      "text": "جنگ شد😐"
     }
   ]
 }

@@ -1296,6 +1296,33 @@
       },
       "date": 1778182692,
       "text": "🔴 منابع عبری از حمله جنگنده های اماراتی با پشتیبانی لجستیکی آمریکا خبر میدهند\n🟢"
+    },
+    {
+      "message_id": 480,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778182865,
+      "text": "رونالدو گل 971 مین خودش رو زد.\n@odin_club\n@Arvanpingbot",
+      "entities": [
+        {
+          "offset": 31,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 42,
+          "length": 13,
+          "type": "mention"
+        }
+      ]
     }
   ]
 }

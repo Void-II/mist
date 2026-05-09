@@ -3818,6 +3818,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 544,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778309274,
+      "text": "https://t.me/Cut1VPNBot?start=6948878650\nچیزی بده چالش میشه.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 40,
+          "type": "url"
+        },
+        {
+          "offset": 61,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/Cut1VPNBot?start=6948878650"
+      }
     }
   ]
 }

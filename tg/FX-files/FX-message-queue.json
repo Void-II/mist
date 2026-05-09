@@ -1,33 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 453,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778177747,
-      "text": "گزارشهایی از بندر (۲انفجار یا ۲ شلیک )\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 39,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 50,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 454,
       "sender_chat": {
         "id": -1003929813623,

@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 572,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778331715,
-      "text": "https://t.me/PingJooBot?start=6948878650\nچیزی بده چالش میکنم.\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 40,
-          "type": "url"
-        },
-        {
-          "offset": 62,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 85,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 85,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 85,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "url": "https://t.me/PingJooBot?start=6948878650"
-      }
-    },
-    {
       "message_id": 573,
       "sender_chat": {
         "id": -1003929813623,

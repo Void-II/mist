@@ -875,9 +875,15 @@
       "date": "09/05/2026---FX",
       "issue_number": 25,
       "files": 0
+    },
+    "561": {
+      "processed_at": "2026-05-09T19:54:40.365Z",
+      "date": "09/05/2026---FX",
+      "issue_number": 25,
+      "files": 0
     }
   },
-  "last_message_id": 560,
+  "last_message_id": 561,
   "bot_name": "FX-TelegramBot",
   "created_at": "2026-05-06T19:00:36.884Z"
 }

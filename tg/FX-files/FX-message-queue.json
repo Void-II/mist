@@ -1,60 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 452,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778177642,
-      "reply_to_message": {
-        "message_id": 451,
-        "sender_chat": {
-          "id": -1003929813623,
-          "title": "Backup",
-          "type": "channel"
-        },
-        "chat": {
-          "id": -1003929813623,
-          "title": "Backup",
-          "type": "channel"
-        },
-        "date": 1778177235,
-        "text": "احتمالا اخبار دیروز درگیری والورده و شوامنی رو شنیدین.\n\nطبق ادعای آاس امروز والورده هی میپیچه به پای شوامنی و بهش میگه تو باعث شدی خبر درگیری دیروز رسانه‌ای بشه.\n\nشوامنی هم کله‌ش کیری میشه با مشت میزنه تو صورت والورده و اون هم با برخورد این مشت بیهوش میشه.\n@odin_club\n@Arvanpingbot",
-        "entities": [
-          {
-            "offset": 257,
-            "length": 10,
-            "type": "mention"
-          },
-          {
-            "offset": 268,
-            "length": 13,
-            "type": "mention"
-          }
-        ]
-      },
-      "text": "چنتا از رسانه‌های اسپانیا مدعی شدن که والورده یه قسمتی از حافظه‌ش رو بعد از این اتفاق از دست داده 😐\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 101,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 112,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 453,
       "sender_chat": {
         "id": -1003929813623,

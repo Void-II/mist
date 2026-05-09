@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 535,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778281974,
-      "text": "🎙خبرنگار: کی تو دنیا از این سگ‌های هلال احمر هم پَست‌تره؟ \nجَوون حامی حکومت: هرچی سلبریتی‌ و خائن و وطن فروشه مثل علی دایی!\nخبرنگار: نه الان دیگه نمی‌خواد اسم ببری هاهاها...\n\n+ این مصاحبه به صورت زنده از صداوسيما پخش شد!\n\n@FUTBALLI18\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 60,
-          "length": 64,
-          "type": "blockquote"
-        },
-        {
-          "offset": 223,
-          "length": 11,
-          "type": "mention"
-        },
-        {
-          "offset": 247,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 247,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 247,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 536,
       "sender_chat": {
         "id": -1003929813623,

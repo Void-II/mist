@@ -4410,7 +4410,7 @@
       }
     },
     {
-      "message_id": 557,
+      "message_id": 558,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -4422,27 +4422,47 @@
         "type": "channel"
       },
       "date": 1778320735,
-      "text": "آماده اید🤣\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 24,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 24,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 24,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
+      "poll": {
+        "id": "6050598520417683090",
+        "question": "چالش کنم یا کانال",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "چالش",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "کانال",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": true,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
       }
     }
   ]

@@ -3506,6 +3506,93 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 539,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778285455,
+      "media_group_id": "14226283641960108",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICG2n-e4_EzIwzagWh38lpg5bqSqkcAAIKDmsbNXH4U1jTUu_0tFd_AQADAgADcwADOwQ",
+          "file_unique_id": "AQADCg5rGzVx-FN4",
+          "file_size": 917,
+          "width": 90,
+          "height": 56
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICG2n-e4_EzIwzagWh38lpg5bqSqkcAAIKDmsbNXH4U1jTUu_0tFd_AQADAgADbQADOwQ",
+          "file_unique_id": "AQADCg5rGzVx-FNy",
+          "file_size": 10956,
+          "width": 320,
+          "height": 200
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICG2n-e4_EzIwzagWh38lpg5bqSqkcAAIKDmsbNXH4U1jTUu_0tFd_AQADAgADeAADOwQ",
+          "file_unique_id": "AQADCg5rGzVx-FN9",
+          "file_size": 36615,
+          "width": 800,
+          "height": 499
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICG2n-e4_EzIwzagWh38lpg5bqSqkcAAIKDmsbNXH4U1jTUu_0tFd_AQADAgADeQADOwQ",
+          "file_unique_id": "AQADCg5rGzVx-FN-",
+          "file_size": 48336,
+          "width": 986,
+          "height": 615
+        }
+      ],
+      "caption": "✔️تنظیمات جدید\n\n👍اتصال پایدار تره با توجه به منطقه و شانس اینستا و یوتوبم باز میشه\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 81,
+          "type": "bold"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 115,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 509,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778252573,
-      "text": "فارس : از ساعتی پیش درگیری‌های پراکنده‌ای میان نیروهای مسلح ایران و شناورهای آمریکایی‌ در محدودهٔ تنگهٔ هرمز در جریان است.\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 123,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 134,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 160,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 160,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 160,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 510,
       "sender_chat": {
         "id": -1003929813623,

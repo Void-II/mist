@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 507,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778250173,
-      "text": "روبیو: \nما امروز باید از ایران پاسخی دریافت کنیم\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 49,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 60,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 86,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 86,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 86,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 508,
       "sender_chat": {
         "id": -1003929813623,

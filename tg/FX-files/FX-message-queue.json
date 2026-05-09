@@ -1,57 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 542,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778298851,
-      "text": "slipnet-enc://Ab+KQPJI1h431BYpEFzIxSOwYXKHNvU+zujOQEcXxAQMEAm4V3yjScNgcRmqgoBiXnYPKS3gyxIIQPqGmrTuU0yiF38fOoFQ6Sl6xZmSt9+/iZwCax2TTp9alAfeMNmscMU0Yt1n6a/yLk8EPRXlXTx93Pwue9oiUBEFGqW8NRll/dw3feWqbAYkogZ5xWi/kVLHNNcZ0FFPtKB52u543uD155NJNQkY1pkzYX/Xe74sDomsMW9Y96w68b+XYIXA3bdbGPlpv//IPy6hjQZiJHcFOZEdArOUvZgXSiXOoxpfj73YLRnThwOY9IUP6QlBAh8z9oszxuDaSDHIvx6yOzwkKQS5xKTUT48aIQ/RO1liPiplyzEpXIEW2m0xoRcaGwNCeRjhYevo9A+NEx27bxW2S/N2HFcguy8RTHNy46GUskER7poK0NatdLbajcI0NCT2o7VtriMuzLtfrxUDVeavVHdTbxBwfsKRYAdTvcVomy+YK45ySZnKSXg6lkUXuY14NFX1cOnxUns2uKWamowYfxQCm4+psU4nU663HQZEVJdl9NI/xuKraJUxi/qZLaVPe6G9gMc4kBOvbZosaolyGsugyx9gwSnKaCwJ28C4i6VHSqzZwqiiTvxFIo9ro+NXnAqoce1mZzOHZyVWyKqCEfzfKlSElqmrgQOueRaoGBbkDESXbsEG5kUVOF0=\n\nمتصل تست شده سامانتل \n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 718,
-          "type": "code"
-        },
-        {
-          "offset": 743,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 756,
-          "length": 9,
-          "type": "mention"
-        },
-        {
-          "offset": 778,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 778,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 778,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 543,
       "sender_chat": {
         "id": -1003929813623,

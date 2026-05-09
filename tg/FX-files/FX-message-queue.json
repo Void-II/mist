@@ -532,6 +532,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 601,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778360696,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICWWn_oXgPdYxTxNW-GUB2w9kF-e5VAALPD2sb8hP4UzWh_Rbc2YenAQADAgADcwADOwQ",
+          "file_unique_id": "AQADzw9rG_IT-FN4",
+          "file_size": 1212,
+          "width": 75,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICWWn_oXgPdYxTxNW-GUB2w9kF-e5VAALPD2sb8hP4UzWh_Rbc2YenAQADAgADbQADOwQ",
+          "file_unique_id": "AQADzw9rG_IT-FNy",
+          "file_size": 14170,
+          "width": 268,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICWWn_oXgPdYxTxNW-GUB2w9kF-e5VAALPD2sb8hP4UzWh_Rbc2YenAQADAgADeQADOwQ",
+          "file_unique_id": "AQADzw9rG_IT-FN-",
+          "file_size": 47534,
+          "width": 720,
+          "height": 858
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICWWn_oXgPdYxTxNW-GUB2w9kF-e5VAALPD2sb8hP4UzWh_Rbc2YenAQADAgADeAADOwQ",
+          "file_unique_id": "AQADzw9rG_IT-FN9",
+          "file_size": 47564,
+          "width": 671,
+          "height": 800
+        }
+      ],
+      "caption": "⏺📱✉️تلگرام هم بالاخره وارد بازی هوش مصنوعی شد و دستیار جدیدش به اسم «میرا» رو معرفی کرد.\n\nامکانات رایگانش شامل چت متنی نامحدود، تبدیل ویس به متن، تبدیل متن به صدا، جستجو داخل اینترنت، تحلیل تصاویر، ساخت ریمایندر، لینک سوال ناشناس و حتی مدیریت والت شبکه TON روی تست‌نته.\nبخش پولی هم قابلیت‌هایی مثل ساخت عکس (تا ۳۰ بار)، ادیت تصویر (۳۰ بار)، تولید موزیک (۶۰ بار) و ساخت ویدیو (تا ۱۰۰ بار) داره.\nاز اون طرف میرا میتونه به ابزارهایی مثل جیمیل، گوگل شیت، گیت‌هاب و اسلک وصل بشه، اسکیل اختصاصی بسازه و حتی داخل گروه‌ها هم اضافه بشه.\n\nایدی ربات میرا : \n@Mira\n\n@EfshaKhabar\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 5,
+          "length": 85,
+          "type": "bold"
+        },
+        {
+          "offset": 91,
+          "length": 180,
+          "type": "blockquote"
+        },
+        {
+          "offset": 283,
+          "length": 124,
+          "type": "blockquote"
+        },
+        {
+          "offset": 419,
+          "length": 133,
+          "type": "blockquote"
+        },
+        {
+          "offset": 555,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 580,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 580,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 580,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

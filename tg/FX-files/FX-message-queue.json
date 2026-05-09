@@ -1,21 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 490,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778183661,
-      "text": "تعدادی موشک سپاه به سمت تنگه هرمز شلیک شد\n\n\n🫤🫤"
-    },
-    {
       "message_id": 491,
       "sender_chat": {
         "id": -1003929813623,

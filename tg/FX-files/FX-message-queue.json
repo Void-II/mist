@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 466,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778180371,
-      "text": "نسخه جدید برنامه V2rayNG اندروید \n\nنسخه 2.1.5\n\nلینک دانلود داخلی \n\n@Error404Bin\n@ErrorBin",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 33,
-          "type": "bold"
-        },
-        {
-          "offset": 47,
-          "length": 18,
-          "type": "text_link",
-          "url": "https://punkpaste.ir/f/V2rayNG-v2-1-5-6ge06b"
-        },
-        {
-          "offset": 67,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 80,
-          "length": 9,
-          "type": "mention"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 468,
       "sender_chat": {
         "id": -1003929813623,

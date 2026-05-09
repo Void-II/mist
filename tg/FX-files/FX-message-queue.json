@@ -4126,6 +4126,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 550,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778316807,
+      "text": "تخفیف برای دوستانی که میخان حجم بالا بخرن:\n\n\n📶 حجم: 5 گیگ\n💳 قیمت فقط 1/100/000\n\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 88,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

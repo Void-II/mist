@@ -1,33 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 488,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778183500,
-      "text": "🔴ساعت حدود ۲۳:۱۵ پنجشنبه؛ تعداد ۷ یا ۸ موشک از جنوب هرمزگان به سمت محدوده‌ی تنگه هرمز شلیک شد\nمنبع توییت مردمی.\n@odin_club\n@Arvanpingbot",
-      "entities": [
-        {
-          "offset": 113,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 124,
-          "length": 13,
-          "type": "mention"
-        }
-      ]
-    },
-    {
       "message_id": 489,
       "sender_chat": {
         "id": -1003929813623,

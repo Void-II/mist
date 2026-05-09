@@ -5413,6 +5413,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 580,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778339155,
+      "text": "📥جدیدترین آپدیت تلگرام\n\nنسخه: Google Play\n\nورژن:12.7.2(استیبل)\n\nدانلود مستقیم داخلی\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 25,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 44,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 19,
+          "type": "text_link",
+          "url": "https://uplod.ir/9ea0g55gys6g/Telegram-v12-7-2-_Error404Bin._.htm"
+        },
+        {
+          "offset": 86,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 99,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 121,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

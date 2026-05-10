@@ -2460,6 +2460,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 637,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778428366,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICfWoAAanO-cI8VF2tvWfrDk9kxPEpuAAC6A5rG3DzCVC7RQ0vd0vO0AEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD6A5rG3DzCVB4",
+          "file_size": 1033,
+          "width": 90,
+          "height": 71
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICfWoAAanO-cI8VF2tvWfrDk9kxPEpuAAC6A5rG3DzCVC7RQ0vd0vO0AEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD6A5rG3DzCVBy",
+          "file_size": 16919,
+          "width": 320,
+          "height": 251
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICfWoAAanO-cI8VF2tvWfrDk9kxPEpuAAC6A5rG3DzCVC7RQ0vd0vO0AEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD6A5rG3DzCVB9",
+          "file_size": 32407,
+          "width": 591,
+          "height": 464
+        }
+      ],
+      "caption": "این پیام به همه داره ارسال میشه. \nپیامک فعال‌سازی اینترنت پرو !\n\nفیلترینگ که براشون ضرر داشت ضرر های سنگین  رو دارن با طرحی برمیدارن با اسم اینترنت پرو که بسته اینترنت 300 هزاری رو 2 میلیون بکنن تو کون اون دسته مردم خر\n\nهر کی استقبال کرد عین خر صف کشید تو امور خدماتی ها یادش باشه هر ماه 2 میلیون باید بدید بعدا بازم فیلترشکن نیازه میاین از تیم ما بخرید تا دسته بهتون فرو میکنم چون شما ها خائن به ملت و مردمید که ضرری که اپراتور ها خوردن رو شما دارید جبران میکنید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 220,
+          "length": 243,
+          "type": "blockquote"
+        },
+        {
+          "offset": 464,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 487,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 487,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 487,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

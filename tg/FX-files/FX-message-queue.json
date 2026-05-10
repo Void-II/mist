@@ -3573,6 +3573,52 @@
       "link_preview_options": {
         "url": "https://t.me/Xbat_chat/132370?single"
       }
+    },
+    {
+      "message_id": 659,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778438879,
+      "text": "به 3 نفر سرور وایرگارد(100مگ یکماهه)  داده میشه که دوستاشون رو که خیلی وقته آنلاین نبودن رو آنلاین کنن\nکامنت بزارید عدد بین 1 تا 88 رو انتخاب و ارسال بکنید \nاین قرعه کشی متفاوت خواهد بود با علم به دونستن شرکت میکنید \n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 157,
+          "length": 58,
+          "type": "spoiler"
+        },
+        {
+          "offset": 217,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

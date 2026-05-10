@@ -1732,6 +1732,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 621,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778412117,
+      "text": "🔹 ‏خلاصه اخبار تکنولوژی منطقه\n\n‏- افغانستان: اینترنت 5G تست و راه‌اندازی شد.\n‏- عراق: تلگرام رفع فیلتر شد.\n‏- سوریه: سوییفت، ویزا و مستر به سوریه آمدند.\n‏- ایران: رکورد شکنی جدید، قطعی اینترنت به یازدهمین هفته رسید.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

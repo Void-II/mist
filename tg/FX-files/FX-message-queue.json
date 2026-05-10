@@ -3332,6 +3332,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 654,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778436299,
+      "text": "https://t.me/VPNAWX\n😑⚡️دوستان عزیز هر شب چالش می زار \n\nهر شب 4گیگ جایز می ده \n⭐️\n\nمعتبر خودمون ازش می خریم گیگی 200 دار با ساب ⭐️🏳🏳\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 19,
+          "type": "url"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/VPNAWX"
+      }
     }
   ]
 }

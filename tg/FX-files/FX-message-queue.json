@@ -3875,6 +3875,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 666,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778442119,
+      "text": "کارشناس صداوسیما: ‎\nموساد ساعتی 3 دلار می‌دهد که دختران با تاپ و شلوار در میدان ولیعصر راه بروند. عدم ابلاغ قانون حجاب باعث جنگ شد!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 132,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -1504,6 +1504,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 617,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778407018,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICaWoAAVZq6pVnRffdgyITNrd0j7wFwwACsg1rG3_5CFCC5BvE7M2WnwEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADsg1rG3_5CFB4",
+          "file_size": 1721,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICaWoAAVZq6pVnRffdgyITNrd0j7wFwwACsg1rG3_5CFCC5BvE7M2WnwEAAwIAA20AAzsE",
+          "file_unique_id": "AQADsg1rG3_5CFBy",
+          "file_size": 23309,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICaWoAAVZq6pVnRffdgyITNrd0j7wFwwACsg1rG3_5CFCC5BvE7M2WnwEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADsg1rG3_5CFB9",
+          "file_size": 93308,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICaWoAAVZq6pVnRffdgyITNrd0j7wFwwACsg1rG3_5CFCC5BvE7M2WnwEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADsg1rG3_5CFB-",
+          "file_size": 162928,
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "caption": "لیست رئال مادرید برا بازی امشب🔥\n\n❌ امباپه، رودریگو، میلیتائو، مندی، گولر، کارواخال، والورده و سبایوس غایب های رئال .\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 118,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

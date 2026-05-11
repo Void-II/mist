@@ -6221,6 +6221,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 714,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778516402,
+      "text": "🔴 ترامپ: اگر توافقی حاصل نشه، ایران رو به یجوری هدف قرار می‌دیم که تا حالا مثلش رو ندیدن.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 91,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 104,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

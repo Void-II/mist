@@ -5642,6 +5642,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 702,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778498881,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICvmoBvUE07JJLBvaSiIxrJVQnZIXOAAJHD2sblXkIUOp8fAWFK9rpAQADAgADcwADOwQ",
+          "file_unique_id": "AQADRw9rG5V5CFB4",
+          "file_size": 1253,
+          "width": 58,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICvmoBvUE07JJLBvaSiIxrJVQnZIXOAAJHD2sblXkIUOp8fAWFK9rpAQADAgADbQADOwQ",
+          "file_unique_id": "AQADRw9rG5V5CFBy",
+          "file_size": 20412,
+          "width": 206,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICvmoBvUE07JJLBvaSiIxrJVQnZIXOAAJHD2sblXkIUOp8fAWFK9rpAQADAgADeAADOwQ",
+          "file_unique_id": "AQADRw9rG5V5CFB9",
+          "file_size": 90422,
+          "width": 516,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICvmoBvUE07JJLBvaSiIxrJVQnZIXOAAJHD2sblXkIUOp8fAWFK9rpAQADAgADeQADOwQ",
+          "file_unique_id": "AQADRw9rG5V5CFB-",
+          "file_size": 101657,
+          "width": 619,
+          "height": 959
+        }
+      ],
+      "caption": "صفحه لینکدین عرفان شکورزاده \nعرفان می‌تونست با تخصص و دانشش آینده ایران رو بسازه، اما حذف شد تا میدون برای آقازاده‌ها بی‌استعداد خالی بمونه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 141,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 154,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

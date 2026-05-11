@@ -4660,6 +4660,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 682,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778488021,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICqmoBktX2UZ0x747dt1WRkKHIt8JwAAJ0DWsbm7MRUPHd7yUgooPhAQADAgADcwADOwQ",
+          "file_unique_id": "AQADdA1rG5uzEVB4",
+          "file_size": 819,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICqmoBktX2UZ0x747dt1WRkKHIt8JwAAJ0DWsbm7MRUPHd7yUgooPhAQADAgADbQADOwQ",
+          "file_unique_id": "AQADdA1rG5uzEVBy",
+          "file_size": 12110,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICqmoBktX2UZ0x747dt1WRkKHIt8JwAAJ0DWsbm7MRUPHd7yUgooPhAQADAgADeAADOwQ",
+          "file_unique_id": "AQADdA1rG5uzEVB9",
+          "file_size": 48934,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAICqmoBktX2UZ0x747dt1WRkKHIt8JwAAJ0DWsbm7MRUPHd7yUgooPhAQADAgADeQADOwQ",
+          "file_unique_id": "AQADdA1rG5uzEVB-",
+          "file_size": 75972,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "ما تو بله عضو نیستیم پیام اومده بیا غذا تو هوش مصنوعی ما میگه چی بپزی 🥴\nاینسری محترمانه جواب دادم سری بعدی عین موشک سوپر سونیک جواب شون میدم\n \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 73,
+          "length": 68,
+          "type": "blockquote"
+        },
+        {
+          "offset": 144,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

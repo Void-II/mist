@@ -4490,6 +4490,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 679,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778483880,
+      "text": "نتانیاهو:\nدر ایران، خیابان‌ها را به نام من نامگذاری می‌کنند. آیا این را می‌دانید؟ خب، به نام رئیس جمهور ترامپ هم، بدیهی است، زیرا او رهبری مبارزه را بر عهده دارد. اما آنها این را دارند؛ من فارسی صحبت نمی‌کنم اما آنها مرا «بی‌بی جون»، بی‌بی عزیزم صدا می‌زنند.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 259,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 272,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

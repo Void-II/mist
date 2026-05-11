@@ -5910,6 +5910,52 @@
       "link_preview_options": {
         "url": "https://t.me/+3eerO6lYZyEzNzc0"
       }
+    },
+    {
+      "message_id": 707,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778507041,
+      "text": "پوریا میربهروزیان، جوان ۲۴ ساله، شامگاه ۱۸ دی‌ماه در حالی هدف گلوله ماموران در بلوار وکیل‌آباد مشهد قرار گرفت که در حال کمک به دوستان مجروحش بود. او روز ۲۴ اردیبهشت در بیمارستان فارابی جان باخت.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 195,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 208,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

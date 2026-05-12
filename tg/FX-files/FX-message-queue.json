@@ -7879,6 +7879,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 752,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778610555,
+      "text": "🎤 خبرنگار: پیام شما به رئیس‌جمهور شی در ارتباط با جنگ ایران چیست؟\n\n ترامپ: فکر می‌کنم اول از همه، ما یک گفتگوی طولانی درباره آن خواهیم داشت. به‌راستی فکر می‌کنم او نسبتاً خوب بوده است. ما هیچ مشکلی نداشته‌ایم. و او دوست من بوده است.\n\nفکر می‌کنم خواهید دید که اتفاقات خوبی رخ خواهد داد. این سفر بسیار هیجان‌انگیزی خواهد بود.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 326,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 339,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 365,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

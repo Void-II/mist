@@ -8237,6 +8237,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 760,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778613496,
+      "text": "🎁 تخفیف تا آخر امروز\n\n🎗سرعت متناسب با پیک مصرف\n🎗دارای ساب و بدون ضریب\n🎗مناسب برای تمامی سیستم ها\n🎗 آیپی مولتی آلمان، هلند، انگلیس، ترکیه، آمریکا، امارات، فرانسه، لهستان و لوکزامبورگ\n🎗تضمین مصرف تا پایان حجم\n🎗مناسب برای تمامی اپراتور ها\n🎗مناسب برای اینستا، تلگرام و یوتیوب\n\n━━━━━━━━━━━━\n🛜زمان : 1 ماه\n📶 حجم: 1 گیگ\n💳 قیمت مولتی فقط 320/000\n💳 قیمت اقتصادی فقط 260/000\n\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 384,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 412,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 412,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 412,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

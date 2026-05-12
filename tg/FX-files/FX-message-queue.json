@@ -8832,7 +8832,7 @@
       }
     },
     {
-      "message_id": 773,
+      "message_id": 774,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -8844,31 +8844,31 @@
         "type": "channel"
       },
       "date": 1778617876,
-      "text": "4.6 ریشتر\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "خیلی شدید بوده همه جا لرزیده و میگن قطعی برق به همراه داشته\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 10,
+          "offset": 60,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 23,
+          "offset": 73,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 49,
+          "offset": 99,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 49,
+          "offset": 99,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 49,
+          "offset": 99,
           "length": 8,
           "type": "underline"
         }

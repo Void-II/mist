@@ -7833,6 +7833,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 751,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778610375,
+      "text": "🎤خبرنگار: آیا در مورد پاکستانی‌ها به عنوان میانجی‌ها تجدید نظر می‌کنید؟\n\nترامپ: نه، آن‌ها عالی هستند. فیلد مارشال و نخست‌وزیر پاکستان کاملاً عالی بوده‌اند.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 157,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 170,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

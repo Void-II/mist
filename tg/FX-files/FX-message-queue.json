@@ -8360,6 +8360,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 763,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778615885,
+      "text": "✅فروش سرویس پرسرعت :\n\n🖥 2 نوع سرویس «مولتی لوکیشن🚀» و «اقتصادی🛜»\n\n📝 حجم دلخواه ( شروع از 1 گیگ )\n\n😮 مولتی لوکیشن:  سرور ها آلمان، هلند، انگلیس، ترکیه، آمریکا، امارات، فرانسه، لهستان و لوکزامبورگ مناسب افرادی که کیفیت و پایداری و سرعت واسشون مهمه و تو هر شرایط وصله ( مناسب ترید📈 ، )\n\n💳 قیمت مولتی فقط 320/000\n\n➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n🔍 اقتصادی: سرور سه عدد سرور چرخشی بدون قطعی مناسب برای استفاده روزمره ( تلگرام ، واتساپ ، اینستاگرام )\n\n💳 قیمت اقتصادی فقط 250/000\n\n\n⭐️ جهت خرید و تحویل انی :\n\n🛫 @qatel_seryalei\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 128,
+          "length": 71,
+          "type": "bold"
+        },
+        {
+          "offset": 293,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 440,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 497,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 525,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 525,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 525,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -6393,6 +6393,56 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 719,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778559734,
+      "document": {
+        "file_name": "پیرمرد قوی 👴👴.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAICz2oCqvYyAgABH_ilVIef1iWiC1EMdQACgB4AApuzGVCppC6yzrwM7jsE",
+        "file_unique_id": "AgADgB4AApuzGVA",
+        "file_size": 3668
+      },
+      "caption": "مخصوص وای‌فای\nPassword : @amir_webstudio\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 25,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 41,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -6443,6 +6443,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 720,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778559854,
+      "text": "https://t.me/MarketPixelArtBot?start=ref_6948878650\nسه تا رفرال یه گیگ میده.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 51,
+          "type": "url"
+        },
+        {
+          "offset": 77,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

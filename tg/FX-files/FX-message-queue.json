@@ -7925,6 +7925,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 753,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778611035,
+      "text": "🇺🇸 ترامپ: ما یک سالن رقص داریم که کمتر از بودجه است. همینجا ساخته می‌شود. من اندازه‌اش را دو برابر کردم چون \nواضح است که به آن نیاز داریم.\n\n🎤 خبرنگار: قیمت دو برابر شد.\n\n🇺🇸 ترامپ: من اندازه‌اش را دو برابر کردم، آدم احمق. تو آدم باهوشی نیستی.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 248,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 261,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 287,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 287,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 287,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

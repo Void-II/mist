@@ -12073,6 +12073,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 834,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778693658,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDQmoEthp4KCCbN2w6J2JRIYO9PHRbAAIMDmsbnz0pUC_XnNI1Eq-SAQADAgADcwADOwQ",
+          "file_unique_id": "AQADDA5rG589KVB4",
+          "file_size": 1675,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDQmoEthp4KCCbN2w6J2JRIYO9PHRbAAIMDmsbnz0pUC_XnNI1Eq-SAQADAgADbQADOwQ",
+          "file_unique_id": "AQADDA5rG589KVBy",
+          "file_size": 21258,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDQmoEthp4KCCbN2w6J2JRIYO9PHRbAAIMDmsbnz0pUC_XnNI1Eq-SAQADAgADeAADOwQ",
+          "file_unique_id": "AQADDA5rG589KVB9",
+          "file_size": 81793,
+          "width": 639,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDQmoEthp4KCCbN2w6J2JRIYO9PHRbAAIMDmsbnz0pUC_XnNI1Eq-SAQADAgADeQADOwQ",
+          "file_unique_id": "AQADDA5rG589KVB-",
+          "file_size": 121475,
+          "width": 1023,
+          "height": 1280
+        }
+      ],
+      "caption": "اعدام محمد عباسی در زندان قزلحصار؛ معترض دی‌ماه ۱۴۰۴ \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 54,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 67,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

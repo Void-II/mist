@@ -11064,6 +11064,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 813,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778678537,
+      "text": "مراد ویسی گفته میخواد اسم کسایی که توی 18.19 دی جان فدا شدن رو پیدا کنه و هر شب تا عوض شدن رژیم تو اینترنشنال بخونه \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 117,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 130,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -11248,6 +11248,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 817,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778679996,
+      "text": "#گزارش_مردمی\n جنگنده های ناشناس پرواز در ارتفاع پایین در‌ ارومیه و انفجار در شیراز\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 83,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 96,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

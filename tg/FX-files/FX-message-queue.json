@@ -10106,6 +10106,185 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 798,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778656877,
+      "text": "✔️سرور مستر دی ان اس (MasterDNS)\n\n❤️تاریخ بروزرسانی : ۲۳ اردبیهشت\n\nDomin 1: v1.masir-sefid.shop\n\nDomin 2: v2.masir-sefid.shop\n\nDomin 3: v3.masir-sefid.shop\n\nDomin 4: v4.masir-sefid.shop\n\nDomin 5: v5.masir-sefid.shop\nKey : Telegram-Channel--->@Masir_Sefid\n\n👾 لینک دانلود کلاینت ها :\n MasterDNS GG | MasterDNS HN\n WhiteDNS 1.2.0\n\nاگه وصل شدین ری اکشن برید بدونم❤️\n\n✉️Channel | @Masir_Sefid | کانال✉️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 30,
+          "type": "bold"
+        },
+        {
+          "offset": 36,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 149,
+          "type": "blockquote"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 76,
+          "length": 19,
+          "type": "code"
+        },
+        {
+          "offset": 97,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 106,
+          "length": 19,
+          "type": "code"
+        },
+        {
+          "offset": 127,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 136,
+          "length": 19,
+          "type": "code"
+        },
+        {
+          "offset": 157,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 166,
+          "length": 19,
+          "type": "code"
+        },
+        {
+          "offset": 187,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 196,
+          "length": 19,
+          "type": "code"
+        },
+        {
+          "offset": 216,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 222,
+          "length": 32,
+          "type": "code"
+        },
+        {
+          "offset": 259,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 271,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 284,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://dl.toolschi.com/view.php?f=16016f0652667796.zip"
+        },
+        {
+          "offset": 284,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 299,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://dl.toolschi.com/view.php?f=4a7309b171a7ceac.zip"
+        },
+        {
+          "offset": 299,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 313,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://dl.toolschi.com/view.php?f=60c623f304aeb57a.zip"
+        },
+        {
+          "offset": 313,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 329,
+          "length": 31,
+          "type": "bold"
+        },
+        {
+          "offset": 366,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 376,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 388,
+          "length": 31,
+          "type": "blockquote"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 411,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 411,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 411,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

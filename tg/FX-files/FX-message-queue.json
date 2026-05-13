@@ -11381,6 +11381,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 820,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778686425,
+      "text": "پدر احسان افراشته (جوانی که امروز به اتهام جاسوسی برای اسرائیل اعدام شد) با شنیدن خبر حکم اعدام فرزندش سکته قلبی کرد و در گذشت !\nکیرم تو جمهوری اسلامی\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 151,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 164,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

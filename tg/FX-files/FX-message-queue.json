@@ -10469,6 +10469,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 803,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778660477,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDI2oENH2fcg5gUj4bSm5tdfqg2rT2AAIgDmsbyhYoUMNvq7U3BgHaAQADAgADcwADOwQ",
+          "file_unique_id": "AQADIA5rG8oWKFB4",
+          "file_size": 786,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDI2oENH2fcg5gUj4bSm5tdfqg2rT2AAIgDmsbyhYoUMNvq7U3BgHaAQADAgADbQADOwQ",
+          "file_unique_id": "AQADIA5rG8oWKFBy",
+          "file_size": 9345,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDI2oENH2fcg5gUj4bSm5tdfqg2rT2AAIgDmsbyhYoUMNvq7U3BgHaAQADAgADeAADOwQ",
+          "file_unique_id": "AQADIA5rG8oWKFB9",
+          "file_size": 34885,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDI2oENH2fcg5gUj4bSm5tdfqg2rT2AAIgDmsbyhYoUMNvq7U3BgHaAQADAgADeQADOwQ",
+          "file_unique_id": "AQADIA5rG8oWKFB-",
+          "file_size": 48763,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "💸 #Iran's internet blackout is now past hour 1776, entering its 75th day. The digital censorship measure has led to profiteering and a decline in digital security as government-backed \"pro\" internet schemes and selective whitelisting result in surveillance, corruption and scams.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 3,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

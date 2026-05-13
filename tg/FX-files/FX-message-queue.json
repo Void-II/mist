@@ -12995,6 +12995,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 854,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778714839,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDVmoFCNeH-AbQLGkfQTmBXrm2yzaOAAJ8DmsbOl0pUNPazocFkziMAQADAgADcwADOwQ",
+          "file_unique_id": "AQADfA5rGzpdKVB4",
+          "file_size": 1436,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDVmoFCNeH-AbQLGkfQTmBXrm2yzaOAAJ8DmsbOl0pUNPazocFkziMAQADAgADbQADOwQ",
+          "file_unique_id": "AQADfA5rGzpdKVBy",
+          "file_size": 24169,
+          "width": 257,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDVmoFCNeH-AbQLGkfQTmBXrm2yzaOAAJ8DmsbOl0pUNPazocFkziMAQADAgADeAADOwQ",
+          "file_unique_id": "AQADfA5rGzpdKVB9",
+          "file_size": 87980,
+          "width": 642,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDVmoFCNeH-AbQLGkfQTmBXrm2yzaOAAJ8DmsbOl0pUNPazocFkziMAQADAgADeQADOwQ",
+          "file_unique_id": "AQADfA5rGzpdKVB-",
+          "file_size": 143619,
+          "width": 1028,
+          "height": 1280
+        }
+      ],
+      "caption": "معین شاشید رو صورت مهدی تاج\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 28,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 41,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

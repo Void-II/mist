@@ -10377,6 +10377,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 801,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778660117,
+      "text": "به محض اینکه سرویس ها وصل کنیم میاریم گیگی ۱۰۰\nبی شرفم اگه نکنم\n\nهمینطور هر روز میارمش پایین تر فقط منتظرم اون سرور حرومی به دستم برسه\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 136,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 147,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 173,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

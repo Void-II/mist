@@ -13640,6 +13640,126 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 870,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778756180,
+      "video": {
+        "duration": 31,
+        "width": 864,
+        "height": 1808,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 608,
+            "height": 1280,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDZmoFqlQOGsyxZi6AeJJU4LeZcFxlAALCHAAC9QUwUCMa0-GUlwSnOwQ",
+            "file_unique_id": "AgADwhwAAvUFMFA",
+            "file_size": 1713409
+          },
+          {
+            "width": 608,
+            "height": 1280,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDZmoFqlTZ5ljg84UYeBCgSgaMewjdAAKqGwACKKEoUEfSz6glvGFEOwQ",
+            "file_unique_id": "AgADqhsAAiihKFA",
+            "file_size": 2360705
+          },
+          {
+            "width": 408,
+            "height": 856,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDZmoFqlSQMDDryjigTkc-fmCtRkpgAAJoIQACsMgoUGksgDdUAAHi4jsE",
+            "file_unique_id": "AgADaCEAArDIKFA",
+            "file_size": 1065814
+          },
+          {
+            "width": 408,
+            "height": 856,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIDZmoFqlQFOvCaT7f1KiK-RdRKz3bqAAIbGwAC08MxUGyXNrPox1MjOwQ",
+            "file_unique_id": "AgADGxsAAtPDMVA",
+            "file_size": 1324340
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgNmagWqVIKNgimCWlzvPdjo1lg5LkkAAmYbAAJliDBQwuRdQ8d-7fYBAAdtAAM7BA",
+          "file_unique_id": "AQADZhsAAmWIMFBy",
+          "file_size": 4872,
+          "width": 153,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgNmagWqVIKNgimCWlzvPdjo1lg5LkkAAmYbAAJliDBQwuRdQ8d-7fYBAAdtAAM7BA",
+          "file_unique_id": "AQADZhsAAmWIMFBy",
+          "file_size": 4872,
+          "width": 153,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIDZmoFqlSCjYIpglpc7z3Y6NZYOS5JAAJmGwACZYgwUMLkXUPHfu32OwQ",
+        "file_unique_id": "AgADZhsAAmWIMFA",
+        "file_size": 3644670
+      },
+      "caption": "آموزش متود جدید CDN—Fronting\nدانلود آموزش و برنامه شیر و خورشید با لینک‌داخلی:\nhttps://punkpaste.ir/f/CDN-Fronting-xi5yp6\nآیپی وارد شده در ویدیو:\n92.122.123.128\n— @TheVPNMethod\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 28,
+          "type": "blockquote"
+        },
+        {
+          "offset": 41,
+          "length": 92,
+          "type": "blockquote"
+        },
+        {
+          "offset": 79,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 146,
+          "length": 38,
+          "type": "blockquote"
+        },
+        {
+          "offset": 146,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 163,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

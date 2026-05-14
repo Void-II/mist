@@ -13796,6 +13796,92 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 872,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778756720,
+      "text": "92.122.123.128\n2.19.204.87\n2.19.204.137\n2.19.204.144\n2.19.204.145\n2.19.204.170\n2.19.204.184\n2.19.204.185\n2.19.204.202\n2.19.204.210\n\n\nاینارم میشه استفاده کرد وصله سریع🤣❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 15,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 27,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 40,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 53,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 66,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 79,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 92,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 105,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 118,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 183,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 183,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 183,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

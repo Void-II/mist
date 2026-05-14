@@ -13150,6 +13150,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 857,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778740640,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDWWoFbaBngNGCP7GDAxRqQrDZwCXXAAKfEWsbsnMpUGfJIW9_lAGdAQADAgADcwADOwQ",
+          "file_unique_id": "AQADnxFrG7JzKVB4",
+          "file_size": 814,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDWWoFbaBngNGCP7GDAxRqQrDZwCXXAAKfEWsbsnMpUGfJIW9_lAGdAQADAgADbQADOwQ",
+          "file_unique_id": "AQADnxFrG7JzKVBy",
+          "file_size": 10949,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDWWoFbaBngNGCP7GDAxRqQrDZwCXXAAKfEWsbsnMpUGfJIW9_lAGdAQADAgADeAADOwQ",
+          "file_unique_id": "AQADnxFrG7JzKVB9",
+          "file_size": 42865,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDWWoFbaBngNGCP7GDAxRqQrDZwCXXAAKfEWsbsnMpUGfJIW9_lAGdAQADAgADeQADOwQ",
+          "file_unique_id": "AQADnxFrG7JzKVB-",
+          "file_size": 69650,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "این قسمت آکادمی همراه اولللللل 🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 34,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 57,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 57,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 57,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

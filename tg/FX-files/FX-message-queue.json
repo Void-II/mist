@@ -13218,6 +13218,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 858,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778744480,
+      "text": "vless://ead958d7-33ae-4d78-8247-e3f89d5e2ce5@milli.gold:80?path=%2F&security=none&encryption=none&host=wh.nexoratechcenter.ir&type=ws#https%3A%2F%2Ft.me%2FError404Bin\n\nاینو‌میل کنید فعلا\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 166,
+          "type": "code"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

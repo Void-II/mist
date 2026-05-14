@@ -13954,6 +13954,110 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 875,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778757981,
+      "media_group_id": "14230063850945132",
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIDa2oFsV2FPy8Quh3AKttV6Wwyrku7AAJ-DGsb5CIoRA1V4WSJ5AgoAQADAgADcwADOwQ",
+          "file_unique_id": "AQADfgxrG-QiKER4",
+          "file_size": 872,
+          "width": 49,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIDa2oFsV2FPy8Quh3AKttV6Wwyrku7AAJ-DGsb5CIoRA1V4WSJ5AgoAQADAgADbQADOwQ",
+          "file_unique_id": "AQADfgxrG-QiKERy",
+          "file_size": 13200,
+          "width": 173,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIDa2oFsV2FPy8Quh3AKttV6Wwyrku7AAJ-DGsb5CIoRA1V4WSJ5AgoAQADAgADeAADOwQ",
+          "file_unique_id": "AQADfgxrG-QiKER9",
+          "file_size": 48523,
+          "width": 432,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIDa2oFsV2FPy8Quh3AKttV6Wwyrku7AAJ-DGsb5CIoRA1V4WSJ5AgoAQADAgADeQADOwQ",
+          "file_unique_id": "AQADfgxrG-QiKER-",
+          "file_size": 79528,
+          "width": 636,
+          "height": 1179
+        }
+      ],
+      "caption": "❤️آپدیت جدید شیر و خورشید\n\n\n🔴یه اپدیت خفنی داده که پروتکل اتصال رو بزارید روی فرانتینگ cdn خودش وصل میشه  نیازی به گرفتن سرتیفیکیت یا v2ray و کانفیگ هم نیست\n\n❤️لینک داخلی شیر و خورشید\n❤️گیت هاب شیر و خورشید\n\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 28,
+          "length": 129,
+          "type": "blockquote"
+        },
+        {
+          "offset": 161,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata"
+        },
+        {
+          "offset": 187,
+          "length": 20,
+          "type": "text_link",
+          "url": "https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c"
+        },
+        {
+          "offset": 223,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 232,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 241,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

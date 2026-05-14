@@ -14634,6 +14634,81 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 889,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778774901,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDeWoF83VVpsQfFp-lHQI5g1fB8PymAAIND2sb6vowUCOET4nTkhMgAQADAgADcwADOwQ",
+          "file_unique_id": "AQADDQ9rG-r6MFB4",
+          "file_size": 807,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDeWoF83VVpsQfFp-lHQI5g1fB8PymAAIND2sb6vowUCOET4nTkhMgAQADAgADbQADOwQ",
+          "file_unique_id": "AQADDQ9rG-r6MFBy",
+          "file_size": 11578,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDeWoF83VVpsQfFp-lHQI5g1fB8PymAAIND2sb6vowUCOET4nTkhMgAQADAgADeAADOwQ",
+          "file_unique_id": "AQADDQ9rG-r6MFB9",
+          "file_size": 43839,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDeWoF83VVpsQfFp-lHQI5g1fB8PymAAIND2sb6vowUCOET4nTkhMgAQADAgADeQADOwQ",
+          "file_unique_id": "AQADDQ9rG-r6MFB-",
+          "file_size": 84048,
+          "width": 576,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIDeWoF83VVpsQfFp-lHQI5g1fB8PymAAIND2sb6vowUCOET4nTkhMgAQADAgADdwADOwQ",
+          "file_unique_id": "AQADDQ9rG-r6MFB8",
+          "file_size": 181274,
+          "width": 1152,
+          "height": 2560
+        }
+      ],
+      "caption": "هاتسپات کردن اینترنتی که VPN روش اعمال شده\n\n- تیک Share Proxy on Network رو فعال کنید ،هاتسپات گوشیو روشن کنید \n\n- برگردید به صفحه اصلی شیروخورشیدو روشن کنید\n\n- یه همچین آیپی و پورتی جلوی HTTP proxy نوشته شده\n123.1.0.1:10808\nعدد سمت راست پورت و سمت چپی آیپی هاسته \n\n- تو گوشی آیفون یا هر دستگاه دیگه ای که دارید به وای فای هاتسپات شده از این گوشی وصل شید\n- تو گوشیه دوم » تنظیمات وایفای » کنار وای فایی که بهش وصلید رو آیکون تنظیمات یا مداد یا همچین چیزی بزنید.\n- قسمت پروکسی رو  فعال کنید و آیپی و پورتی که تو صفحه اصلیه شیروخورشید دیدیدو وارد کنید و ذخیرش کنید.\n\nالان اینترنت گوشیه آیفون یا هر دستگاهی که نمیشه برنامه رو روش نصب کرد به اینترنت بین الملل متصل شده و میتونید راحت داخل اینستا یا تلگرام استفاده کنید!\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 209,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 728,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 728,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 728,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

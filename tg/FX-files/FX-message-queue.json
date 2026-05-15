@@ -19016,6 +19016,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 956,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778867757,
+      "text": "2.23.168.250\n2.23.168.96\n2.23.168.47\n2.23.168.254\n2.16.168.116\n2.16.168.117\n2.16.168.114\n2.16.168.111\n92.123.103.65\n92.123.103.66\n92.123.103.59\n\nاینا تازه اسکن کردم و همشون سبز هستن همین الان با سامانتل تست کردم وصله شما هم با نت های دیگه تست کنید🌹\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 143,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 143,
+          "type": "code"
+        },
+        {
+          "offset": 251,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 264,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

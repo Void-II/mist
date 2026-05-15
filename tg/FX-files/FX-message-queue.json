@@ -18336,6 +18336,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 941,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778858277,
+      "text": "روزنامه اعتماد آنلاین: \nاینترنت بین الملل خرداد ماه وصل میشود\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

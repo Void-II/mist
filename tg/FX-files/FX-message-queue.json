@@ -17549,6 +17549,52 @@
       "link_preview_options": {
         "url": "https://t.me/alihappirbot?start=ref_6948878650"
       }
+    },
+    {
+      "message_id": 926,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778850776,
+      "text": "ثابتی: وزیر ارتباطات اسامی فیلترشکن فروش‌ها را اعلام کند\nباید برای مدیریت درست فضای مجازی دست از روش فعلی و افراط و تفریط برداریم ضمن اینکه بارها از وزیر ارتباطات خواسته‌ایم تا اسامی فیلترشکن فروش‌ها را اعلام کند اما هنوز پاسخی نشنیده‌ایم\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 239,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 278,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 278,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 278,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

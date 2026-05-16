@@ -22982,6 +22982,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1036,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778962500,
+      "text": "vless://%40IR_NETLIFY@104.198.14.52:443?mode=auto&path=%2FIR_NETLIFY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22http%3A%2F%2F89.22.236.213%3A444%22%7D%7D&insecure=1&host=s.abolup.dpdns.org&fp=chrome&type=xhttp&allowInsecure=1&sni=104.21.33.34#asali..%D8%B4%DA%A9%D9%86\n\n\nبرا دوستانی شکن دارن \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 499,
+          "type": "code"
+        },
+        {
+          "offset": 524,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 537,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 559,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 559,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 559,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

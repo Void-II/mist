@@ -22492,6 +22492,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1027,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778958240,
+      "text": "151.101.128.223\n151.101.192.223\n151.101.64.223\n151.101.0.223\n\ncdn sni hostname\n\npython.org\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 60,
+          "type": "code"
+        },
+        {
+          "offset": 62,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 10,
+          "type": "code"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

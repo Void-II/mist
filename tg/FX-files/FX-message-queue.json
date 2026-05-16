@@ -20330,6 +20330,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 984,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778923079,
+      "text": "ترامپ: \nما ۹ تا دوربین مختلف  اطراف سایت هسته ای ایران داریم ومی‌تونیم اسم طرف رو هم بخونیم مثلاً اگه اسمش محمد باشه، ‌که خب بیشترشون محمدن، تقریباً می‌تونیم حدس بزنیم که حدود ۵۰٪ اطلاعاتش درست در میاد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 203,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

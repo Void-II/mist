@@ -23248,6 +23248,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1042,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778967240,
+      "text": "زود باش برقم قطع کن بگو طبقه‌ی پولدار ثبت نام کنن کنتور پرو بگیرن!\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

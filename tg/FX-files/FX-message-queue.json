@@ -20046,6 +20046,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 979,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1778915878,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAID02oIGiaCgwzfQmF0aYGJ0TNTdvpNAAKvDmsbbOhIUMo80rABA7KfAQADAgADcwADOwQ",
+          "file_unique_id": "AQADrw5rG2zoSFB4",
+          "file_size": 1567,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAID02oIGiaCgwzfQmF0aYGJ0TNTdvpNAAKvDmsbbOhIUMo80rABA7KfAQADAgADbQADOwQ",
+          "file_unique_id": "AQADrw5rG2zoSFBy",
+          "file_size": 16768,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAID02oIGiaCgwzfQmF0aYGJ0TNTdvpNAAKvDmsbbOhIUMo80rABA7KfAQADAgADeAADOwQ",
+          "file_unique_id": "AQADrw5rG2zoSFB9",
+          "file_size": 60058,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAID02oIGiaCgwzfQmF0aYGJ0TNTdvpNAAKvDmsbbOhIUMo80rABA7KfAQADAgADeQADOwQ",
+          "file_unique_id": "AQADrw5rG2zoSFB-",
+          "file_size": 93400,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "تغییر لوگوی اسپاتیفای\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 22,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 35,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -1,42 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 677,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778474040,
-      "text": "نزنید تو کامنت دوستان گفتن 15 دعوت یارو مردم چی فرض کرده 🥴 یه زمانی سرور 800 گیگی یک هفته ای میزاشتیم کسی قدر نمیدونست حالا بابت یه گیگ مردم رو خار کردن\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 166,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 166,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 166,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 678,
       "sender_chat": {
         "id": -1003929813623,

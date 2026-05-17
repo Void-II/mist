@@ -1,42 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1017,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778954521,
-      "text": "تا ساعت ۱۲ تخفیف فعال❗️\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 36,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 36,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 36,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 1018,
       "sender_chat": {
         "id": -1003929813623,

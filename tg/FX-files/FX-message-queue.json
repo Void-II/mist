@@ -1,42 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 743,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778606895,
-      "text": "اگه کسی برای فلسطین و لبنان غصه داره یا خیلی دوست داره با اسرائیل بجنگه بره فلسطین و لبنان تفنگ دستش بگیره گنده گوزی از تلویزیون رو بچه 5 ساله هم میتونه کیر تو کص ننه یک یکتون تو صدا و سیما کصشعر تفت میدین\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 218,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 218,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 218,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 744,
       "sender_chat": {
         "id": -1003929813623,

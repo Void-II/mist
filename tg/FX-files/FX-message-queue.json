@@ -23664,6 +23664,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1046,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779005158,
+      "text": "امشب بو جنگ میادش 🥴 شاید نیاد ولی یه حسی میگه جنگ میشه اگه شد نصفه شبی نرین کنار اسکله ها و جاهای که موشکی چیزی خورده فیلم بگیرد\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

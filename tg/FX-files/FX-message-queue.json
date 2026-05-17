@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 966,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778878617,
-      "text": "لیورپول 4-2 از استون ویلا باخت\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 32,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 45,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 71,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 71,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 71,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 967,
       "sender_chat": {
         "id": -1003929813623,

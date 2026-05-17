@@ -1,48 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1025,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778957520,
-      "text": "این لیست ایپی بهتر جوابه خودم وصلم\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 34,
-          "type": "text_link",
-          "url": "https://t.me/Ads27279/75"
-        },
-        {
-          "offset": 47,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 47,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 47,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "url": "https://t.me/Ads27279/75"
-      }
-    },
-    {
       "message_id": 1026,
       "sender_chat": {
         "id": -1003929813623,

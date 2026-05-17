@@ -1,51 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 704,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778500501,
-      "document": {
-        "file_name": "@coldxmeme - shatel.npvt",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAICwGoBw5Wrz9Pu77w5LI6tnu_LRo0MAAJtHQACm7MRUCKAVk3kZKE5OwQ",
-        "file_unique_id": "AgADbR0AApuzEVA",
-        "file_size": 4568
-      },
-      "caption": "این سرورش فقط واسه شاتله و متودیه که همین چند ساعت پیش پخش شده‌\n@XBat_Team\n\n• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 64,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 87,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 87,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 87,
-          "length": 8,
-          "type": "underline"
-        }
-      ]
-    },
-    {
       "message_id": 705,
       "sender_chat": {
         "id": -1003929813623,

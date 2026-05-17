@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 896,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778788942,
-      "text": "🔴نتانیاهو : بخش‌های بزرگی از محور شرارت ایران رو زدیم.\nمحوری که از همه طرف دور و برمون رو گرفته بود\n یه خطر جدی و فوری رو از خودمون دور کردیم\nبمب‌های هسته‌ای و هزاران موشک بالستیکی که ایران داشت توسعه می‌داد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 210,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 223,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 249,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 249,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 249,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 897,
       "sender_chat": {
         "id": -1003929813623,

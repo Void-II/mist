@@ -1,57 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 710,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778507641,
-      "text": "slipnet-enc://AZcfuoP5krnD7UCK3FQXR9vS5dWk+54c2iAqojT5V1rTfTPmhpL2yYfyRnnAeW2xGy9MbB/lQafE2ty5lPi4ff0HFq/v7Uv2LVusSiD8Tz4hF9YURa8BRrck8pkpvWenDZ37lxLX516diLA9jgvAuvLgABgubrS+eawuSCSjE1Tl7+MPNbyDSv9dsx7amZgn8fQzdHd6IhMwR0as5h3KJHVn79HrFwOouv8hF75/6z66NaoFp/FTGPH15w/MUUpvZs/1TT8JomYQfDlfDkKlfTQWUrGulRqb2SELaDlOJ4cXWWmDYHnLuHaCQiZwkrv6bITRvBmJkQ8DvbROMZ33zXs3f+XyA1ABK65mJDSh+EEL3pvXPkajFSb92Y+53TBGjnHyfbkqDeNbJOxZ6gV/RNRmCJ3yKl+F3wTPHTCH0TMeNnZKjcEcMgfJIApwZQyS0C0i1sAXeuctZuywvtpvuzWBquiM4Uhb+MbmGlDiQacFxlEN42YWeNHudznNk+p67TYgllJtT1uNNa8kswm5RFf2yxFFA9AxFxckGEDVNMFpS3g7lvgQyQRq+WlBLgXL7cdFFWmrLMXtbFxfOBx2kbjx6tT5fDJkAeJc2dvYgZef6PqHZQItQf6ubofHnLgZTE/FWRhIvuwaX9CJ9r89887JOEUiYgLQE2P9K05kgNiGij+zcH27IwZ34ExkEWwwPAINFSzI8xMxcKICBSVN553qR51p4g/58jTv4JYL5LKZUf7xC/PQfCMsIm0mHW+jS5oVLNKFv7kDvhlR866WLTgdRGzK4n8X\n\nوصل بشین بهش \nدو دقیقه صبر کنید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 814,
-          "type": "code"
-        },
-        {
-          "offset": 848,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 861,
-          "length": 9,
-          "type": "mention"
-        },
-        {
-          "offset": 883,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 883,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 883,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 711,
       "sender_chat": {
         "id": -1003929813623,

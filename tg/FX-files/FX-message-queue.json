@@ -1,57 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 591,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778356894,
-      "text": "🎙 سپاه :\n\n در صورت اقدام آمریکا برای اذیت یا حمله، کابل‌های اینترنت جهانی در خلیج فارس و تنگه هرمز قطع و اینترنت جهان مختل می‌شود.\n\nپ ن: اینام یک چیزی پیدا کردن اسباب بازی شده این اینترنتم براشون \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 198,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 209,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 223,
-          "length": 6,
-          "type": "hashtag"
-        },
-        {
-          "offset": 242,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 242,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 242,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 592,
       "sender_chat": {
         "id": -1003929813623,

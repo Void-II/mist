@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 977,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778915818,
-      "text": "قلعه نویی خطاب به میثاقی: اگر تو جام جهانی شعار ضد جمهوری اسلامی بدن من انگیزه و روحیه ام بیشتر میشه چون زیر فشار بهتر کار میکنم.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 131,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 144,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 170,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 170,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 170,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 978,
       "sender_chat": {
         "id": -1003929813623,

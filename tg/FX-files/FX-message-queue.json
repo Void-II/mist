@@ -23700,6 +23700,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1047,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779006962,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEF2oJffI24o_tG-utZKYWbsdhLBVxAAJODmsblrBQUDtSgs7ENIBdAQADAgADcwADOwQ",
+          "file_unique_id": "AQADTg5rG5awUFB4",
+          "file_size": 1044,
+          "width": 90,
+          "height": 63
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEF2oJffI24o_tG-utZKYWbsdhLBVxAAJODmsblrBQUDtSgs7ENIBdAQADAgADbQADOwQ",
+          "file_unique_id": "AQADTg5rG5awUFBy",
+          "file_size": 12353,
+          "width": 320,
+          "height": 223
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEF2oJffI24o_tG-utZKYWbsdhLBVxAAJODmsblrBQUDtSgs7ENIBdAQADAgADeAADOwQ",
+          "file_unique_id": "AQADTg5rG5awUFB9",
+          "file_size": 45502,
+          "width": 800,
+          "height": 557
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEF2oJffI24o_tG-utZKYWbsdhLBVxAAJODmsblrBQUDtSgs7ENIBdAQADAgADeQADOwQ",
+          "file_unique_id": "AQADTg5rG5awUFB-",
+          "file_size": 52191,
+          "width": 1080,
+          "height": 752
+        }
+      ],
+      "caption": "🔴شاتی که تو بله و روبیکا درحال وایرال شدنه؛\n\nگفته میشه حکومت برای بعضی از افرادی که نرم‌افزار «شیر و خورشید» رو روی گوشیشون نصب کردن(اپی که این روزها بخشی از مردم رو به اینترنت بین‌الملل وصل کرده) پیامک‌های تهدیدآمیز فرستاده و ازشون خواسته این برنامه رو حذف کنند\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -1,48 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1014,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778953560,
-      "text": "پروکسی\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 6,
-          "type": "text_link",
-          "url": "https://t.me/socks?server=213.176.7.48&port=2626&user=kmkh&pass=kmkh"
-        },
-        {
-          "offset": 19,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 19,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 19,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 1015,
       "sender_chat": {
         "id": -1003929813623,

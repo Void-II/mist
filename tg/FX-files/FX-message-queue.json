@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 973,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778912699,
-      "text": "روز پسرو به تک‌تک مردای سرزمینم تبریک میگم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 44,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 57,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 83,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 83,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 83,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 974,
       "sender_chat": {
         "id": -1003929813623,

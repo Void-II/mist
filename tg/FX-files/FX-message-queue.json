@@ -1,46 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 716,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778526651,
-      "document": {
-        "file_name": "ایپی جدید ..شاتل 🚀😋.npvt",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAICzGoCKboydPmXIdBm85kCDt9a9Xm8AAJ-HwACzkoQUDFY98oDfXkoOwQ",
-        "file_unique_id": "AgADfh8AAs5KEFA",
-        "file_size": 1364
-      },
-      "caption": "• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 11,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 11,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 11,
-          "length": 8,
-          "type": "underline"
-        }
-      ]
-    },
-    {
       "message_id": 717,
       "sender_chat": {
         "id": -1003929813623,

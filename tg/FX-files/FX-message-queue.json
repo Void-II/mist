@@ -1,48 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 640,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778428918,
-      "text": "وسط بی اینترنتی ما تلگرام هوش مصنوعی تلگرام که  اسم خوبی داره به اسم میرا به تلگرام اضافه شد کلیک کنید قسمت رایگان داره 👇👇 \n\n@mira\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 127,
-          "length": 5,
-          "type": "text_link",
-          "url": "https://t.me/mira?start=ref_7106584375"
-        },
-        {
-          "offset": 145,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 145,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 145,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "url": "https://t.me/mira?start=ref_7106584375"
-      }
-    },
-    {
       "message_id": 641,
       "sender_chat": {
         "id": -1003929813623,

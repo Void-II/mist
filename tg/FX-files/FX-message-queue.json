@@ -23926,6 +23926,66 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1051,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779009422,
+      "document": {
+        "file_name": "akamai.html",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIEG2oJh47E9oodWGUUZx_pEWfcVQx-AAL1HAACykFBUAjDDpzqGSByOwQ",
+        "file_unique_id": "AgAD9RwAAspBQVA",
+        "file_size": 21942
+      },
+      "caption": "📍اسکنر سبک آیپی برای شیر و خورشید\n\n-فایل بالا رو با مرورگر باز کنین\n-رنج آماده آیپی رو انتخاب کنین(با میتونین دستی رنج‌های آیپی مد نظرتونو وارد کنین در بخش لیست بازه /ip)\n-بدون وی پی ان اسکن کنین .\n-لیست آیپی‌های سازگار با نتتون در انتهای صفحه در دسترستون قرار میگیره و میتونین وارد شیرو خورشید کنین.\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 34,
+          "type": "bold"
+        },
+        {
+          "offset": 167,
+          "length": 3,
+          "type": "bot_command"
+        },
+        {
+          "offset": 303,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 316,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 338,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 338,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 338,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

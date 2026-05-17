@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 796,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778653626,
-      "text": "کارلو آنچلوتی: نیمار بازیکن محبوبی در کشور و در رختکن هست وقتی اون رو به تیم ملی دعوت کنی مشکلی پیش نخواهد آمد چون اون در بین بازیکنان بسیار محترم است اون الان زمان زیادیه که به طور مداوم داره بازی میکنه و کیفیت خوبی از خودش نشون میده خیلی ها به من نصیحت کردن تا اون رو برای جام جهانی دعوت کنم\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 294,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 307,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 333,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 333,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 333,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 797,
       "sender_chat": {
         "id": -1003929813623,

@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 761,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778614095,
-      "text": "https://t.me/Allvpnfree_bot?start=ref_6948878650\nهنوز با رفرال سرور میده.\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 48,
-          "type": "url"
-        },
-        {
-          "offset": 74,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 97,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 97,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 97,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 762,
       "sender_chat": {
         "id": -1003929813623,

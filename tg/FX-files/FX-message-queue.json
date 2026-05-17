@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 800,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778657237,
-      "text": "احسان افرشته، به اتهام جاسوسی و همکاری اطلاعاتی با موساد اعدام شد به گفته رژیم وی چند مرحله تماس از طریق پیام‌رسان‌ها داشته و در ادامه از طریق پست الکترونیک باهم در ارتباط بوده‌اند بیش از ۳۰۰ پیام بین آنها رد و بدل شده است. افرشته در ابتدا در پوشش راننده تاکسی اینترنتی دستورات افسران موساد را اجرا می‌کرد. \nکیرم تو جمهوری اسلامی و آخوند و امثال آخوند و طرفداراش\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 363,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 376,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 402,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 402,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 402,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 801,
       "sender_chat": {
         "id": -1003929813623,

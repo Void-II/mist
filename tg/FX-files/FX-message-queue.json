@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 771,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778617589,
-      "text": "اینی که میگن 3.4 ریشتری بوده مال ساعت 9 بوده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 45,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 58,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 84,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 84,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 84,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 772,
       "sender_chat": {
         "id": -1003929813623,

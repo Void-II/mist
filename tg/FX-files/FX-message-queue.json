@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 635,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778424058,
-      "text": "https://t.me/SvnProBot?start=ref_6948878650\nبا سه تا رفرال پنج گیگ میده😐😐\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 43,
-          "type": "url"
-        },
-        {
-          "offset": 76,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 99,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 99,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 99,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "url": "https://t.me/SvnProBot?start=ref_6948878650"
-      }
-    },
-    {
       "message_id": 636,
       "sender_chat": {
         "id": -1003929813623,

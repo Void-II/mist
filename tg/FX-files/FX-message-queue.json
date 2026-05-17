@@ -1,46 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 886,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778761289,
-      "document": {
-        "file_name": "ShirOKhorshid-2026.05.14.apk",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAIDdWoFvkiwDCzDz-31-7p9i1-FKF0yAAJ5GwACVrExUPFfjsYaR4Z7OwQ",
-        "file_unique_id": "AgADeRsAAlaxMVA",
-        "file_size": 25088970
-      },
-      "caption": "🛡مهم: اگر این نسخه رو نصب کنید دیگه دردسر ستاپ کردن MITM و... ندارید!\nاین نسخه حدودا یک ساعت پیش توسط برنامه‌نویس شیر و خورشید آپدیت شد و به راحتی می‌تونید طبق این آموزش بهش وصل بشید:\n1- وارد اپلیکیشن شیر و خورشید(آخرین نسخه که امروز منتشر شده) می‌شید\n2- وارد بخش Options میشید از نوار بالا\n3- روی More Options کلیک میکنید\n4- گزینه‌ی  Connection Protocol رو قرار میدید روی CDN Fronting\n5- میرید و عادی کانکت میشید و به راحتی وصل میشه!\n\n• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 448,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 448,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 448,
-          "length": 8,
-          "type": "underline"
-        }
-      ]
-    },
-    {
       "message_id": 887,
       "sender_chat": {
         "id": -1003929813623,

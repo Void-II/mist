@@ -24461,7 +24461,7 @@
       }
     },
     {
-      "message_id": 1059,
+      "message_id": 1060,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -24472,32 +24472,22 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1779017222,
-      "text": "نخست‌وزیر بنیامین نتانیاهو امشب جلسه امنیتی محدودی را در پی افزایش آمادگی دفاعی برگزار خواهد کرد. این جلسه بر آماده‌سازی برای احتمال تشدید خصومت‌ها با ایران متمرکز است. انتظار می‌رود وزرای ارشد و روسای دفاعی در این جلسه حضور داشته باشند.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "date": 1779017223,
+      "text": "یک پهپاد رژیم جمهوری اسلامی به یک ژنراتور برق نزدیک نیروگاه هسته‌ای براکه در ابوظبی امارات متحده عربی برخورد کرد.\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 239,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 252,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 278,
+          "offset": 126,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 278,
+          "offset": 126,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 278,
+          "offset": 126,
           "length": 8,
           "type": "underline"
         }

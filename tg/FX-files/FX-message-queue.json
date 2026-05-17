@@ -1,56 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 717,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778532902,
-      "document": {
-        "file_name": "پسره وایفای دوست.npvt",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAICzWoCQiZX_zGbiot6e3ptvfOQUTVsAAIjHgACm7MRUFwvHexHXBD3OwQ",
-        "file_unique_id": "AgADIx4AApuzEVA",
-        "file_size": 2264
-      },
-      "caption": "مخصوص وای‌فای \nPassword:@amir_webstudio\n@XBat_Team\n\n• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 24,
-          "length": 15,
-          "type": "mention"
-        },
-        {
-          "offset": 40,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 63,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 63,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 63,
-          "length": 8,
-          "type": "underline"
-        }
-      ]
-    },
-    {
       "message_id": 718,
       "sender_chat": {
         "id": -1003929813623,

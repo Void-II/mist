@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 1026,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778957880,
-      "text": "مثل بنز وصله! بزن روش کپی بشه\n\n185.200.232.43\n185.200.232.40\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 31,
-          "length": 29,
-          "type": "code"
-        },
-        {
-          "offset": 73,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 73,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 73,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 1027,
       "sender_chat": {
         "id": -1003929813623,

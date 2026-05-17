@@ -23855,6 +23855,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1050,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779009362,
+      "video": {
+        "duration": 98,
+        "width": 390,
+        "height": 854,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 390,
+            "height": 854,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIEGmoJh1I2FwaHo3OAiSn9IVhFF0c1AAKXHwAC2LxIUOKzkyRx2_aPOwQ",
+            "file_unique_id": "AgADlx8AAti8SFA",
+            "file_size": 13513667
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgQaagmHUpGn3XAI39jZwxUnfooqGAkAAhkcAALXXVBQPgABVm312kSWAQAHbQADOwQ",
+          "file_unique_id": "AQADGRwAAtddUFBy",
+          "file_size": 14399,
+          "width": 148,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgQaagmHUpGn3XAI39jZwxUnfooqGAkAAhkcAALXXVBQPgABVm312kSWAQAHbQADOwQ",
+          "file_unique_id": "AQADGRwAAtddUFBy",
+          "file_size": 14399,
+          "width": 148,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIEGmoJh1KRp91wCN_Y2cMVJ36KKhgJAAIZHAAC111QUD4AAVZt9dpEljsE",
+        "file_unique_id": "AgADGRwAAtddUFA",
+        "file_size": 13559231
+      },
+      "caption": "آموزش کار با اسکنر آیپی برای اتصال از طریق CDN با هسته‌ی سایفون اپ MahsaNG ورژن 16\n\nاین آموزش رو فربد عزیز زحمت کشیدن ضبط کردن و برای من فرستادن\nفایل‌های مربوطه رو هم در ادامه قرار میدم واستون، و دارم فایلهای MahsaNG نسخه 16 رو واستون روی لینک داخلی هم آپلود میکنم\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 82,
+          "type": "bold"
+        },
+        {
+          "offset": 277,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 277,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 277,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -1,57 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 684,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778490450,
-      "text": "https://t.me/Allvpnfree_bot?start=ref_6948878650\n\nhttps://t.me/ProtecVIP_Bot?start=ref_6948878650\nاین دوتا بات با رفرال هنوز سرور میدن.\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 48,
-          "type": "url"
-        },
-        {
-          "offset": 50,
-          "length": 47,
-          "type": "url"
-        },
-        {
-          "offset": 136,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 159,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 159,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 159,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "url": "https://t.me/ProtecVIP_Bot?start=ref_6948878650"
-      }
-    },
-    {
       "message_id": 685,
       "sender_chat": {
         "id": -1003929813623,

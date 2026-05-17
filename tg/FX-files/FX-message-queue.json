@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 629,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778416798,
-      "text": "🔺بیانیه رسمی رئال مادرید: باشگاه رئال مادرید و رئیس و هیئت مدیره آن عمیق‌ترین تسلیت خود را به مناسبت درگذشت پدر هانسی فلیک، سرمربی باشگاه بارسلونا، ابراز می‌دارند. باشگاه رئال مادرید صمیمانه‌ترین همدردی و تسلیت خود را به خانواده و همه عزیزان ایشان تقدیم می‌کند.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 263,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 276,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 302,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 302,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 302,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 630,
       "sender_chat": {
         "id": -1003929813623,

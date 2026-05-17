@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 946,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778864094,
-      "text": "vless://b01631fa-502b-497f-b8ed-2fda669667ad@wp14.virgool.best:55014?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#odin_club\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 225,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 238,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 264,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 264,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 264,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 947,
       "sender_chat": {
         "id": -1003929813623,

@@ -1,57 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 891,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778777661,
-      "text": "vless://%40IR_NETLIFY@142.54.178.211:443?mode=auto&path=%2FIR_NETLIFY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingKey%22%3A%22iran%22%2C%22xPaddingHeader%22%3A%22iran%22%2C%22headers%22%3A%7B%22x-host%22%3A%22http%3A%2F%2F89.22.236.213%3A444%22%7D%7D&insecure=1&host=test-v1-0-4.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=kind.sigs.k8s.io#asali\n\nاینم برا کسایی ک اشتراک شکن دارن \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 489,
-          "type": "code"
-        },
-        {
-          "offset": 525,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 538,
-          "length": 9,
-          "type": "mention"
-        },
-        {
-          "offset": 560,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 560,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 560,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 892,
       "sender_chat": {
         "id": -1003929813623,

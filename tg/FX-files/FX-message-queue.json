@@ -1,47 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 661,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778439599,
-      "text": "شرمنده چالش عکس درست نبود چون خیلی از کاربرا نمیتونن هیچ شاتی اپلود کنن چون شرایط اینترنت مملکت اصلا خوب نیست\n\nوالا اگه جنگی شد امیدارم تمامی کسانی مردم رو 70 روز عذاب دادن زجر کش بشن چون اینا ادم نیستن خودشون وصلن به نت بین المللی ولی زر مفت میزنن یارو تیک تویتر شو گرفتن کونشو جر میده وای تیک ام وای آزادی بیان و.... خو کیر تو کص ننه تون تو کشور خودتون مردم 70 روز نت ندارن گوه خوری اونا رو نکن پس\n\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 401,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 424,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 424,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 424,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 662,
       "sender_chat": {
         "id": -1003929813623,

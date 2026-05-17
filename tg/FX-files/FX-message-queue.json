@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 793,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778652557,
-      "text": "ویزای ۵ ستاره عراق برای جام جهانی رد شد!\nآمریکا در تازه‌ترین اقدام خود در آستانه جام‌جهانی ۲۰۲۶ ویزای ۵ بازیکن کلیدی تیم ملی عراق از جمله علی الحمادی (ستاره لوتون تاون)، مهند علی و حیدر عبدالکریم را رد کرد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 207,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 220,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 246,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 246,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 246,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 794,
       "sender_chat": {
         "id": -1003929813623,

@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 971,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778912387,
-      "text": "https://t.me/LumaRefBot?start=ref_895c1b5d93bc86ae\nسه تا رفرال.\n@XBat_Team\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 50,
-          "type": "url"
-        },
-        {
-          "offset": 64,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 87,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 87,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 87,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 973,
       "sender_chat": {
         "id": -1003929813623,

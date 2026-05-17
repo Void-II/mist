@@ -1,62 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 940,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778858037,
-      "text": "2.16.1.145\n2.22.144.9\n2.21.2.42\n2.21.2.9\n2.16.221.4\n2.21.2.104\n2.16.241.221\n2.16.241.222\n2.21.89.81\n2.19.183.34\n2.17.241.192\n2.19.183.11\n2.17.241.68\n2.19.183.10\n2.17.240.247\n2.19.181.9\n2.21.240.26\n2.21.240.15\n2.16.241.216\n2.16.241.210\n\n✅تست شده با سامانتل\nبا باقی نت ها نیز تست کنید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 0,
-          "length": 234,
-          "type": "blockquote"
-        },
-        {
-          "offset": 0,
-          "length": 234,
-          "type": "code"
-        },
-        {
-          "offset": 284,
-          "length": 12,
-          "type": "mention"
-        },
-        {
-          "offset": 297,
-          "length": 9,
-          "type": "mention"
-        },
-        {
-          "offset": 319,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 319,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 319,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 941,
       "sender_chat": {
         "id": -1003929813623,

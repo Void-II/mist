@@ -1,52 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 722,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778560514,
-      "text": "شبکه 14 اسرائیل: بخشی از اهداف بعدی در خاک ایران:\n\n🔴 تاسیسات انرژی\n🔴 صنعت پتروشیمی\n🔴 صنعت خودروسازی\n🔴 لانچر و سایت های موشکی\n🔴 صنعت نفت \n🔴 صنعت فولاد\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "entities": [
-        {
-          "offset": 156,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 169,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 195,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 195,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 195,
-          "length": 8,
-          "type": "underline"
-        }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
-    },
-    {
       "message_id": 723,
       "sender_chat": {
         "id": -1003929813623,

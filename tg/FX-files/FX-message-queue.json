@@ -1,46 +1,6 @@
 {
   "pending_messages": [
     {
-      "message_id": 692,
-      "sender_chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "chat": {
-        "id": -1003929813623,
-        "title": "Backup",
-        "type": "channel"
-      },
-      "date": 1778492101,
-      "document": {
-        "file_name": "NetMeli ⚡ SHATEL.npvt",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgEAAyEFAATqPDJ3AAICtGoBosU8_pa7E1048b-ih3VnATryAALBCgAC_JAJRHO0gq6VPX5_OwQ",
-        "file_unique_id": "AgADwQoAAvyQCUQ",
-        "file_size": 18644
-      },
-      "caption": "• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 11,
-          "length": 8,
-          "type": "text_link",
-          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
-        },
-        {
-          "offset": 11,
-          "length": 8,
-          "type": "bold"
-        },
-        {
-          "offset": 11,
-          "length": 8,
-          "type": "underline"
-        }
-      ]
-    },
-    {
       "message_id": 693,
       "sender_chat": {
         "id": -1003929813623,

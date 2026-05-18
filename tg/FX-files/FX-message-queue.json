@@ -4001,6 +4001,70 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1126,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779102726,
+      "text": "❤️رایتل تست شده :\n\n184.86.103.210\n23.36.162.202\n95.101.29.30\n2.23.170.80\n185.200.232.16\n2.16.245.188\n95.101.23.82\n185.200.232.34\n184.28.230.87\n2.16.19.136\n2.23.168.174\n50.7.5.83\n2.23.168.47\n\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 19,
+          "length": 171,
+          "type": "blockquote"
+        },
+        {
+          "offset": 19,
+          "length": 170,
+          "type": "code"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 223,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 246,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 246,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 246,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

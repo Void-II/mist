@@ -4250,6 +4250,78 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1130,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779114486,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEamoLIfZWGrEsF1mujwfBq1ECZJXnAAJgDmsbw5NYUOmRO-cy3xGwAQADAgADcwADOwQ",
+          "file_unique_id": "AQADYA5rG8OTWFB4",
+          "file_size": 1072,
+          "width": 64,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEamoLIfZWGrEsF1mujwfBq1ECZJXnAAJgDmsbw5NYUOmRO-cy3xGwAQADAgADbQADOwQ",
+          "file_unique_id": "AQADYA5rG8OTWFBy",
+          "file_size": 13955,
+          "width": 229,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEamoLIfZWGrEsF1mujwfBq1ECZJXnAAJgDmsbw5NYUOmRO-cy3xGwAQADAgADeAADOwQ",
+          "file_unique_id": "AQADYA5rG8OTWFB9",
+          "file_size": 42980,
+          "width": 479,
+          "height": 668
+        }
+      ],
+      "caption": "​🚨 خطر اعدام فوری برای #محمد_نقی_زاده\n\n​محمد نقی‌زاده، جوان ۲۲ ساله‌ای که در تاریخ ۱۸ دی‌ماه  توسط نیروهای بسیج و اطلاعات بازداشت شده بود، اکنون با اتهام سنگین سب‌النبی به اعدام محکوم شده است. او پس از بازداشت خشونت‌آمیز، تحت فشارهای شدید قرار گرفته و حالا جانش در خطر فوری اجرای این حکم غیرانسانی است. مادر چشم‌انتظار و بباخته‌دل او در پیامی تکان‌دهنده استمداد طلبیده و گفته است: «پسرم رو نجات بدید». وضعیت خانواده محمد به شدت بحرانی است و آن‌ها در میان دیوارهای بلند سکوت و تهدید، تنها چشم به یاری و فریاد افکار عمومی دوخته‌اند تا مانع از سلب جان این جوان شوند. هر چه او ناشناس‌تر بماند، خطر اجرای حکم بیشتر است، صدایش باشیم.\n\n​این یک نمونه کامنت برای حمایت از محمد نقی‌زاده است؛ می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n\n​» کامنت انگلیسی برای محمد نقی‌زاده «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 24,
+          "length": 14,
+          "type": "hashtag"
+        },
+        {
+          "offset": 748,
+          "length": 37,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=22yo%20%23MohammadNaghizadeh%20from%20Iran%2C%20arrested%20Jan%208%20while%20protesting%2C%20sentenced%20to%20DEATH%20for%20%22Sab%20al-Nabi%22.%20In%20imminent%20danger.%20Mother%20begs%20for%20help.%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23StopExecutionsInIran%20%23DigitalBlackOutIran"
+        },
+        {
+          "offset": 787,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

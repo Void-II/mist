@@ -2902,6 +2902,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1104,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779064984,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEUGoKYJgWEmdGpuBQ5l6fxWSdTFGsAAJIEGsbSKJQUJ3h2M2bHMIFAQADAgADcwADOwQ",
+          "file_unique_id": "AQADSBBrG0iiUFB4",
+          "file_size": 988,
+          "width": 50,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEUGoKYJgWEmdGpuBQ5l6fxWSdTFGsAAJIEGsbSKJQUJ3h2M2bHMIFAQADAgADbQADOwQ",
+          "file_unique_id": "AQADSBBrG0iiUFBy",
+          "file_size": 19473,
+          "width": 177,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEUGoKYJgWEmdGpuBQ5l6fxWSdTFGsAAJIEGsbSKJQUJ3h2M2bHMIFAQADAgADeAADOwQ",
+          "file_unique_id": "AQADSBBrG0iiUFB9",
+          "file_size": 91407,
+          "width": 443,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEUGoKYJgWEmdGpuBQ5l6fxWSdTFGsAAJIEGsbSKJQUJ3h2M2bHMIFAQADAgADeQADOwQ",
+          "file_unique_id": "AQADSBBrG0iiUFB-",
+          "file_size": 178003,
+          "width": 709,
+          "height": 1280
+        }
+      ],
+      "caption": "وضعیت آسمون ایران و عراق\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 25,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 38,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

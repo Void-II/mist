@@ -3210,6 +3210,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1110,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779081065,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEVmoKn2kXPGvRlLOPlVge0CIiDNkcAAIiDmsbzn1ZUGiq5MZhjb8IAQADAgADcwADOwQ",
+          "file_unique_id": "AQADIg5rG859WVB4",
+          "file_size": 872,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEVmoKn2kXPGvRlLOPlVge0CIiDNkcAAIiDmsbzn1ZUGiq5MZhjb8IAQADAgADbQADOwQ",
+          "file_unique_id": "AQADIg5rG859WVBy",
+          "file_size": 9675,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEVmoKn2kXPGvRlLOPlVge0CIiDNkcAAIiDmsbzn1ZUGiq5MZhjb8IAQADAgADeAADOwQ",
+          "file_unique_id": "AQADIg5rG859WVB9",
+          "file_size": 39139,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEVmoKn2kXPGvRlLOPlVge0CIiDNkcAAIiDmsbzn1ZUGiq5MZhjb8IAQADAgADeQADOwQ",
+          "file_unique_id": "AQADIg5rG859WVB-",
+          "file_size": 62873,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "اینو گرفته بودم برای برای عرفی 25 گیگ 3 ماهه دیشب گفتم پشت هم پست فروش نزن تو یه پست تمومش کن گوش نداده منم سرور شو ندادمش 😂\nچون حرف گوش کن نبود با سروره میرم یوتیوب جای عرفانم خالی اوف سرعت 2.5 مگ یعنی دانلود یک گیگ توی 3 دقیقه\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 231,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -4815,6 +4815,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1140,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779121986,
+      "text": "کسایی ک دنبال ربات میگردن که راحت بخرن بفروشن اینو خودمم تایید میکنم 100درصد \n\nبخدا تبلیغم نیس \nفقط چون اعتماد دارم بهشون گفتم کسایی ک میخان خودتون بفروشین \nگیگ 140\n\nhttps://t.me/Marzbanmr_bot?start=ref_8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 166,
+          "length": 47,
+          "type": "url"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/Marzbanmr_bot?start=ref_8376197509"
+      }
     }
   ]
 }

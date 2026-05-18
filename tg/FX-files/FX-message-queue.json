@@ -3791,6 +3791,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1121,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779095705,
+      "text": "تخفیف هنوز هست.\nمولتی لوکیشن گیگی 250\nاقتصادی 200\nوایرگارد هم گیگی 400 موجوده\nحجمای بالاتر تخفیف بیشتری داره\nپرداخت به صورت رمز ارز و ریالی✅\nبرای خرید :\n@e7fnn\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 153,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 161,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

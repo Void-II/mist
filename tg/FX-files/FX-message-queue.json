@@ -4101,6 +4101,82 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1128,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779104046,
+      "text": "تنظیمات سیمکارت \nAPN Settings \nName Google.com\nAPN Google.com\nJust  IPv4 \n\nShir khorshid Sni:\nGoogle.com\n\nرو ایرانسل جواب داده ، بقیه اپراتورها هم تست کنید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 31,
+          "length": 15,
+          "type": "blockquote"
+        },
+        {
+          "offset": 36,
+          "length": 10,
+          "type": "code"
+        },
+        {
+          "offset": 51,
+          "length": 10,
+          "type": "code"
+        },
+        {
+          "offset": 86,
+          "length": 11,
+          "type": "blockquote"
+        },
+        {
+          "offset": 130,
+          "length": 10,
+          "type": "blockquote"
+        },
+        {
+          "offset": 154,
+          "length": 45,
+          "type": "blockquote"
+        },
+        {
+          "offset": 156,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 169,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

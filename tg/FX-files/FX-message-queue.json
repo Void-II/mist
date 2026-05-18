@@ -5294,6 +5294,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1150,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779137755,
+      "video": {
+        "duration": 9,
+        "width": 448,
+        "height": 224,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgR-agt82_uAY3-WE7Jm7LUYlZF5UEkAAj8dAALG7VhQpbZ3_bUVclEBAAdtAAM7BA",
+          "file_unique_id": "AQADPx0AAsbtWFBy",
+          "file_size": 8114,
+          "width": 320,
+          "height": 160
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgR-agt82_uAY3-WE7Jm7LUYlZF5UEkAAj8dAALG7VhQpbZ3_bUVclEBAAdtAAM7BA",
+          "file_unique_id": "AQADPx0AAsbtWFBy",
+          "file_size": 8114,
+          "width": 320,
+          "height": 160
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIEfmoLfNv7gGN_lhOyZuy1GJWReVBJAAI_HQACxu1YUKW2d_21FXJROwQ",
+        "file_unique_id": "AgADPx0AAsbtWFA",
+        "file_size": 1037531
+      },
+      "caption": "ای بابا\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 8,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 21,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

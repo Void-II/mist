@@ -5782,6 +5782,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1158,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779138538,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEhmoLf-pXvrVy8tLcEmTOKzcKrveHAAKwD2sbxu1YUDX9s_5Vdr0KAQADAgADcwADOwQ",
+          "file_unique_id": "AQADsA9rG8btWFB4",
+          "file_size": 1365,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEhmoLf-pXvrVy8tLcEmTOKzcKrveHAAKwD2sbxu1YUDX9s_5Vdr0KAQADAgADbQADOwQ",
+          "file_unique_id": "AQADsA9rG8btWFBy",
+          "file_size": 20404,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEhmoLf-pXvrVy8tLcEmTOKzcKrveHAAKwD2sbxu1YUDX9s_5Vdr0KAQADAgADeAADOwQ",
+          "file_unique_id": "AQADsA9rG8btWFB9",
+          "file_size": 94229,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEhmoLf-pXvrVy8tLcEmTOKzcKrveHAAKwD2sbxu1YUDX9s_5Vdr0KAQADAgADeQADOwQ",
+          "file_unique_id": "AQADsA9rG8btWFB-",
+          "file_size": 191844,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "🚨🇧🇷 رسمی؛ لیست تیم ملی برزیل برای جام جهانی 2026 آمریکا \n\n✅ نیمار رسما برای جام جهانی دعوت شد!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 98,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 111,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -7616,6 +7616,99 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1197,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779195539,
+      "video": {
+        "duration": 162,
+        "width": 1119,
+        "height": 720,
+        "file_name": "2026-05-19 15-47-54.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 852,
+            "height": 480,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIErWoMXpOM_jDccAG4k2CJOY4IIbNFAAKMBwACNl9gRC7Ayd9ibeDzOwQ",
+            "file_unique_id": "AgADjAcAAjZfYEQ",
+            "file_size": 9181582
+          },
+          {
+            "width": 852,
+            "height": 480,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIErWoMXpPh1KYuqH7wFH9fsEMiiRYkAAIfCgACLgJgRI_qfgsG9hvuOwQ",
+            "file_unique_id": "AgADHwoAAi4CYEQ",
+            "file_size": 10788309
+          },
+          {
+            "width": 1280,
+            "height": 720,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIErWoMXpNTXqCoiSuXSspnvo0Dl1AhAAIECQAC2AFhRIS2QAMyP0cuOwQ",
+            "file_unique_id": "AgADBAkAAtgBYUQ",
+            "file_size": 12579671
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgStagxek5EdUKVnQNctrQZmLl6SEwkAAgwHAAIwf2FELm4Er7wKDTABAAdtAAM7BA",
+          "file_unique_id": "AQADDAcAAjB_YURy",
+          "file_size": 5431,
+          "width": 320,
+          "height": 205
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgStagxek5EdUKVnQNctrQZmLl6SEwkAAgwHAAIwf2FELm4Er7wKDTABAAdtAAM7BA",
+          "file_unique_id": "AQADDAcAAjB_YURy",
+          "file_size": 5431,
+          "width": 320,
+          "height": 205
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIErWoMXpORHVClZ0DXLa0GZi5ekhMJAAIMBwACMH9hRC5uBK-8Cg0wOwQ",
+        "file_unique_id": "AgADDAcAAjB_YUQ",
+        "file_size": 12667697
+      },
+      "caption": "آموزش خیلی عجله‌ای برای SNI Spoof روی مک و لینوکس\n\nلینک داخلی ویدیو:\nhttps://uplod.ir/dgvgsab3d34s/2026-05-19_15-47-54.mp4.htm\n\nلینک ریپو:\nhttps://github.com/selfishblackberry177/sni-spoof/releases/tag/v0.2.0\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 69,
+          "length": 57,
+          "type": "url"
+        },
+        {
+          "offset": 139,
+          "length": 69,
+          "type": "url"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -7838,6 +7838,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1200,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779196499,
+      "text": "ایمیل غیرواقعی( ایمیل الکی) بدین  و اینکه حالا اینا تست گذاشتن بدون رفرال یکی از کاربرا از تستش با میگه با ترکیب سایفون 800 مگابایت استفاده کرده این کارا درست نیست کاری میکنید دوستانی میگیرن میرسونن دست دوستانشون هم ضرر کنن چون طرف سواستفاده ببینه دیگه تست رو برمیداره یا سرور دیگه ای برای تست میده با قطع و وصلی انصافا سرور تست دیشبی که من تست کردم خیلی خوب بود بعد گذاشتم شما هم استفاده از تست هاش\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 401,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 424,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 424,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 424,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

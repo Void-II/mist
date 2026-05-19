@@ -6463,6 +6463,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1172,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779169379,
+      "text": "https://t.me/proxy?server=31.47.51.91&port=443&secret=ddecb813fb23747286cf9ac2ba887f627f\nاز دیشب هنوز وصله\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 88,
+          "type": "url"
+        },
+        {
+          "offset": 107,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 120,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

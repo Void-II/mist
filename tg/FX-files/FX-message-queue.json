@@ -7765,6 +7765,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1199,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779196439,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEr2oMYhcZmSx7zF9ElTEU9VPzrGBnAAL7Dmsbxu1gUN1HdjPO2WzZAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD-w5rG8btYFB4",
+          "file_size": 1513,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEr2oMYhcZmSx7zF9ElTEU9VPzrGBnAAL7Dmsbxu1gUN1HdjPO2WzZAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD-w5rG8btYFBy",
+          "file_size": 24439,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEr2oMYhcZmSx7zF9ElTEU9VPzrGBnAAL7Dmsbxu1gUN1HdjPO2WzZAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD-w5rG8btYFB9",
+          "file_size": 106358,
+          "width": 641,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEr2oMYhcZmSx7zF9ElTEU9VPzrGBnAAL7Dmsbxu1gUN1HdjPO2WzZAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD-w5rG8btYFB-",
+          "file_size": 189588,
+          "width": 1025,
+          "height": 1280
+        }
+      ],
+      "caption": "🇵🇹 • رسمی؛ لیست تیم ملی پرتغال برای جام جهانی 2026\n\n• کریستیانو رونالدو برای ششمین بار در جام جهانی حضور خواهد داشت\n\n• دروازه بان‌ها: دیوگو کاستا، خوزه سا، روی سیلوا، ریکاردو ویلهو\n\n• مدافعین: دیوگو دالوت، متئوس نونس، نلسون سمدو، ژائو کانسلو، نونو مندس، گونزالو ایناسیو، رناتو ویگا، روبن دیاز، توماس آرائوخو\n\n• هافبک‌ها: روبن نوس، ساموئل کاستا، ژائو نوس، ویتینیا، برونو فرناندز، برناردو سیلوا\n\n• مهاجمین: ژائو فلیکس، ترینکائو، فرانچسکو کونسیسائو، پدرو نتو، رافائل لیائو، گونزالو\n گودس، گونزالو راموس و کریستیانو رونالدو\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 522,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 535,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -6361,6 +6361,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1170,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779165119,
+      "text": "144.76.1.88\n138.201.54.122\n81.91.145.2\n142.54.178.211\n94.130.33.41\n65.109.34.234\n63.141.252.203\n2.23.168.254\n37.255.133.30\n5.160.13.85\n2.23.170.80\n2.23.168.47\n2.23.168.213\n2.23.168.174\n46.32.31.30\n37.255.133.30 \n81.12.72.218 \n2.23.168.144 \n2.23.168.254 \n94.130.70.160 \n94.130.33.41 \n2.23.168.250 \n80.191.243.226 \n2.23.168.47 \n2.23.168.96 \n2.23.168.174 \n142.54.178.211\n185.200.232.41\n﻿\n🔆لیست آیپی های جدید سبز✅\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 382,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 382,
+          "type": "code"
+        },
+        {
+          "offset": 412,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 425,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

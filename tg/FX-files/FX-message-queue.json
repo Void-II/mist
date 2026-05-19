@@ -9428,6 +9428,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1234,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779232441,
+      "text": "HotVPN\n\n⭕️لینک دانلود از گوگل پلی\n\n⭕️لینک دانلود مستقیم داخلی\n\n✅برای برخی کاربران وصل شده\n\nهمراه اول جواب نمیده وصل میشه کار نمیکنه\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 10,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.hotcodes.hotvpn"
+        },
+        {
+          "offset": 37,
+          "length": 24,
+          "type": "text_link",
+          "url": "https://uplod.ir/phmpnfce8slr/HotVPN__Error404Bin._.htm"
+        },
+        {
+          "offset": 91,
+          "length": 40,
+          "type": "blockquote"
+        },
+        {
+          "offset": 133,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 146,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

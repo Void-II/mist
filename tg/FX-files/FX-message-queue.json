@@ -9367,6 +9367,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1233,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779231541,
+      "document": {
+        "file_name": "V2rayNG v2.1.8.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIE0WoM6zXsnwENU-mBR91klgbupDCdAAJuHgACEVJhUIwSOUSsfJReOwQ",
+        "file_unique_id": "AgADbh4AAhFSYVA",
+        "file_size": 64913375
+      },
+      "caption": "نسخه جدید برنامه V2rayNG اندروید \n\nنسخه 2.1.8\n\nلینک دانلود داخلی\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 33,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 17,
+          "type": "text_link",
+          "url": "https://uplod.ir/59ri5462n9gs/V2rayNG-v2-1-8-_Error404Bin._.htm"
+        },
+        {
+          "offset": 66,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 79,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

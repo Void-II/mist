@@ -9137,6 +9137,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1227,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779230101,
+      "text": "🔴سخنگوی وزارت بهداشت :\nمیدونم باورش سخته ولی مجتبی خامنه‌ای کاملا سالمه، زخم های روی صورتش خیلی سطحیه و هیچ قطع عضوی درکار نیست؛ روی پاش هم کلا 2 الی 3 تا بخیه زدیم تموم شد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 175,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 188,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

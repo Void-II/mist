@@ -7971,6 +7971,120 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1203,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779197819,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEs2oMZ3sqIiKtogds_RLW05ayr9B1AAL2Dmsbw5NoUKYAAfF8wvquLwEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD9g5rG8OTaFB4",
+          "file_size": 2189,
+          "width": 73,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEs2oMZ3sqIiKtogds_RLW05ayr9B1AAL2Dmsbw5NoUKYAAfF8wvquLwEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD9g5rG8OTaFBy",
+          "file_size": 30024,
+          "width": 258,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEs2oMZ3sqIiKtogds_RLW05ayr9B1AAL2Dmsbw5NoUKYAAfF8wvquLwEAAwIAA3kAAzsE",
+          "file_unique_id": "AQAD9g5rG8OTaFB-",
+          "file_size": 95757,
+          "width": 668,
+          "height": 829
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIEs2oMZ3sqIiKtogds_RLW05ayr9B1AAL2Dmsbw5NoUKYAAfF8wvquLwEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD9g5rG8OTaFB9",
+          "file_size": 102994,
+          "width": 645,
+          "height": 800
+        }
+      ],
+      "caption": "​🚨جان #علی_آجرلو در خطر است\n  \n​علی آجرلو، معروف به علی مشتی، ۳۵ ساله، پدر یک فرزند و مالک بستنی‌فروشی «علی مشتی» در الوند #قزوین، در معرض خطر فوری اعدام قرار دارد. \nاو دایی جاویدنام #محمدحسین_خلج است، جوانی که در ۱۸ دی‌ماه جلوی همین بستنی‌فروشی به دست مأموران کشته شد. \nپس از این فاجعه، مأموران علی آجرلو را با اتهامات ساختگی بازداشت و مغازه او را پلمپ کردند. او هم‌اکنون در زندان #چوبیندر #قزوین در ممنوعیت مطلق از ملاقات و بی‌خبری کامل به سر می‌برد. \nقاضی پرونده، فردی به نام حسین‌پور در الوند قزوین، با رذالت تمام و بر اساس اتهامات کاملاً ساختگی، حکم سنگین محاربه را برای او صادر کرده و صراحتاً به خانواده گفته است: اعدامش می‌کنیم . \n\nخانواده علی آجرلو در نگرانی و بی‌خبری مطلق از وضعیت او روزهای دردناکی را سپری می‌کنند و جان این پدر و کاسب مردمی در خطر جدی است. صدای او باشیم قبل از آنکه دیر شود. فرزندش چشم انتظار پدر میباشد. \n\n​این یک نمونه کامنت برای حمایت از علی آجرلو است، می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n​» کامنت انگلیسی برای علی آجرلو «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 7,
+          "length": 10,
+          "type": "hashtag"
+        },
+        {
+          "offset": 7,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 17,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 124,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 184,
+          "length": 13,
+          "type": "hashtag"
+        },
+        {
+          "offset": 383,
+          "length": 8,
+          "type": "hashtag"
+        },
+        {
+          "offset": 392,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 949,
+          "length": 33,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=35yo%20%23AliAjorlo%20from%20Qazvin%2C%20arrested%20after%20his%20nephew%20was%20killed.%20Frame-up%20charged%20w%2F%20Moharebeh%20%28death%20penalty%29%20by%20Judge%20Hoseinpour%20in%20Choobindar%20prison.%20No%20visits.%20Family%20worried.%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23StopExecutionsInIran%20%23DigitalBlackOutIran"
+        },
+        {
+          "offset": 984,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 1013,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1013,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1013,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

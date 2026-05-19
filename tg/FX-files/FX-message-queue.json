@@ -6465,7 +6465,7 @@
       }
     },
     {
-      "message_id": 1172,
+      "message_id": 1173,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -6477,7 +6477,7 @@
         "type": "channel"
       },
       "date": 1779169379,
-      "text": "https://t.me/proxy?server=31.47.51.91&port=443&secret=ddecb813fb23747286cf9ac2ba887f627f\nاز دیشب هنوز وصله\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "https://t.me/proxy?server=31.47.51.91&port=443&secret=ddecb813fb23747286cf9ac2ba887f627f\nوصل سرعت بالا\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
           "offset": 0,
@@ -6485,28 +6485,28 @@
           "type": "url"
         },
         {
-          "offset": 107,
+          "offset": 103,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 120,
+          "offset": 116,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 146,
+          "offset": 142,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 146,
+          "offset": 142,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 146,
+          "offset": 142,
           "length": 8,
           "type": "underline"
         }

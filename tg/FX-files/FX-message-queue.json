@@ -9839,6 +9839,42 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=com.hotcodes.hotvpn"
       }
+    },
+    {
+      "message_id": 1242,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779254521,
+      "text": "بعضی از دوستان میگن این فیلترشکن وصل منم آخرین اپدیتشو مود کردم براتون قرار دادم😁\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -11718,6 +11718,75 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1259,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779278282,
+      "text": "🔴شیر و خورشيد \n\n\n46.32.31.30\n109.230.206.175\n185.109.61.27\n178.252.128.66\n185.50.37.52\n185.88.178.196\n109.72.197.1\n185.255.91.60\n142.54.178.211\n63.141.252.203\n185.37.55.30\n81.12.72.218\n185.137.25.146\n85.133.167.108\n31.214.169.244\n78.157.41.60\n78.38.174.2\n217.219.162.200\n185.141.106.238\n2.23.168.254\n5.160.13.85\n2.23.170.80\n2.23.168.96\n164.138.17.122\n\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 18,
+          "length": 333,
+          "type": "blockquote"
+        },
+        {
+          "offset": 18,
+          "length": 333,
+          "type": "code"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 376,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 385,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 408,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 408,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 408,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

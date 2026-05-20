@@ -12130,6 +12130,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1266,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779280022,
+      "text": "اولین نفری تاس🎲 بندازه 6 بیاد یه سرور 100 مگ می‌بره.\n\nساعت 16:00 شروع میشه.\nهر نفر یک بار می‌تونه تاس بندازه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 110,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

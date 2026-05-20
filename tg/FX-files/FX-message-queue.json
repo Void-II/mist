@@ -11114,6 +11114,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1248,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779260632,
+      "text": "پزشکیان: هیچ حکومتی با بمباران ساقط نخواهد شد، مگر اینکه از درون دچار اختلافات بشه \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 84,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 97,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 123,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 123,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 123,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

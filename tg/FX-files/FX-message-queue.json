@@ -12818,7 +12818,7 @@
       }
     },
     {
-      "message_id": 1280,
+      "message_id": 1281,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -12833,79 +12833,49 @@
       "media_group_id": "14234344351939532",
       "photo": [
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAAFqDdtzsIyAIBjjW3CIA6QvooYtlwAC9g5rGwwocVAI6_8bwkXihgEAAwIAA3MAAzsE",
-          "file_unique_id": "AQAD9g5rGwwocVB4",
-          "file_size": 1005,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAWoN23M9gfZijYZeW564GArjmENvAAL3DmsbDChxUFRHT2kfgFBNAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD9w5rGwwocVB4",
+          "file_size": 786,
           "width": 44,
           "height": 90
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAAFqDdtzsIyAIBjjW3CIA6QvooYtlwAC9g5rGwwocVAI6_8bwkXihgEAAwIAA20AAzsE",
-          "file_unique_id": "AQAD9g5rGwwocVBy",
-          "file_size": 14672,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAWoN23M9gfZijYZeW564GArjmENvAAL3DmsbDChxUFRHT2kfgFBNAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD9w5rGwwocVBy",
+          "file_size": 6961,
           "width": 156,
           "height": 320
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAAFqDdtzsIyAIBjjW3CIA6QvooYtlwAC9g5rGwwocVAI6_8bwkXihgEAAwIAA3gAAzsE",
-          "file_unique_id": "AQAD9g5rGwwocVB9",
-          "file_size": 55824,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAWoN23M9gfZijYZeW564GArjmENvAAL3DmsbDChxUFRHT2kfgFBNAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD9w5rGwwocVB9",
+          "file_size": 25820,
           "width": 389,
           "height": 800
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAAFqDdtzsIyAIBjjW3CIA6QvooYtlwAC9g5rGwwocVAI6_8bwkXihgEAAwIAA3kAAzsE",
-          "file_unique_id": "AQAD9g5rGwwocVB-",
-          "file_size": 89163,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFAWoN23M9gfZijYZeW564GArjmENvAAL3DmsbDChxUFRHT2kfgFBNAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD9w5rGwwocVB-",
+          "file_size": 43095,
           "width": 622,
           "height": 1280
         }
       ],
-      "caption": "توضیح: توی اپ شیر و خورشید، قسمت Edge IP رو آیپی‌هایی که توی network checker بهتون پینگ داده بذارید و توی قسمت SNI، یکی از این 6 تا:\nsnapp.ir\nvarzesh3.com\ndigikala.com\ntelewebion.com\nbmi.ir\naparat.com\n\n• Sent via TeleFeed",
+      "caption": "• Sent via TeleFeed",
       "caption_entities": [
         {
-          "offset": 133,
-          "length": 8,
-          "type": "url"
-        },
-        {
-          "offset": 142,
-          "length": 12,
-          "type": "url"
-        },
-        {
-          "offset": 155,
-          "length": 12,
-          "type": "url"
-        },
-        {
-          "offset": 168,
-          "length": 14,
-          "type": "url"
-        },
-        {
-          "offset": 183,
-          "length": 6,
-          "type": "url"
-        },
-        {
-          "offset": 190,
-          "length": 10,
-          "type": "url"
-        },
-        {
-          "offset": 213,
+          "offset": 11,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 213,
+          "offset": 11,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 213,
+          "offset": 11,
           "length": 8,
           "type": "underline"
         }

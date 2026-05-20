@@ -11879,6 +11879,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1262,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779279062,
+      "text": "vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?security=none&encryption=none&headerType=none&type=tcp#%40Error404Bin\nvless://523bee30-6167-432a-3208-91ca147d9410@18.197.116.144:443?security=none&encryption=none&headerType=none&type=tcp#%40Error404Bin\nvless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.159.146.147:443?security=none&encryption=none&headerType=none&type=tcp#%40Error404Bin\nvless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.184.134.186:443?security=none&encryption=none&headerType=none&type=tcp#%40Error404Bin\nvless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.95.247:443?security=none&encryption=none&headerType=none&type=tcp#%40Error404Bin\n\nاینم کافینگ های استخراج شده برنامه \nHotvpn\n\nترکیبی بزنید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 668,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 668,
+          "type": "code"
+        },
+        {
+          "offset": 727,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 740,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 762,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 762,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 762,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

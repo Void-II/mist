@@ -11233,6 +11233,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1250,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779265443,
+      "text": "چرا حس میکنم شل کردن!؟😂🤣\n\nشمام همبن حسو دارید یا ما عادت کردیم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

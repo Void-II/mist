@@ -11787,6 +11787,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1260,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779278402,
+      "text": "سرور های hotVPN افزایش پیدا کرده و داخل برنامه زیاد شده و متصله\nاگه وصل نشدین دیشب الان وصل شین \n\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 100,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 113,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

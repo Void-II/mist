@@ -11434,6 +11434,67 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1254,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779269753,
+      "text": "لیست آیپی✅\n\n2.16.245.189\n2.16.168.115\n2.16.168.107\n2.16.165.173\n2.16.245.179\n2.16.169.146\n2.16.241.203\n2.16.169.134\n2.16.16.205 \n2.19.248.205 \n2.19.196.233 \n2.18.63.14 \n2.16.204.90 \n2.19.183.63 \n2.16.204.91 \n2.16.241.225 \n2.16.16.224 \n2.16.168.119 \n2.16.168.120 \n2.18.127.121 \n2.16.164.34 \n2.19.198.35 \n2.17.241.190 \n2.18.244.200 \n2.16.165.196 \n2.17.35.43 \n2.19.80.152 \n2.16.10.170 \n2.16.8.89 \n2.18.127.247 \n2.16.6.196 \n2.16.56.73 \n2.18.68.172 \n2.19.197.104 \n2.16.245.134 \n2.19.183.8 \n2.19.198.152 \n2.16.10.84 \n2.19.196.208 \n2.16.16.186 \n2.16.247.38 \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 12,
+          "length": 539,
+          "type": "blockquote"
+        },
+        {
+          "offset": 12,
+          "length": 539,
+          "type": "code"
+        },
+        {
+          "offset": 553,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 566,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 588,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 588,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 588,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

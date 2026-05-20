@@ -13670,6 +13670,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1299,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779305103,
+      "text": "🔴ترامپ :\nایران یه ملت شکست خورده‌ست، راستش الان داریم با آدمای حسابی و باهوشی طرف میشیم؛\nآدمایی که هم استعداد دارن هم مغزشون خوب کار میکنه و یه جورایی ازشون خوشمون اومده و تحت تاثیر قرار گرفتیم.\n🎙️خبرنگار :  آمریکا تو مذاکرات به ایران پیشنهاد کم کردن تحریم نفتی داده یا نه؟\n\n🇺🇸ترامپ:\nنه، همچین چیزی نشنیدم، تا وقتی توافق رو امضا نکنن هیچ تحریمی رو کم نمیکنم. اگه توافق امضا بشه، میتونیم کمک کنیم ایران دوباره ساخته بشه و اوضاعش برای مردمش خوب بشه، ولی فعلاً هیچ پیشنهادی ندادیم.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 484,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 497,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 523,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 523,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 523,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

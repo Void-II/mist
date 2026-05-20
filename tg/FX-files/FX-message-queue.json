@@ -13023,6 +13023,75 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1285,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779298923,
+      "text": "❤️تعدادی IP جدید ، تازه اسکن شده ... \n\n23.208.65.40\n104.103.65.50\n2.23.168.47\n23.215.60.41\n2.21.2.9\n2.21.2.10\n2.16.221.37\n95.101.35.112\n2.23.168.250\n2.21.2.91\n2.21.2.34\n2.21.2.104\n2.23.169.105\n2.16.20.51\n2.16.53.11\n2.16.53.50\n2.16.19.136\n151.101.0.223\n151.101.128.223\n151.101.192.223\n65.109.34.234\n151.101.64.223\n142.54.178.211\n2.16.53.50\n2.16.53.11\n95.101.133.82\n95.101.133.42\n104.103.65.50\n2.23.168.47\n104.103.64.7\n2.23.168.254\n2.23.168.144\n2.23.169.249\n2.23.169.42\n2.23.170.80\n104.103.65.5\n95.101.133.131\n104.103.65.74\n2.16.20.51\n23.221.28.57\n23.221.29.29\n23.221.28.5\n2.23.169.111\n2.23.168.96\n2.23.169.12\n2.23.168.174\n2.23.168.7\n184.84.221.34\n2.23.41.22\n\n\n\n➖➖➖➖➖➖➖➖➖➖\n👑NexPers1 NexPers2 NexPers Gp\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 35,
+          "type": "bold"
+        },
+        {
+          "offset": 39,
+          "length": 618,
+          "type": "blockquote"
+        },
+        {
+          "offset": 39,
+          "length": 617,
+          "type": "code"
+        },
+        {
+          "offset": 673,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+3eerO6lYZyEzNzc0"
+        },
+        {
+          "offset": 682,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/+1NpCb-pp0txjNWE0"
+        },
+        {
+          "offset": 691,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/+xp9kam_p2n4yOTU0"
+        },
+        {
+          "offset": 714,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 714,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 714,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

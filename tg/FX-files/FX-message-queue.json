@@ -14116,6 +14116,93 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1308,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779328264,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFHGoOZQgBSzV96kQWLwXAl0mTMa_OAAKiEGsbVqRxUDb-A6vFgiiEAQADAgADcwADOwQ",
+          "file_unique_id": "AQADohBrG1akcVB4",
+          "file_size": 1938,
+          "width": 90,
+          "height": 83
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFHGoOZQgBSzV96kQWLwXAl0mTMa_OAAKiEGsbVqRxUDb-A6vFgiiEAQADAgADbQADOwQ",
+          "file_unique_id": "AQADohBrG1akcVBy",
+          "file_size": 29355,
+          "width": 320,
+          "height": 295
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFHGoOZQgBSzV96kQWLwXAl0mTMa_OAAKiEGsbVqRxUDb-A6vFgiiEAQADAgADeAADOwQ",
+          "file_unique_id": "AQADohBrG1akcVB9",
+          "file_size": 68206,
+          "width": 572,
+          "height": 527
+        }
+      ],
+      "caption": "​🚨 بازداشت و بیخبری از سرنوشت جوان ۱۹ ساله  #حسین_رستمی\n\n​حسین رستمی، جوان ۱۹ ساله ساکن محله #قیامدشت #تهران، از تاریخ ۲۴ بهمن ۱۴۰۴ توسط نیروهای بسیج منطقه بدون ارائه هیچ‌گونه دلیل، مدرک یا حکمی ربوده شده است. او پس از بازداشت به زندان بزرگ تهران #فشافویه منتقل شده و با گذشت ماه‌ها، همچنان در بلاتکلیفی مطلق به سر می‌برد و قوه قضاییه از صدور یا اعلام هرگونه حکمی برای او خودداری می‌کند. وضعیت حسین به دلیل عدم پیگیری جدی و سکوت خبری بسیار نگران‌کننده است و بیم آن می‌رود که حقوق اولیه او در زندان به طور کامل پایمال شود. او در این روزهای سخت به صدای ما نیاز دارد تا مانع فراموشی پرونده‌اش شویم.\n\n​این یک نمونه کامنت برای حمایت از حسین رستمی است، می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n\n​» کامنت انگلیسی برای حسین رستمی «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 45,
+          "length": 11,
+          "type": "hashtag"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "hashtag"
+        },
+        {
+          "offset": 103,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "hashtag"
+        },
+        {
+          "offset": 713,
+          "length": 34,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=19yo%20%23HosseinRostami%20from%20Qiamdasht%2C%20Tehran%2C%20abducted%20Feb%2013%2C%202026%20by%20Basij%20without%20charge.%20Held%20in%20Fashafuye%20prison%20in%20limbo.%20Urgent%20help%20needed.%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23DigitalBlackOutIran%20%23StopExecutionsInIran"
+        },
+        {
+          "offset": 749,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 778,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 778,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 778,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

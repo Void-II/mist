@@ -1040,6 +1040,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1330,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779358981,
+      "text": "چرا گفتم چون مسؤلین دارن میرن دنبال کیر سیاه آفریقایی ها مدرکشم این زیر میفرستم 👇👇 اگه ویروس رو وارد کشور  کردن باعث مرگ هزاران هزار ادم میشن\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 156,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

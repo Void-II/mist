@@ -977,6 +977,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1329,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779358663,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFMWoO28dI5_B_Zhud51LOLqUsGjuNAAK3FWsbgqx4UMPt7BujWTysAQADAgADcwADOwQ",
+          "file_unique_id": "AQADtxVrG4KseFB4",
+          "file_size": 1154,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFMWoO28dI5_B_Zhud51LOLqUsGjuNAAK3FWsbgqx4UMPt7BujWTysAQADAgADbQADOwQ",
+          "file_unique_id": "AQADtxVrG4KseFBy",
+          "file_size": 17146,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFMWoO28dI5_B_Zhud51LOLqUsGjuNAAK3FWsbgqx4UMPt7BujWTysAQADAgADeAADOwQ",
+          "file_unique_id": "AQADtxVrG4KseFB9",
+          "file_size": 69342,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFMWoO28dI5_B_Zhud51LOLqUsGjuNAAK3FWsbgqx4UMPt7BujWTysAQADAgADeQADOwQ",
+          "file_unique_id": "AQADtxVrG4KseFB-",
+          "file_size": 106681,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "این وسط مسطا ویروس خیلی خیلی خطرناک ابولا دوباره تو آفریقا شایع شده این خطرناک ترین ویروس از نظر درصد مرگ و میره بین 50 تا 70 درصد مبتلایان خواهند مرد\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

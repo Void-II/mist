@@ -2199,6 +2199,88 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1349,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779378606,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFRWoPKa6n7qrhZ9WIE6uoUYDkldF5AAIhEGsbmyl4UDwv91nvKKTAAQADAgADcwADOwQ",
+          "file_unique_id": "AQADIRBrG5speFB4",
+          "file_size": 1122,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFRWoPKa6n7qrhZ9WIE6uoUYDkldF5AAIhEGsbmyl4UDwv91nvKKTAAQADAgADbQADOwQ",
+          "file_unique_id": "AQADIRBrG5speFBy",
+          "file_size": 12118,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFRWoPKa6n7qrhZ9WIE6uoUYDkldF5AAIhEGsbmyl4UDwv91nvKKTAAQADAgADeAADOwQ",
+          "file_unique_id": "AQADIRBrG5speFB9",
+          "file_size": 16017,
+          "width": 469,
+          "height": 469
+        }
+      ],
+      "caption": "​🚨 خطر اعدام فوری برای #منوچهر_فلاح\n\n​منوچهر فلاح، زندانی سیاسی که در حال حاضر در زندان #لاکان #رشت محبوس است، با تایید مجدد حکم اعدام خود توسط دادگاه انقلاب این شهر در آستانه یک فاجعه انسانی قرار دارد. او در تاریخ ۱۱ خرداد ۱۴۰۲ بازداشت شد و دستگاه قضایی اتهام سنگین محاربه را به او نسبت داده است. طبق گزارش‌های حقوق بشری، پرونده او تنها بر اساس ادعاهای واهی شکل گرفته و این حکم ناعادلانه صادر شده است. اکنون منوچهر در خطر فوری اجرای حکم اعدام قرار دارد و خانواده او در وضعیتی پر از بیم و امید، نیازمند صدای همبستگی ما هستند تا جلوی این اقدام گرفته شود.\n\n​این یک نمونه کامنت برای حمایت از منوچهر فلاح است؛ می‌توانید آن را ویرایش کرده، عکس او را اضافه کنید و منتشر کنید.\n​» کامنت انگلیسی برای منوچهر فلاح «\n\n@SedayeAzadi1401\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 24,
+          "length": 12,
+          "type": "hashtag"
+        },
+        {
+          "offset": 89,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 96,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 671,
+          "length": 35,
+          "type": "text_link",
+          "url": "https://x.com/intent/tweet?in_reply_to=2019336320946954700&text=Political%20prisoner%20%23ManouchehrFallah%2C%2047%2C%20from%20Rasht%2C%20arrested%20June%201%2C%202023%2C%20is%20sentenced%20to%20death%20%28execution%29%20for%20Moharebeh%20in%20Lakan%20Prison.%20His%20life%20is%20in%20imminent%20danger.%20%40MELANIATRUMP%20%40UNHumanRights%20%40POTUS%20%40WhiteHouse%20%23DigitalBlackOutIran%20%23StopExecutionsInIran"
+        },
+        {
+          "offset": 708,
+          "length": 16,
+          "type": "mention"
+        },
+        {
+          "offset": 737,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 737,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 737,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

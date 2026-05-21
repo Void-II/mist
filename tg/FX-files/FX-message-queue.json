@@ -3805,6 +3805,75 @@
         "file_unique_id": "AgAD9HUAAkauoUg",
         "file_size": 80714
       }
+    },
+    {
+      "message_id": 1362,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779390307,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFUmoPV2PaGrN-tR0LJiTvaH7TSwb6AAL3C2sbLPZ5RDHCrqubUMWnAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD9wtrGyz2eUR4",
+          "file_size": 750,
+          "width": 90,
+          "height": 61
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFUmoPV2PaGrN-tR0LJiTvaH7TSwb6AAL3C2sbLPZ5RDHCrqubUMWnAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD9wtrGyz2eURy",
+          "file_size": 7384,
+          "width": 320,
+          "height": 216
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFUmoPV2PaGrN-tR0LJiTvaH7TSwb6AAL3C2sbLPZ5RDHCrqubUMWnAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD9wtrGyz2eUR9",
+          "file_size": 28313,
+          "width": 800,
+          "height": 539
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFUmoPV2PaGrN-tR0LJiTvaH7TSwb6AAL3C2sbLPZ5RDHCrqubUMWnAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD9wtrGyz2eUR-",
+          "file_size": 45512,
+          "width": 1206,
+          "height": 813
+        }
+      ],
+      "caption": "🔴برای ویندوز میتونید از Se7en Pro استفاده کنید که تقریبا همون شیروخورشید برای ویندوز میشه.\n\n❤️Link Github\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 95,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://github.com/KNG7-P/Se7en-Pro"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -2163,6 +2163,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1348,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779376866,
+      "text": "*✅️ اینترنت بین‌المللی بازگشایی نمی‌شود*\n‌\n👤نایب‌رئیس کمیسیون فرهنگی مجلس:\n‌\n🔹اینترنت جهانی بازگشایی نمی‌شود و تنها گروه‌های دارای نیاز تخصصی به اینترنت بین‌الملل دسترسی خواهند داشت.\n‌\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

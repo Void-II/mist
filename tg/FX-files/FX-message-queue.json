@@ -14490,6 +14490,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1316,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779352505,
+      "text": "چقد بت گفتم شهرام همیشه یه عده تخم‌حروم یا موز و یا غذاشومو میذارن زیر پست\nو نمک نشناسن ..بعد میگی یاسین عصبیی نشو فحش نده \nوالا بخدا ک‌حقشونه👍\nلطف زیادی خوب‌نی، میشه وظیفه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

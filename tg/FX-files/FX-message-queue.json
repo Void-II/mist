@@ -2424,6 +2424,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1352,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779380346,
+      "text": "دلم یه جام جهانی با حال و هوای 2006 میخواهد 💔 بچه بودیم ولی باحال بود بازیکناش خدا بودن وضعیت مملکت بهتر بود حال دل مردمم بهتر بود مسؤلین مادر جنده هم هر روز راجب اینترنت گوه نمی‌خوردن\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 186,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -3548,6 +3548,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1357,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779381667,
+      "text": "اینارو کپی کنید بعد بیایین بدون وپن داخل این برنامه بزنید شروع اسکن بزنید هر کدوم پینگ داد ببرید توی برنامه مهسا انجی یا شیر خورشید متصله\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

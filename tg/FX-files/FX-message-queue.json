@@ -102,6 +102,337 @@
         "file_unique_id": "AgADHREAAkdjAAFT",
         "file_size": 14658
       }
+    },
+    {
+      "message_id": 1319,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779352589,
+      "text": "🦁☀️\n2.18.190.27\n2.21.2.104\n2.23.154.99\n2.23.168.7\n2.23.168.47\n2.23.168.96\n2.23.168.144\n2.23.168.174\n2.23.168.213\n2.23.168.250\n2.23.168.254\n2.23.170.80\n5.160.13.85\n5.160.128.142\n23.55.161.38\n23.58.223.171\n23.58.223.224\n23.58.223.225\n23.72.248.210\n23.73.2.75\n37.191.76.110\n37.191.95.70\n63.141.252.203\n65.109.34.234\n72.246.28.215\n78.39.234.140\n78.157.41.60\n80.191.243.226\n88.221.168.204\n88.221.169.205\n92.123.106.90\n94.130.13.19\n95.101.35.74\n95.101.35.91\n95.101.137.34\n96.16.122.137\n96.16.248.159\n96.16.249.11\n96.16.249.12\n104.89.170.140\n104.103.72.50\n104.103.72.80\n104.126.37.176\n109.72.197.1\n142.54.178.211\n164.138.17.122\n172.237.145.27\n184.24.77.25\n184.51.133.123\n184.86.103.158\n185.50.37.52\n185.88.178.196\n185.141.106.238\n185.208.174.167\n185.208.175.228\n185.255.91.60\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 5,
+          "length": 764,
+          "type": "blockquote"
+        },
+        {
+          "offset": 5,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 17,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 28,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 40,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 51,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 63,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 75,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 88,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 101,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 114,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 127,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 140,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 152,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 164,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 178,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 191,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 205,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 219,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 233,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 247,
+          "length": 10,
+          "type": "url"
+        },
+        {
+          "offset": 258,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 272,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 285,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 300,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 314,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 328,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 342,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 355,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 370,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 385,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 400,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 414,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 427,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 440,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 453,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 467,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 481,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 495,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 508,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 521,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 536,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 550,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 564,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 579,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 592,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 607,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 622,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 637,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 650,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 665,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 680,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 693,
+          "length": 14,
+          "type": "url"
+        },
+        {
+          "offset": 708,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 724,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 740,
+          "length": 15,
+          "type": "url"
+        },
+        {
+          "offset": 756,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 770,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 783,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 805,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 805,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 805,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

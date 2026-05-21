@@ -4042,6 +4042,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1367,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779394867,
+      "text": "تحلیل طلا و دلار رو از تحلیلگر مطرح حاج علی دنبال کنید اگر تو این شرایط سردرگم هستید کجا سرمایه گذاری کنید پیشنهادای اقتصادی رو براتون مطرح میکنه👇🏻\n\nhttps://t.me/+JaHUjLW4xDA0ZWE0\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 151,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

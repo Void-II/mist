@@ -2066,6 +2066,67 @@
       "link_preview_options": {
         "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
       }
+    },
+    {
+      "message_id": 1346,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779369786,
+      "document": {
+        "file_name": "ShirOKhorshid v2026.05.14.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIFQmoPBzqBkrmP1LhACZ4ZVzNYAcXrAALwHQACLBYxUJ8Mo5I_VhGTOwQ",
+        "file_unique_id": "AgAD8B0AAiwWMVA",
+        "file_size": 25232493
+      },
+      "caption": "🟠آخرین ورژن برنامه‌ شیر و خورشید  برای اندروید\n\nلینک دانلود مستقیم داخلی\n\n@Erro404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 45,
+          "type": "bold"
+        },
+        {
+          "offset": 49,
+          "length": 24,
+          "type": "text_link",
+          "url": "https://uplod.ir/iwyqx4o91dk1/ShirOKhorshid_v2026.05.14._.htm"
+        },
+        {
+          "offset": 75,
+          "length": 11,
+          "type": "mention"
+        },
+        {
+          "offset": 87,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

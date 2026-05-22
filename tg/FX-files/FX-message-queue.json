@@ -4535,6 +4535,92 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1377,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779432820,
+      "text": "حل مشکل اتصال vpn روی همراه اول با ست کردن APN جدید ...\n\nمسیر در اکثر گوشی ها :\n\nتنظیمات - اتصالات - شبکه های تلفن همراه - نام نقاط دستیابی - ساخت نام نقطه دستیابی جدید\n\nدر منوی انگلیسی :\nsettings - connections - mobile networks - access point names - ADD or +\n\nName : mcinet\nAPN : mcinet\nAuthentication type : PAP or CHAP\nAPN type : default\nAPN protocol : IPv4/IPv6\nAPN roaming protocol : IPv4/IPv6\nMMS/Proxy \nاز APN حذف کنید\nفقط این گزینه هارو اینجوری ست کنید بعد ذخیره کنید و بعد اون پروفایل APN رو انتخاب کنید .\nمشکل حل میشه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 168,
+          "type": "bold"
+        },
+        {
+          "offset": 170,
+          "length": 17,
+          "type": "bold"
+        },
+        {
+          "offset": 188,
+          "length": 72,
+          "type": "bold"
+        },
+        {
+          "offset": 262,
+          "length": 164,
+          "type": "blockquote"
+        },
+        {
+          "offset": 269,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 282,
+          "length": 6,
+          "type": "code"
+        },
+        {
+          "offset": 334,
+          "length": 7,
+          "type": "code"
+        },
+        {
+          "offset": 357,
+          "length": 9,
+          "type": "code"
+        },
+        {
+          "offset": 390,
+          "length": 9,
+          "type": "code"
+        },
+        {
+          "offset": 427,
+          "length": 101,
+          "type": "bold"
+        },
+        {
+          "offset": 541,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 541,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 541,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

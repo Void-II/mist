@@ -5914,6 +5914,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1405,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779481620,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFfWoQvBTTvrySFN5kxOuGtpn8zV7KAALrEGsbj4-IUBI2j-SCTXFHAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD6xBrG4-PiFB4",
+          "file_size": 1107,
+          "width": 64,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFfWoQvBTTvrySFN5kxOuGtpn8zV7KAALrEGsbj4-IUBI2j-SCTXFHAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD6xBrG4-PiFBy",
+          "file_size": 12277,
+          "width": 226,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFfWoQvBTTvrySFN5kxOuGtpn8zV7KAALrEGsbj4-IUBI2j-SCTXFHAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD6xBrG4-PiFB9",
+          "file_size": 40289,
+          "width": 564,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFfWoQvBTTvrySFN5kxOuGtpn8zV7KAALrEGsbj4-IUBI2j-SCTXFHAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD6xBrG4-PiFB-",
+          "file_size": 64727,
+          "width": 902,
+          "height": 1280
+        }
+      ],
+      "caption": "استوری علی‌کریمی \nمنظورش شاهین نجفیه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 37,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 50,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

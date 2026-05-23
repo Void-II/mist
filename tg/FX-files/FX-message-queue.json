@@ -6697,6 +6697,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1420,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779504481,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFjGoRFWEb1-UQxNuYfNJRUXT6HeITAALCC2sbZuWIRFirpNJrFPBJAQADAgADcwADOwQ",
+          "file_unique_id": "AQADwgtrG2bliER4",
+          "file_size": 894,
+          "width": 90,
+          "height": 79
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFjGoRFWEb1-UQxNuYfNJRUXT6HeITAALCC2sbZuWIRFirpNJrFPBJAQADAgADbQADOwQ",
+          "file_unique_id": "AQADwgtrG2bliERy",
+          "file_size": 10321,
+          "width": 320,
+          "height": 282
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFjGoRFWEb1-UQxNuYfNJRUXT6HeITAALCC2sbZuWIRFirpNJrFPBJAQADAgADeAADOwQ",
+          "file_unique_id": "AQADwgtrG2bliER9",
+          "file_size": 37741,
+          "width": 800,
+          "height": 704
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIFjGoRFWEb1-UQxNuYfNJRUXT6HeITAALCC2sbZuWIRFirpNJrFPBJAQADAgADeQADOwQ",
+          "file_unique_id": "AQADwgtrG2bliER-",
+          "file_size": 46703,
+          "width": 1206,
+          "height": 1061
+        }
+      ],
+      "caption": "بین عدد ۲۰۰۰ تا ۲۳۰۰ یه عدد غیر تکراری   بزارین برای گیفت کارت پنج دلاری اپل💵 \nادم تکراری هم نبینم \nادمیزاد یا اندروید داره یا ios مگر ثابت کنین نمیفروشین\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 168,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

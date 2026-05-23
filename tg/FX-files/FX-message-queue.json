@@ -7169,6 +7169,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1430,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779528241,
+      "text": "کجای داش سینا (بهش گفتم یه گیگ فیلترشکن بدمت سر قضیه موتور گفت دیگه انلاین نمیشم فعلا)\nدوستان اکانت بهارات مووی خریداری در اختیار نیما قرار گرفته مود میشه میزاریمش تا اون موقع اگه عجله دارید 3 روز اشتراک رایگان بگیرید\nطریقه دریافت\n1. از لینک زیر دانلود و نصب کنید(بدون نیاز به فیلترشکن) \nhttps://baharatmovie2.com/App/baharat.Virsion9.apk\n2. یه ایمیل موقت یا جیمیل یا.. بدین بهش ثبت نام کنید\n3. بعد ورود به برنامه پایین سمت چپ اولین گزینه (شکلک ادمت) بزنید تو صفحه بعدش رو کادر ورود کد معرف بزنید کد زیر وارد و تایید کنید\n5rwps2\nتمام اشتراکش فعاله فقط تماشا فیلم هندیه\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 288,
+          "length": 50,
+          "type": "url"
+        },
+        {
+          "offset": 522,
+          "length": 6,
+          "type": "code"
+        },
+        {
+          "offset": 570,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 593,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 593,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 593,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -7220,6 +7220,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1431,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779532922,
+      "text": "🔰AnimeGate🔰\n\n🔎 LinkSite\n\n💡1.0.4 | #anime\n\n#اکانت‌تزریق‌شده\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a / arm64-v8\n\nتوضیحات درباره برنامه:\nانیمه گیت - پلتفرمی کامل برای دانلود و تماشای آنلاین انیمه و دونگهوا، با ارایه‌ی زیرنویس های هاردساب، سافت ساب و در کنار آن با آرشیو گسترده و اپلیکیشن اختصاصی\nانیمه گیت دروازه ای رو به دنیای انیمه و دونگهوا - انیمه رو با ما زندگی کن.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 18,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://animegate.net/"
+        },
+        {
+          "offset": 38,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 46,
+          "length": 16,
+          "type": "hashtag"
+        },
+        {
+          "offset": 226,
+          "length": 234,
+          "type": "blockquote"
+        },
+        {
+          "offset": 549,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://nixfile.com/f/5281rc"
+        },
+        {
+          "offset": 578,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 597,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 614,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 637,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 637,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 637,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://nixfile.com/f/5281rc/"
+      }
     }
   ]
 }

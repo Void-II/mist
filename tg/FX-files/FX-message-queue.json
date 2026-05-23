@@ -7026,6 +7026,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1427,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779519961,
+      "text": "دیشب با شوکر به دانش‌آموزان معترض شهرکردی حمله شده!\nاین دانش‌آموزا اومده بودن به حضوری شدن امتحاناشون اعتراض کنند!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 116,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 129,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -11632,6 +11632,128 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1501,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779663426,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF3WoTgkJEkQxVywABW0hhdrtdVea37AACog1rG5ZUoVDT1ctvhToRAAEBAAMCAANzAAM7BA",
+          "file_unique_id": "AQADog1rG5ZUoVB4",
+          "file_size": 1337,
+          "width": 90,
+          "height": 77
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF3WoTgkJEkQxVywABW0hhdrtdVea37AACog1rG5ZUoVDT1ctvhToRAAEBAAMCAANtAAM7BA",
+          "file_unique_id": "AQADog1rG5ZUoVBy",
+          "file_size": 17106,
+          "width": 320,
+          "height": 275
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF3WoTgkJEkQxVywABW0hhdrtdVea37AACog1rG5ZUoVDT1ctvhToRAAEBAAMCAAN4AAM7BA",
+          "file_unique_id": "AQADog1rG5ZUoVB9",
+          "file_size": 64377,
+          "width": 800,
+          "height": 688
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF3WoTgkJEkQxVywABW0hhdrtdVea37AACog1rG5ZUoVDT1ctvhToRAAEBAAMCAAN5AAM7BA",
+          "file_unique_id": "AQADog1rG5ZUoVB-",
+          "file_size": 122530,
+          "width": 1280,
+          "height": 1101
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF3WoTgkJEkQxVywABW0hhdrtdVea37AACog1rG5ZUoVDT1ctvhToRAAEBAAMCAAN3AAM7BA",
+          "file_unique_id": "AQADog1rG5ZUoVB8",
+          "file_size": 259383,
+          "width": 2560,
+          "height": 2202
+        }
+      ],
+      "caption": "🍭آموزش share proxy با شیر و خورشید\n\nبا این آموزش میتوانید اینترنت گوشی اندروید که با شیر و خورشید متصل شدید رو به تمامی دستگاه های پشتیبانی از ساکس یا Http که برنامه برای آنها قابل نصب نیست یا حتی وصل نمیشه اشتراک کنید\n\nاین بهترین روش برای آیفون، مک و غیره هست\n\n1 - ابتدا از منوی بالای صفحه ؛ روی گزینه « گزینه ها/Options » کلیک کنید سپس از منوی باز شده روی « More Options/گزینه های بیشتر » کلیک کنید\n\n2 - به پایین صفحه اسکرول کنید و دنبال  گزینه « اشتراک گزاری پروکسی در شبکه/Share Proxy on network بگردید تا فعالش کنید،سپس به یه WiFi وصل بشید و وصل کنید شیروخورشید رو به صفحه اصلی « Home/خانه » برگشته و مناسب با اطلاعات خودتون کانفیگ بسازید ( با توجه به عدد و پورت که صفحه ظاهر شده ، خودتون تغییر بدید )\n\nمیتوانید در بخش وایفای دستگاهی که بهش اتصال دارید اعمال کنید یا👇\n\nsocks://Og@عددی که نشون میده:پورت#@Error404Bin\n\nرا در برنامه های مناسب سیستم عامل iosهمانند  Streisand یا V2Box اضافه کنید و متصل شوید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 33,
+          "type": "bold"
+        },
+        {
+          "offset": 267,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 407,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 647,
+          "length": 60,
+          "type": "bold"
+        },
+        {
+          "offset": 647,
+          "length": 56,
+          "type": "underline"
+        },
+        {
+          "offset": 810,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 869,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/streisand/id6450534064"
+        },
+        {
+          "offset": 882,
+          "length": 5,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
+        },
+        {
+          "offset": 912,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 925,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 947,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 947,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 947,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

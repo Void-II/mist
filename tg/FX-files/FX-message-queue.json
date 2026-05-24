@@ -10236,6 +10236,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1472,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779619550,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFwGoS1t7EM-xGLM1gbk2x7yMoWlNNAAIPDmsbg8WZUMWysxswEYXgAQADAgADcwADOwQ",
+          "file_unique_id": "AQADDw5rG4PFmVB4",
+          "file_size": 1506,
+          "width": 90,
+          "height": 78
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFwGoS1t7EM-xGLM1gbk2x7yMoWlNNAAIPDmsbg8WZUMWysxswEYXgAQADAgADbQADOwQ",
+          "file_unique_id": "AQADDw5rG4PFmVBy",
+          "file_size": 21560,
+          "width": 320,
+          "height": 278
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFwGoS1t7EM-xGLM1gbk2x7yMoWlNNAAIPDmsbg8WZUMWysxswEYXgAQADAgADeQADOwQ",
+          "file_unique_id": "AQADDw5rG4PFmVB-",
+          "file_size": 68671,
+          "width": 839,
+          "height": 728
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFwGoS1t7EM-xGLM1gbk2x7yMoWlNNAAIPDmsbg8WZUMWysxswEYXgAQADAgADeAADOwQ",
+          "file_unique_id": "AQADDw5rG4PFmVB9",
+          "file_size": 78608,
+          "width": 800,
+          "height": 694
+        }
+      ],
+      "caption": "🔴علی کریمی توی یه استوری عکس اصلی که یه نفر تصویر شاهزاده رضا پهلوی رو برده بالا استوری کرده، اما رضا پهلوی رو سانسور کرده و جای عکس پهلوی نوشته «ایران»!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 155,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 168,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

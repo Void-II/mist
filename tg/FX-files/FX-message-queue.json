@@ -9927,6 +9927,68 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1466,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779613264,
+      "text": "🔥 آموزش استفاده از نسخه جدید Vpn شیر و خورشید بر پاییه سایفون ( متصل بر روی تمامیه اوپراتورها )\n\n❓ابتدا فیلترشکن شیر خورد در پایین این پست رو دانلود و نصب کنید اگر نصب نشد نسخه ایی از سایفون یا شیر خوردشیدی که از قبل روی گوشیتون نصب هست رو حذف کنید بعد این نسخرو نصب کنید\nبعد اینکه نصب کردید طبق عکس بالا تنظیماتش رو تغییر بدید و دیگه به هیچی دست نزنید سپس روشنش کنید و صبر کنید تا متصل بشه.\nاگر وصل نشد گوشیتون رو یک بار روی حالت پرواز بزارید و بهتره بخش انتخاب لوکیشن روی Best performance باشه.\n❗️کامنت این پست حتما چک کنید.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 98,
+          "length": 400,
+          "type": "blockquote"
+        },
+        {
+          "offset": 565,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://nixfile.com/f/tye44g"
+        },
+        {
+          "offset": 594,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 613,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 630,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 653,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 653,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 653,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://nixfile.com/f/tye44g/"
+      }
     }
   ]
 }

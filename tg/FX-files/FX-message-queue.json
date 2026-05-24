@@ -10870,6 +10870,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1485,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779626825,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFzWoS80mKJKBEny9PJT2t7Q72KWTLAALoDWsbf5qZUNLCoiw0xR5bAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD6A1rG3-amVB4",
+          "file_size": 1481,
+          "width": 90,
+          "height": 85
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFzWoS80mKJKBEny9PJT2t7Q72KWTLAALoDWsbf5qZUNLCoiw0xR5bAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD6A1rG3-amVBy",
+          "file_size": 18841,
+          "width": 320,
+          "height": 304
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIFzWoS80mKJKBEny9PJT2t7Q72KWTLAALoDWsbf5qZUNLCoiw0xR5bAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD6A1rG3-amVB9",
+          "file_size": 58627,
+          "width": 725,
+          "height": 689
+        }
+      ],
+      "caption": "تنظیمات رو اینجوری ست کنید\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 39,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 39,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 39,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

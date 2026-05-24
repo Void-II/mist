@@ -11342,6 +11342,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1495,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779640365,
+      "text": "🚨 ضیایی‌ پرور: \n\nاینترنت بین‌الملل احتمالاً هفته آینده به وضعیت عادی بازمی‌گردد. یک استاد علوم ارتباطات، با اشاره به تحولات اخیر سیاسی و احتمال کاهش تنش‌ها، پیش‌بینی کرد که اینترنت بین‌الملل طی هفته آینده به شرایط عادی بازگردد و تأکید کرد ادامه محدودیت‌ها پس از آتش‌بس، توجیه عقلایی نداشته است.\n\n\n🚨 رشیدی کوچی، نماینده مجلس:\n\nاینترنت بین‌المللی تا هفته آینده به روال عادی برمی‌گرده.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 397,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 397,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 397,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

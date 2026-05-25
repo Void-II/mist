@@ -15262,6 +15262,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1572,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779744816,
+      "text": "🔴فوری/هاآرتص: جرقه زده شد\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 27,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 38,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 52,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

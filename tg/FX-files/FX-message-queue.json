@@ -12101,6 +12101,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1509,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779700387,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF5WoUEqOxzt4Yf_YVm9i4pKSLwnKjAAJpD2sbvGugUF1FoSrNWITnAQADAgADcwADOwQ",
+          "file_unique_id": "AQADaQ9rG7xroFB4",
+          "file_size": 2356,
+          "width": 86,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF5WoUEqOxzt4Yf_YVm9i4pKSLwnKjAAJpD2sbvGugUF1FoSrNWITnAQADAgADbQADOwQ",
+          "file_unique_id": "AQADaQ9rG7xroFBy",
+          "file_size": 28396,
+          "width": 306,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF5WoUEqOxzt4Yf_YVm9i4pKSLwnKjAAJpD2sbvGugUF1FoSrNWITnAQADAgADeAADOwQ",
+          "file_unique_id": "AQADaQ9rG7xroFB9",
+          "file_size": 107519,
+          "width": 765,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIF5WoUEqOxzt4Yf_YVm9i4pKSLwnKjAAJpD2sbvGugUF1FoSrNWITnAQADAgADeQADOwQ",
+          "file_unique_id": "AQADaQ9rG7xroFB-",
+          "file_size": 195064,
+          "width": 1224,
+          "height": 1280
+        }
+      ],
+      "caption": "میلاد آرمون، محمدمهدی حسینی، مهدی ایمانی و نوید نجاران بخاطر اتهام کشته شدن یک بسیجی در اعتراضات سال ۱۴۰۱ در شهرک اکباتان توسط جلاد صلواتی به اعدام محکوم شدند.\nاین افراد از سال ۱۴۰۱ زندانی هستند و حتی به مرخصی رفتن بخاطر اینکه هیچگونه سندی بخاطر اتهامی که بهشون وارد کردن وجود نداشت اما با این حال دیروز صلواتی بهشون حکم اعدام داد.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 332,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 345,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 371,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 371,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 371,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

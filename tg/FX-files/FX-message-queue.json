@@ -14177,6 +14177,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1550,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779735755,
+      "text": "🔴آخوند رسایی، نماینده مجلس:\nپزشکیان خودشم می‌دونه اختیار برگردوندن اینترنت به حالت قبل رو نداره و فقط یه بازی رسانه‌ای راه انداخته تا حواس مردم از گرونی‌ها پرت بشه!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 166,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

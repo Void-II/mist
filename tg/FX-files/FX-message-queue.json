@@ -15569,6 +15569,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1579,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779745836,
+      "text": "مولتی لوکیشن سرعت بالا گیگی 250\nمولتی لوکیشن اقتصادی گیگی 190\nاوپن وی‌پی‌ان(OPEN VPN) نامحدود 1100 فروش خیلی محدود.\nاقتصادی عادی موجود نیست.\nاوتباند هم موجوده گیگی 100.\nپرداخت به صورت رمز ارز و ریالی✅\nفروش ارز و انواع اکانت‌های قانونی برای Ai و Spotify و... هم داریم.\nبرای خرید :\n@e7fnn\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 280,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 288,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

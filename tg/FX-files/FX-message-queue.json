@@ -13696,6 +13696,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1541,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779728288,
+      "text": "وای این پزشکیان ریس جمهور مملکت اختیار هیچی رو نداره حتی یه اینترنت ساده باید از چند سازمان اجازه بگیره بازش کنه اگه من ریس جمهور میبودم الان اون افراد تصمیم گیرنده زنده نبودن که بخواهند نظر بدهند 🥴🥴\nمرد حسابی جلسه بزار همشون جمع کن با یه بمب بفرستشون اون دنیا بلانسبت ریس جمهوری\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

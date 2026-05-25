@@ -15707,6 +15707,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1582,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779746256,
+      "text": "🔴خبرگزاری دانشجو :\nجنگنده‌های آمریکا چند شناور ایرانی رو تو جنوب جزیره لارک زدن که تا این لحظه 3 نفر کشته شدن!\n\n- عباس اسلامی \n- قدرت زرنگاری \n- عبدالرضا گلزاری\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 163,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

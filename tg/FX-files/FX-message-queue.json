@@ -11915,6 +11915,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1505,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779697387,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIF4WoUBus9Xf5mCKwD4URrUM4NbYhuAAJnDGsbtJmgRDbPAfHXj6zeAQADAgADcwADOwQ",
+          "file_unique_id": "AQADZwxrG7SZoER4",
+          "file_size": 722,
+          "width": 90,
+          "height": 45
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIF4WoUBus9Xf5mCKwD4URrUM4NbYhuAAJnDGsbtJmgRDbPAfHXj6zeAQADAgADbQADOwQ",
+          "file_unique_id": "AQADZwxrG7SZoERy",
+          "file_size": 8009,
+          "width": 320,
+          "height": 161
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIF4WoUBus9Xf5mCKwD4URrUM4NbYhuAAJnDGsbtJmgRDbPAfHXj6zeAQADAgADeAADOwQ",
+          "file_unique_id": "AQADZwxrG7SZoER9",
+          "file_size": 28122,
+          "width": 800,
+          "height": 402
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIF4WoUBus9Xf5mCKwD4URrUM4NbYhuAAJnDGsbtJmgRDbPAfHXj6zeAQADAgADeQADOwQ",
+          "file_unique_id": "AQADZwxrG7SZoER-",
+          "file_size": 36723,
+          "width": 1280,
+          "height": 643
+        }
+      ],
+      "caption": "اینترنت درحال وصل شدن\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 34,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 34,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 34,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

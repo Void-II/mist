@@ -15160,6 +15160,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1570,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779744336,
+      "text": "🔴برابر گزارش‌ها، پرتاب  موشک از قم.\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 37,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 48,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 62,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

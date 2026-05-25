@@ -14075,6 +14075,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1548,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779735215,
+      "text": "{\n\"_comment\": {\n\"remark\": \"https://t.me/Error404Bin\"\n},\n\"log\": {\n\"access\": \"\",\n\"error\": \"\",\n\"loglevel\": \"info\",\n\"dnsLog\": false\n},\n\"inbounds\": [\n{\n\"tag\": \"in_proxy\",\n\"port\": 1080,\n\"protocol\": \"socks\",\n\"listen\": \"0.0.0.0\",\n\"settings\": {\n\"auth\": \"noauth\",\n\"udp\": true,\n\"userLevel\": 8\n},\n\"sniffing\": {\n\"enabled\": false\n}\n},\n{\n\"tag\": \"http-in\",\n\"port\": 10808,\n\"listen\": \"::\",\n\"protocol\": \"http\"\n}\n],\n\"outbounds\": [\n{\n\"tag\": \"proxy\",\n\"protocol\": \"trojan\",\n\"settings\": {\n\"servers\": [\n{\n\"address\": \"141.193.213.11\",\n\"method\": \"chacha20-poly1305\",\n\"ota\": false,\n\"password\": \"humanity\",\n\"port\": 443,\n\"level\": 8,\n\"flow\": \"\"\n}\n]\n},\n\"streamSettings\": {\n\"network\": \"ws\",\n\"security\": \"tls\",\n\"wsSettings\": {\n\"path\": \"/assignment\",\n\"headers\": {\n\"Host\": \"www.calmloud.com\"\n}\n},\n\"tlsSettings\": {\n\"allowInsecure\": true,\n\"serverName\": \"www.calmloud.com\",\n\"alpn\": [\n\"http/1.1\"\n],\n\"fingerprint\": \"ios\",\n\"show\": false\n},\n\"sockopt\": {\n\"dialerProxy\": \"fragment\",\n\"tcpKeepAliveIdle\": 100,\n\"tcpNoDelay\": true\n}\n},\n\"mux\": {\n\"enabled\": false,\n\"concurrency\": 8\n}\n},\n{\n\"tag\": \"fragment\",\n\"protocol\": \"freedom\",\n\"settings\": {\n\"domainStrategy\": \"AsIs\",\n\"fragment\": {\n\"packets\": \"tlshello\",\n\"length\": \"100-200\",\n\"interval\": \"10-20\"\n}\n},\n\"streamSettings\": {\n\"sockopt\": {\n\"tcpKeepAliveIdle\": 100,\n\"tcpNoDelay\": true\n}\n}\n},\n{\n\"tag\": \"direct\",\n\"protocol\": \"freedom\",\n\"settings\": {\n\"domainStrategy\": \"UseIp\"\n}\n},\n{\n\"tag\": \"blackhole\",\n\"protocol\": \"blackhole\",\n\"settings\": {}\n}\n],\n\"dns\": {\n\"servers\": [\n\"8.8.8.8\"\n]\n},\n\"routing\": {\n\"domainStrategy\": \"UseIp\",\n\"rules\": [],\n\"balancers\": []\n}\n}\n\nترکیببی متصل پرسرعت\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 1550,
+          "type": "code"
+        },
+        {
+          "offset": 1572,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 1585,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 1607,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1607,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1607,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+      }
     }
   ]
 }

@@ -11754,6 +11754,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1502,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779686107,
+      "text": "❗️فروش سرویس مولتی لوکشین سرعت خوب برای همه کارای روزمره 10 گیگ 1/500/000 تومن برای خرید پیوی مراجعه کنید:\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 113,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

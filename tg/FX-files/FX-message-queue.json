@@ -22031,6 +22031,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1723,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779808237,
+      "text": "⭕️مدیر سایت پورن هاب : طی یک ساعت گذشته سایتمون با ترافیک شدیدی مواجه شد و باعث شد تا سایت برای دقایقی از دسترس خارج بشه.\nموضوع در دست بررسی است\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 145,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 158,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

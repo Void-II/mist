@@ -16870,6 +16870,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1607,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779783157,
+      "text": "ظاهرا کم کم داره رفع محدودیت ها انجام میشه اگه تاشب کامل نت ها وصل شه وضعیت اونایی که نت پرو خریدن 50 گیگ 2 میلیون خوردی عین اینه که\nرو کیر بشینن کیک بخورن\nیا رو کیک بشینن کیر بخورن🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 133,
+          "length": 50,
+          "type": "spoiler"
+        },
+        {
+          "offset": 184,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

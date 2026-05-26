@@ -23088,6 +23088,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1747,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779814357,
+      "text": "با نتای همراه هرچی وصلین داخل کامنتا بگین بقیه هم استفاده کنن\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 63,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 76,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

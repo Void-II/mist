@@ -24666,6 +24666,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1783,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779824438,
+      "text": "یه کانفیگ وی‌توری که درحد صد‌ دویست مگ کار بده کسی داشت بندازه پی \nمرسی\n@oonpm\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 72,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 91,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 91,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 91,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

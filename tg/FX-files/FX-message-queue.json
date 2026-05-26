@@ -24439,6 +24439,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1778,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779822998,
+      "text": "vless://bbb85114-888f-4c6d-80fd-43e0a73fd6ae@ae.209qu4892fh8934.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=t24u9hr8723hr923.com&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=b8ac943e2be36634&spx=%2F#El_chapo\n\n\n\nایرانسل تست کردم اوکیه همراهم تست کنید با هر نتی \nنتیجه رو بگید حتما تو کامنت \nخجم‌نامحدود\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 259,
+          "type": "code"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

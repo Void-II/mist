@@ -23872,6 +23872,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1766,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779819338,
+      "text": "ExpressVPN 👨‍⚖️\n\n Email: awanrehan1997@gmail.com\n Pass: EAH2QOAK565QIGB25RBFEF9\n\nCredits - not mine\n\n✅ PCKey: EAH2QOAK565QIGB25RBFEF9\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 26,
+          "length": 23,
+          "type": "code"
+        },
+        {
+          "offset": 57,
+          "length": 23,
+          "type": "code"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

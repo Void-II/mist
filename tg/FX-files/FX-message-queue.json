@@ -24598,6 +24598,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1782,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779824438,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIG9moV9zZwtIcqZLDhj9ceX2ERcEvHAAJNEWsbUAeoUHzH5uiOzwmaAQADAgADcwADOwQ",
+          "file_unique_id": "AQADTRFrG1AHqFB4",
+          "file_size": 799,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIG9moV9zZwtIcqZLDhj9ceX2ERcEvHAAJNEWsbUAeoUHzH5uiOzwmaAQADAgADbQADOwQ",
+          "file_unique_id": "AQADTRFrG1AHqFBy",
+          "file_size": 9625,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIG9moV9zZwtIcqZLDhj9ceX2ERcEvHAAJNEWsbUAeoUHzH5uiOzwmaAQADAgADeAADOwQ",
+          "file_unique_id": "AQADTRFrG1AHqFB9",
+          "file_size": 36012,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIG9moV9zZwtIcqZLDhj9ceX2ERcEvHAAJNEWsbUAeoUHzH5uiOzwmaAQADAgADeQADOwQ",
+          "file_unique_id": "AQADTRFrG1AHqFB-",
+          "file_size": 50534,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "🫶 Welcome back #Iran! Metrics show a further rise in connectivity as mobile networks and other segments are reconnected to the global internet:\n\n• Filternet remains in place but can be worked around\n• WhatsApp now restricted, requiring circumvention\n• Some users still offline\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 16,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

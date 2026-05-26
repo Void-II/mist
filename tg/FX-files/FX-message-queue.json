@@ -17424,6 +17424,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1619,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779790837,
+      "text": "vless://e6cd5fb0-366e-4810-a54a-a6afe092bd65@104.19.229.21:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dash.pars-cdn.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.pars-cdn.ir#asali\n\nتشت کنید نتیجه بگید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 215,
+          "type": "code"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -17732,6 +17732,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1626,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779791917,
+      "text": "میگن منبع خبری سیتنا شدیدا اختلال داره بعضی منایع غیر رسمی میگن داره از دسترس خارج میشه \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 89,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

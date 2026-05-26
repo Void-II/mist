@@ -17783,6 +17783,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1627,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779791977,
+      "text": "⭐معتمدی ، وزیر ارتباطات دولت خاتمی: \nیکی از دلایل تصمیم وصل کردن اینترنت، ترس از فراگیرشدن استارلینک است\n\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 106,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 117,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -24891,6 +24891,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1788,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779826838,
+      "text": "تموم دیتاسنتر ها افزایش قیمت دادن مجدد رو سخت افزار دیگه نمیشه زیر 10 داد 😕 \n\nخب اینطور بی فایدس رایگان ها وصل ترافیک اینقدر گرون به چه دردی میخوره دیگه\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 155,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 168,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

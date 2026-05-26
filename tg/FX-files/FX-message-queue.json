@@ -22618,6 +22618,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1736,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779812977,
+      "text": "📡 وضعیت اتصال اینترنت کشور تا این لحظه :\n\n✅  مخابرات (منطقه ای)\n✅  آسیاتک\n✅  شاتل (منطقه ای)\n✅  پیشگامان\n✅  مبین نت TD-LTE\n✅  صبانت\n✅  پارس آنلاین\n✅  زیتل\n✅  افرانت\n✅  ایرانسل (TD-LTE)\n❌  ایرانسل (سیمکارت)\n❌  همراه اول (سیمکارت)\n❌  رایتل (سیمکارت)\n❌  سامانتل (سیمکارت)\n\n@Berooz_show\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 271,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 296,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 296,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 296,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

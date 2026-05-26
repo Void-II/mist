@@ -20410,6 +20410,61 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1689,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779802297,
+      "document": {
+        "file_name": "arvanping (2).ovpn",
+        "mime_type": "text/plain",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIGmWoVoLk1W-FxXqMXBYTLEcrPRaSsAAJOIQAC_8GpUCS0hquR24gCOwQ",
+        "file_unique_id": "AgADTiEAAv_BqVA",
+        "file_size": 8488
+      },
+      "caption": "📣اطلاعیه\n\nفایل اوپن وی پی ان نامحدود مخصوص اعضای اروان پینگ\n\nتست کنید که براتون متصل میشه اگه اتصال براتون انجام شد و قطع وصلی داشتین به علت اتصال زیاد کاربران هست\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 168,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 182,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 198,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 229,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

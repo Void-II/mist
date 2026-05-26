@@ -20697,7 +20697,7 @@
       }
     },
     {
-      "message_id": 1695,
+      "message_id": 1696,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -20708,32 +20708,32 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1779803872,
-      "text": "🔴 خبرنگار انتخاب دقایقی پیش اسامی ۴ نفر شاکی حقیقیِ توقف اتصال اینترنت بین‌الملل رو منتشر کرد: کامیار ثقفی،رضا تقی پور،رسول جلیلی،محمد حسن انتظاری\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "date": 1779803873,
+      "text": "🔴محمدرضا عارف، معاون اول پزشکیان :\nبه عشق مردم که اینطور پای نظام و ایران موندن، اولین قدم واسه دسترسی آزاد به فضای مجازی برداشته شد؛\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 149,
+          "offset": 135,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 162,
+          "offset": 148,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 188,
+          "offset": 174,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 188,
+          "offset": 174,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 188,
+          "offset": 174,
           "length": 8,
           "type": "underline"
         }

@@ -17297,6 +17297,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1616,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779790417,
+      "text": "⭐ خبرگزاری تسنیم :\n\nتوقف اجرای مصوبه ایجاد ستاد ویژه ساماندهی فضای مجازی توسط دیوان عدالت\n\nبر اساس اعلام دیوان عدالت اداری، هیأت تخصصی صنایع و بازرگانی این دیوان طی، اجرای مصوبه مربوط به ایجاد «ستاد ویژه ساماندهی و راهبری فضای مجازی کشور» را متوقف کرده است.\n\n🔹دیوان عدالت اداری تأکید کرد: تا زمان رسیدگی نهایی به شکایات مطروحه، مصوبات و تصمیمات ستاد ویژه ساماندهی و راهبری فضای مجازی کشور قابل ترتیب اثر نخواهد بود.\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 417,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 428,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 442,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 461,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 461,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 461,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

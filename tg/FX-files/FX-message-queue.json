@@ -16326,6 +16326,75 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1596,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779773017,
+      "media_group_id": "14238184142072036",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGPGoVLln2a9KpvaKwYSrEWn1g7N28AAI5DmsbtCWpUFgw3tk_Z3WBAQADAgADcwADOwQ",
+          "file_unique_id": "AQADOQ5rG7QlqVB4",
+          "file_size": 1118,
+          "width": 57,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGPGoVLln2a9KpvaKwYSrEWn1g7N28AAI5DmsbtCWpUFgw3tk_Z3WBAQADAgADbQADOwQ",
+          "file_unique_id": "AQADOQ5rG7QlqVBy",
+          "file_size": 14635,
+          "width": 204,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGPGoVLln2a9KpvaKwYSrEWn1g7N28AAI5DmsbtCWpUFgw3tk_Z3WBAQADAgADeAADOwQ",
+          "file_unique_id": "AQADOQ5rG7QlqVB9",
+          "file_size": 57040,
+          "width": 509,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGPGoVLln2a9KpvaKwYSrEWn1g7N28AAI5DmsbtCWpUFgw3tk_Z3WBAQADAgADeQADOwQ",
+          "file_unique_id": "AQADOQ5rG7QlqVB-",
+          "file_size": 61144,
+          "width": 626,
+          "height": 983
+        }
+      ],
+      "caption": "#ارسالی این روش رو تست کردم فوق العاده است بذارید کانال\n\nاگر کلاینت MahsaNG رو دارید انجام بدید وصل میشه\n\nاز منوی برنامه مهسا ان جی، روی Get EMS Config بزنید، کانفیگ دریافت کنید\n\nدو عدد کانفیگ ترکیبی مشاهده میکنید یکی رو انتخاب کنید. (بالای برنامه اضافه میشه اون دوتا کانفیگ. باید حتما یکی از اون دوتارو انتخاب کنید)\nتوی برنامه مهسا قسمت تنظیمات سایفون Protocol رو روی Auto بذارید و Aggressive رو ON کنید و Save بزنید\nدکمه psiphon-after از منوی F رو روشن کنید و Save بزنید\nنیازی به روشن کردن فرگمنت از منوی F نیست\n\nدکمه M پایین صفحه سمت راست رو روشن کنید و 30 ثانیه صبر کنید تا متصل بشه.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "hashtag"
+        },
+        {
+          "offset": 600,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 600,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 600,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

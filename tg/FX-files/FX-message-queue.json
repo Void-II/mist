@@ -19194,6 +19194,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1663,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779798457,
+      "text": "یک خبر خوش برای مخابرات کسایی دارن و فیبر نوری اسیاتک نت هاش بین‌المللی شده میتونید استفاده کنید گیم بزنید لذت ببرید اگر موقت نباشه 🚬\n\nتائید یا تکذیب با شما و‌هرکی ک‌از این سرویس ها استفادع میکنه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

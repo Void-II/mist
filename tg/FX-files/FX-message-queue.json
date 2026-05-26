@@ -16916,6 +16916,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1608,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779784237,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGSGoVWi3rJ3OHqbx3eO0wUHjHwvBcAAKoD2sbUAeoUGPnX9BBy0-rAQADAgADcwADOwQ",
+          "file_unique_id": "AQADqA9rG1AHqFB4",
+          "file_size": 786,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGSGoVWi3rJ3OHqbx3eO0wUHjHwvBcAAKoD2sbUAeoUGPnX9BBy0-rAQADAgADbQADOwQ",
+          "file_unique_id": "AQADqA9rG1AHqFBy",
+          "file_size": 9319,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGSGoVWi3rJ3OHqbx3eO0wUHjHwvBcAAKoD2sbUAeoUGPnX9BBy0-rAQADAgADeAADOwQ",
+          "file_unique_id": "AQADqA9rG1AHqFB9",
+          "file_size": 35448,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIGSGoVWi3rJ3OHqbx3eO0wUHjHwvBcAAKoD2sbUAeoUGPnX9BBy0-rAQADAgADeQADOwQ",
+          "file_unique_id": "AQADqA9rG1AHqFB-",
+          "file_size": 49994,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "⚠️ Internet connectivity remains cut in #Iran with the digital blackout now having entered its 88th day, surpassing 2088 hours of isolation from the outside world. Metrics confirm the shutdown currently remains in effect despite the president's order yesterday to restore access.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 40,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 292,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 292,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 292,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

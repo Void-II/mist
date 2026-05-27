@@ -26996,6 +26996,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1828,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779876580,
+      "document": {
+        "file_name": "♥️🚀.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIHJGoWwuRuCw5emwzt4M-i5gABhan7EgAC_QcAAjRiuUSESkC0Bu--5TsE",
+        "file_unique_id": "AgAD_QcAAjRiuUQ",
+        "file_size": 18280
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

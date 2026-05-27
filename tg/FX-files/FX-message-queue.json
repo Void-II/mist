@@ -28285,6 +28285,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1839,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779883360,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHL2oW3WCg6e325WR_wV6IJMMTsD-aAAIJDmsbHRi4UBAbN81Q52pGAQADAgADcwADOwQ",
+          "file_unique_id": "AQADCQ5rGx0YuFB4",
+          "file_size": 1081,
+          "width": 54,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHL2oW3WCg6e325WR_wV6IJMMTsD-aAAIJDmsbHRi4UBAbN81Q52pGAQADAgADbQADOwQ",
+          "file_unique_id": "AQADCQ5rGx0YuFBy",
+          "file_size": 21998,
+          "width": 192,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHL2oW3WCg6e325WR_wV6IJMMTsD-aAAIJDmsbHRi4UBAbN81Q52pGAQADAgADeAADOwQ",
+          "file_unique_id": "AQADCQ5rGx0YuFB9",
+          "file_size": 86712,
+          "width": 481,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHL2oW3WCg6e325WR_wV6IJMMTsD-aAAIJDmsbHRi4UBAbN81Q52pGAQADAgADeQADOwQ",
+          "file_unique_id": "AQADCQ5rGx0YuFB-",
+          "file_size": 131458,
+          "width": 770,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴وزیر ارتباطات: \n\nملت ایران شایسته ارتباط آزاد آینده روشن و اقتصادی پویاست\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 77,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 90,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

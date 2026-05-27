@@ -29316,6 +29316,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1861,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779905861,
+      "animation": {
+        "file_name": "animation.gif.mp4",
+        "mime_type": "video/mp4",
+        "duration": 3,
+        "width": 320,
+        "height": 232,
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgdFahc1RekXRLPVCs9eBqjZVLCthfAAAhQGAAJOteBRw1uFtMLLe6sBAAdtAAM7BA",
+          "file_unique_id": "AQADFAYAAk614FFy",
+          "file_size": 13511,
+          "width": 320,
+          "height": 232
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgdFahc1RekXRLPVCs9eBqjZVLCthfAAAhQGAAJOteBRw1uFtMLLe6sBAAdtAAM7BA",
+          "file_unique_id": "AQADFAYAAk614FFy",
+          "file_size": 13511,
+          "width": 320,
+          "height": 232
+        },
+        "file_id": "CgACAgQAAyEFAATqPDJ3AAIHRWoXNUXpF0Sz1QrPXgao2VSwrYXwAAIUBgACTrXgUcNbhbTCy3urOwQ",
+        "file_unique_id": "AgADFAYAAk614FE",
+        "file_size": 47575
+      },
+      "document": {
+        "file_name": "animation.gif.mp4",
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgdFahc1RekXRLPVCs9eBqjZVLCthfAAAhQGAAJOteBRw1uFtMLLe6sBAAdtAAM7BA",
+          "file_unique_id": "AQADFAYAAk614FFy",
+          "file_size": 13511,
+          "width": 320,
+          "height": 232
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgdFahc1RekXRLPVCs9eBqjZVLCthfAAAhQGAAJOteBRw1uFtMLLe6sBAAdtAAM7BA",
+          "file_unique_id": "AQADFAYAAk614FFy",
+          "file_size": 13511,
+          "width": 320,
+          "height": 232
+        },
+        "file_id": "CgACAgQAAyEFAATqPDJ3AAIHRWoXNUXpF0Sz1QrPXgao2VSwrYXwAAIUBgACTrXgUcNbhbTCy3urOwQ",
+        "file_unique_id": "AgADFAYAAk614FE",
+        "file_size": 47575
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

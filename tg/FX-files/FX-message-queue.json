@@ -30828,6 +30828,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1897,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779927068,
+      "text": "بزنید دیگه بلاتکلیفی درارید مردمو\nیا جمعش کنید بره\nاین چجور اتش‌بسی هستش خدایی\nبمب اتم باید انگار این اتش‌بسو از بین ببره؟\nهمو دارید میزنید مذاکره میکنید\nیه ملت این وسط شدن مسخره این جماعت\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

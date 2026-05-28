@@ -34564,6 +34564,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1971,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780012034,
+      "media_group_id": "14240096276949908",
+      "video": {
+        "duration": 55,
+        "width": 360,
+        "height": 640,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgezahjUAqOY66cFVJ97YwumF7ifCQcAAs0dAAIdGMhQtdYnGE_PRigBAAdtAAM7BA",
+          "file_unique_id": "AQADzR0AAh0YyFBy",
+          "file_size": 4974,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgezahjUAqOY66cFVJ97YwumF7ifCQcAAs0dAAIdGMhQtdYnGE_PRigBAAdtAAM7BA",
+          "file_unique_id": "AQADzR0AAh0YyFBy",
+          "file_size": 4974,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIHs2oY1AKjmOunBVSfe2MLphe4nwkHAALNHQACHRjIULXWJxhPz0YoOwQ",
+        "file_unique_id": "AgADzR0AAh0YyFA",
+        "file_size": 9518076
+      },
+      "caption": "🔴و اما برخلاف گفته‌های تو فضای مجازی؛ ماجرای این ویدیوی تیراندازی که وایرال شده، اونجوری که میگن ربطی به بسیج و گارد جاویدان و این حرفا نداره و داستانش برمیگرده به یه درگیری سنگین تو کوهدشتِ لرستان تو بهمن 1404؛\nبه گفته افراد محلی؛ دعوا سر حدود 50 میلیارد پول و اختلاف بین چند نفرِ موادفروش بوده. یکی از طرفا پول طرفو بالا میکشه و تو فروشگاه خودش قایم میشه، بعد اون یکیا مسلح میرن واسه انتقام. تو فیلم هم معلومه هر دو طرف آماده درگیری بودن، اول یه نفر جلوی مغازه تیر میخوره و زخمی میشه، بعد یه نفر دیگه میره بالا سرش و چند تا تیر بهش میزنه و همونجا میکشتش.\nبعدش افراد مسلحی که تو طبقات بالای فروشگاه بودن وارد درگیری میشن و وقتی مهاجما میخوان فرار کنن، از بالا با برنو به سمت ماشینشون شلیک میکنن که گفته میشه چند نفر اونجا هم تیر میخورن. نفر اصلی ماجرا، معروف به «حاج نصرت‌الله»، بعد از درگیری فرار کرده و هنوزم پیداش نکردن. حتی میگن خونه و فروشگاهشونو سنگربندی کردن و داخل مغازه هم سنگر بتنی ساختن!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 901,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 914,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 940,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 940,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 940,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

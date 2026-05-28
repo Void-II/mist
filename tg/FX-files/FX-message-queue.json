@@ -33545,6 +33545,109 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1948,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779999133,
+      "document": {
+        "file_name": "DramaVpn-Los Angeles.ovpn",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIHnGoYoZ2GY-_ZmN7HbCQdjun7gpSRAALzHQACN_sYUIgqsfp81SzYOwQ",
+        "file_unique_id": "AgAD8x0AAjf7GFA",
+        "file_size": 2023
+      },
+      "caption": "🔥کانفیگ‌ OpenVpn 🔥\n\nکشور: آمریکا 🇺🇸 ( Los Angeles )\n\nبرای Android | IOS | Windows\n\nAndroid: Openvpn-connect\nIOS: Openvpn-connect\nWindows: Openvpn-connect\n\n🔥متصل با ایرانسل🔥\n( بقیه اپراتور ها تست کنید )\n\nUsername:bc059e4@nodrama.ndr\n\nPassword:72b535%B\n \nزمان : نامحدود\nحجم : نامحدود\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 84,
+          "type": "bold"
+        },
+        {
+          "offset": 87,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 15,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn"
+        },
+        {
+          "offset": 112,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 117,
+          "length": 15,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/openvpn-connect/id590379981"
+        },
+        {
+          "offset": 133,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 15,
+          "type": "text_link",
+          "url": "https://openvpn.net/client/"
+        },
+        {
+          "offset": 161,
+          "length": 48,
+          "type": "bold"
+        },
+        {
+          "offset": 209,
+          "length": 49,
+          "type": "blockquote"
+        },
+        {
+          "offset": 259,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 271,
+          "length": 28,
+          "type": "blockquote"
+        },
+        {
+          "offset": 271,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 300,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 300,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 300,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

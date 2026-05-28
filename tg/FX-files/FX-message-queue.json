@@ -33473,6 +33473,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1946,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779998533,
+      "text": "🔴فارس :\n\n دقایقی پیش نیروهای مسلح ج.ا از جنوب کشور به سمت اهداف مشخص عملیات شلیک موشک را اجرایی کردن\n\nهنوز مقصد دقیق این موشک‌ها مشخص نیست اما برخی منابع از احتمال درگیری بر روی آب‌های خلیج فارس خبر می‌دهند\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

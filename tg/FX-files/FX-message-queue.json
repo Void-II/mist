@@ -33095,6 +33095,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1938,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779997273,
+      "media_group_id": "14239978187997068",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHkmoYmllO__BfqesifB190zJPwqA0AALWDmsbHRjIUHXo7UIK-2SkAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD1g5rGx0YyFB4",
+          "file_size": 1008,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHkmoYmllO__BfqesifB190zJPwqA0AALWDmsbHRjIUHXo7UIK-2SkAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD1g5rGx0YyFBy",
+          "file_size": 10901,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHkmoYmllO__BfqesifB190zJPwqA0AALWDmsbHRjIUHXo7UIK-2SkAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD1g5rGx0YyFB9",
+          "file_size": 47289,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHkmoYmllO__BfqesifB190zJPwqA0AALWDmsbHRjIUHXo7UIK-2SkAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD1g5rGx0YyFB-",
+          "file_size": 75795,
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "caption": "🔴 3 شب دیگه تو تاریخ «10 خرداد | 31 May» قراره پدیده \"ماه کامل آبی\" رخ بده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 76,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 89,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

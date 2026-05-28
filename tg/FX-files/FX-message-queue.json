@@ -32111,6 +32111,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1923,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779985092,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHg2oYasTfpoPg2BVnS2I2K_hU8uXfAALWDmsbdFDJUJJ6OcuN4vOLAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD1g5rG3RQyVB4",
+          "file_size": 1179,
+          "width": 57,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHg2oYasTfpoPg2BVnS2I2K_hU8uXfAALWDmsbdFDJUJJ6OcuN4vOLAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD1g5rG3RQyVBy",
+          "file_size": 14096,
+          "width": 204,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHg2oYasTfpoPg2BVnS2I2K_hU8uXfAALWDmsbdFDJUJJ6OcuN4vOLAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD1g5rG3RQyVB9",
+          "file_size": 50763,
+          "width": 510,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHg2oYasTfpoPg2BVnS2I2K_hU8uXfAALWDmsbdFDJUJJ6OcuN4vOLAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD1g5rG3RQyVB-",
+          "file_size": 70913,
+          "width": 816,
+          "height": 1280
+        }
+      ],
+      "caption": "⌛ مدیرعامل شرکت زیرساخت: بهبود #کیفیت_اینترنت چند روزی زمان می برد/ روند #ترافیک_بین‌الملل افزایشی است\n\nمعاون وزیر ارتباطات و مدیرعامل شرکت ارتباطات زیرساخت:\n\n🔹 «بهبود کیفیت سرویس‌ها و بازگشت ترافیک بین‌الملل به دلیل طولانی شدن قطعی‌ها چند روزی زمان‌ می برد، در  شکل روند افزایشی ترافیک بین‌الملل قابل مشاهده است، کمی صبور باشید.\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 14,
+          "type": "hashtag"
+        },
+        {
+          "offset": 73,
+          "length": 17,
+          "type": "hashtag"
+        },
+        {
+          "offset": 332,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 345,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

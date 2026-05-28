@@ -32240,6 +32240,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1925,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1779988932,
+      "text": "🚨⚽️ فابریزیو رومانو: پیشنهاد رسمی برای خولیان آلوارز هنوز فرستاده نشده، ولی همین روزای آینده ارسال میشه.\n\nهمون‌طور که قبلاً فاش شد، هیچ بازیکنی قاطی این معامله نمیشه و به محض اینکه پیشنهاد فرستاده بشه، قیمت نهایی هم مشخص میشه (احتمالاً تو مایه‌های 100 میلیون یورو باشه).\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 272,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 285,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

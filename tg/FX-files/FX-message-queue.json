@@ -35152,6 +35152,95 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 1980,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780038976,
+      "text": "😺 Hidemy.name VPN\n\n💎 𝐂𝐨𝐝𝐞 : \n932866424368694\n\n🌠 Plan: Premium \n📅 Expiry : 7 Days\n\n🔗 Download links :\n🖥 Windows  🍭 Android 🍏 ios\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 14,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 55,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 82,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://hide.mn/files/software/hidemyname_vpn_2.1.915.exe"
+        },
+        {
+          "offset": 125,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.fourksoft.openvpn"
+        },
+        {
+          "offset": 136,
+          "length": 3,
+          "type": "text_link",
+          "url": "https://itunes.apple.com/app/hidemy-name-vpn/id1200692581"
+        },
+        {
+          "offset": 142,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 155,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

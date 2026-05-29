@@ -36936,6 +36936,56 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2014,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780097965,
+      "document": {
+        "file_name": "@Error404Bin(شب بیداری).npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIH3moaI62BjV0gVCgCEEfhyOulu1xpAALoJAACc2LYUDV0bxAaGP9wOwQ",
+        "file_unique_id": "AgAD6CQAAnNi2FA",
+        "file_size": 25736
+      },
+      "caption": "نپسرنت متصل \n\nچند کانفیگ مخلوط\nتست شده با همراه اول \n\nری اکشن بزنید❤️\n\n\n🚀🚀🚀🚀\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 81,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 94,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

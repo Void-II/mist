@@ -35305,6 +35305,70 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1982,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780048399,
+      "media_group_id": "14240387191924556",
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHvmoZYg5Pn9JRTXPDzok4he43b6igAALKC2sbjPvRRN1F16Rj2HW5AQADAgADcwADOwQ",
+          "file_unique_id": "AQADygtrG4z70UR4",
+          "file_size": 801,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHvmoZYg5Pn9JRTXPDzok4he43b6igAALKC2sbjPvRRN1F16Rj2HW5AQADAgADbQADOwQ",
+          "file_unique_id": "AQADygtrG4z70URy",
+          "file_size": 7952,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHvmoZYg5Pn9JRTXPDzok4he43b6igAALKC2sbjPvRRN1F16Rj2HW5AQADAgADeAADOwQ",
+          "file_unique_id": "AQADygtrG4z70UR9",
+          "file_size": 27264,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIHvmoZYg5Pn9JRTXPDzok4he43b6igAALKC2sbjPvRRN1F16Rj2HW5AQADAgADeQADOwQ",
+          "file_unique_id": "AQADygtrG4z70UR-",
+          "file_size": 47340,
+          "width": 576,
+          "height": 1280
+        }
+      ],
+      "caption": "دوستان گیمر به دردتون میخوره قرار بدم؟\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

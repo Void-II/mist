@@ -34968,6 +34968,154 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1978,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780035736,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHumoZMJi6WysCCzmSAgGwQ-cfCQKzAAKwDWsbS9jIUGvl8ohxeVXMAQADAgADcwADOwQ",
+          "file_unique_id": "AQADsA1rG0vYyFB4",
+          "file_size": 1234,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHumoZMJi6WysCCzmSAgGwQ-cfCQKzAAKwDWsbS9jIUGvl8ohxeVXMAQADAgADbQADOwQ",
+          "file_unique_id": "AQADsA1rG0vYyFBy",
+          "file_size": 15980,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHumoZMJi6WysCCzmSAgGwQ-cfCQKzAAKwDWsbS9jIUGvl8ohxeVXMAQADAgADeAADOwQ",
+          "file_unique_id": "AQADsA1rG0vYyFB9",
+          "file_size": 62918,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHumoZMJi6WysCCzmSAgGwQ-cfCQKzAAKwDWsbS9jIUGvl8ohxeVXMAQADAgADeQADOwQ",
+          "file_unique_id": "AQADsA1rG0vYyFB-",
+          "file_size": 134930,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIHumoZMJi6WysCCzmSAgGwQ-cfCQKzAAKwDWsbS9jIUGvl8ohxeVXMAQADAgADdwADOwQ",
+          "file_unique_id": "AQADsA1rG0vYyFB8",
+          "file_size": 172600,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Solar VPN\n\nStatus: Premium\n\nExp: 1 Month\n➿➿➿➿➿➿➿➿➿➿➿\nEmail:waradi2206@4nly.com\n\nEmail:wovaye3631@4nly.com\n\nEmail:dekano5107@4nly.com\n\n\nAll Password:@Error404Bin\n\n➿➿➿➿➿➿\nGooglePlay  App Store\n\nWindows\n\nری اکشن وشات یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 6,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 25,
+          "type": "url"
+        },
+        {
+          "offset": 80,
+          "length": 25,
+          "type": "url"
+        },
+        {
+          "offset": 107,
+          "length": 25,
+          "type": "url"
+        },
+        {
+          "offset": 135,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 148,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 161,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 169,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.solarvpn.client.android"
+        },
+        {
+          "offset": 181,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/ca/app/solarvpn-elite-security/id6529538337"
+        },
+        {
+          "offset": 192,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://static.solarvpn-cd.net/download/latest/windows/solarvpn-windows.exe"
+        },
+        {
+          "offset": 200,
+          "length": 27,
+          "type": "bold"
+        },
+        {
+          "offset": 228,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 241,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 263,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 263,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 263,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -35883,6 +35883,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 1993,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780070421,
+      "text": "اموجی 🎰 کامنت کنین نفری یه بار وگرنه قبول نیست\nاولین نفری که 777 بیاره گیفت کارت اپل 5$ میدم\nتوجه: فقط شامل اپل ایدی های ریجن امریکا میشه پس  ریجن دیگه باشید نمیشه \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 72,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 127,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 166,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

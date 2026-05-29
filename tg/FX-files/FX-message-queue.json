@@ -36371,6 +36371,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2004,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780074561,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH1GoZyEGG6URPkzqLUcm6K_rbaUB5AAKFD2sb4lTJUHmyp-_T1FuqAQADAgADcwADOwQ",
+          "file_unique_id": "AQADhQ9rG-JUyVB4",
+          "file_size": 1922,
+          "width": 90,
+          "height": 75
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH1GoZyEGG6URPkzqLUcm6K_rbaUB5AAKFD2sb4lTJUHmyp-_T1FuqAQADAgADbQADOwQ",
+          "file_unique_id": "AQADhQ9rG-JUyVBy",
+          "file_size": 23542,
+          "width": 320,
+          "height": 267
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH1GoZyEGG6URPkzqLUcm6K_rbaUB5AAKFD2sb4lTJUHmyp-_T1FuqAQADAgADeAADOwQ",
+          "file_unique_id": "AQADhQ9rG-JUyVB9",
+          "file_size": 95220,
+          "width": 800,
+          "height": 667
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIH1GoZyEGG6URPkzqLUcm6K_rbaUB5AAKFD2sb4lTJUHmyp-_T1FuqAQADAgADeQADOwQ",
+          "file_unique_id": "AQADhQ9rG-JUyVB-",
+          "file_size": 146373,
+          "width": 1080,
+          "height": 901
+        }
+      ],
+      "caption": "🔴 با اعلام خبرگزاری فارس دونفر از افرادی که در درازدره کرمانشاه اقدام به حمله مسلحانه به نیروهای یگان ویژه در دی ماه کرده بودن در درگیری با نیروهای های امنیتی جونشونو از دست دادن.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 181,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 194,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 220,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

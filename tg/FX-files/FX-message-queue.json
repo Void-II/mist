@@ -398,6 +398,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2040,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780154137,
+      "text": "vless://d39edac0-947d-4c84-8741-06ce6510aba0@45.130.125.76:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=tabnak.ir.khabaronline.ir.irna.ir.donya-e-eqtesad.com.fararu.com.donya-e-eqtesad.com.hamshahrionline.ir&allowInsecure=0&sni=EMoTIOnaL-HEATgGmM4Oiw2v.sAMSUNgOVEns.IR#ODIN_CLUB\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 340,
+          "type": "code"
+        },
+        {
+          "offset": 342,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 355,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

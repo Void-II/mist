@@ -1359,6 +1359,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2061,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780167974,
+      "text": "🔰GamingTun VPN🔰\n\n🔎 GooglePlayLink\n\n💡1.41 | #VPN\n \n\nⓂ️ نسخه vip شده\n\n◈اشتراک پریمیوم فعال شده👑✓\n◈حذف تبلیغات برنامه✓\n◈ حذف فایل‌های اضافه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\nبهینه سازی PING، کاهش تاخیر و تثبیت شبکه برای بازی های آنلاین.\n\nGamingTun VPN به شما امکان می‌دهد هنگام انجام بازی‌های آنلاین، پینگ اینترنت خود را بهینه کنید. با سرورهای VPN بهینه شده برای بازی، می‌توانید سرعت و پایداری اینترنت خود را بهبود بخشید.\n\nGamingTun VPN برای ژانرهای مختلف بازی، مانند MOBA، RPG، اکشن، بتل رویال و موارد دیگر مناسب است. برنامه ما بیش از 20 سرور VPN را در نقاط مختلف جهان ارائه می‌دهد و به شما امکان می‌دهد شبکه مسیریابی بهینه مورد نظر خود را آزادانه انتخاب کنید.\n\nعلاوه بر بهبود پاسخگویی شبکه شما، فناوری پیشرفته مسیریابی ما به حداقل رساندن اتلاف بسته و تأخیر کمک می‌کند و تضمین می‌کند که در طول مسابقات چند نفره شدید، اتصال ایمن داشته باشید.\n\nچرا GamingTun VPN را انتخاب کنید؟\n\n• بدون نیاز به ورود یا ثبت نام\nتمام ویژگی‌ها و سرورهای VPN موجود بدون هیچ الزامی قابل دسترسی هستند.\n\n• اتصال سریع\nفقط با یک ضربه، فوراً به سرور VPN مورد نظر متصل خواهید شد.\n\n• بدون محدودیت پهنای باند\nشما می‌توانید بدون محدودیت پهنای باند روزانه به سرورهای VPN متصل شوید، بنابراین می‌توانید برای مدت طولانی از آن استفاده کنید.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 22,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.kolin.gamingtunvpn"
+        },
+        {
+          "offset": 47,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 187,
+          "length": 1030,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1306,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/139288"
+        },
+        {
+          "offset": 1335,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1354,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1371,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1394,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1394,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1394,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.kolin.gamingtunvpn"
+      }
     }
   ]
 }

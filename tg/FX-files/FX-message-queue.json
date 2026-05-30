@@ -801,6 +801,79 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 2048,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780160319,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIAAFqGxc_Snhj4xkDRhBqsw7D9lE8IgACBw9rG_ga2FDg6ajQ2jruDwEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADBw9rG_ga2FB4",
+          "file_size": 1431,
+          "width": 90,
+          "height": 75
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIAAFqGxc_Snhj4xkDRhBqsw7D9lE8IgACBw9rG_ga2FDg6ajQ2jruDwEAAwIAA20AAzsE",
+          "file_unique_id": "AQADBw9rG_ga2FBy",
+          "file_size": 21155,
+          "width": 320,
+          "height": 267
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIAAFqGxc_Snhj4xkDRhBqsw7D9lE8IgACBw9rG_ga2FDg6ajQ2jruDwEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADBw9rG_ga2FB9",
+          "file_size": 75927,
+          "width": 800,
+          "height": 667
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIAAFqGxc_Snhj4xkDRhBqsw7D9lE8IgACBw9rG_ga2FDg6ajQ2jruDwEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADBw9rG_ga2FB-",
+          "file_size": 77233,
+          "width": 950,
+          "height": 792
+        }
+      ],
+      "caption": "🔴 بنیامین نقدی که در دی ماه بخاطر ریختن مواد آتش زا روی مامورین یگان ویژه دستگیر شده بود توسط دادگاه انقلاب شیراز به اعدام محکوم شد.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 135,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 148,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 174,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 174,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 174,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

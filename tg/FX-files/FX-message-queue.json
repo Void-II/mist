@@ -37026,6 +37026,66 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2016,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780118908,
+      "document": {
+        "file_name": "@Error404Bin_Sweden.ovpn",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIH4GoadXxM-2qK6dM23ucX8VHdjimDAAIEJQACc2LYULoAAR6c4s6NzjsE",
+        "file_unique_id": "AgADBCUAAnNi2FA",
+        "file_size": 6827
+      },
+      "caption": "کانفیگ open vpn اختصاصی بدون محدودیت حجم\n\nلوکیشن سوئد🇸🇪\n\n✅متصل همه اینترنت ها\n\n🔅تست شده با همراه اول\n\nمناسب وب ،هوش مصنوعی ،شبکه های کاربردی\n\n\nوصل شدی لایک بزن💜\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 40,
+          "type": "bold"
+        },
+        {
+          "offset": 42,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 166,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 201,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

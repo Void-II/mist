@@ -37711,6 +37711,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2028,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780132471,
+      "text": "گرفتن  \nساب ویتوری رایگان \nداخل happبهتره \n\nمرحل گرفتن  اول کامنت پست میشه \n\n\n\nلینک ربات\n\nhttps://t.me/madvpnbbot?start=HJKDR3\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 90,
+          "length": 36,
+          "type": "url"
+        },
+        {
+          "offset": 128,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 141,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/madvpnbbot?start=HJKDR3"
+      }
     }
   ]
 }

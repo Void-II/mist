@@ -37159,6 +37159,113 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2018,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780124387,
+      "video": {
+        "duration": 71,
+        "width": 1080,
+        "height": 1920,
+        "file_name": "PSG arsenal pish bazi HD.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 1080,
+            "height": 1920,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuPokqXxrU9qKGeFKhZfKcV-AALtGwAC083IUEE4p6zA6-_GOwQ",
+            "file_unique_id": "AgAD7RsAAtPNyFA",
+            "file_size": 14310969
+          },
+          {
+            "width": 1080,
+            "height": 1920,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuPBi7MP_WTHrSkE45o9bK6sAAI-HgACzJfRUJcQ8UhPc_RLOwQ",
+            "file_unique_id": "AgADPh4AAsyX0VA",
+            "file_size": 18672851
+          },
+          {
+            "width": 720,
+            "height": 1280,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuOLRgcjp5m8YS6670VJKllZAALWHQACWqDQUI6ZwVZDH_AcOwQ",
+            "file_unique_id": "AgAD1h0AAlqg0FA",
+            "file_size": 7314522
+          },
+          {
+            "width": 720,
+            "height": 1280,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuMVcA6ruizCKbZW73p4bSr-AAJ4HQACf6jJUI-dqHrX_6aWOwQ",
+            "file_unique_id": "AgADeB0AAn-oyVA",
+            "file_size": 9221355
+          },
+          {
+            "width": 480,
+            "height": 852,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuPKuhd92kYf9p6WpB9xJTgMAALSIQAC9snRUKXulNz_hWqwOwQ",
+            "file_unique_id": "AgAD0iEAAvbJ0VA",
+            "file_size": 4209811
+          },
+          {
+            "width": 480,
+            "height": 852,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuNUsX-KfU2vt6bMTwcbqx0-AAImJAACFu_IUEDZcP43NOrwOwQ",
+            "file_unique_id": "AgADJiQAAhbvyFA",
+            "file_size": 5079706
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgfiahqK4zAPn9sBssTWux2aybz2F6oAAmAeAALTvNBQ_nSnQuQkI7ABAAdtAAM7BA",
+          "file_unique_id": "AQADYB4AAtO80FBy",
+          "file_size": 22702,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgfiahqK4zAPn9sBssTWux2aybz2F6oAAmAeAALTvNBQ_nSnQuQkI7ABAAdtAAM7BA",
+          "file_unique_id": "AQADYB4AAtO80FBy",
+          "file_size": 22702,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIH4moaiuMwD5_bAbLE1rsdmsm89heqAAJgHgAC07zQUP50p0LkJCOwOwQ",
+        "file_unique_id": "AgADYB4AAtO80FA",
+        "file_size": 125324542
+      },
+      "caption": "🇪🇺🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tomorrow, the 2025/26 UEFA Champions League winner will be decided: PSG or ... the Gunners? 😎🔥\n\nفردا فاتح فصل 2025/26 لیگ قهرمانان مشخص میشه.\n پی اس جی ... یا توپچی ها؟  😎🔥\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -2140,6 +2140,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2077,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780212975,
+      "text": "trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&host=www.linkman1.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.linkman1.ir#%40Error404Bin\n\nاینم نپسرنت کانال اینترنت ازاد هست سرور داخلش براتون کشیدم بیرون ک بتونید ترکیبی بزنید \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 266,
+          "type": "code"
+        },
+        {
+          "offset": 356,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 369,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 391,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 391,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 391,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

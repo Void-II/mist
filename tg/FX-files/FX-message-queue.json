@@ -3666,6 +3666,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2109,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780237796,
+      "text": "vless://157b09b9-afae-4b3b-a2b1-c3f50e6db8e6@snapp.ir:2095?path=%2Fsbs&security=none&encryption=none&host=clo-rivv.tonbrownton.com&type=ws#VIP%F0%9F%9A%80%40Error404Bin\n\nاینم نوش جان\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 168,
+          "type": "code"
+        },
+        {
+          "offset": 183,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 196,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 218,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 218,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 218,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

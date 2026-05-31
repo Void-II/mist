@@ -2610,6 +2610,46 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2088,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780220384,
+      "document": {
+        "file_name": "SlipNet-v2.5.5-full-release-arm64-v8a.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIIKGocAeBwtHVScRxReCIMUrohoEyfAAJ5IAACdpCwUD_KPI6rlb9POwQ",
+        "file_unique_id": "AgADeSAAAnaQsFA",
+        "file_size": 26920639
+      },
+      "caption": "آپدیت جدید اسلیپ نت\nپشتیبانی از tor\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 48,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 48,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 48,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

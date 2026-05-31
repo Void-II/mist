@@ -4830,6 +4830,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2134,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780260237,
+      "text": "سرور مولتی‌لوکیشن (مخصوص شرایط فعلی اینترنت ، جنگی و نت‌ملی)گیگی 25 هزار تومان\nسرور مستقیم(مخصوص شرایط فعلی اینترنت همراه با 4 تا لوکیشن) گیگی 16 هزار تومان\n\nفروش سرورای مولتی خیلی محدوده.\nپرداخت به صورت ریالی و ارزی✅\nبرای خرید میتونید به این آیدی پیام بدید:\n@e7fnn\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 259,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 267,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

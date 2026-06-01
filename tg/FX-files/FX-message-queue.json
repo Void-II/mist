@@ -6226,6 +6226,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2164,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780336919,
+      "text": "تهران موافقت کرده است که ذخیره اورانیوم غنی‌شده ۶۰٪ خود را تحویل دهد.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

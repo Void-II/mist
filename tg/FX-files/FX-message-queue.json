@@ -4942,6 +4942,80 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 2136,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780289458,
+      "media_group_id": "14242315668412044",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIWGodD7Kdbt62HBA2Ul_syqLt4DebAAJADmsbsqXpUFaYbBMczgPVAQADAgADcwADOwQ",
+          "file_unique_id": "AQADQA5rG7Kl6VB4",
+          "file_size": 1207,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIWGodD7Kdbt62HBA2Ul_syqLt4DebAAJADmsbsqXpUFaYbBMczgPVAQADAgADbQADOwQ",
+          "file_unique_id": "AQADQA5rG7Kl6VBy",
+          "file_size": 14161,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIWGodD7Kdbt62HBA2Ul_syqLt4DebAAJADmsbsqXpUFaYbBMczgPVAQADAgADeAADOwQ",
+          "file_unique_id": "AQADQA5rG7Kl6VB9",
+          "file_size": 62455,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIWGodD7Kdbt62HBA2Ul_syqLt4DebAAJADmsbsqXpUFaYbBMczgPVAQADAgADeQADOwQ",
+          "file_unique_id": "AQADQA5rG7Kl6VB-",
+          "file_size": 117697,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "دو نفر از معترضان دی ماه گیشا، اعدام شدند\n\nخبرگزاری میزان وابسته به قوه قضاییه جهموری اسلامی با \"کودتا\" خوندن اعتراضات دی ماه نوشته:\n\"مهرداد محمدی‌نیا فرزند محرم و اشکان مالکی فرزند علی، از عوامل اصلی آتش‌زدن مسجد جعفری در محله کوی نصر تهران که اقدام به تخریب و آتش‌زدن مسجد، تخریب اموال عمومی، درگیری با مأموران حافظان امنیت، انسداد خیابان‌ها و ممانعت از عبور و مرور مردم کرده بودند، پس از دستگیری، رسیدگی قضایی و تأیید حکم در دیوان عالی کشور\" با دار زدن اعدام شدند.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 468,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 481,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 507,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 507,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 507,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

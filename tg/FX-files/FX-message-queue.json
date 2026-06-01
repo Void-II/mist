@@ -5356,6 +5356,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2146,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780308238,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIYmodWQ5xOIYKsL65FXKoLvoZRcqmAAJpDmsbsqXpUNHcJWr-_H3BAQADAgADcwADOwQ",
+          "file_unique_id": "AQADaQ5rG7Kl6VB4",
+          "file_size": 1784,
+          "width": 76,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIYmodWQ5xOIYKsL65FXKoLvoZRcqmAAJpDmsbsqXpUNHcJWr-_H3BAQADAgADbQADOwQ",
+          "file_unique_id": "AQADaQ5rG7Kl6VBy",
+          "file_size": 28003,
+          "width": 270,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIYmodWQ5xOIYKsL65FXKoLvoZRcqmAAJpDmsbsqXpUNHcJWr-_H3BAQADAgADeAADOwQ",
+          "file_unique_id": "AQADaQ5rG7Kl6VB9",
+          "file_size": 133692,
+          "width": 675,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIYmodWQ5xOIYKsL65FXKoLvoZRcqmAAJpDmsbsqXpUNHcJWr-_H3BAQADAgADeQADOwQ",
+          "file_unique_id": "AQADaQ5rG7Kl6VB-",
+          "file_size": 218613,
+          "width": 959,
+          "height": 1136
+        }
+      ],
+      "caption": "🔴امروز صبح تو دانشکده‌ دندونپزشکی قزوین، یه مرده با کلت کمری وارد دانشگاه شد و همونجا زنش رو کشت و بعدشم به خودش شلیک و خودکشی کرده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 133,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 146,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

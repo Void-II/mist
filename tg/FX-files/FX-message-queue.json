@@ -5502,6 +5502,56 @@
       "link_preview_options": {
         "url": "https://cafebazaar.ir/app/ir.learnit"
       }
+    },
+    {
+      "message_id": 2148,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780315498,
+      "document": {
+        "file_name": "@Error404Bin(همراه اول).npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIIZGoddWr-eC-lBgfEy-q4EhI6HVpBAAKHHgACxdvpUClbgy0rlOtyOwQ",
+        "file_unique_id": "AgADhx4AAsXb6VA",
+        "file_size": 23344
+      },
+      "caption": "نپسرنت متصل \n\nچند کانفیگ مخلوط\nتست شده با همراه اول \n\nری اکشن بزنید❤️\n\n\n🚀🚀🚀🚀\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 81,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 94,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -6512,6 +6512,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2170,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780347479,
+      "text": "🚀فروش اکانت وینداسکرایب❤️\nفول اکانت پرمیوم❤️ ۱ ماهه🚀\n\n🔤دسترسی کامل به تمام سرورها\n🔤سرعت بالا و پایدار\n🔤مناسب اندروید و آی او اس و ویندوز\n\n✉️جهت خرید:\n👉 @alirezaspeed\n👉 @dont1994\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 158,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 175,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

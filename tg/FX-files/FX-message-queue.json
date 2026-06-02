@@ -6996,6 +6996,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2181,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780382701,
+      "text": "دوستان در حال ساختن سروریس ویتوری  هستیم با سرور قوی \nچند لوکیشن تموم نتا \nداریم تست هایی نهایی رو انجام میدیم  به زودی معرفی میشه توی حجم محدود منتظر باشید \n❤️😁\nپراتون بریزه\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 188,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 188,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 188,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

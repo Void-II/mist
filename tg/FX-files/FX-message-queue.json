@@ -9375,6 +9375,42 @@
       "link_preview_options": {
         "url": "https://t.me/MaMLiNeT_Bot?start=8376197509"
       }
+    },
+    {
+      "message_id": 2228,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780431722,
+      "text": "حتما روی زیر مجموعه بزنید بعد گزینه دریافت هدیه عضویت بزنید تا هدیه واریز بشه براتون بتونید بخرید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

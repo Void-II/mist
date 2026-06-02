@@ -7766,6 +7766,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2194,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780395721,
+      "text": "🔴 خبرگزاری ایسنا:\n\nاون اقلیتی که ۲ میلیون تومن دادن اینترنت پرو خریدن حالا اوپراتورها پولشون رو پس نمیدن؛ فقط میگن میتونید لغوش کنید و برید رو اینترنت عادی. خبری از برگشت پول نیست.\n\n\n🤣\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -8116,6 +8116,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2203,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780402381,
+      "text": "📣اطلاعیه \n\nاکانت انلیمتد وی پی ان و اکسپرس و همچنین فایل اوپن مجدد موجود شد\n\nقیمت اکسپرس کرکی یک ساله 700 تومن ( گارانتی سالم بودن اکانت و یک بار تعویض در صورت پریدن اکانت)\nاوپن وی پی ان یک ماهه نامحدود 600 تومن\nانلیمتد کرکی 700  هزار تومن \n \nجهت ثبت سفارش میتونید به پشتيبانی مراجعه کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 293,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 307,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 323,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 354,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 354,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 354,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

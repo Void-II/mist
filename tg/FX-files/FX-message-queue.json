@@ -7176,6 +7176,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2184,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780388281,
+      "text": "اشتراک که رو مود اپیکیشن فیلماز بود دوستان اطلاع دادن تموم شده بود اما الان تمدیدش کردم براتون از همین الان بصورت نامحدود میتونید فیلم و سریال دانلود کنید یا ببینید \n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 167,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

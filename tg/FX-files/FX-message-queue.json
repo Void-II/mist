@@ -8589,6 +8589,75 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2212,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780407542,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIpGoe3ParGG8TuRyjr0VUuX1VgCBlAAJ9DmsbJf34UOeMwsovKcIEAQADAgADcwADOwQ",
+          "file_unique_id": "AQADfQ5rGyX9-FB4",
+          "file_size": 654,
+          "width": 39,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIpGoe3ParGG8TuRyjr0VUuX1VgCBlAAJ9DmsbJf34UOeMwsovKcIEAQADAgADbQADOwQ",
+          "file_unique_id": "AQADfQ5rGyX9-FBy",
+          "file_size": 5635,
+          "width": 140,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIpGoe3ParGG8TuRyjr0VUuX1VgCBlAAJ9DmsbJf34UOeMwsovKcIEAQADAgADeAADOwQ",
+          "file_unique_id": "AQADfQ5rGyX9-FB9",
+          "file_size": 19308,
+          "width": 351,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIIpGoe3ParGG8TuRyjr0VUuX1VgCBlAAJ9DmsbJf34UOeMwsovKcIEAQADAgADeQADOwQ",
+          "file_unique_id": "AQADfQ5rGyX9-FB-",
+          "file_size": 33405,
+          "width": 562,
+          "height": 1280
+        }
+      ],
+      "caption": "VPN Nederland \n\n 5 گیگابایت رایگان \n\nپس از اتمام حجم، برنامه را Clear Data کنید و مجدداً ثبت‌نام و وارد حساب شوید\n\n⚡برای بهترین سرعت و پایداری، پروتکل اتصال را روی IKEv2 قرار دهید.\nبرای گیمم خوبه\n\nایمیل موقت \n\n\nلینک برنامه اندروید\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 211,
+          "length": 19,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.curuno.vpnnederland"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

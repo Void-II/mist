@@ -6756,6 +6756,58 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2175,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780373640,
+      "text": "آموزش دریافت ۱۰ گیگ اینترنت رایگان برای V2Ray و NPV Tunnel\n\n1️⃣ وارد ربات  شوید.\ntonvpn_bot\n\n2️⃣ روی گزینه Create New User بزنید.\n\n3️⃣ گزینه Resident Iran را انتخاب کنید.\n\n4️⃣ روی Outline کلیک کنید.\n\n5️⃣ پروتکل TCP را انتخاب کنید.\n\n6️⃣ لوکیشن Turkey را بزنید.\n\n7️⃣ پلن Daily را انتخاب کنید.\n\n8️⃣ گزینه 10G / 0.50 USD را انتخاب کنید.\n\n9️⃣ درخواست را تأیید کنید.\n\n✅ در پایان یک کانفیگ Shadowsocks (SS) دریافت می‌کنید که قابل استفاده در NPV Tunnel و V2Ray است.\n\n\n📱 تست‌شده روی همه نت‌ها\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 81,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/tonvpn_bot?start=91249dc250"
+        },
+        {
+          "offset": 486,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 499,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 521,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 521,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 521,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/tonvpn_bot?start=91249dc250"
+      }
     }
   ]
 }

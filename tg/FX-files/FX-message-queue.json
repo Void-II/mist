@@ -12518,6 +12518,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2296,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780482124,
+      "text": "ترامپ در پادکست : \n : احتمالاً تا روز کارگر (Labor Day) بتونیم محاصره ایران رو برداریم\n\nهیچ‌وقت به دیدار با هیچ‌یک از مقام‌های ایرانی فکر نکرده‌ام\n\nآیت‌الله ایران تو مذاکرات با آمریکا نقش داره و تو جریان گفت‌وگوهاست. \n\nاحتمالاً یه زمانی با آیت‌الله ایران دیدار خواهم کرد\n\nقیمت بنزین به زودی کاهش می‌یابد\n\nوضعیت ایران خیلی سریع داره تغییر می‌کنه، و در نهایت اوضاع خیلی خوب پیش میره\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 381,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 394,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 420,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 420,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 420,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

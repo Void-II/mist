@@ -11653,6 +11653,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2279,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780469610,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAII52ofz2ojtqNDGMbfseK9ii7JtMjEAAIuFGsboWEAAVF82nGpDUoNPAEAAwIAA3MAAzsE",
+          "file_unique_id": "AQADLhRrG6FhAAFReA",
+          "file_size": 1773,
+          "width": 90,
+          "height": 82
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAII52ofz2ojtqNDGMbfseK9ii7JtMjEAAIuFGsboWEAAVF82nGpDUoNPAEAAwIAA20AAzsE",
+          "file_unique_id": "AQADLhRrG6FhAAFRcg",
+          "file_size": 23584,
+          "width": 320,
+          "height": 290
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAII52ofz2ojtqNDGMbfseK9ii7JtMjEAAIuFGsboWEAAVF82nGpDUoNPAEAAwIAA3gAAzsE",
+          "file_unique_id": "AQADLhRrG6FhAAFRfQ",
+          "file_size": 89611,
+          "width": 800,
+          "height": 726
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAII52ofz2ojtqNDGMbfseK9ii7JtMjEAAIuFGsboWEAAVF82nGpDUoNPAEAAwIAA3kAAzsE",
+          "file_unique_id": "AQADLhRrG6FhAAFRfg",
+          "file_size": 124751,
+          "width": 1053,
+          "height": 956
+        }
+      ],
+      "caption": "فوری: گزارش هایی منتشر شده که محمدرضا شهبازی، مجری برنامه پاورقی دیشب مورد تجاوزِ ۳ نفر قرار گرفته و برنامه پاورقی فعلا به طور موقت متوقف شده!\nهنوز جزئیات دقیقی بیرون نیومده و پلیس در حال بررسیه.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 197,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 210,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 236,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

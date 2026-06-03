@@ -12383,6 +12383,55 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2293,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780478584,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAII9Wof8niqAbppARyIxGdOJQ9vdn1lAALqDWsbJf0AAVGxdD6MBFnTnAEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD6g1rGyX9AAFReA",
+          "file_size": 1814,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAII9Wof8niqAbppARyIxGdOJQ9vdn1lAALqDWsbJf0AAVGxdD6MBFnTnAEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD6g1rGyX9AAFRcg",
+          "file_size": 18266,
+          "width": 270,
+          "height": 270
+        }
+      ],
+      "caption": "برنامه پاورقی از شبکه دو کامل حذف شد.\n\nگفته میشه که محمدرضا شهبازی مجری حکومتی برنامه پاورقی توسط سه نفر مورد تجاوز قرار گرفته!\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

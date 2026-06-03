@@ -12627,6 +12627,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2298,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780482764,
+      "text": "ترامپ :\n\nآیت‌الله سرش شلوغه ؛ اونا احترام زیادی براش قائل هستن\nمن این افتخار رو نداشتم که با آیت‌الله ملاقات کنم.\nاون حالش خوب نیست؛ بخش‌های زیادی از بدنش کم داره.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 9,
+          "length": 53,
+          "type": "blockquote"
+        },
+        {
+          "offset": 75,
+          "length": 50,
+          "type": "blockquote"
+        },
+        {
+          "offset": 138,
+          "length": 46,
+          "type": "blockquote"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

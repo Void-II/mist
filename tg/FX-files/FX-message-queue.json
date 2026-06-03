@@ -12160,6 +12160,46 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2290,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780477084,
+      "document": {
+        "file_name": "Rightel🇫🇷ip.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAII8mof7JzgjtEfhOVk_u28UeS7krwkAAKyHgACGc0BUbpq9rVApSMAATsE",
+        "file_unique_id": "AgADsh4AAhnNAVE",
+        "file_size": 1736
+      },
+      "caption": "Npv Tunnel\nسرور کشور فرانسه 🇫🇷 \nبرای رایتل میتونید باهاش یوتیوب بچرخید 🥴\nرمز\nSh1998\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

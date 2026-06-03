@@ -12104,6 +12104,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2289,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780475344,
+      "text": "vless://75700dda-3aa7-4f8e-b978-2237516f84db@45.130.125.66:443?mode=auto&path=%2F476T682e67a4f84a3c838ca94R86273&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%2210-50%22%2C%22xPaddingHeader%22%3A%22apinode%22%2C%22xPaddingKey%22%3A%22domow%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=ticket.fibernet1.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#ArchiveFast..https%3A%2F%2Ft.me%2FError404Bin\n\nمتصل \nبا تموم نتا\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 506,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 506,
+          "type": "code"
+        },
+        {
+          "offset": 526,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 539,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

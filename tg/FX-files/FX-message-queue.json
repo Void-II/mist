@@ -12934,6 +12934,42 @@
         "file_unique_id": "AgADZBoAAqkYKFE",
         "file_size": 258377
       }
+    },
+    {
+      "message_id": 2304,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780487224,
+      "text": "تکذیب میکنم😄\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 26,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 26,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 26,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -15970,6 +15970,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2368,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780595745,
+      "text": "یکم امروز کم کاری کردیم واسه کانفیگ دلیلشم مشکل پرداخت خارجی بود که داشتیم ❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 77,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

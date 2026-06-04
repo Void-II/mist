@@ -15564,6 +15564,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2359,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780586204,
+      "text": "vless://18b81103-30a2-4d92-96b8-3fca27c22a90@artmis2.rostamii.ir:8443?path=%2F&security=none&encryption=none&host=ap.isowli.ir&type=ws#ArchiveTell...https%3A%2F%2Ft.me%2FError404Bin\n\nاینو هم بزنید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 181,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 181,
+          "type": "code"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 209,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

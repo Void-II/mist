@@ -16850,6 +16850,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2388,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780607025,
+      "text": "🎙️خبرنگار: عملیات خشم حماسی پدر، همسر و فرزند رهبر ایران مجتبی خامنه‌ای رو کشته و بنظرت توافق میکنه؟\n\nترامپ: اون احتمالا منو دوست نداره، اما بنظرم او یک شخصیت حرفه‌ایه و احتمال توافق زیاده.\n\n\nترامپ: ما در جنگ با ج.ا پیروز میشیم، یا از طریق مذاکره یا بمباران، ولی در نهایت پیروز میشیم.\n\n\nترامپ: مجتبی خامنه‌ای کاملا تو کارش حرفه‌ایه، البته یه سریا در موردش بد میگن که دروغه، مثل من که یه سریا به دروغ در موردم بد میگن.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 420,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 433,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

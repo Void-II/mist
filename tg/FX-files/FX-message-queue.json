@@ -18661,6 +18661,99 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2425,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780683767,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJeWojE_efIEuygplsBxch53JrIsvWAAInD2sbS0cYUatnN6lTS5F2AQADAgADcwADOwQ",
+          "file_unique_id": "AQADJw9rG0tHGFF4",
+          "file_size": 1774,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJeWojE_efIEuygplsBxch53JrIsvWAAInD2sbS0cYUatnN6lTS5F2AQADAgADbQADOwQ",
+          "file_unique_id": "AQADJw9rG0tHGFFy",
+          "file_size": 28887,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJeWojE_efIEuygplsBxch53JrIsvWAAInD2sbS0cYUatnN6lTS5F2AQADAgADeAADOwQ",
+          "file_unique_id": "AQADJw9rG0tHGFF9",
+          "file_size": 142204,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJeWojE_efIEuygplsBxch53JrIsvWAAInD2sbS0cYUatnN6lTS5F2AQADAgADeQADOwQ",
+          "file_unique_id": "AQADJw9rG0tHGFF-",
+          "file_size": 296112,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "خب چالش داریم\n\nچالش اکانت فیلترشکن تورگارد پرمیوم\n\nTorguard VPN Auto (تمدید مجدد)\n\nبین اعداد 1تا عددفقط یک عدد 95 فقط زیر همین بذارید رندوم به دو نفر اکانت تقدیم خواهد شد\n\nتست شده با سامانتل\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 51,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 239,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

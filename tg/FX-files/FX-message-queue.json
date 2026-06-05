@@ -18902,6 +18902,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2429,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780686485,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJfWojHpVmBCJS8IPhBuBAnNWMWC8TAAJuDmsbIvoZUb91TdDJiERUAQADAgADcwADOwQ",
+          "file_unique_id": "AQADbg5rGyL6GVF4",
+          "file_size": 1054,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJfWojHpVmBCJS8IPhBuBAnNWMWC8TAAJuDmsbIvoZUb91TdDJiERUAQADAgADbQADOwQ",
+          "file_unique_id": "AQADbg5rGyL6GVFy",
+          "file_size": 15082,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJfWojHpVmBCJS8IPhBuBAnNWMWC8TAAJuDmsbIvoZUb91TdDJiERUAQADAgADeAADOwQ",
+          "file_unique_id": "AQADbg5rGyL6GVF9",
+          "file_size": 69015,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJfWojHpVmBCJS8IPhBuBAnNWMWC8TAAJuDmsbIvoZUb91TdDJiERUAQADAgADeQADOwQ",
+          "file_unique_id": "AQADbg5rGyL6GVF-",
+          "file_size": 110243,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "یاسین علاوه بر دلش انگشتش هم شکست گفتم سیگاری فوتبال نرو گوش نداد🥴 ما هم فوتبال میریم ولی چیزمون نمیشه معلوم نی چیکار کرده\n\nارزوی سلامتی داریم برای الچاپو دوست داشتنی\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

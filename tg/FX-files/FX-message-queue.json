@@ -17967,6 +17967,76 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2410,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780666071,
+      "document": {
+        "file_name": "آلمان نامحدود.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIJamoiztazNnIR6DPoukNSSIXGT2lCAAKXIQAC22cYUdnyOAxzbFlFOwQ",
+        "file_unique_id": "AgADlyEAAttnGFE",
+        "file_size": 1564
+      },
+      "caption": "Pass:@Xbat_chat\nLocation:🇩🇪\nنامحدود تا زمانی که فیلتر بشه\nMore configs:@Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 5,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 5,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 15,
+          "length": 58,
+          "type": "bold"
+        },
+        {
+          "offset": 73,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 73,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

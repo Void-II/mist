@@ -18298,6 +18298,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2417,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780675409,
+      "text": "📣اطلاعیه \n\nدريافت تست رایگان برای تمامی کاربران ریست شد\n\nمیتونید قبل خرید تست بگیرید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 89,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

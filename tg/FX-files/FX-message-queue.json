@@ -21845,6 +21845,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2488,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780776651,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJuGokfspjgp1x3IvKpWgjI5PBxnioAAKVD2sbIvohUdwGHGgnqTJeAQADAgADcwADOwQ",
+          "file_unique_id": "AQADlQ9rGyL6IVF4",
+          "file_size": 1190,
+          "width": 49,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJuGokfspjgp1x3IvKpWgjI5PBxnioAAKVD2sbIvohUdwGHGgnqTJeAQADAgADbQADOwQ",
+          "file_unique_id": "AQADlQ9rGyL6IVFy",
+          "file_size": 18052,
+          "width": 176,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJuGokfspjgp1x3IvKpWgjI5PBxnioAAKVD2sbIvohUdwGHGgnqTJeAQADAgADeAADOwQ",
+          "file_unique_id": "AQADlQ9rGyL6IVF9",
+          "file_size": 80316,
+          "width": 439,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJuGokfspjgp1x3IvKpWgjI5PBxnioAAKVD2sbIvohUdwGHGgnqTJeAQADAgADeQADOwQ",
+          "file_unique_id": "AQADlQ9rGyL6IVF-",
+          "file_size": 133641,
+          "width": 702,
+          "height": 1280
+        }
+      ],
+      "caption": "همین کارا میکنی دیگه نمیخوانت  میخواستم کادو بدمت یه کانال بزرگ که 60 درصد ادمین هاش دخترن گفت نه که هیچ دیگه سین نزد پیام رو 🥴 رفت که رفت هی زندگی\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 149,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

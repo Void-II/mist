@@ -20713,6 +20713,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2464,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780751090,
+      "text": "سروریس گیم هم امشب صددرصد موجوده ۲۰۰گیگ هست ۱۰۰گیگیش رزو شده\n ۱۰۰تا دیگه مونده\nتوی کانال اطلاع رسانی میکنم برای خرید😁❤️تشکر\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

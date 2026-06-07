@@ -22969,6 +22969,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2510,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780837254,
+      "media_group_id": "14246698033482428",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJzmola4aO9_ds2hOMDnw3n8KSu_32AAKBD2sbj80wUVffvOzF6gtqAQADAgADcwADOwQ",
+          "file_unique_id": "AQADgQ9rG4_NMFF4",
+          "file_size": 1177,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJzmola4aO9_ds2hOMDnw3n8KSu_32AAKBD2sbj80wUVffvOzF6gtqAQADAgADbQADOwQ",
+          "file_unique_id": "AQADgQ9rG4_NMFFy",
+          "file_size": 15031,
+          "width": 239,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJzmola4aO9_ds2hOMDnw3n8KSu_32AAKBD2sbj80wUVffvOzF6gtqAQADAgADeAADOwQ",
+          "file_unique_id": "AQADgQ9rG4_NMFF9",
+          "file_size": 62441,
+          "width": 598,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIJzmola4aO9_ds2hOMDnw3n8KSu_32AAKBD2sbj80wUVffvOzF6gtqAQADAgADeQADOwQ",
+          "file_unique_id": "AQADgQ9rG4_NMFF-",
+          "file_size": 90618,
+          "width": 899,
+          "height": 1203
+        }
+      ],
+      "caption": "اسرائیل به بیروت لبنان حمله کرد و ترور هدفمند انجام داد.\n\nعراقچی دو روز پیش اعلام کرد اگه اسرائیل به لبنان حمله کنه جنگ قطعیه و مجدد از سرگرفته میشه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 150,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

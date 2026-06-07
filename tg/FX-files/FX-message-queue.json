@@ -26738,6 +26738,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2592,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780861564,
+      "text": "https://t.me/proxy?server=167.233.74.234&port=8443&secret=dd104462821249bd7ac519130220c25d09\nسرعت بالا\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 92,
+          "type": "url"
+        },
+        {
+          "offset": 103,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

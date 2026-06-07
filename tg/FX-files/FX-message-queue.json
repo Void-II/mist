@@ -27218,6 +27218,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2602,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780862157,
+      "text": "vless://c32037e3-b6d2-484d-b6b2-1375d1f36031@167.235.203.224:42031?encryption=none&type=tcp&headerType=none#@odin_club\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 108,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -22872,6 +22872,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2508,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780833473,
+      "text": "🌐برای بار دهم ،  دستگاه‌های اجرایی موظف به استفاده از پیام‌رسان‌های داخلی شدند\n\nتصویبنامه هیات وزیران درخصوص تکلیف دستگاه های اجرایی نسبت به استفاده از پیام رسان های اجتماعی داخلی به عنوان یکی از درگاه های ارائه خدمات پرکاربرد و اطلاع رسانی ها و اعلان های عمومی مرتبط ابلاغ شد.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 280,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 293,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 319,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 319,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 319,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

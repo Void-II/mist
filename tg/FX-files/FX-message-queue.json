@@ -24848,6 +24848,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2548,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780856753,
+      "text": "🚨فوری:\n\nسنتکام در کل خاورمیانه به حالت آماده باش جنگی در اومد\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

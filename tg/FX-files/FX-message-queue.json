@@ -25502,6 +25502,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2563,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780859634,
+      "text": "ارتش اسرائیل اعلام کرد اتش‌ بس ایران و اسرائیل پایان یافت!!\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 59,
+          "type": "bold"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

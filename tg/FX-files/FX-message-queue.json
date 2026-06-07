@@ -28638,6 +28638,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2634,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780863534,
+      "text": "پروکسی متصل ✅\n\ntg://proxy?server=91.107.250.31&port=8443&secret=dd104462821249bd7ac519130220c25d09\n\ntg://proxy?server=91.107.250.31&port=8443&secret=dd104462821249bd7ac519130220c25d09\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 15,
+          "length": 83,
+          "type": "url"
+        },
+        {
+          "offset": 100,
+          "length": 83,
+          "type": "url"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 196,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -22918,6 +22918,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2509,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780835453,
+      "text": "🔴Express vpn \n\nUser: nannedy@mailto.plus\nPass: EJ2MMRFLKK92AZ2OUZKV5ZP\n\nWindows: EJ2MMRFLKK92AZ2OUZKV5ZP\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 22,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 107,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 120,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

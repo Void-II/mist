@@ -29467,6 +29467,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2652,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780899431,
+      "text": "گفتم که نگفتم بگذریم ولی اینو یادتون باشه اخوند جنوب ایران براش مهم نبود، ولی جنوب لبنان کص ننه اش بود...!\n\nمردم سیستان و بلوچستان اب شرب ندارن خیلی از نقاط و اونجا های که دارن هفته ای چند ساعت چند روز یکبار بعد این مادر قحبه ها دلسوز عربا ن هر کی دلش میسوزه بره همون کشور ها همینمون مونده سر این عربا نت مارو قطع کنن\n\n@XBat_Team \n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 319,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 332,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 355,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 355,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 355,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

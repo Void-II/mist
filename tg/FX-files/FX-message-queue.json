@@ -32144,6 +32144,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2710,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780919351,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKlmomrDepqF4z4NtESZJP6fZsxDnDAAL8Dmsbj804UYw294v9kpALAQADAgADcwADOwQ",
+          "file_unique_id": "AQAD_A5rG4_NOFF4",
+          "file_size": 723,
+          "width": 90,
+          "height": 42
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKlmomrDepqF4z4NtESZJP6fZsxDnDAAL8Dmsbj804UYw294v9kpALAQADAgADbQADOwQ",
+          "file_unique_id": "AQAD_A5rG4_NOFFy",
+          "file_size": 6691,
+          "width": 320,
+          "height": 151
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKlmomrDepqF4z4NtESZJP6fZsxDnDAAL8Dmsbj804UYw294v9kpALAQADAgADeAADOwQ",
+          "file_unique_id": "AQAD_A5rG4_NOFF9",
+          "file_size": 29672,
+          "width": 800,
+          "height": 378
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKlmomrDepqF4z4NtESZJP6fZsxDnDAAL8Dmsbj804UYw294v9kpALAQADAgADeQADOwQ",
+          "file_unique_id": "AQAD_A5rG4_NOFF-",
+          "file_size": 35654,
+          "width": 1080,
+          "height": 510
+        }
+      ],
+      "caption": "خبر مهم\n🔴 دستاوردهای جنگ : حمله به دریا و کشته شدن آقای خرچنگ، باب اسفنجی و پاتریک.\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 85,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 96,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

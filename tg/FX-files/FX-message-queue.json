@@ -33057,6 +33057,100 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2726,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780947312,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKpmonGXD8jKtYtOA2ffjNWbwr6wRgAAKhDmsbpVo5USbvqWIT93tNAQADAgADcwADOwQ",
+          "file_unique_id": "AQADoQ5rG6VaOVF4",
+          "file_size": 910,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKpmonGXD8jKtYtOA2ffjNWbwr6wRgAAKhDmsbpVo5USbvqWIT93tNAQADAgADbQADOwQ",
+          "file_unique_id": "AQADoQ5rG6VaOVFy",
+          "file_size": 11663,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKpmonGXD8jKtYtOA2ffjNWbwr6wRgAAKhDmsbpVo5USbvqWIT93tNAQADAgADeAADOwQ",
+          "file_unique_id": "AQADoQ5rG6VaOVF9",
+          "file_size": 48529,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKpmonGXD8jKtYtOA2ffjNWbwr6wRgAAKhDmsbpVo5USbvqWIT93tNAQADAgADeQADOwQ",
+          "file_unique_id": "AQADoQ5rG6VaOVF-",
+          "file_size": 77577,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "یه بات روسی پیدا کردم خفن خفن\nبرای استفاده کلیک کنید\n\nبرای اتصال از برنامه Happ استفاده کنید \nتا 17 روز کاملا رایگان\nحجم نامحدود واقعی\nبرای 3 کاربر قابل استفاده\nسرور های زیاد و پرسرعت و متصل\nسرور آلبانی 🇦🇱 مخصوص یوتیوب\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 30,
+          "length": 22,
+          "type": "text_link",
+          "url": "https://t.me/PotatoFreeVPNBot?start=ref_7106584375"
+        },
+        {
+          "offset": 94,
+          "length": 22,
+          "type": "blockquote"
+        },
+        {
+          "offset": 129,
+          "length": 17,
+          "type": "blockquote"
+        },
+        {
+          "offset": 159,
+          "length": 25,
+          "type": "blockquote"
+        },
+        {
+          "offset": 197,
+          "length": 29,
+          "type": "blockquote"
+        },
+        {
+          "offset": 239,
+          "length": 13,
+          "type": "blockquote"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

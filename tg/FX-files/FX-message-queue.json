@@ -32268,6 +32268,78 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2712,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780923371,
+      "text": "پروکسی پروکسی پروکسی\n\nپروکسی پروکسی پروکسی\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=172.65.135.177&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 7,
+          "length": 6,
+          "type": "text_link",
+          "url": "tg://proxy?server=172.65.139.221&port=3389&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 14,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=172.65.134.209&port=3389&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 22,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=172.65.149.226&port=3389&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 29,
+          "length": 6,
+          "type": "text_link",
+          "url": "tg://proxy?server=172.65.154.158&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 36,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=172.65.132.64&port=3389&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 55,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 55,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 55,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

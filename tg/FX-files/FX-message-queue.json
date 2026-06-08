@@ -29605,6 +29605,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2655,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780900211,
+      "text": "اشتراک 1vpn قانونی رو ایمیل شخصی خودتون یا ایمیل موقت فول 5 کاربر نامحدود حجم لوکیشن های زیاد\n180هزار تومن برای خرید به یاسین پیام بدهید\n@y6siin\nبهش گفتم 180هزار بده یه هزاری بیشتر گرفت خبر بدین\nبرای همراه اول پرسرعت متصل باقی اپراتور تست بشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 137,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 49,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 266,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

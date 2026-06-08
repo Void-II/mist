@@ -31859,6 +31859,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2705,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780915511,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkWomnTeFPEeDq7isXdidX7WEM9UHAAJdDmsbmD0xUUkozl-6FhKVAQADAgADcwADOwQ",
+          "file_unique_id": "AQADXQ5rG5g9MVF4",
+          "file_size": 1264,
+          "width": 47,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkWomnTeFPEeDq7isXdidX7WEM9UHAAJdDmsbmD0xUUkozl-6FhKVAQADAgADbQADOwQ",
+          "file_unique_id": "AQADXQ5rG5g9MVFy",
+          "file_size": 18077,
+          "width": 167,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkWomnTeFPEeDq7isXdidX7WEM9UHAAJdDmsbmD0xUUkozl-6FhKVAQADAgADeAADOwQ",
+          "file_unique_id": "AQADXQ5rG5g9MVF9",
+          "file_size": 84460,
+          "width": 417,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKkWomnTeFPEeDq7isXdidX7WEM9UHAAJdDmsbmD0xUUkozl-6FhKVAQADAgADeQADOwQ",
+          "file_unique_id": "AQADXQ5rG5g9MVF-",
+          "file_size": 150154,
+          "width": 668,
+          "height": 1280
+        }
+      ],
+      "caption": "وضعیت یاسین داغونه\nزندگی عجیبیه تا 3 روز پیش دغدغه اش خرید تلگرام پرمیوم بود اکانتش خراب نشه الان دکترا گفتن مواظبش چلک نکنه اگه کرد مجبوریم دیگه قطع ش کنیم انگشتت رو\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 167,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 190,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

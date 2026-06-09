@@ -33751,6 +33751,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2739,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1780991653,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKs2onxqV-SdNxkeg_g_Zr_aaf4k_4AAKyDWsbpVpBUfax3lm2b-RKAQADAgADcwADOwQ",
+          "file_unique_id": "AQADsg1rG6VaQVF4",
+          "file_size": 700,
+          "width": 45,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKs2onxqV-SdNxkeg_g_Zr_aaf4k_4AAKyDWsbpVpBUfax3lm2b-RKAQADAgADbQADOwQ",
+          "file_unique_id": "AQADsg1rG6VaQVFy",
+          "file_size": 5156,
+          "width": 160,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKs2onxqV-SdNxkeg_g_Zr_aaf4k_4AAKyDWsbpVpBUfax3lm2b-RKAQADAgADeAADOwQ",
+          "file_unique_id": "AQADsg1rG6VaQVF9",
+          "file_size": 18038,
+          "width": 401,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIKs2onxqV-SdNxkeg_g_Zr_aaf4k_4AAKyDWsbpVpBUfax3lm2b-RKAQADAgADeQADOwQ",
+          "file_unique_id": "AQADsg1rG6VaQVF-",
+          "file_size": 26883,
+          "width": 589,
+          "height": 1176
+        }
+      ],
+      "caption": "با یاسین حرف زدم قرار شد  فیلترشکن خارجی نامحدود حجم رو ایمیل شخصی تون یا موقت با قیمت کم 125هزار بزنه بده بهتون بده\nredcard vpn \nQuark vpn\n\nیکماهه 125 هزار تومن برای توضیحات بیشتر به یاسین یا همون الچاپو پیام بدین👇👇 \n@y6siin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 220,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 240,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

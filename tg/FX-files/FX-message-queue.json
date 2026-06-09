@@ -35260,6 +35260,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2771,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781028169,
+      "text": "رسانه های اسرائیلی: احتمالا آمریکا تا ساعاتی دیگه حملات محدودی رو به ایران انجام میده بطوریکه درگیری گسترده ای آغاز نشه\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 121,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 158,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 158,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 158,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

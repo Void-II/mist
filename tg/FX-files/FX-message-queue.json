@@ -34463,6 +34463,60 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2755,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781011454,
+      "text": "🔴با تصمیم شورای معین، تاثیر معدل پایهٔ یازدهم مثبت شد. \n\nپروکسی پروکسی پروکسی\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 58,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=91.206.28.4&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 65,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=185.43.33.2&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 72,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=185.43.33.3&port=1010&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+        },
+        {
+          "offset": 91,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 91,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 91,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

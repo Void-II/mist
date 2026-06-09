@@ -34871,6 +34871,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2762,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781018507,
+      "text": "🔴توی آپدیت جدید اینستاگرام، با خرید اشتراک ۳.۹۹ دلاری دقیقاً مشخص می‌شه هر نفر چند بار استوریت رو نگاه کرده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 109,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 148,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 148,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 148,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

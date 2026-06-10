@@ -36871,6 +36871,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2809,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781066236,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK-Woo6fyDCfH6PL40CFOkX-5eebs8AAJFDmsbQchIUUj57XOMXAQfAQADAgADcwADOwQ",
+          "file_unique_id": "AQADRQ5rG0HISFF4",
+          "file_size": 727,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK-Woo6fyDCfH6PL40CFOkX-5eebs8AAJFDmsbQchIUUj57XOMXAQfAQADAgADbQADOwQ",
+          "file_unique_id": "AQADRQ5rG0HISFFy",
+          "file_size": 9153,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK-Woo6fyDCfH6PL40CFOkX-5eebs8AAJFDmsbQchIUUj57XOMXAQfAQADAgADeAADOwQ",
+          "file_unique_id": "AQADRQ5rG0HISFF9",
+          "file_size": 31932,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK-Woo6fyDCfH6PL40CFOkX-5eebs8AAJFDmsbQchIUUj57XOMXAQfAQADAgADeQADOwQ",
+          "file_unique_id": "AQADRQ5rG0HISFF-",
+          "file_size": 55976,
+          "width": 576,
+          "height": 1280
+        }
+      ],
+      "caption": "Usa Vps\n  \nprice : 2 $\n\nreal price : 4.52 $\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 56,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 56,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

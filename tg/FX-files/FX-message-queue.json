@@ -37524,6 +37524,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2821,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781088677,
+      "text": "📱 اینستاگرام پلاس رسماً رونمایی شد و اکنون کاربران با پرداخت حق اشتراک ماهیانه ۴ دلار (معادل ۷۰۰ هزار تومان)، به این سرویس دسترسی خواهند یافت 💰.\n\n🔹 یکی از ویژگی‌های برجسته این سرویس، امکان مشاهده تعداد دفعات بازدید دیگران از استوری کاربر است \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 246,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 257,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 271,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 290,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

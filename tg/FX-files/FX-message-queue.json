@@ -2167,7 +2167,7 @@
       }
     },
     {
-      "message_id": 2874,
+      "message_id": 2875,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2179,65 +2179,28 @@
         "type": "channel"
       },
       "date": 1781126117,
-      "photo": [
+      "text": "زددددن\n\n• Sent via TeleFeed",
+      "entities": [
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAILOmop0-Xc3ZzLqPRPI2mooEGA46G_AALbDWsbMlVQUXx2yytRZztJAQADAgADcwADOwQ",
-          "file_unique_id": "AQAD2w1rGzJVUFF4",
-          "file_size": 1817,
-          "width": 90,
-          "height": 85
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAILOmop0-Xc3ZzLqPRPI2mooEGA46G_AALbDWsbMlVQUXx2yytRZztJAQADAgADbQADOwQ",
-          "file_unique_id": "AQAD2w1rGzJVUFFy",
-          "file_size": 25852,
-          "width": 320,
-          "height": 304
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAILOmop0-Xc3ZzLqPRPI2mooEGA46G_AALbDWsbMlVQUXx2yytRZztJAQADAgADeAADOwQ",
-          "file_unique_id": "AQAD2w1rGzJVUFF9",
-          "file_size": 136049,
-          "width": 800,
-          "height": 759
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAILOmop0-Xc3ZzLqPRPI2mooEGA46G_AALbDWsbMlVQUXx2yytRZztJAQADAgADeQADOwQ",
-          "file_unique_id": "AQAD2w1rGzJVUFF-",
-          "file_size": 270635,
-          "width": 1219,
-          "height": 1156
-        }
-      ],
-      "caption": "ترور آلارم: شب بخیر تهران\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
-      "caption_entities": [
-        {
-          "offset": 26,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 39,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 65,
+          "offset": 19,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 65,
+          "offset": 19,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 65,
+          "offset": 19,
           "length": 8,
           "type": "underline"
         }
-      ]
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

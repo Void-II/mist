@@ -1955,6 +1955,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2869,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781125879,
+      "text": "خبرگزاری مهر:\nتوی کیش از فاصله‌ی دور سرو صدا میاد که هنوز منشأ این صداها مشخص نیست.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -37127,6 +37127,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2813,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781072836,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK_WopA8ThgGLlIzXwXZlspZJunWY3AAK_DmsbmRRJUQr4WznWGTenAQADAgADcwADOwQ",
+          "file_unique_id": "AQADvw5rG5kUSVF4",
+          "file_size": 2074,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK_WopA8ThgGLlIzXwXZlspZJunWY3AAK_DmsbmRRJUQr4WznWGTenAQADAgADbQADOwQ",
+          "file_unique_id": "AQADvw5rG5kUSVFy",
+          "file_size": 34299,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK_WopA8ThgGLlIzXwXZlspZJunWY3AAK_DmsbmRRJUQr4WznWGTenAQADAgADeAADOwQ",
+          "file_unique_id": "AQADvw5rG5kUSVF9",
+          "file_size": 142284,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIK_WopA8ThgGLlIzXwXZlspZJunWY3AAK_DmsbmRRJUQr4WznWGTenAQADAgADeQADOwQ",
+          "file_unique_id": "AQADvw5rG5kUSVF-",
+          "file_size": 255255,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "🚀 عسلی شاپ؛ سرعتی که دنبالش بودی!\n✅ کاربر نامحدود\n✅ اتصال پایدار و پرسرعت\n✅ مناسب گیم و هوش مصنوعی\n💰 گیگی فقط ۱۰ هزار تومان\n📩 سفارش و پشتیبانی:\n @amirasali80 🔥\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 148,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

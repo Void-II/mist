@@ -3014,6 +3014,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2896,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781127769,
+      "text": "🔴 سنتکام : نیروهای فرماندهی مرکزی آمریکا امروز از ساعت ۵:۱۵ عصر به وقت شرق آمریکا، به دستور فرمانده کل قوا، چندین حمله دفاعی دیگر علیه اهداف مختلف در ایران را آغاز کردند. این حملات در واکنش به اقدامات تهاجمیِ بی‌دلیل و ادامه‌دار ایران انجام شده است.\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 251,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 262,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 276,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

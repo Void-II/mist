@@ -1241,6 +1241,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2854,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781118858,
+      "text": "⭐ به گزارش i24News : ایالات متحده چند ساعت آینده حملاتی رو علیه ایران انجام میده که از دیشب شدید ترن\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

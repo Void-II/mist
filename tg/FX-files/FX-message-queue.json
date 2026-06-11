@@ -5808,6 +5808,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2953,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781200345,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILiWoq9dnlO_ElLxuzwoyL9M_DvL6YAALtC2sbtbtZReKQyLgIbhqRAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD7QtrG7W7WUV4",
+          "file_size": 693,
+          "width": 90,
+          "height": 20
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILiWoq9dnlO_ElLxuzwoyL9M_DvL6YAALtC2sbtbtZReKQyLgIbhqRAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD7QtrG7W7WUVy",
+          "file_size": 6943,
+          "width": 320,
+          "height": 71
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILiWoq9dnlO_ElLxuzwoyL9M_DvL6YAALtC2sbtbtZReKQyLgIbhqRAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD7QtrG7W7WUV9",
+          "file_size": 13883,
+          "width": 591,
+          "height": 131
+        }
+      ],
+      "caption": "مرسی واقعا لطف کردی ب ممبرات\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 41,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 41,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 41,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

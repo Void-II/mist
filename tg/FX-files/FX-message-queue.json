@@ -4290,6 +4290,79 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 2923,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781168600,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILa2oqedjNbwy2PhhZQzNYdgiYiRVPAAJUDmsbMlVQUdIipOZlGXSIAQADAgADcwADOwQ",
+          "file_unique_id": "AQADVA5rGzJVUFF4",
+          "file_size": 2402,
+          "width": 90,
+          "height": 89
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILa2oqedjNbwy2PhhZQzNYdgiYiRVPAAJUDmsbMlVQUdIipOZlGXSIAQADAgADbQADOwQ",
+          "file_unique_id": "AQADVA5rGzJVUFFy",
+          "file_size": 32098,
+          "width": 320,
+          "height": 317
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILa2oqedjNbwy2PhhZQzNYdgiYiRVPAAJUDmsbMlVQUdIipOZlGXSIAQADAgADeAADOwQ",
+          "file_unique_id": "AQADVA5rGzJVUFF9",
+          "file_size": 127677,
+          "width": 800,
+          "height": 793
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILa2oqedjNbwy2PhhZQzNYdgiYiRVPAAJUDmsbMlVQUdIipOZlGXSIAQADAgADeQADOwQ",
+          "file_unique_id": "AQADVA5rGzJVUFF-",
+          "file_size": 164599,
+          "width": 1080,
+          "height": 1070
+        }
+      ],
+      "caption": "یه نفر توی تبریز بخاطر اینکه زنش زیاد توی غذا رب ریخته بود اونو با اسلحه شاتگان به قتل رسوند\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 93,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 106,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 132,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 132,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

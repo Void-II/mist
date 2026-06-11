@@ -4034,6 +4034,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2918,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781163740,
+      "text": "این سابو بزنید توی haap\n\nیکی از ممبرا فرستاده \nhttps://sub.sokolvpn.org/pr_9sjc3B9rCZtZa\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 47,
+          "length": 41,
+          "type": "url"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

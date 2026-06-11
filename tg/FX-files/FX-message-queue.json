@@ -4552,6 +4552,101 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 2928,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781171360,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILcGoqhKAaPA0rb6kImWBmW3JYxx9-AAKPC2sbVLlZRRvcQwRBOF5XAQADAgADcwADOwQ",
+          "file_unique_id": "AQADjwtrG1S5WUV4",
+          "file_size": 1736,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILcGoqhKAaPA0rb6kImWBmW3JYxx9-AAKPC2sbVLlZRRvcQwRBOF5XAQADAgADbQADOwQ",
+          "file_unique_id": "AQADjwtrG1S5WUVy",
+          "file_size": 28175,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILcGoqhKAaPA0rb6kImWBmW3JYxx9-AAKPC2sbVLlZRRvcQwRBOF5XAQADAgADeAADOwQ",
+          "file_unique_id": "AQADjwtrG1S5WUV9",
+          "file_size": 132014,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILcGoqhKAaPA0rb6kImWBmW3JYxx9-AAKPC2sbVLlZRRvcQwRBOF5XAQADAgADeQADOwQ",
+          "file_unique_id": "AQADjwtrG1S5WUV-",
+          "file_size": 301681,
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAILcGoqhKAaPA0rb6kImWBmW3JYxx9-AAKPC2sbVLlZRRvcQwRBOF5XAQADAgADdwADOwQ",
+          "file_unique_id": "AQADjwtrG1S5WUV8",
+          "file_size": 432810,
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "caption": "چی بود من دیدم :)\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 19,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 19,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 29,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 32,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 32,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 58,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 58,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 58,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

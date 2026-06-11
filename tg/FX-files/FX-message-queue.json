@@ -3732,6 +3732,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2912,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781138899,
+      "text": "کرج ساعت ۴ بامداد پل کردان صدای ۵ انفجار.\nپارچین ۲ انفجار.\n5 انفجار در بندر عباس.\nورامین هم زدن.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 98,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

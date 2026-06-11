@@ -3819,6 +3819,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2914,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781157799,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILYmoqT6dK6rV7Ygyew6XnRRk8EFG7AAI5DWsb2PRZUQ5yjy-cLpbWAQADAgADcwADOwQ",
+          "file_unique_id": "AQADOQ1rG9j0WVF4",
+          "file_size": 977,
+          "width": 40,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILYmoqT6dK6rV7Ygyew6XnRRk8EFG7AAI5DWsb2PRZUQ5yjy-cLpbWAQADAgADbQADOwQ",
+          "file_unique_id": "AQADOQ1rG9j0WVFy",
+          "file_size": 10191,
+          "width": 144,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILYmoqT6dK6rV7Ygyew6XnRRk8EFG7AAI5DWsb2PRZUQ5yjy-cLpbWAQADAgADeAADOwQ",
+          "file_unique_id": "AQADOQ1rG9j0WVF9",
+          "file_size": 34914,
+          "width": 360,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILYmoqT6dK6rV7Ygyew6XnRRk8EFG7AAI5DWsb2PRZUQ5yjy-cLpbWAQADAgADeQADOwQ",
+          "file_unique_id": "AQADOQ1rG9j0WVF-",
+          "file_size": 56896,
+          "width": 576,
+          "height": 1280
+        }
+      ],
+      "caption": "Fast vpn 1 month \n\nUsername : elchapo2238\n\nPass : Yasin_2238\n\nSend Ss\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

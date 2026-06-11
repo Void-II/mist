@@ -4445,6 +4445,63 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2926,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781170340,
+      "text": "⚡️ سیم‌کارت رایگان همراه اول به مناسبت جام جهانی ۲۰۲۶\n\nکد تخفیف ویژه:\n\n🎁 CUPSIM26\n\nبا استفاده از این کد، سیم‌کارت را کاملاً رایگان دریافت کنید و هزینه ارسال هم رایگان خواهد بود.\n\n📌 هر کد ملی امکان دریافت تا ۳ سیم‌کارت را دارد.\n\n⏳ ظرفیت این طرح محدود است و ممکن است در هر زمان به پایان برسد.\n\n🔗 لینک ثبت سفارش: [لینک خرید]\n\nهمچنین میتوانید از بخش زمین بازی در اپلیکیشن همراه من با پیش بینی حداقل یک بازی ۵ گیگ فیلترنت یک روزه دریافت کنید\n\n\nپ ن: بنظرم کلا نرید سراغ این سیمکارت یعنی بدترین اپراتوریه که توی ایرانه قیمت بسته ها گرون ضریب خیلی بالا داره و بدترین و پراختلال ترین اینترنت رو داره\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 52,
+          "type": "bold"
+        },
+        {
+          "offset": 74,
+          "length": 8,
+          "type": "code"
+        },
+        {
+          "offset": 314,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://shop.mci.ir/products/3/%D8%B3%DB%8C%D9%85%E2%80%8C%DA%A9%D8%A7%D8%B1%D8%AA?8=NORMAL&page=0&utm_source=returened&utm_medium=sms&utm_campaign=worldcup"
+        },
+        {
+          "offset": 533,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 606,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 606,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 606,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

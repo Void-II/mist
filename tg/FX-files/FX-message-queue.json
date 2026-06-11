@@ -5752,6 +5752,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2952,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781200165,
+      "text": "vless://438b41f3-fb03-417e-b27f-244c2e0a1d3a@45.130.125.2:2053?mode=packet-up&path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fakarika316.itsvexodets-telecom.com&fp=chrome&type=xhttp&allowInsecure=0&sni=fakarika316.itsvexodets-telecom.com#asali%F0%9F%87%A9%F0%9F%87%AA\nیه تست کنید ببیند اوکیع\nبا ری اکشن بگید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 312,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 312,
+          "type": "code"
+        },
+        {
+          "offset": 353,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 366,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 388,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

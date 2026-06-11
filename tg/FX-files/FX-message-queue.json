@@ -4807,6 +4807,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2933,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781180600,
+      "text": "خارجی ها مردم ایران از جنگ ترسیدن حال خوبی ندارن آسیب روحی دیده اند\nدقدقه جوان ایرانی و توصیه‌هاش به هم سن و سال هاش (صابون گلنار گرون شده)\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 140,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

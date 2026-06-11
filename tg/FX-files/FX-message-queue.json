@@ -4894,6 +4894,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2935,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781182460,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILd2oqr_wqTJuWGhA0IuVN6-YFbgF7AALiDWsbQchYUY9QKEmP2-0AAQEAAwIAA3MAAzsE",
+          "file_unique_id": "AQAD4g1rG0HIWFF4",
+          "file_size": 1417,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILd2oqr_wqTJuWGhA0IuVN6-YFbgF7AALiDWsbQchYUY9QKEmP2-0AAQEAAwIAA20AAzsE",
+          "file_unique_id": "AQAD4g1rG0HIWFFy",
+          "file_size": 20836,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILd2oqr_wqTJuWGhA0IuVN6-YFbgF7AALiDWsbQchYUY9QKEmP2-0AAQEAAwIAA3gAAzsE",
+          "file_unique_id": "AQAD4g1rG0HIWFF9",
+          "file_size": 79133,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILd2oqr_wqTJuWGhA0IuVN6-YFbgF7AALiDWsbQchYUY9QKEmP2-0AAQEAAwIAA3kAAzsE",
+          "file_unique_id": "AQAD4g1rG0HIWFF-",
+          "file_size": 140069,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "بیاید اینم راضی کردن یاسین به فروش حالا بعدا میاد میگه چرا زدی 6 ماه 2 تون🥴\nتا 12 امشب باید این قیمت زیر بهتون بده یکساله هم داشت میخواستم بزنمش 3 تون گفتم گناهه\n\nسورفشارک 3 ماهه 1 تون\nسورفشارک 6 ماهه 2 تون\n\nبه یاسین پیام بدهید برای خرید \n@y6siin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 77,
+          "length": 38,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 46,
+          "type": "bold"
+        },
+        {
+          "offset": 240,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -6865,7 +6865,7 @@
       }
     },
     {
-      "message_id": 2977,
+      "message_id": 2978,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -6877,21 +6877,36 @@
         "type": "channel"
       },
       "date": 1781209646,
-      "text": "🔴خبرنگار الجزیره تو تهران: تموم شد؛ ایران و آمریکا به توافق رسیدن.\n\n• Sent via TeleFeed",
+      "text": "⏺ نتانیاهو: ما طرف تفاهم‌نامه نیستیم؛ اما از تلاش پرزیدنت ترامپ و تعهد به خارج‌سازی اورانیوم غنی‌شده، برچیدن سازوکار اورانیوم، محدود کردن برنامه موشکی و همچنین قطع کردن تزریق مالی به نیابتی‌ها در سراسر منطقه، ممنونیم.\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 80,
+          "offset": 218,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 229,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 262,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 80,
+          "offset": 262,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 80,
+          "offset": 262,
           "length": 8,
           "type": "underline"
         }

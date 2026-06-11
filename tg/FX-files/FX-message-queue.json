@@ -3918,6 +3918,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 2916,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781162719,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILZGoqYt-eZVCkMe3f9r3NsX3WaauMAAKKDWsbQchYUWRNTvHv8Y0iAQADAgADcwADOwQ",
+          "file_unique_id": "AQADig1rG0HIWFF4",
+          "file_size": 1721,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILZGoqYt-eZVCkMe3f9r3NsX3WaauMAAKKDWsbQchYUWRNTvHv8Y0iAQADAgADbQADOwQ",
+          "file_unique_id": "AQADig1rG0HIWFFy",
+          "file_size": 24742,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILZGoqYt-eZVCkMe3f9r3NsX3WaauMAAKKDWsbQchYUWRNTvHv8Y0iAQADAgADeAADOwQ",
+          "file_unique_id": "AQADig1rG0HIWFF9",
+          "file_size": 93443,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILZGoqYt-eZVCkMe3f9r3NsX3WaauMAAKKDWsbQchYUWRNTvHv8Y0iAQADAgADeQADOwQ",
+          "file_unique_id": "AQADig1rG0HIWFF-",
+          "file_size": 189869,
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAILZGoqYt-eZVCkMe3f9r3NsX3WaauMAAKKDWsbQchYUWRNTvHv8Y0iAQADAgADdwADOwQ",
+          "file_unique_id": "AQADig1rG0HIWFF8",
+          "file_size": 611798,
+          "width": 1920,
+          "height": 2560
+        }
+      ],
+      "caption": "بیا پی آدرس کامل بده نامردم اگه نفرستم ولی اوردوز کردی مردی گردن خودتت \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 72,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

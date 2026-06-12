@@ -8303,6 +8303,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3009,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781259447,
+      "text": "🔴Express vpn \n\nUser: trampush23@hotmail.com\nPass: Windowfan23!!\n\nUser: jlluvet@ditec.es\nPass: elisabet93%\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 22,
+          "length": 22,
+          "type": "code"
+        },
+        {
+          "offset": 51,
+          "length": 13,
+          "type": "code"
+        },
+        {
+          "offset": 72,
+          "length": 16,
+          "type": "code"
+        },
+        {
+          "offset": 95,
+          "length": 11,
+          "type": "code"
+        },
+        {
+          "offset": 108,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 121,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

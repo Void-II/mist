@@ -10194,6 +10194,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3047,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781291248,
+      "text": "هرکی با هر ابزاری که داره، یه چنتا پروفایل ( عکس یا متحرک گیف ) برا پروف مث پروف خودم تو‌همین سبک ، درسته کنه بفرسته پیوی یا زیرهمین پست \nبه چنتا که بهترین رو‌درس کردن \nیه اشتراک وپن پریمیوم داده میشه \n\nمن خودم سردرنمیارم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

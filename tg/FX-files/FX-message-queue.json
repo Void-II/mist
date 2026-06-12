@@ -9033,6 +9033,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3023,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781275287,
+      "text": "🚀 ربات درآمدزای عجیب!\n💸 به ازای هر دعوت ۱۰۰ تومان هدیه بگیر.\n📱 همین الان ۳ تا دوست دعوت کن → ۳۹ گیگ اینترنت پرسرعت (وایرگارد + ویتوری) هدیه بگیر.\n🛍 بدون ریسک، بدون شارژ اولیه.\n👉 لینک ربات: [\nhttps://t.me/ROVPNBOT?start=8376197509]\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 196,
+          "length": 38,
+          "type": "url"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/ROVPNBOT?start=8376197509"
+      }
     }
   ]
 }

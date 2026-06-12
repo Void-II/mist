@@ -8881,6 +8881,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3021,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781270728,
+      "text": "🚀 فیلترشکن V2Ray عسلی شاپ 🚀\n⚡ سرعت بالا و پایدار\n🔒 امنیت و کیفیت تضمینی\n🌐 مولتی لوکیشن\n📱 سازگار با تمامی دستگاه‌ها\n♾️ تایم  با اعتبار یک ماهه\n💰 هر گیگ فقط ۵,۰۰۰ تومان\n🎁 تست رایگان قبل از خرید\n✅ مناسب اینستاگرام، تلگرام، واتساپ، یوتیوب و وب‌گردی بدون محدودیت\n✅ پشتیبانی سریع و پاسخگو\nمناسب شرایط فعلی\n\nتنها ۱۵۰گیگ موجود\n📩 جهت دریافت تست و خرید پیام دهید:\n@amirasali80\n\n🔥 کیفیت بالا + قیمت مناسب = عسلی شاپ 🔥\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 362,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

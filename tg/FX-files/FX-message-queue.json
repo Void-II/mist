@@ -8369,6 +8369,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3010,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781259497,
+      "text": "vless://5cdcdbc7-ed33-4ca9-b62d-b572e9a5ee18@panel.config.myproject.tr:443?security=reality&encryption=none&pbk=VBrn2a7LcurS1zJBvxOSFFlsCvLjn5cS2mES58pBSUs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=3ae248fb3105eb#asali\n\nاینم سرور همین ربات تست کنید \n۵گیگ\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 263,
+          "type": "code"
+        },
+        {
+          "offset": 300,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 313,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 335,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 335,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 335,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

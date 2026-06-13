@@ -12268,6 +12268,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3086,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781358930,
+      "text": "🔵Nord Vpn Premium \n\nAnder912@wshu.net: BlueSky#9999\nAmier494@wshu.net: BlueSky#9999\nAdric520@wshu.net: BlueSky#9999\nConor393@wshu.net: BlueSky#9999\nFlash233@wshu.net: BlueSky#9999\n\n\n\nexp : 20 jul\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 21,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 53,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 85,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 117,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 149,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 198,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

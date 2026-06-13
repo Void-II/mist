@@ -11709,6 +11709,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3074,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781346810,
+      "text": "جزئیات مراسم خاکسپاری خامنه ای  :\n\nشنبه و یکشنبه 13 و 14 تیر (19 و 20 محرم): مراسم وداع با پیکر مطهر در مصلای امام خمینی تهران\nدوشنبه 15 تیر (21 محرم): مراسم تشییع در تهران.\nسه شنبه 16 تیر (22 محرم): مراسم تشییع در شهر قم\nپنجشنبه 18 تیر (24 محرم، شب شهادت امام سجاد ): تشییع در مشهد مقدس و سپس خاکسپاری در حرم امام رضا\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 35,
+          "length": 92,
+          "type": "blockquote"
+        },
+        {
+          "offset": 139,
+          "length": 46,
+          "type": "blockquote"
+        },
+        {
+          "offset": 198,
+          "length": 47,
+          "type": "blockquote"
+        },
+        {
+          "offset": 258,
+          "length": 96,
+          "type": "blockquote"
+        },
+        {
+          "offset": 319,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 330,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 356,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

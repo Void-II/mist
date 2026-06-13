@@ -10590,6 +10590,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3054,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781327282,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL7mos5bJZU66ip16O9PgazLMzEvvpAALADmsbHS1pUW3Sl5FCl1RjAQADAgADcwADPAQ",
+          "file_unique_id": "AQADwA5rGx0taVF4",
+          "file_size": 837,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL7mos5bJZU66ip16O9PgazLMzEvvpAALADmsbHS1pUW3Sl5FCl1RjAQADAgADbQADPAQ",
+          "file_unique_id": "AQADwA5rGx0taVFy",
+          "file_size": 9300,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL7mos5bJZU66ip16O9PgazLMzEvvpAALADmsbHS1pUW3Sl5FCl1RjAQADAgADeAADPAQ",
+          "file_unique_id": "AQADwA5rGx0taVF9",
+          "file_size": 38515,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL7mos5bJZU66ip16O9PgazLMzEvvpAALADmsbHS1pUW3Sl5FCl1RjAQADAgADeQADPAQ",
+          "file_unique_id": "AQADwA5rGx0taVF-",
+          "file_size": 75936,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIL7mos5bJZU66ip16O9PgazLMzEvvpAALADmsbHS1pUW3Sl5FCl1RjAQADAgADdwADPAQ",
+          "file_unique_id": "AQADwA5rGx0taVF8",
+          "file_size": 167073,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "کیر تو کص ننه ترامپ با کمک تو راهش\nکیر تو کصه ننه بنیامین نتانیاهو بچه کش\nکیر تو کص ننه اخوند ها کونی\nکیر تو کص ننه اونایی شبا پرچم تاب میدن\nکیر تو کص ننه مریم رجویی طرفدارش\nور پدر رضا پهلوی که این فتنه گر های 1357 رو به رگبار گلوله نبست دیگه نمیکشیم بابا\nکیر تو سیاستتون که مردم باید تاوان بدهند اورانیوم دادین رفت هون اول کون میدادید منتظر بودید با f35 واستون وازلین بیارن بعد کون بدین مادر جنده ها یه کفش 3 ماه دوام نمیاره اینقدر اخه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 256,
+          "length": 180,
+          "type": "bold"
+        },
+        {
+          "offset": 437,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 460,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 460,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 460,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

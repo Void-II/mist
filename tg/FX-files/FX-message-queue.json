@@ -12965,6 +12965,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3098,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781372858,
+      "text": "🔰KiaMovie🔰\n\n🔎 LinkSite\n\n💡5.0.2 | #Film\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a /arm64-v8\n\nتوضیحات درباره برنامه:\nدسترسی به محتوای به روز:\n کیا مووی به شما این امکان را می‌دهد تا به جدیدترین فیلم‌ها و سریال‌ها با کیفیت بالا و بدون سانسور دسترسی داشته باشید.\nامکان دانلود و تماشای آنلاین:\nمی‌توانید فیلم‌ها و سریال‌ها را به صورت آنلاین تماشا کنید یا به صورت آفلاین دانلود کنید.\nپشتیبانی از زبان فارسی:\nهمه محتواها با دوبله و زیرنویس فارسی ارائه می‌شوند.\nرابط کاربری ساده:\nپیدا کردن فیلم و سریال مورد علاقه‌تان به سادگی امکان‌پذیر است.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kiamovie.ir/&ved=2ahUKEwjl8YLKg9aQAxVtQkEAHWn4Ld4QFnoECA0QAQ&sqi=2&usg=AOvVaw1ndxTF85YtiJnO-I3cbz5Q"
+        },
+        {
+          "offset": 37,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 171,
+          "length": 6,
+          "type": "bot_command"
+        },
+        {
+          "offset": 205,
+          "length": 420,
+          "type": "blockquote"
+        },
+        {
+          "offset": 714,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://uploadb.com/u0kjylo70wxp/kiamovie_5.2_Mod"
+        },
+        {
+          "offset": 744,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 763,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 780,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 803,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 803,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 803,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

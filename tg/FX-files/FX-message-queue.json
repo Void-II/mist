@@ -12191,6 +12191,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3084,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781356530,
+      "text": "عوارض گشتن با کامرانه فک میکنی من نمیتونم سابق کانال چک کنم که الان عوض کردی متن اضافه کردی یا کاربرا گاگول گیر اوردی 🥴😂 البته کامران ادم خوبیه خیلی وقتا باهوش ترین میشه ولی نباید به توصیه هاش که شامل صابون میشه توصیه کرد ورگرنه از بهتربن هاس\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 245,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 268,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 268,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 268,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

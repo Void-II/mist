@@ -12477,6 +12477,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3090,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781366911,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMEmotgH6jvsPvlkhBi2wSvJDludWcAAKDDGsbxCxwRbEKq5T-wrpHAQADAgADcwADPAQ",
+          "file_unique_id": "AQADgwxrG8QscEV4",
+          "file_size": 1442,
+          "width": 75,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMEmotgH6jvsPvlkhBi2wSvJDludWcAAKDDGsbxCxwRbEKq5T-wrpHAQADAgADbQADPAQ",
+          "file_unique_id": "AQADgwxrG8QscEVy",
+          "file_size": 13984,
+          "width": 267,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMEmotgH6jvsPvlkhBi2wSvJDludWcAAKDDGsbxCxwRbEKq5T-wrpHAQADAgADeAADPAQ",
+          "file_unique_id": "AQADgwxrG8QscEV9",
+          "file_size": 47520,
+          "width": 667,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMEmotgH6jvsPvlkhBi2wSvJDludWcAAKDDGsbxCxwRbEKq5T-wrpHAQADAgADdwADPAQ",
+          "file_unique_id": "AQADgwxrG8QscEV8",
+          "file_size": 66817,
+          "width": 1206,
+          "height": 1447
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMEmotgH6jvsPvlkhBi2wSvJDludWcAAKDDGsbxCxwRbEKq5T-wrpHAQADAgADeQADPAQ",
+          "file_unique_id": "AQADgwxrG8QscEV-",
+          "file_size": 89172,
+          "width": 1067,
+          "height": 1280
+        }
+      ],
+      "caption": "زیر این پست کسایی که اپل ایدی ریجن امریکا فقط دارن نفری فقط یک بار اموجی 🎰 بزارین بدون پاک  کردن اولین نفر 777  بیاره گیفت کارت 5$  اپل میدم\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 35,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 108,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

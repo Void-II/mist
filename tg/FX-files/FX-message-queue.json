@@ -21720,6 +21720,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3206,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781464834,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMhmou_wKtHT2mgjDENpZ_LsRjA8yrAAIpDmsbJYh4UY9MDdmJ3FhpAQADAgADcwADPAQ",
+          "file_unique_id": "AQADKQ5rGyWIeFF4",
+          "file_size": 1189,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMhmou_wKtHT2mgjDENpZ_LsRjA8yrAAIpDmsbJYh4UY9MDdmJ3FhpAQADAgADbQADPAQ",
+          "file_unique_id": "AQADKQ5rGyWIeFFy",
+          "file_size": 17798,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMhmou_wKtHT2mgjDENpZ_LsRjA8yrAAIpDmsbJYh4UY9MDdmJ3FhpAQADAgADeAADPAQ",
+          "file_unique_id": "AQADKQ5rGyWIeFF9",
+          "file_size": 84807,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMhmou_wKtHT2mgjDENpZ_LsRjA8yrAAIpDmsbJYh4UY9MDdmJ3FhpAQADAgADeQADPAQ",
+          "file_unique_id": "AQADKQ5rGyWIeFF-",
+          "file_size": 164937,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "Fastest VPN Premium\n\nExp: 1 year (یکسال)\n\nEmail:vegamak650@xgshare.com\n\nPassword:@Error404Bin\n\nProtocol: Ikev \n\nشات و لایک مرامی🌹\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 48,
+          "length": 22,
+          "type": "code"
+        },
+        {
+          "offset": 81,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 167,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

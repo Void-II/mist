@@ -19202,6 +19202,56 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3167,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781441133,
+      "document": {
+        "file_name": "whitedns-v0.0.2-x86.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIMX2ouom0rfpaeL5Q6_gvTAcQXyzqmAAKHIQACFPV5UdrNsGln_HONPAQ",
+        "file_unique_id": "AgADhyEAAhT1eVE",
+        "file_size": 26614932
+      },
+      "caption": "نسخه جدید اپ WhiteDNS VPN آماده شده. \n\nدر این نسخه \n• سرعت اتصال بهتر شده\n• مشکل داغ شدن گوشی رفع شده\n• اپ همانقدر ساده مانده و فقط شما باید دکمه اتصال رو بزنید \n\nمتاسفانه باید نسخه قدیم رو پاک کنید و این ورژن رو از اول نصب کنید. این مشکل از ورژن بعدی نخواهد بود.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 39,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 163,
+          "length": 100,
+          "type": "blockquote"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

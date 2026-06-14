@@ -22695,6 +22695,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3227,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781472747,
+      "text": "⭕️توییت ترامپ در تروث سوشال:قرارداد با جمهوری اسلامی ایران اکنون کامل شده است. به همه تبریک می‌گویم! من به‌موجب این، عبور آزاد و بدون عوارض از تنگه هرمز را کاملاً مجاز می‌دانم و هم‌زمان، لغو فوری محاصره دریایی آمریکا را اعلام می‌کنم. کشتی‌های جهان، موتورها را روشن کنید. بگذارید نفت جاری شود! رئیس‌جمهور، دونالد جی. ترامپ\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 323,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 334,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 360,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 360,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 360,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

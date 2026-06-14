@@ -18890,6 +18890,46 @@
       "link_preview_options": {
         "url": "https://t.me/mitivpnbot?start=1"
       }
+    },
+    {
+      "message_id": 3160,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781434053,
+      "document": {
+        "file_name": "پخت پز 🇩🇪🇺🇲⚡.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIMWGouhsXMfcnhl6I8ttvtjx2yt8QrAAIICwACHqxwRdXdPOnm9p-sPAQ",
+        "file_unique_id": "AgADCAsAAh6scEU",
+        "file_size": 14492
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

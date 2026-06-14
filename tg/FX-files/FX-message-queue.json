@@ -23231,6 +23231,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3238,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781473131,
+      "text": "🔴ترامپ:\nتوافق با جمهوری اسلامی ایران اکنون کامل شده است، به همه تبریک می‌گویم! بدین وسیله من به طور کامل باز شدن رایگان تنگه هرمز را مجاز می‌دانم و همزمان مجوز رفع فوری محاصره دریایی ایالات متحده را صادر می‌کنم. کشتی‌های جهان، موتورهای خود را روشن کنید. بگذارید نفت جریان یابد! - ترامپ\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 299,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 299,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 299,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

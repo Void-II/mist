@@ -23770,6 +23770,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3250,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781474367,
+      "text": "امتیازات لحظه آخری ایران که از ترامپ دریافت کرد به روایت فارس:\n\nحفظ تمامیت ارضی لبنان\nعقب نشینی اسرائیل از مرز لبنان \nرفع بلادرنگ محاصره\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 138,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 149,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

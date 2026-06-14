@@ -18838,6 +18838,58 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3159,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781433153,
+      "text": "🔹 کانفیگ اختصاصی کلیک کن👉\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 3,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 18,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 40,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 40,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 40,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/mitivpnbot?start=1"
+      }
     }
   ]
 }

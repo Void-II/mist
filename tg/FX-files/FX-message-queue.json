@@ -21255,6 +21255,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3197,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781460754,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMfWou7xKGCR0o0sR2LmSf6k8aaDA0AAL6DWsbJYh4UexfBoT7_es2AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD-g1rGyWIeFF4",
+          "file_size": 2007,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMfWou7xKGCR0o0sR2LmSf6k8aaDA0AAL6DWsbJYh4UexfBoT7_es2AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD-g1rGyWIeFFy",
+          "file_size": 34950,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMfWou7xKGCR0o0sR2LmSf6k8aaDA0AAL6DWsbJYh4UexfBoT7_es2AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD-g1rGyWIeFF9",
+          "file_size": 150530,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMfWou7xKGCR0o0sR2LmSf6k8aaDA0AAL6DWsbJYh4UexfBoT7_es2AQADAgADeQADPAQ",
+          "file_unique_id": "AQAD-g1rGyWIeFF-",
+          "file_size": 215732,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "💥دوستانی که سورفشارک نیاز دارند زیر همین پست کدهاشونو ارسال کنند چند نفری لاگین میشوند\n\nشات و لایک یادتون نره🌸\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 115,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 128,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

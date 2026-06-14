@@ -18590,6 +18590,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3155,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781430333,
+      "text": "https://hyper2.ketabkhan24.ir:8080/sub/68274bd4e6e47045\n\nhttps://hyper2.ketabkhan24.ir:8080/sub/d9a6ce4d8104177c\n\nhttps://hyper2.ketabkhan24.ir:8080/sub/0652fa0233f28871\n\n3 تا یک گیگ \nلینک هارو داخل هر کلاینتی که دارید میتونید بزنید.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 55,
+          "type": "url"
+        },
+        {
+          "offset": 57,
+          "length": 55,
+          "type": "url"
+        },
+        {
+          "offset": 114,
+          "length": 55,
+          "type": "url"
+        },
+        {
+          "offset": 234,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

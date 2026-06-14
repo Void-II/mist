@@ -22190,6 +22190,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3216,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781469334,
+      "text": "🔰Next Movie🔰\n\n🔎 GooglePlayLink\n\n💡4.7 | #Film\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a / arm64-v8\n\nتوضیحات درباره برنامه:\nببین نکست مووی چیا داره:\n\n✓پخش آنلاین بدون سانسور و با دوبله یا زیرنویس فارسی\n✓بدون نیاز به فیلترشکن یا اینترنت قوی\n✓دانلود با کیفیت‌های مختلف برای تماشای آفلاین فیلم‌ها و سریال‌ها\n✓جدا سازی فیلم یا قسمت‌های دیده شده سریال\n✓جستجوی پیشرفته بر اساس ژانر، سال، بازیگر، کارگردان و...\n✓اضافه کردن فیلم‌ها و سریال‌ها به لیست علاقه‌مندی‌ها\n✓دنبال کردن بازیگر و کارگردان و مشاهده تمام آثار آنها\n✓نمایش فیلم‌ها و سریال‌های مشابه برای هر فیلم\n✓پروفایل کاربری حرفه‌ای برای ثبت نظر و امتیاز\n✓رابط کاربری ساده و روان بدون تبلیغات مزاحم\n✓آرشیو کامل و به‌روز فیلم‌ها و سریال‌ها از سراسر دنیا\n✓امکان تماشای فیلم و سریال با دوبله فارسی و زیرنویس چسبیده\n✓دسته‌بندی محتوای فیلم و سریال در بیش از ۲۰ ژانر مختلف\n✓اطلاع از تریلر و اخبار جدیدترین فیلم‌ها و سریال‌ها\n✓سرعت بالا در جستجو، پخش و دانلود\n✓به‌روزرسانی مداوم و پشتیبانی قوی\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 19,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.nextappstm.nextmovie"
+        },
+        {
+          "offset": 43,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 212,
+          "length": 811,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1112,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/aplodboy12bot?start=get_vdzrqampxtuetydg"
+        },
+        {
+          "offset": 1141,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1160,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1177,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1200,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1200,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1200,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.nextappstm.nextmovie"
+      }
     }
   ]
 }

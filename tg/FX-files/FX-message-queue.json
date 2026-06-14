@@ -22651,7 +22651,7 @@
       }
     },
     {
-      "message_id": 3225,
+      "message_id": 3226,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -22663,21 +22663,31 @@
         "type": "channel"
       },
       "date": 1781472683,
-      "text": "🔴  نخست وزیر پاکستان رسما توافق صلح ایران و آمریکا را اعلام کرد\n\n• Sent via TeleFeed",
+      "text": "18 19 دی :)\n\nلعنت بهت ترامپ اون همه ارزو اون همه جوون :) اون همه امید به زندگی\n\nشاشیدم تو سیاست\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 77,
+          "offset": 97,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 108,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 134,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 77,
+          "offset": 134,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 77,
+          "offset": 134,
           "length": 8,
           "type": "underline"
         }

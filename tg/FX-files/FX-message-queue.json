@@ -13959,6 +13959,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3120,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781382331,
+      "text": "داداش من بسیجی ام یه ماه دارم تو خیابون پرچم دستم میگیرم تکون میدم رهبرمم هنوز خاک نشده بعد این حرومیا رفتن توافق کردن\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

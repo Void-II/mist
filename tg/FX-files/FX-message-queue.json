@@ -21031,6 +21031,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3193,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781459854,
+      "video": {
+        "duration": 14,
+        "width": 1280,
+        "height": 712,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgx5ai7rjriLkTUycO12J2hpuK8nVuYAAqgeAAKqlXlR3CiqVkkZnWYBAAdtAAM8BA",
+          "file_unique_id": "AQADqB4AAqqVeVFy",
+          "file_size": 7832,
+          "width": 320,
+          "height": 178
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAgx5ai7rjriLkTUycO12J2hpuK8nVuYAAqgeAAKqlXlR3CiqVkkZnWYBAAdtAAM8BA",
+          "file_unique_id": "AQADqB4AAqqVeVFy",
+          "file_size": 7832,
+          "width": 320,
+          "height": 178
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIMeWou6464i5E1MnDtdidoabivJ1bmAAKoHgACqpV5UdwoqlZJGZ1mPAQ",
+        "file_unique_id": "AgADqB4AAqqVeVE",
+        "file_size": 2139039
+      },
+      "caption": "تير اندازى تو تجمع مخالفان توافق \"تندروها\" \n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 45,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 58,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

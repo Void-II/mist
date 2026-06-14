@@ -13119,6 +13119,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3101,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781375371,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMHWotoYuLH5dO0sWNfAwkzfFWWZ_6AAKaDWsbJ9YwUVlwbbz5Tv45AQADAgADcwADPAQ",
+          "file_unique_id": "AQADmg1rGyfWMFF4",
+          "file_size": 858,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMHWotoYuLH5dO0sWNfAwkzfFWWZ_6AAKaDWsbJ9YwUVlwbbz5Tv45AQADAgADbQADPAQ",
+          "file_unique_id": "AQADmg1rGyfWMFFy",
+          "file_size": 9466,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMHWotoYuLH5dO0sWNfAwkzfFWWZ_6AAKaDWsbJ9YwUVlwbbz5Tv45AQADAgADeAADPAQ",
+          "file_unique_id": "AQADmg1rGyfWMFF9",
+          "file_size": 35838,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIMHWotoYuLH5dO0sWNfAwkzfFWWZ_6AAKaDWsbJ9YwUVlwbbz5Tv45AQADAgADeQADPAQ",
+          "file_unique_id": "AQADmg1rGyfWMFF-",
+          "file_size": 64881,
+          "width": 590,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nسرویس داخل بات هم‌چنان با قدرت متصل هست\n\nبه زودی اپدیت ویژه برای این سرويس داریم\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 96,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 110,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

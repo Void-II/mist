@@ -14323,6 +14323,46 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3128,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781384011,
+      "sticker": {
+        "width": 512,
+        "height": 512,
+        "emoji": "😈",
+        "set_name": "Rigbychan_by_fStikBot",
+        "is_animated": false,
+        "is_video": true,
+        "type": "regular",
+        "thumbnail": {
+          "file_id": "AAMCAgADIQUABOo8MncAAgw4ai3DS3YVm4oJjSiMY5il7-vxnpYAApN0AAIo28BLAaceYp6ypYMBAAdtAAM8BA",
+          "file_unique_id": "AQADk3QAAijbwEty",
+          "file_size": 7942,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAgADIQUABOo8MncAAgw4ai3DS3YVm4oJjSiMY5il7-vxnpYAApN0AAIo28BLAaceYp6ypYMBAAdtAAM8BA",
+          "file_unique_id": "AQADk3QAAijbwEty",
+          "file_size": 7942,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "CAACAgIAAyEFAATqPDJ3AAIMOGotw0t2FZuKCY0ojGOYpe_r8Z6WAAKTdAACKNvASwGnHmKesqWDPAQ",
+        "file_unique_id": "AgADk3QAAijbwEs",
+        "file_size": 38467
+      }
     }
   ]
 }

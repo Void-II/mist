@@ -19104,6 +19104,68 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3165,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781437113,
+      "video": {
+        "duration": 16,
+        "width": 368,
+        "height": 176,
+        "file_name": "IMG_1310.MP4",
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgxdai6SuaFCd-LEKZdWdwcL4l-TqvkAAvMKAAJlJnhFncA0gopmqFoBAAdtAAM8BA",
+          "file_unique_id": "AQAD8woAAmUmeEVy",
+          "file_size": 7947,
+          "width": 320,
+          "height": 153
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAgxdai6SuaFCd-LEKZdWdwcL4l-TqvkAAvMKAAJlJnhFncA0gopmqFoBAAdtAAM8BA",
+          "file_unique_id": "AQAD8woAAmUmeEVy",
+          "file_size": 7947,
+          "width": 320,
+          "height": 153
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIMXWoukrmhQnfixCmXVncHC-Jfk6r5AALzCgACZSZ4RZ3ANIKKZqhaPAQ",
+        "file_unique_id": "AgAD8woAAmUmeEU",
+        "file_size": 851838
+      },
+      "caption": "مسعود پزشکیان امروز تو سخنرانیش گفته رسول خدا و اینا رفتن جنگ لت و پار و شهید شدن.\nحالا یه بخش از عرازشه و مذهبیون بهشون برخورده که چرا گفته لت و پار شدن.\n🤦🏻‍♂️\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 162,
+          "type": "bold"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 175,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

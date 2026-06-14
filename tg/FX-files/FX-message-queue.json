@@ -20002,6 +20002,112 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3185,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781446293,
+      "text": "اشتراک 1vpn\nقیمت 126هزار مفت 6 عدد موجوده\n5کاربر\nنامحدود حجم\n ضمانت تا روز اخر اشتراک\nاحتمال تمدید خوردن برای ماه بعد\nمتصل برای اکثریت اپراتور ها\nچندین لوکیشن مختلف\nسرعت خوب و بدون قطعی\n خدایی دیگه چطوری هواتون رو داشته باشم یه سر به کانال های دیگه بزنید اوپن تک لوکیشن 1 ماهه تک کاربر 500 هزار تومان میدن\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 42,
+          "length": 6,
+          "type": "blockquote"
+        },
+        {
+          "offset": 61,
+          "length": 11,
+          "type": "blockquote"
+        },
+        {
+          "offset": 85,
+          "length": 24,
+          "type": "blockquote"
+        },
+        {
+          "offset": 122,
+          "length": 31,
+          "type": "blockquote"
+        },
+        {
+          "offset": 166,
+          "length": 27,
+          "type": "blockquote"
+        },
+        {
+          "offset": 186,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 193,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 206,
+          "length": 18,
+          "type": "blockquote"
+        },
+        {
+          "offset": 206,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 224,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 20,
+          "type": "blockquote"
+        },
+        {
+          "offset": 237,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 48,
+          "type": "bold"
+        },
+        {
+          "offset": 307,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 330,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 330,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 330,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

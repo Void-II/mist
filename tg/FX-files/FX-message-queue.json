@@ -26223,6 +26223,51 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3303,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781541929,
+      "document": {
+        "file_name": "mpvRx-armeabi-v7a-v1.4.1-final.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIM52owLCkwlR5gti8XMtWRUb4GkExLAAIiHwACRReAUeyKD1malNojPAQ",
+        "file_unique_id": "AgADIh8AAkUXgFE",
+        "file_size": 66180678
+      },
+      "caption": "پلیر بهینه و با کیفیت خوب برای اندروید\n\nلینک گیتهاب\nMpvRx\n\nhttps://github.com/Riteshp2001/mpvRx\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 59,
+          "length": 36,
+          "type": "url"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

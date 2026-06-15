@@ -26666,6 +26666,87 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3312,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781552249,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM8GowVHkbdfXdlpNKf8n_zcg4iuUWAALbDmsbUNmBUeDiDAG-pFTdAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD2w5rG1DZgVF4",
+          "file_size": 862,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM8GowVHkbdfXdlpNKf8n_zcg4iuUWAALbDmsbUNmBUeDiDAG-pFTdAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD2w5rG1DZgVFy",
+          "file_size": 10035,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM8GowVHkbdfXdlpNKf8n_zcg4iuUWAALbDmsbUNmBUeDiDAG-pFTdAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD2w5rG1DZgVF9",
+          "file_size": 39446,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM8GowVHkbdfXdlpNKf8n_zcg4iuUWAALbDmsbUNmBUeDiDAG-pFTdAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD2w5rG1DZgVF-",
+          "file_size": 78064,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM8GowVHkbdfXdlpNKf8n_zcg4iuUWAALbDmsbUNmBUeDiDAG-pFTdAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD2w5rG1DZgVF8",
+          "file_size": 164847,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "این ربات روسی عجیب قویه رو همراه اول قوی متصله\nبرای یوتیوب عالیه یکی برام فرستاد گفت باهاش 20 گیگ یه سری فایل دانلود زده قطع نشد\n\nپس اینکه میگه نامحدود حجمم تا حدودی واقعیه\nاگه دانلود چیزی دارید یا میخواهید بدید یکی رو از سر خودتون باز کنید این عالیه فقط همین فری شو بگیرید چیزی نخرید ها ربات روسی هس گرون درمیاد پاتون\n\nلینک ورود به بات\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 130,
+          "length": 188,
+          "type": "bold"
+        },
+        {
+          "offset": 320,
+          "length": 16,
+          "type": "text_link",
+          "url": "https://t.me/BurmaldaTunnel_robot?start=r_7106584375"
+        },
+        {
+          "offset": 349,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 349,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 349,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

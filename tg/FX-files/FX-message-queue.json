@@ -26268,6 +26268,85 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3304,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781542589,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM6GowLr0PuEHB6QPAq4fKNu1VJHpIAAKlDmsbUNmBUWwbsoswNIi7AQADAgADcwADPAQ",
+          "file_unique_id": "AQADpQ5rG1DZgVF4",
+          "file_size": 1685,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM6GowLr0PuEHB6QPAq4fKNu1VJHpIAAKlDmsbUNmBUWwbsoswNIi7AQADAgADbQADPAQ",
+          "file_unique_id": "AQADpQ5rG1DZgVFy",
+          "file_size": 15984,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM6GowLr0PuEHB6QPAq4fKNu1VJHpIAAKlDmsbUNmBUWwbsoswNIi7AQADAgADeAADPAQ",
+          "file_unique_id": "AQADpQ5rG1DZgVF9",
+          "file_size": 65755,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM6GowLr0PuEHB6QPAq4fKNu1VJHpIAAKlDmsbUNmBUWwbsoswNIi7AQADAgADeQADPAQ",
+          "file_unique_id": "AQADpQ5rG1DZgVF-",
+          "file_size": 70951,
+          "width": 845,
+          "height": 845
+        }
+      ],
+      "caption": "مسابقه فروشگاه معتبر تکنو لایف \nگوشی آیفون سامسونگ جایزه نمیدن با دعوت به بازی و پیش‌بینی مسابقات جهانی فوتبال این هدفون بی سیم+ 1میلیونی میدن\nبا شماره دوستاتون بزنید همین رو بگیرین تموم\n\nلینک ورود به مسابقه\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 31,
+          "type": "bold"
+        },
+        {
+          "offset": 188,
+          "length": 19,
+          "type": "text_link",
+          "url": "https://worldcup.technolife.com/?ref=F8AZRC"
+        },
+        {
+          "offset": 209,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 232,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 232,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 232,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -26497,6 +26497,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3308,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781547445,
+      "text": "چالش و جایزه\n3 برنده اکانت برنامه سورن 6 ماهه فیلم و سریال میبرن به صورت شخصی \nاز بین عداد 8 تا 88 یک عدد انتخاب کنید کامنت بکنید\nقرعه‌کشی فردا ساعت 2 ظهر\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 13,
+          "length": 45,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 155,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

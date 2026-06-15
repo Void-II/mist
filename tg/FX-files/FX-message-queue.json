@@ -26429,6 +26429,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3307,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781544269,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM62owNU1GyCBPwfUqXbjKB8d8Dpb1AAL0DmsbJYiAUUvfRfsgmPnaAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD9A5rGyWIgFF4",
+          "file_size": 701,
+          "width": 57,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM62owNU1GyCBPwfUqXbjKB8d8Dpb1AAL0DmsbJYiAUUvfRfsgmPnaAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD9A5rGyWIgFFy",
+          "file_size": 5613,
+          "width": 203,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM62owNU1GyCBPwfUqXbjKB8d8Dpb1AAL0DmsbJYiAUUvfRfsgmPnaAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD9A5rGyWIgFF9",
+          "file_size": 19380,
+          "width": 507,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM62owNU1GyCBPwfUqXbjKB8d8Dpb1AAL0DmsbJYiAUUvfRfsgmPnaAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD9A5rGyWIgFF-",
+          "file_size": 32126,
+          "width": 811,
+          "height": 1280
+        }
+      ],
+      "caption": "50 دلار ثبت نام\nو روزانه 10 دلار رایگان \n؛api دارد\n50$ \nhttps://tokenlb.net/sign-up?aff=Pcf8\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 56,
+          "length": 36,
+          "type": "url"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

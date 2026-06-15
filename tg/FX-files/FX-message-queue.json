@@ -24701,6 +24701,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3271,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781511209,
+      "media_group_id": "14252089672607036",
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMx2ovtClGRcwBdkY9bIOAlwc45hkmAAI2DGsbbkCBRTA3DeDX900FAQADAgADcwADPAQ",
+          "file_unique_id": "AQADNgxrG25AgUV4",
+          "file_size": 1379,
+          "width": 57,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMx2ovtClGRcwBdkY9bIOAlwc45hkmAAI2DGsbbkCBRTA3DeDX900FAQADAgADbQADPAQ",
+          "file_unique_id": "AQADNgxrG25AgUVy",
+          "file_size": 18709,
+          "width": 203,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMx2ovtClGRcwBdkY9bIOAlwc45hkmAAI2DGsbbkCBRTA3DeDX900FAQADAgADeAADPAQ",
+          "file_unique_id": "AQADNgxrG25AgUV9",
+          "file_size": 72804,
+          "width": 508,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMx2ovtClGRcwBdkY9bIOAlwc45hkmAAI2DGsbbkCBRTA3DeDX900FAQADAgADeQADPAQ",
+          "file_unique_id": "AQADNgxrG25AgUV-",
+          "file_size": 147283,
+          "width": 813,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIMx2ovtClGRcwBdkY9bIOAlwc45hkmAAI2DGsbbkCBRTA3DeDX900FAQADAgADdwADPAQ",
+          "file_unique_id": "AQADNgxrG25AgUV8",
+          "file_size": 165928,
+          "width": 1170,
+          "height": 1841
+        }
+      ],
+      "caption": "‏دلم میخواس منم مثل بقیه با اهنگ جدید تتلو ارتباط بگیرم و از گریه هاش ناراحت شم اما متاسفم، من فراموش کار نیستم، با این سابقه درخشانی که داره.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

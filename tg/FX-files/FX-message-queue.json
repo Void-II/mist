@@ -27059,6 +27059,72 @@
       "link_preview_options": {
         "url": "https://rezatavakoli.com/wc/"
       }
+    },
+    {
+      "message_id": 3320,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781565370,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-Gowh7rIiJ4XybqslnksxcvCEF7vAAIkEGsbqpWBUbFa3XCnKTIYAQADAgADcwADPAQ",
+          "file_unique_id": "AQADJBBrG6qVgVF4",
+          "file_size": 1657,
+          "width": 86,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-Gowh7rIiJ4XybqslnksxcvCEF7vAAIkEGsbqpWBUbFa3XCnKTIYAQADAgADbQADPAQ",
+          "file_unique_id": "AQADJBBrG6qVgVFy",
+          "file_size": 20912,
+          "width": 305,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-Gowh7rIiJ4XybqslnksxcvCEF7vAAIkEGsbqpWBUbFa3XCnKTIYAQADAgADeAADPAQ",
+          "file_unique_id": "AQADJBBrG6qVgVF9",
+          "file_size": 75848,
+          "width": 699,
+          "height": 733
+        }
+      ],
+      "caption": "🚨 برنامه ای که داره بین ایرانی‌هایی که وارد ورزشگاه میشن توزیع میشه!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 70,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 83,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 109,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

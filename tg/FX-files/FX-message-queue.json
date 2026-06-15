@@ -27191,6 +27191,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3322,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781566529,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-mowjEFJK5a4ojg8AAEhv2lBCo5JJgACKRBrG6qVgVGEQ3PFaAEYdAEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADKRBrG6qVgVF4",
+          "file_size": 1977,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-mowjEFJK5a4ojg8AAEhv2lBCo5JJgACKRBrG6qVgVGEQ3PFaAEYdAEAAwIAA20AAzwE",
+          "file_unique_id": "AQADKRBrG6qVgVFy",
+          "file_size": 28684,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-mowjEFJK5a4ojg8AAEhv2lBCo5JJgACKRBrG6qVgVGEQ3PFaAEYdAEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADKRBrG6qVgVF9",
+          "file_size": 127162,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIM-mowjEFJK5a4ojg8AAEhv2lBCo5JJgACKRBrG6qVgVGEQ3PFaAEYdAEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADKRBrG6qVgVF-",
+          "file_size": 247294,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "ترکیب جمهوری اسلامی مقابل نیوزلند\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 34,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 47,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

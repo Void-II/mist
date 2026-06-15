@@ -26921,6 +26921,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3317,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781558549,
+      "text": "رایتل تا چند ساعت آینده بسته های شبانه خودشو به نسخه جدید رایتل من اضافه خواهد کرد اگه کسی رایتل داره خواست بخره اقدام بکنه رایتل خیلی وقت بود بسته شبانه نداشت\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 161,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -24502,6 +24502,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3266,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781500347,
+      "text": "دوشنبه سوری همراه اخر \n*100*64*1#\n\nبزنید ببینیم چی میده بهتون\n\nتاریخ اعتبار بسته تو پیامک اعلام میشه براتون چک کنید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 116,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 139,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 139,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 139,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

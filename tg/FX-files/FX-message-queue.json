@@ -29066,6 +29066,114 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3358,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781620711,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINHmoxX-d2FlD7K7K6-gZi_9bpo02uAAJwDmsbA5KJUdHxlpcP7JpWAQADAgADcwADPAQ",
+          "file_unique_id": "AQADcA5rGwOSiVF4",
+          "file_size": 1126,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINHmoxX-d2FlD7K7K6-gZi_9bpo02uAAJwDmsbA5KJUdHxlpcP7JpWAQADAgADbQADPAQ",
+          "file_unique_id": "AQADcA5rGwOSiVFy",
+          "file_size": 16942,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINHmoxX-d2FlD7K7K6-gZi_9bpo02uAAJwDmsbA5KJUdHxlpcP7JpWAQADAgADeAADPAQ",
+          "file_unique_id": "AQADcA5rGwOSiVF9",
+          "file_size": 83014,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINHmoxX-d2FlD7K7K6-gZi_9bpo02uAAJwDmsbA5KJUdHxlpcP7JpWAQADAgADeQADPAQ",
+          "file_unique_id": "AQADcA5rGwOSiVF-",
+          "file_size": 160471,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "tidal.com\n\ngalizertt@gmail.com:B1gJerry789 | Kraj = Wielka Brytania | Plan = Premium | Status = Aktywne | Ważne do = 2026-07-11 \n\ncacauaiello@hotmail.com:Caiello#7 | Kraj = Brazylia | Plan = Premium | Status = Aktywne | Ważne do = 2026-06-25\n\ntbusellato5@gmail.com:tommabu55 | Kraj = Włochy | Plan = Premium | Status = Aktywne | Ważne do = 2026-06-26\n\nmalahierba2233@gmail.com:Canelona230 | Kraj = Argentyna | Plan = Family (Członek) | Status = Aktywne | Ważne do = 2026-06-27 \n\ncristianprep@hotmail.com:TIDAL2021 | Kraj = Argentyna | Plan = Premium | Status = Aktywne | Ważne do = 2026-06-26 \n\nsteewy94@hotmail.fr:Milane-0205 | Kraj = Nigeria | Plan = Family (Członek) | Status = Aktywne | Ważne do = 2026-06-17 \n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 11,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 130,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 243,
+          "length": 21,
+          "type": "email"
+        },
+        {
+          "offset": 352,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 479,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 595,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 715,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 728,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 750,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 750,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 750,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

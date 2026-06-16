@@ -29865,6 +29865,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3372,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781631633,
+      "text": "🚀 سهام اسپیس‌ایکس فقط ۴ روز بعد از عرضه، بیش از ۲۸٪ رشد کرده!\n\n👾 اسپیس‌ایکس، شرکت فضایی ایلان ماسک، دیگه فقط یک شرکت موشک‌سازی نیست. این شرکت با پروژه‌های بزرگ فضایی و نسل جدید فضاپیماها، به یکی از ارزشمندترین شرکت‌های دنیا تبدیل شده.\n\n📈 سهام اسپیس‌ایکس چند روز پیش وارد بازار شد و خیلی زود توجه سرمایه‌گذاران رو به خودش جلب کرد؛ به‌طوری که الان از نظر ارزش بازار، در رتبه هفتم بزرگ‌ترین دارایی‌های جهان قرار گرفته!\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 420,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 433,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 459,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

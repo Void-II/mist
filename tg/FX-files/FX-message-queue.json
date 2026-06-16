@@ -29727,6 +29727,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3370,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781631632,
+      "media_group_id": "14253053062196204",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINKmoxipDvCiZ4IHU9GQhcD_A0z7EvAAJ9EWsbbeOJUc3QFh_udG2KAQADAgADcwADPAQ",
+          "file_unique_id": "AQADfRFrG23jiVF4",
+          "file_size": 1627,
+          "width": 75,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINKmoxipDvCiZ4IHU9GQhcD_A0z7EvAAJ9EWsbbeOJUc3QFh_udG2KAQADAgADbQADPAQ",
+          "file_unique_id": "AQADfRFrG23jiVFy",
+          "file_size": 15687,
+          "width": 268,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINKmoxipDvCiZ4IHU9GQhcD_A0z7EvAAJ9EWsbbeOJUc3QFh_udG2KAQADAgADeAADPAQ",
+          "file_unique_id": "AQADfRFrG23jiVF9",
+          "file_size": 50557,
+          "width": 669,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINKmoxipDvCiZ4IHU9GQhcD_A0z7EvAAJ9EWsbbeOJUc3QFh_udG2KAQADAgADeQADPAQ",
+          "file_unique_id": "AQADfRFrG23jiVF-",
+          "file_size": 85197,
+          "width": 1070,
+          "height": 1280
+        }
+      ],
+      "caption": "ترکیب فرانسه و سنگال برای بازی امشب ساعت 22:30\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 47,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 60,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -28124,6 +28124,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3341,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781611771,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINDWoxPPvnaH0h8pFJx3Cl13e3yyOJAALnD2sbMNqJUfyWw4gay-f5AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD5w9rGzDaiVF4",
+          "file_size": 671,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINDWoxPPvnaH0h8pFJx3Cl13e3yyOJAALnD2sbMNqJUfyWw4gay-f5AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD5w9rGzDaiVFy",
+          "file_size": 8354,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINDWoxPPvnaH0h8pFJx3Cl13e3yyOJAALnD2sbMNqJUfyWw4gay-f5AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD5w9rGzDaiVF9",
+          "file_size": 33234,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINDWoxPPvnaH0h8pFJx3Cl13e3yyOJAALnD2sbMNqJUfyWw4gay-f5AQADAgADeQADPAQ",
+          "file_unique_id": "AQAD5w9rGzDaiVF-",
+          "file_size": 62276,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINDWoxPPvnaH0h8pFJx3Cl13e3yyOJAALnD2sbMNqJUfyWw4gay-f5AQADAgADdwADPAQ",
+          "file_unique_id": "AQAD5w9rGzDaiVF8",
+          "file_size": 132563,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "2 ساعته دارم میگردم دنبال یه گوشی با سه مشخصات\n+جک 3.5 هندزفری\n+رم 8 گیگ یا بیشتر حافظه 256گیگ\n+داشتن خدمات گوگل پلی (هووای نداره جدیدا)\n+باتری بالا 6000هزار\n\nکسی چیزی سراغ داره بگه مادر قحبه ها هر چی گوشی میزنن یه جا ایراد داره نمیدونم باید برم سراغ برند های کوچیک تر\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 270,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 293,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

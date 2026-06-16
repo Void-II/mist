@@ -27901,6 +27901,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3337,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781608231,
+      "media_group_id": "14252865852394036",
+      "document": {
+        "file_name": "🛑@Error404Bin.conf",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAINB2oxLq9w2nEqzTckpOlCO8bJ03ViAAIfHAACysSJUaELhrPvUixEPAQ",
+        "file_unique_id": "AgADHxwAAsrEiVE",
+        "file_size": 2967
+      },
+      "caption": "دوتا کانفیگ متصل\nمناسب همه\nترجیحاً روی Amnezia VPN استفاده کنید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 65,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 78,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

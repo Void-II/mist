@@ -28634,6 +28634,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3351,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781617831,
+      "text": "📣اطلاعیه \n\nشرایط نماینده شدن و دریافت بات فروش برای 10 نفر فقط بات داریم\n\nبه این صورت هست که باید 5 میلیون حساب رو شارژ کنن تا به عنوان نماینده معرفی شوند \n\nجهت ثبت سفارش سرویس به بات مراجعه کنید و جهت دریافت نمایندگی به پشتيبانی مراجعه کنید \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 247,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 261,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 277,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 308,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 308,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 308,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

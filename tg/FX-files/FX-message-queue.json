@@ -29911,6 +29911,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3373,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781631931,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINLWoxi7si5zd_GmBoPc0Zrej37EBxAAJ2DGsbbkCJRTeg6RS0urwmAQADAgADcwADPAQ",
+          "file_unique_id": "AQADdgxrG25AiUV4",
+          "file_size": 332,
+          "width": 90,
+          "height": 71
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINLWoxi7si5zd_GmBoPc0Zrej37EBxAAJ2DGsbbkCJRTeg6RS0urwmAQADAgADbQADPAQ",
+          "file_unique_id": "AQADdgxrG25AiUVy",
+          "file_size": 1713,
+          "width": 320,
+          "height": 252
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINLWoxi7si5zd_GmBoPc0Zrej37EBxAAJ2DGsbbkCJRTeg6RS0urwmAQADAgADeAADPAQ",
+          "file_unique_id": "AQADdgxrG25AiUV9",
+          "file_size": 2990,
+          "width": 600,
+          "height": 473
+        }
+      ],
+      "caption": "رسمی\nترکیب دو تیم.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 31,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 31,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -30125,6 +30125,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3377,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781634151,
+      "text": "🔰Bia2kore Movie🔰\n\n🔎 SiteLink\n\n💡5.1 | #Film\n\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a / arm64-v8\n\n\nتوضیحات درباره برنامه:\nبیاتوکره یک وب‌سایت فارسی‌زبان است که به‌صورت تخصصی روی سریال‌ها و فیلم‌های آسیایی فعالیت می‌کند؛ به‌ویژه سریال‌های کره‌ای، اما آثار چینی، ژاپنی و تایلندی را هم پوشش می‌دهد. در این سایت کاربران می‌توانند محتوای مورد علاقه‌شان را به‌صورت آنلاین تماشا کنند یا دانلود کنند و اغلب فایل‌ها دارای زیرنویس فارسی هستند.\nسایت بخش‌هایی مثل سریال‌های در حال پخش، آرشیو کامل آثار، فیلم‌ها و گاهی راهنمای استفاده دارد.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 23,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://bakoree.ir/"
+        },
+        {
+          "offset": 41,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 212,
+          "length": 406,
+          "type": "blockquote"
+        },
+        {
+          "offset": 707,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://uploadboy.com/dyewu7p0y4ev/Bia2kore_5.1_Mod"
+        },
+        {
+          "offset": 736,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 755,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 772,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 795,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 795,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 795,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

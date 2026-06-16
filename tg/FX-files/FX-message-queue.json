@@ -28245,6 +28245,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3343,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781612019,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIND2oxPfP2ks4-sS_s39vxd3_mi98zAAI5EGsbbeOJUboRNGzewQkRAQADAgADcwADPAQ",
+          "file_unique_id": "AQADORBrG23jiVF4",
+          "file_size": 1384,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIND2oxPfP2ks4-sS_s39vxd3_mi98zAAI5EGsbbeOJUboRNGzewQkRAQADAgADbQADPAQ",
+          "file_unique_id": "AQADORBrG23jiVFy",
+          "file_size": 15175,
+          "width": 320,
+          "height": 215
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIND2oxPfP2ks4-sS_s39vxd3_mi98zAAI5EGsbbeOJUboRNGzewQkRAQADAgADeAADPAQ",
+          "file_unique_id": "AQADORBrG23jiVF9",
+          "file_size": 64345,
+          "width": 800,
+          "height": 537
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIND2oxPfP2ks4-sS_s39vxd3_mi98zAAI5EGsbbeOJUboRNGzewQkRAQADAgADeQADPAQ",
+          "file_unique_id": "AQADORBrG23jiVF-",
+          "file_size": 108726,
+          "width": 1179,
+          "height": 791
+        }
+      ],
+      "caption": "⚫️ جواد زمانی و ابوالفضل ساعدی؛ از بازدداشت شدگان اعتراضات دی ماه در سمنان؛ صبح امروز اعدام شدن.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 98,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 111,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -27483,6 +27483,63 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3327,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781582490,
+      "text": "#معرفی ربات..ممبر\n🚀 ربات فیلترشکن روسی پرسرعت\n✅ ارائه سرورهای خوب\n✅ پشتیبانی از مولتی‌سرور\n✅ مناسب برای برنامه HAPP\n✅ تحویل سریع و فعال‌سازی آسان\n✅ پینگ مناسب و اتصال پایدار\n📲 برای دریافت سرور و تست، وارد ربات شوید\nBotbotbot\n🔥 همین حالا استارت بزن و سرور خودت رو دریافت کن.\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 217,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://t.me/BurmaldaTunnel_robot?start=r_8376197509"
+        },
+        {
+          "offset": 278,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 291,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 313,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 313,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 313,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+      }
     }
   ]
 }

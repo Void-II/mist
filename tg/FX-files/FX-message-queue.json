@@ -33018,6 +33018,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3433,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781720974,
+      "text": "اون فروشنده های بی ناموس مادر جنده دو هزاری لحظه ای قیمت دلار میگرفتن میکشیدن رو محصولات که 6 ماه قبل ترش اورده بودن الان از کص ننه جنده تون قیمت دلار رو بگیرین شده اندازه 6 ماه قبل\n\nپس مادر جنده ها چرا قیمت ها رو نمیارین پایین الان\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 183,
+          "length": 49,
+          "type": "bold"
+        },
+        {
+          "offset": 233,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

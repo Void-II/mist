@@ -32189,6 +32189,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3419,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781714134,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINW2oyzNa4IFtklj3bt4V-Yq1Lbe4nAAJTEGsbbeORUf2eNLAkRSenAQADAgADcwADPAQ",
+          "file_unique_id": "AQADUxBrG23jkVF4",
+          "file_size": 1638,
+          "width": 49,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINW2oyzNa4IFtklj3bt4V-Yq1Lbe4nAAJTEGsbbeORUf2eNLAkRSenAQADAgADbQADPAQ",
+          "file_unique_id": "AQADUxBrG23jkVFy",
+          "file_size": 24490,
+          "width": 176,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINW2oyzNa4IFtklj3bt4V-Yq1Lbe4nAAJTEGsbbeORUf2eNLAkRSenAQADAgADeAADPAQ",
+          "file_unique_id": "AQADUxBrG23jkVF9",
+          "file_size": 109337,
+          "width": 439,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINW2oyzNa4IFtklj3bt4V-Yq1Lbe4nAAJTEGsbbeORUf2eNLAkRSenAQADAgADeQADPAQ",
+          "file_unique_id": "AQADUxBrG23jkVF-",
+          "file_size": 184697,
+          "width": 703,
+          "height": 1280
+        }
+      ],
+      "caption": "امروز تولد جاویدنام عارف جعفرزادست❤️\nروحش شاد \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 47,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 60,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

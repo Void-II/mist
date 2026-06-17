@@ -33325,6 +33325,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3440,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781732555,
+      "text": "چالش\n🫥 از بین عداد 88 تا 188 یک عدد به صورت رندوم کامنت کنید\n🎁 3 نفر اکانت سایت فیلم و سریال سورن 6 ماهه روی شماره تلفن شون میبرن به صورت قانونیش\n⏳ قرعه کشی عصر جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 62,
+          "length": 85,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -31898,6 +31898,62 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone"
       }
+    },
+    {
+      "message_id": 3414,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781710275,
+      "text": "trojan://SoftNetConnect@194.5.193.58:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#asali\n\nمتصل \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 210,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 210,
+          "type": "code"
+        },
+        {
+          "offset": 218,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 231,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

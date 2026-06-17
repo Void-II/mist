@@ -32735,6 +32735,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3428,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781719654,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINZGoy4maVq8xJT6ULaaaZvUKO6suyAAIYDmsb1NmYUdK0ICyyFVHQAQADAgADcwADPAQ",
+          "file_unique_id": "AQADGA5rG9TZmFF4",
+          "file_size": 751,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINZGoy4maVq8xJT6ULaaaZvUKO6suyAAIYDmsb1NmYUdK0ICyyFVHQAQADAgADbQADPAQ",
+          "file_unique_id": "AQADGA5rG9TZmFFy",
+          "file_size": 8942,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINZGoy4maVq8xJT6ULaaaZvUKO6suyAAIYDmsb1NmYUdK0ICyyFVHQAQADAgADeAADPAQ",
+          "file_unique_id": "AQADGA5rG9TZmFF9",
+          "file_size": 33180,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINZGoy4maVq8xJT6ULaaaZvUKO6suyAAIYDmsb1NmYUdK0ICyyFVHQAQADAgADeQADPAQ",
+          "file_unique_id": "AQADGA5rG9TZmFF-",
+          "file_size": 63527,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINZGoy4maVq8xJT6ULaaaZvUKO6suyAAIYDmsb1NmYUdK0ICyyFVHQAQADAgADdwADPAQ",
+          "file_unique_id": "AQADGA5rG9TZmFF8",
+          "file_size": 131590,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "اگه براتون سواله چرا ایرانسل اومد بسته شبانه حذف کرده\nچون بازی های جام جهانی توی امریکا مکزیک و کانادا معمولا تو همین ساعت شبانه بودن تا این بسته داخلی مخصوص اپ های مضخرفش بهتون 420 هزار بده 90 گیگ رو\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 54,
+          "length": 146,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 225,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 225,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 225,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

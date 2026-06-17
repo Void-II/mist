@@ -31954,6 +31954,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3415,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781710354,
+      "text": "vless://b9317b11-bb1a-4478-9619-a40482ff3767@hm.khoycityman.ir:443?security=reality&encryption=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&headerType=none&fp=chrome&spx=%2FzhjhDQh8NFvfTJ4&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=b2#%F0%9F%87%B9%F0%9F%87%B7asali\nلوکیشن ترکیه متصل\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 282,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 282,
+          "type": "code"
+        },
+        {
+          "offset": 301,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 314,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 336,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 336,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 336,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

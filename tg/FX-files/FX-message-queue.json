@@ -31676,6 +31676,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3411,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781691994,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINU2oydlrFhQ1yGU2BDsS9d-hXk4XiAAItDWsbNTeZURz67TXVcQoxAQADAgADcwADPAQ",
+          "file_unique_id": "AQADLQ1rGzU3mVF4",
+          "file_size": 938,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINU2oydlrFhQ1yGU2BDsS9d-hXk4XiAAItDWsbNTeZURz67TXVcQoxAQADAgADbQADPAQ",
+          "file_unique_id": "AQADLQ1rGzU3mVFy",
+          "file_size": 8635,
+          "width": 158,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINU2oydlrFhQ1yGU2BDsS9d-hXk4XiAAItDWsbNTeZURz67TXVcQoxAQADAgADeAADPAQ",
+          "file_unique_id": "AQADLQ1rGzU3mVF9",
+          "file_size": 31719,
+          "width": 396,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINU2oydlrFhQ1yGU2BDsS9d-hXk4XiAAItDWsbNTeZURz67TXVcQoxAQADAgADeQADPAQ",
+          "file_unique_id": "AQADLQ1rGzU3mVF-",
+          "file_size": 52755,
+          "width": 634,
+          "height": 1280
+        }
+      ],
+      "caption": "برای اولین بار در تلگرام اخرین  نسخه مود شده \nCoolVPN Pro \n🆓  بدون نیاز به لاگین\n🔓 قفل تمام سرور ها باز شده\n▶️  اتصال آسان تنها با یک ضربه.\n🗑 فایل‌های اضافی حذف شده\n\nبرای دانلود کلیک کنید\n⭐دوستان حمایت فراموش نشه\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 217,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 217,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

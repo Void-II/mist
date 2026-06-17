@@ -31166,6 +31166,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3399,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781658385,
+      "text": "🔓کره فا – نسخه مود شده\n📥قابلیت دانلود فیلم‌ها و سریال‌ها فعال شده است.\n🗑 فایل‌های اضافی حذف و حجم برنامه بهینه‌سازی شده است.\n🆓  بدون نیاز به خرید اشتراک، تمام محتوا در دسترس است.\n▶️ برای تماشای آنلاین، لینک دانلود را در MX Player قرار دهید.\nتوجه : فقط روی پردازنده‌های arm64-v8a قابل نصب است.\n\nبرای دانلود کلیک کنید\n⭐دوستان حمایت فراموش نشه\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 346,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 346,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 357,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 378,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 378,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 378,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

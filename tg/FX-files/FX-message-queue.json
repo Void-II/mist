@@ -35982,6 +35982,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3488,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781804616,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINoGo0LkiJoz0cATylVWCa7WHSUQOjAAIWD2sb1NmgUS6QKnjGuT7eAQADAgADcwADPAQ",
+          "file_unique_id": "AQADFg9rG9TZoFF4",
+          "file_size": 1235,
+          "width": 80,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINoGo0LkiJoz0cATylVWCa7WHSUQOjAAIWD2sb1NmgUS6QKnjGuT7eAQADAgADbQADPAQ",
+          "file_unique_id": "AQADFg9rG9TZoFFy",
+          "file_size": 12523,
+          "width": 285,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINoGo0LkiJoz0cATylVWCa7WHSUQOjAAIWD2sb1NmgUS6QKnjGuT7eAQADAgADeAADPAQ",
+          "file_unique_id": "AQADFg9rG9TZoFF9",
+          "file_size": 42680,
+          "width": 712,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINoGo0LkiJoz0cATylVWCa7WHSUQOjAAIWD2sb1NmgUS6QKnjGuT7eAQADAgADeQADPAQ",
+          "file_unique_id": "AQADFg9rG9TZoFF-",
+          "file_size": 70240,
+          "width": 1080,
+          "height": 1214
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد 888 تا 988 یک عدد به صورت رندوم کامنت کنید\n🎁 برنده اکانت Veee vpn هشت ماهه میبره \n⏳ قرعه کشی عصر جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 154,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

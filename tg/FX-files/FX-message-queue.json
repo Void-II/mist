@@ -35941,6 +35941,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3487,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781804518,
+      "text": "چالش\n🫥 از بین عداد 788 تا 888 یک عدد به صورت رندوم کامنت کنید\n🎁 برنده اکانت زر فیلم 186 روزه کرکی میبره \n⏳ قرعه کشی عصر جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 158,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

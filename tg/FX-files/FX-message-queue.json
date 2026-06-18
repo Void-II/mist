@@ -34674,6 +34674,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3465,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781777676,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINiWozxQxsCzSuQJSvEa-1274wshn-AAKdDmsbrAOgUXfV99kqZ1M_AQADAgADcwADPAQ",
+          "file_unique_id": "AQADnQ5rG6wDoFF4",
+          "file_size": 1159,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINiWozxQxsCzSuQJSvEa-1274wshn-AAKdDmsbrAOgUXfV99kqZ1M_AQADAgADbQADPAQ",
+          "file_unique_id": "AQADnQ5rG6wDoFFy",
+          "file_size": 12630,
+          "width": 155,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINiWozxQxsCzSuQJSvEa-1274wshn-AAKdDmsbrAOgUXfV99kqZ1M_AQADAgADeAADPAQ",
+          "file_unique_id": "AQADnQ5rG6wDoFF9",
+          "file_size": 46906,
+          "width": 387,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINiWozxQxsCzSuQJSvEa-1274wshn-AAKdDmsbrAOgUXfV99kqZ1M_AQADAgADeQADPAQ",
+          "file_unique_id": "AQADnQ5rG6wDoFF-",
+          "file_size": 80503,
+          "width": 620,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده LVCHA VPN \n\n🆓 اشتراک SVIP فعال شده ✅\n🔓 قفل تمام سرور ها باز شده 🌍\n🗑️ فایل‌های اضافی حذف شده 🧹\nتوجه : در اولین اجرای برنامه کمی طول میکشه تا سرور ها لود بشن ⏳\n\nبرای دانلود کلیک کنید \n⭐ دوستان حمایت فراموش نشه 🤝❤️\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 232,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 232,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/XBat_team"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/modchii"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

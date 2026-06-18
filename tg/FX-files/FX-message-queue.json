@@ -34068,6 +34068,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3455,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781762314,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINf2oziQpJYEDsQi3KloSTGsp0e40kAAKYDWsb3nSZUctIUBW1xBkjAQADAgADcwADPAQ",
+          "file_unique_id": "AQADmA1rG950mVF4",
+          "file_size": 2530,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINf2oziQpJYEDsQi3KloSTGsp0e40kAAKYDWsb3nSZUctIUBW1xBkjAQADAgADbQADPAQ",
+          "file_unique_id": "AQADmA1rG950mVFy",
+          "file_size": 32272,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINf2oziQpJYEDsQi3KloSTGsp0e40kAAKYDWsb3nSZUctIUBW1xBkjAQADAgADeAADPAQ",
+          "file_unique_id": "AQADmA1rG950mVF9",
+          "file_size": 125904,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINf2oziQpJYEDsQi3KloSTGsp0e40kAAKYDWsb3nSZUctIUBW1xBkjAQADAgADeQADPAQ",
+          "file_unique_id": "AQADmA1rG950mVF-",
+          "file_size": 260856,
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINf2oziQpJYEDsQi3KloSTGsp0e40kAAKYDWsb3nSZUctIUBW1xBkjAQADAgADdwADPAQ",
+          "file_unique_id": "AQADmA1rG950mVF8",
+          "file_size": 634240,
+          "width": 2560,
+          "height": 2560
+        }
+      ],
+      "caption": "دونالد ترامپ و پزشکیان تفاهم نامه رو امضا کردند\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 49,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 60,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

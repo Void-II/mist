@@ -36454,6 +36454,100 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3495,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781818130,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINp2o0YxLQjcglMueEB_uHOYVdcx_WAALRDmsbKhWhUVRn35DkdVzGAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD0Q5rGyoVoVF4",
+          "file_size": 735,
+          "width": 90,
+          "height": 47
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINp2o0YxLQjcglMueEB_uHOYVdcx_WAALRDmsbKhWhUVRn35DkdVzGAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD0Q5rGyoVoVFy",
+          "file_size": 10110,
+          "width": 320,
+          "height": 168
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINp2o0YxLQjcglMueEB_uHOYVdcx_WAALRDmsbKhWhUVRn35DkdVzGAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD0Q5rGyoVoVF9",
+          "file_size": 57983,
+          "width": 800,
+          "height": 420
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINp2o0YxLQjcglMueEB_uHOYVdcx_WAALRDmsbKhWhUVRn35DkdVzGAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD0Q5rGyoVoVF-",
+          "file_size": 102956,
+          "width": 1280,
+          "height": 672
+        }
+      ],
+      "caption": "🔰 کردیت رایگان برای استفاده از مدل ها معروف AI\n\nدارای آخرین مدل های کلاد، جمنای، GPT، دیپ سیک و kIMO\n\nآموزش دریافت:\n● ابتدا وارد این سایت شود و با اکانت گوگل یا مایکروسافت ثبت نام و ایمیل خودتون رو تایید کنید.\n● درمرحله بعدی یه سری سوالات ازتون میپرسه که همه رو جواب بدید تا کردیت اضافه بگیرید.\n● در مرحله سوم برای اتصال اپ به سایت، روی ( Apify, Semrush, Reducto) کلیک کنید تا بدون لاگین و... امتیاز این بخش رو هم دریافت کنید\n\nدرصورتی که ارور لاگین، اتصال دریافت کردید مجدد با همون ایمیل داخل سایت وارد بشید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 47,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 134,
+          "length": 4,
+          "type": "text_link",
+          "url": "https://gumloop.com/"
+        },
+        {
+          "offset": 134,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 510,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 523,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 545,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 545,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 545,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

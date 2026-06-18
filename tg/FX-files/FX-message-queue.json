@@ -37066,6 +37066,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3502,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781823718,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrmo0eObbxuIVEx_P6khAeQAB0p7HewAC-g5rGyoVoVE3jpbGOOcpWAEAAwIAA3MAAzwE",
+          "file_unique_id": "AQAD-g5rGyoVoVF4",
+          "file_size": 2476,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrmo0eObbxuIVEx_P6khAeQAB0p7HewAC-g5rGyoVoVE3jpbGOOcpWAEAAwIAA20AAzwE",
+          "file_unique_id": "AQAD-g5rGyoVoVFy",
+          "file_size": 34002,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrmo0eObbxuIVEx_P6khAeQAB0p7HewAC-g5rGyoVoVE3jpbGOOcpWAEAAwIAA3gAAzwE",
+          "file_unique_id": "AQAD-g5rGyoVoVF9",
+          "file_size": 141156,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrmo0eObbxuIVEx_P6khAeQAB0p7HewAC-g5rGyoVoVE3jpbGOOcpWAEAAwIAA3kAAzwE",
+          "file_unique_id": "AQAD-g5rGyoVoVF-",
+          "file_size": 176343,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "HMA VPN\n\nStatus: Premium\n\nExp:2026/06/28\n\n\nLicense:U43XJ6-4YWLC2-55LJXN\n\nبرای هر بار ورود نیاز به فیلترشکن کمکی یا ویجت نیازه\nتنظیمات نداره\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 43,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

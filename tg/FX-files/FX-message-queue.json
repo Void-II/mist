@@ -33864,6 +33864,46 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3451,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781741613,
+      "document": {
+        "file_name": "تست.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAINe2ozOC0RGQ5YhrgHkvjrCpTomnRGAAI6CAACMgWZRcywt1FLEuU_PAQ",
+        "file_unique_id": "AgADOggAAjIFmUU",
+        "file_size": 5668
+      },
+      "caption": "تست کنید\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 21,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 21,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 21,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -35567,6 +35567,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3480,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781791257,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINmGoz-hkdl9kqNjsySIM7ZfGFfi-BAAIzDmsbKhWhUWXl-Bqx0qIVAQADAgADcwADPAQ",
+          "file_unique_id": "AQADMw5rGyoVoVF4",
+          "file_size": 1874,
+          "width": 90,
+          "height": 72
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINmGoz-hkdl9kqNjsySIM7ZfGFfi-BAAIzDmsbKhWhUWXl-Bqx0qIVAQADAgADbQADPAQ",
+          "file_unique_id": "AQADMw5rGyoVoVFy",
+          "file_size": 13358,
+          "width": 320,
+          "height": 255
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINmGoz-hkdl9kqNjsySIM7ZfGFfi-BAAIzDmsbKhWhUWXl-Bqx0qIVAQADAgADeAADPAQ",
+          "file_unique_id": "AQADMw5rGyoVoVF9",
+          "file_size": 22735,
+          "width": 564,
+          "height": 449
+        }
+      ],
+      "caption": "ذات امضای پزشکیان 🤣\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 33,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 33,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

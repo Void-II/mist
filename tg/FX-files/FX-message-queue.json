@@ -36323,6 +36323,137 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3494,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781817838,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINpmo0Ye7B2hxGDYZt60585fq47X--AALPDmsbKhWhUUiNI62k3ht8AQADAgADcwADPAQ",
+          "file_unique_id": "AQADzw5rGyoVoVF4",
+          "file_size": 983,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINpmo0Ye7B2hxGDYZt60585fq47X--AALPDmsbKhWhUUiNI62k3ht8AQADAgADbQADPAQ",
+          "file_unique_id": "AQADzw5rGyoVoVFy",
+          "file_size": 12911,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINpmo0Ye7B2hxGDYZt60585fq47X--AALPDmsbKhWhUUiNI62k3ht8AQADAgADeAADPAQ",
+          "file_unique_id": "AQADzw5rGyoVoVF9",
+          "file_size": 77758,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINpmo0Ye7B2hxGDYZt60585fq47X--AALPDmsbKhWhUUiNI62k3ht8AQADAgADeQADPAQ",
+          "file_unique_id": "AQADzw5rGyoVoVF-",
+          "file_size": 167722,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "Express VPN \n\nStatus: Premium\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail:docu-g9exorbitant@hidmail.org\n\n\nPassword:@Error404Bin\n\n\n➿➿➿➿➿➿➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\n\nری اکشن یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 14,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 43,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 49,
+          "length": 29,
+          "type": "code"
+        },
+        {
+          "offset": 81,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 118,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.expressvpn.vpn&hl=en_US&gl=US"
+        },
+        {
+          "offset": 131,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/expressvpn-vpn-fast-secure/id886492891"
+        },
+        {
+          "offset": 142,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://www.expressvpn.com/clients/windows/expressvpn_windows_12.104.0.128_release.exe"
+        },
+        {
+          "offset": 175,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 206,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 219,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

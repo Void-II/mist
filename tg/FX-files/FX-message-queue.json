@@ -34790,6 +34790,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3467,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781782247,
+      "text": "کسایی که از سرورای اختصاصی گیگ ۱۰هزارتومان خرید \nکرده بودن اپدیت بزنید ۷کافینگ دیگه اضاف شد عشق کنید😁❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 117,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 117,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 117,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

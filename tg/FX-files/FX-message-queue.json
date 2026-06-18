@@ -36845,6 +36845,149 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3500,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781823118,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrGo0do4a-yILTXPNjAa6oT97PoNFAAL0DmsbKhWhUdF4rkGGuJM7AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD9A5rGyoVoVF4",
+          "file_size": 1338,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrGo0do4a-yILTXPNjAa6oT97PoNFAAL0DmsbKhWhUdF4rkGGuJM7AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD9A5rGyoVoVFy",
+          "file_size": 21882,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrGo0do4a-yILTXPNjAa6oT97PoNFAAL0DmsbKhWhUdF4rkGGuJM7AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD9A5rGyoVoVF9",
+          "file_size": 104799,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrGo0do4a-yILTXPNjAa6oT97PoNFAAL0DmsbKhWhUdF4rkGGuJM7AQADAgADeQADPAQ",
+          "file_unique_id": "AQAD9A5rGyoVoVF-",
+          "file_size": 242757,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINrGo0do4a-yILTXPNjAa6oT97PoNFAAL0DmsbKhWhUdF4rkGGuJM7AQADAgADdwADPAQ",
+          "file_unique_id": "AQAD9A5rGyoVoVF8",
+          "file_size": 321203,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Pure VPN \n\nStatus: Premium\n\nExp:2026/06/10\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail:sifay49237@aratrin.com\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\nری اکشن یادتون نره\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 28,
+          "type": "url"
+        },
+        {
+          "offset": 56,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 86,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 107,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.gaditek.purevpnics&hl=de"
+        },
+        {
+          "offset": 163,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/purevpn-fast-and-secure-vpn/id594506418"
+        },
+        {
+          "offset": 174,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://purevpn-pc.en.uptodown.com/windows/download"
+        },
+        {
+          "offset": 183,
+          "length": 19,
+          "type": "bold"
+        },
+        {
+          "offset": 203,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

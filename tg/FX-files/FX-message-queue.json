@@ -35042,6 +35042,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3472,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781788617,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINkGoz78mal5ozAAGwVH2h4RsgGqgmUQACig5rG2ZFoFGsWaC9XRu8OgEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADig5rG2ZFoFF4",
+          "file_size": 2191,
+          "width": 79,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINkGoz78mal5ozAAGwVH2h4RsgGqgmUQACig5rG2ZFoFGsWaC9XRu8OgEAAwIAA20AAzwE",
+          "file_unique_id": "AQADig5rG2ZFoFFy",
+          "file_size": 30711,
+          "width": 281,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINkGoz78mal5ozAAGwVH2h4RsgGqgmUQACig5rG2ZFoFGsWaC9XRu8OgEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADig5rG2ZFoFF9",
+          "file_size": 120031,
+          "width": 702,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINkGoz78mal5ozAAGwVH2h4RsgGqgmUQACig5rG2ZFoFGsWaC9XRu8OgEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADig5rG2ZFoFF-",
+          "file_size": 205834,
+          "width": 1124,
+          "height": 1280
+        }
+      ],
+      "caption": "🚨 فووری و رسمیی: کاور آرت جی‌تی‌ای 6 منتشر شد و پیش فروشش از یک هفته‌ی دیگه شروع میشه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 87,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 100,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 126,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

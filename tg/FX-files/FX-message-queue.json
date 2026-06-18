@@ -37632,6 +37632,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3512,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781825218,
+      "text": "چه ایسگاهی‌ای زد کانادا \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 38,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

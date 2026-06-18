@@ -34628,6 +34628,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3464,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781775516,
+      "text": "vless://17fc973b-2631-477e-a5d0-7045dab38f31@2.27.22.238:110?encryption=none&security=none&type=tcp#odin_club\n\n1T\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 114,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 127,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

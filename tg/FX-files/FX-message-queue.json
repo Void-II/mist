@@ -34437,6 +34437,86 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3461,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781771796,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINhWozrhRewWNuTHnedm5CrbGy94CjAAICD2sb1NmYUVfXcx8drCzWAQADAgADcwADPAQ",
+          "file_unique_id": "AQADAg9rG9TZmFF4",
+          "file_size": 994,
+          "width": 63,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINhWozrhRewWNuTHnedm5CrbGy94CjAAICD2sb1NmYUVfXcx8drCzWAQADAgADbQADPAQ",
+          "file_unique_id": "AQADAg9rG9TZmFFy",
+          "file_size": 11242,
+          "width": 225,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINhWozrhRewWNuTHnedm5CrbGy94CjAAICD2sb1NmYUVfXcx8drCzWAQADAgADeAADPAQ",
+          "file_unique_id": "AQADAg9rG9TZmFF9",
+          "file_size": 40948,
+          "width": 562,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINhWozrhRewWNuTHnedm5CrbGy94CjAAICD2sb1NmYUVfXcx8drCzWAQADAgADeQADPAQ",
+          "file_unique_id": "AQADAg9rG9TZmFF-",
+          "file_size": 72237,
+          "width": 899,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINhWozrhRewWNuTHnedm5CrbGy94CjAAICD2sb1NmYUVfXcx8drCzWAQADAgADdwADPAQ",
+          "file_unique_id": "AQADAg9rG9TZmFF8",
+          "file_size": 86920,
+          "width": 1080,
+          "height": 1538
+        }
+      ],
+      "caption": "رفتم از یه اخوند محلمون اومده بود فوتبال پرسیدم خرید با کارت بانکی آمریکایی ها و اروپایی های سفید مفید گناهه و دزدی🫣🫣؟\nگفت اگه کافر باشن و به افرادی نیاز دارن بدی مستحبه اگه سود ببری مکروهه\n\nمیدونم شما نیاز دارین\nبرنده این Pure vpn بلند مدتت تا اواسط 2028 میبره که امروز با کارت اجنبی ها خرید زدیم خواستم دوتا بزنم تا 2030 بره نشد\nاز 588 تا 688 یه عدد به صورت رندوم بزنین\n2 برنده اکانت رو میبرن \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 333,
+          "length": 40,
+          "type": "bold"
+        },
+        {
+          "offset": 398,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 421,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 421,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 421,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

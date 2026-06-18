@@ -35811,6 +35811,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3485,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781802178,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINnWo0JMI1gQ2pa0ZrKVjN039FxxzjAAIED2sb1NmgUQjDpGqiPDJaAQADAgADcwADPAQ",
+          "file_unique_id": "AQADBA9rG9TZoFF4",
+          "file_size": 1278,
+          "width": 68,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINnWo0JMI1gQ2pa0ZrKVjN039FxxzjAAIED2sb1NmgUQjDpGqiPDJaAQADAgADbQADPAQ",
+          "file_unique_id": "AQADBA9rG9TZoFFy",
+          "file_size": 14032,
+          "width": 242,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINnWo0JMI1gQ2pa0ZrKVjN039FxxzjAAIED2sb1NmgUQjDpGqiPDJaAQADAgADeAADPAQ",
+          "file_unique_id": "AQADBA9rG9TZoFF9",
+          "file_size": 47477,
+          "width": 606,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINnWo0JMI1gQ2pa0ZrKVjN039FxxzjAAIED2sb1NmgUQjDpGqiPDJaAQADAgADeQADPAQ",
+          "file_unique_id": "AQADBA9rG9TZoFF-",
+          "file_size": 81769,
+          "width": 969,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINnWo0JMI1gQ2pa0ZrKVjN039FxxzjAAIED2sb1NmgUQjDpGqiPDJaAQADAgADdwADPAQ",
+          "file_unique_id": "AQADBA9rG9TZoFF8",
+          "file_size": 88538,
+          "width": 1080,
+          "height": 1427
+        }
+      ],
+      "caption": "عرفان به گرون فروشا علاقه داره گفتم تبلت هواوی سامسونگ یا ای پد گفت ایپد بهترینه خدا کنه مثل سرور خریدنش نباشه یه گونی پول براش رفت🫰🫰🤞 چقدر گشتم ابی شو پیدا کنم  \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 166,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

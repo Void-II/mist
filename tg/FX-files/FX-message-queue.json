@@ -34187,6 +34187,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3457,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781766216,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINgWozmEiGHPWZ6f9Mb1_As42j0nEiAALVC2sbMFagRd2MaZyPn03vAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1QtrGzBWoEV4",
+          "file_size": 1453,
+          "width": 90,
+          "height": 86
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINgWozmEiGHPWZ6f9Mb1_As42j0nEiAALVC2sbMFagRd2MaZyPn03vAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1QtrGzBWoEVy",
+          "file_size": 17099,
+          "width": 320,
+          "height": 306
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINgWozmEiGHPWZ6f9Mb1_As42j0nEiAALVC2sbMFagRd2MaZyPn03vAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1QtrGzBWoEV9",
+          "file_size": 72214,
+          "width": 800,
+          "height": 766
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAINgWozmEiGHPWZ6f9Mb1_As42j0nEiAALVC2sbMFagRd2MaZyPn03vAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1QtrGzBWoEV-",
+          "file_size": 116861,
+          "width": 1180,
+          "height": 1130
+        }
+      ],
+      "caption": "🔴مسعود پزشکیان یادداشت تفاهم اسلام‌آباد را امضا کرد\n\nمتن یادداشت تفاهم خاتمه جنگ، در اولین دقایق بامداد پنج‌شنبه ۲۸ خرداد ۱۴۰۵ توسط روسای جمهور ایران و آمریکا امضا شد.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 50,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

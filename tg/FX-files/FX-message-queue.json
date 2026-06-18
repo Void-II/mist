@@ -34148,6 +34148,45 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3456,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781762976,
+      "document": {
+        "file_name": "Open vpn.ovpn",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAINgGozi6DhP0aU-EQVPtdfawFpf3wVAAK7HAACNRGYUTNz7ZaZx3HSPAQ",
+        "file_unique_id": "AgADuxwAAjURmFE",
+        "file_size": 23888
+      },
+      "caption": "Open Vpn\n\nتست کنید نتیجه بگید❤️\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 44,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 44,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 44,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

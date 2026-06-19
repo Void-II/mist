@@ -45,6 +45,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3519,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781848619,
+      "text": "به کصشعر هاتون اهمیتی نمیدم تهمت دزدی میزنید اونم به من پول کص ننه تون رو ندادم خودم خبر ندارم ما دزد بودیم ریکشن کانال کامل باز نبود از جیب چند میلیون خرج چالش ها نمیکردیم برن قیمت پیور دوساله و نیمه بگیرید دستت بیاد\n\nتو هر جامعه‌ای یه عده مادر جنده هستن که بالا تر گفتم برای درست کردن نسل این مملکت باید از بیخ نسل شون رو خشکوند چون تخم حرومزاده گی اند چشم ندارن ببینن یه کانال  یه تیم فوق  قوی داشته\nتو ایکس بات جای برای افراد اشغال نیست \n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 403,
+          "length": 37,
+          "type": "bold"
+        },
+        {
+          "offset": 442,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 465,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 465,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 465,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

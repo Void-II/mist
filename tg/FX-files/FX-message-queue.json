@@ -208,6 +208,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3523,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781865114,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINw2o1GpqFcfdReMjYi6LCqVel2Q3lAAI0DWsbocqoUTyW_sRfIvb9AQADAgADcwADPAQ",
+          "file_unique_id": "AQADNA1rG6HKqFF4",
+          "file_size": 1354,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINw2o1GpqFcfdReMjYi6LCqVel2Q3lAAI0DWsbocqoUTyW_sRfIvb9AQADAgADbQADPAQ",
+          "file_unique_id": "AQADNA1rG6HKqFFy",
+          "file_size": 16398,
+          "width": 157,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINw2o1GpqFcfdReMjYi6LCqVel2Q3lAAI0DWsbocqoUTyW_sRfIvb9AQADAgADeAADPAQ",
+          "file_unique_id": "AQADNA1rG6HKqFF9",
+          "file_size": 63422,
+          "width": 393,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINw2o1GpqFcfdReMjYi6LCqVel2Q3lAAI0DWsbocqoUTyW_sRfIvb9AQADAgADeQADPAQ",
+          "file_unique_id": "AQADNA1rG6HKqFF-",
+          "file_size": 109423,
+          "width": 629,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده FilmKio 🎬\n\n🔓 امکان دانلود و تماشای آنلاین فیلم و سریال 🌍📺\n🗑️ فایل‌های اضافی حذف شده 🧹✨\nتوجه : برای تماشای آنلاین باید اکانت بسازید، برای دانلود نیاز به ساختن اکانت نیست 💡\n\nبرای دانلود کلیک کنید 👇\n⭐ دوستان حمایت فراموش نشه 🤝❤️\nبرای مود کردن این برنامه زحمت زیادی کشیده شده، کانالای دیگه اگر کپی میکنید منبع بزنید 🙏\n\nبرای دانلود کلیک کنید\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 361,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 361,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/XBat_team"
+        },
+        {
+          "offset": 372,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/modchii"
+        },
+        {
+          "offset": 393,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 393,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 393,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

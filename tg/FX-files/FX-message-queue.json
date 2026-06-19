@@ -1373,6 +1373,96 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3545,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781892084,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN2Wo1g_RhnPciT6AT_suQpMW5XInxAAIhEGsb7seoUR6Udsg7NlAgAQADAgADcwADPAQ",
+          "file_unique_id": "AQADIRBrG-7HqFF4",
+          "file_size": 1475,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN2Wo1g_RhnPciT6AT_suQpMW5XInxAAIhEGsb7seoUR6Udsg7NlAgAQADAgADbQADPAQ",
+          "file_unique_id": "AQADIRBrG-7HqFFy",
+          "file_size": 22455,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN2Wo1g_RhnPciT6AT_suQpMW5XInxAAIhEGsb7seoUR6Udsg7NlAgAQADAgADeAADPAQ",
+          "file_unique_id": "AQADIRBrG-7HqFF9",
+          "file_size": 100460,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN2Wo1g_RhnPciT6AT_suQpMW5XInxAAIhEGsb7seoUR6Udsg7NlAgAQADAgADeQADPAQ",
+          "file_unique_id": "AQADIRBrG-7HqFF-",
+          "file_size": 222820,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN2Wo1g_RhnPciT6AT_suQpMW5XInxAAIhEGsb7seoUR6Udsg7NlAgAQADAgADdwADPAQ",
+          "file_unique_id": "AQADIRBrG-7HqFF8",
+          "file_size": 287964,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Potato VPN\n\nStatus: Premium\n\n7نفر اولی که نیاز دارند بیایید پیوی اکانت رو تحویل بدم\n@Kingali0011\nبعد از لاگین زیر پست شات بذارید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 130,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 143,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 165,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 165,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 165,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

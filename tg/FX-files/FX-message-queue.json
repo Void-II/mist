@@ -91,6 +91,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3520,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781849039,
+      "text": "ایکس بات داره راه درست رو میره چون به صاحبان چند کانال فشار اومده همگی نابودی ما رو میخواهند ولی ما اینجا ریشه در خاکیم  اگه من عقده ای کاربر داشتم میخریدم ولی ما کیفیت رو میخواهیم نه هر عقب مونده ای رو به کانال مون اضافه کنیم با تبلیغات\n\nحالا که دارین از کون می سوزید برای چند روز اینده پماد سوختگی تهیه کنید هم برای کون خودتون هم کص ننه تون\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 343,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -37770,6 +37770,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3515,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781827198,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINu2o0hn7u4V5QWdYoSOg8y418UgSPAAJ5D2sbu_2oURq2774Xjc0rAQADAgADcwADPAQ",
+          "file_unique_id": "AQADeQ9rG7v9qFF4",
+          "file_size": 694,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINu2o0hn7u4V5QWdYoSOg8y418UgSPAAJ5D2sbu_2oURq2774Xjc0rAQADAgADbQADPAQ",
+          "file_unique_id": "AQADeQ9rG7v9qFFy",
+          "file_size": 6184,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINu2o0hn7u4V5QWdYoSOg8y418UgSPAAJ5D2sbu_2oURq2774Xjc0rAQADAgADeAADPAQ",
+          "file_unique_id": "AQADeQ9rG7v9qFF9",
+          "file_size": 20406,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAINu2o0hn7u4V5QWdYoSOg8y418UgSPAAJ5D2sbu_2oURq2774Xjc0rAQADAgADeQADPAQ",
+          "file_unique_id": "AQADeQ9rG7v9qFF-",
+          "file_size": 32808,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nبه راحتی میتونید به تمامی هوش های مصنوعی\n\nو همچنین تمامی سایت های تحریم به راحتی دور بزنید \n\nجهت تست رایگان و ثبت سفارش به بات مراجعه کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 153,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 167,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 183,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

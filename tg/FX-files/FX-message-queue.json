@@ -1742,6 +1742,81 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3551,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781927701,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN32o2DxW6HlotmKB81tdep7IHRRsQAAJ6D2sboV2xUesPmKmAHAJ2AQADAgADcwADPAQ",
+          "file_unique_id": "AQADeg9rG6FdsVF4",
+          "file_size": 787,
+          "width": 43,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN32o2DxW6HlotmKB81tdep7IHRRsQAAJ6D2sboV2xUesPmKmAHAJ2AQADAgADbQADPAQ",
+          "file_unique_id": "AQADeg9rG6FdsVFy",
+          "file_size": 9434,
+          "width": 154,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN32o2DxW6HlotmKB81tdep7IHRRsQAAJ6D2sboV2xUesPmKmAHAJ2AQADAgADeAADPAQ",
+          "file_unique_id": "AQADeg9rG6FdsVF9",
+          "file_size": 35265,
+          "width": 384,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN32o2DxW6HlotmKB81tdep7IHRRsQAAJ6D2sboV2xUesPmKmAHAJ2AQADAgADeQADPAQ",
+          "file_unique_id": "AQADeg9rG6FdsVF-",
+          "file_size": 67306,
+          "width": 614,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN32o2DxW6HlotmKB81tdep7IHRRsQAAJ6D2sboV2xUesPmKmAHAJ2AQADAgADdwADPAQ",
+          "file_unique_id": "AQADeg9rG6FdsVF8",
+          "file_size": 131338,
+          "width": 1080,
+          "height": 2252
+        }
+      ],
+      "caption": "آقا جاتون خالی ایرانسل بعد صحبتی باهاش کاملا محترمانه قبلی برام پیشنهاد های جدیدی ارائه داده یعنی موندم منتظر بودن باهاشون صحبت کنم بعد 48 بعدش اضافه کنن🥴\n\nیه چیز دیگه الان کدوم مغز فندوقی میاد 200 گیگ 3 ماهه 300 میگیره درحالی 80 گیگ یکماهه 37 میدی واقعا حرفم درست بود ای کیو مدیریت اصلا اندازه جلبک\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 302,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 325,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 325,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 325,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

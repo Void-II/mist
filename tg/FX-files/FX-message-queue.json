@@ -2926,6 +2926,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3574,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781956942,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN9Wo2gTeC6ZqV1rooxl-8PMWTGPCGAAIqFGsbGBy5UQABbe6-PHhQUQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADKhRrGxgcuVF4",
+          "file_size": 1503,
+          "width": 71,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN9Wo2gTeC6ZqV1rooxl-8PMWTGPCGAAIqFGsbGBy5UQABbe6-PHhQUQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADKhRrGxgcuVFy",
+          "file_size": 24957,
+          "width": 251,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN9Wo2gTeC6ZqV1rooxl-8PMWTGPCGAAIqFGsbGBy5UQABbe6-PHhQUQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADKhRrGxgcuVF9",
+          "file_size": 102162,
+          "width": 627,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN9Wo2gTeC6ZqV1rooxl-8PMWTGPCGAAIqFGsbGBy5UQABbe6-PHhQUQEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADKhRrGxgcuVF-",
+          "file_size": 147690,
+          "width": 852,
+          "height": 1087
+        }
+      ],
+      "caption": "با سرویس های جدید نامحدود نئون پینگ محدودیت هارو بشکن🤩\n🔥 پکیجی از۱۷ لوکیشن مختلف برای تویی که فقط یه فیلترشکن ساده نمیخوای\n🤑 سرویس ⅓ بها برای تویی که دانلود های زیادی داری و میخوای کمترین هزینه رو بکنی\n🚀 ۳ لوکیشن معروف خاورمیانه برای اینکه کمترین تاخیر رو توی بازیات داشته باشی\n👻 بهترین ایپی ها برای دور زدن انواع تحریم های AI ها\n👌 ایپی های ثابت برای کمترین ریسک توی صرافی های بین المللی\n\nسرویس های جدید نئون پینگ کیفیت واقعی رو تجربه کن😎\n\n🤖 @NeonPingBot\n📢 @NeonPing\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 450,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 466,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 488,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 488,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 488,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

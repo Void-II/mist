@@ -3149,6 +3149,61 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3578,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781960223,
+      "document": {
+        "file_name": "v2rayNG_2.2.5_arm64-v8a.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIN-mo2jh_EVgH1lpStGbJX32ZlvjCOAAJ1IAACQYy5Uf-iDH67NEKoPAQ",
+        "file_unique_id": "AgADdSAAAkGMuVE",
+        "file_size": 28497439
+      },
+      "caption": "📌 نسخه جدید V2rayNG \n➖ ورژن 2.2.5\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 34,
+          "type": "bold"
+        },
+        {
+          "offset": 36,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 49,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

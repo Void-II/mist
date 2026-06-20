@@ -3836,6 +3836,149 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3590,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781975163,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOBmo2yHsaRQABw2XumxYm06IN0T5DUAACsw9rG-7HsFHXeTHNEKqTHQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADsw9rG-7HsFF4",
+          "file_size": 1389,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOBmo2yHsaRQABw2XumxYm06IN0T5DUAACsw9rG-7HsFHXeTHNEKqTHQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADsw9rG-7HsFFy",
+          "file_size": 23466,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOBmo2yHsaRQABw2XumxYm06IN0T5DUAACsw9rG-7HsFHXeTHNEKqTHQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADsw9rG-7HsFF9",
+          "file_size": 105441,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOBmo2yHsaRQABw2XumxYm06IN0T5DUAACsw9rG-7HsFHXeTHNEKqTHQEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADsw9rG-7HsFF-",
+          "file_size": 246600,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOBmo2yHsaRQABw2XumxYm06IN0T5DUAACsw9rG-7HsFHXeTHNEKqTHQEAAwIAA3cAAzwE",
+          "file_unique_id": "AQADsw9rG-7HsFF8",
+          "file_size": 324199,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Metro VPN\n\nStatus: Premium\n\nExp: 2026/06/27\n➿➿➿➿➿➿➿➿➿➿➿\nEmail:docu-g9exorbitant@hidmail.org\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play    App Store\n\nWindows\n\nری اکشن یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 6,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 35,
+          "type": "url"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 149,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=xyz.security.vpn.android.metro&referrer=utm_source%3Dmetrovpn_website%26utm_medium%3Ddefault%26utm_campaign%3Dmetrovpn_website_default"
+        },
+        {
+          "offset": 172,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/apple-store/id1593348413?pt=121843705&ct=Share%20App&mt=8"
+        },
+        {
+          "offset": 183,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://d2muuynavvkizp.cloudfront.net/download/windows?t=1771450392529"
+        },
+        {
+          "offset": 191,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 214,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 227,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

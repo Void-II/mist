@@ -4544,6 +4544,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3603,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781981100,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOE2o236xtLtaSVPUAAT_1Ap98B45eGwACGA5rG1jJuVHW9_fsqO2HJQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADGA5rG1jJuVF4",
+          "file_size": 1703,
+          "width": 75,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOE2o236xtLtaSVPUAAT_1Ap98B45eGwACGA5rG1jJuVHW9_fsqO2HJQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADGA5rG1jJuVFy",
+          "file_size": 23329,
+          "width": 265,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOE2o236xtLtaSVPUAAT_1Ap98B45eGwACGA5rG1jJuVHW9_fsqO2HJQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADGA5rG1jJuVF9",
+          "file_size": 83229,
+          "width": 662,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOE2o236xtLtaSVPUAAT_1Ap98B45eGwACGA5rG1jJuVHW9_fsqO2HJQEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADGA5rG1jJuVF-",
+          "file_size": 150097,
+          "width": 1060,
+          "height": 1280
+        }
+      ],
+      "caption": "رفتیم داخل رسانه ها دوستان واقعا برای مبتدیا نیست شهرمون😂😂\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 73,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

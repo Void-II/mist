@@ -4138,6 +4138,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3595,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781978463,
+      "text": "🔰USA VPN🔰\n\n🔎 GooglePlayLink\n\n💡1.8.6 | #VPN\n\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک پرو فعال شده👑✓ \n ◈حذف تبلیغات برنامه✓\n◈ حذف فایل‌های اضافه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\n★ امنیت - از حریم خصوصی و امنیت محافظت کنید\n- بدون ورود به سیستم! این بدان معناست که هنگام استفاده از برنامه ما کاملاً ناشناس و محافظت شده هستید.\n- از ترافیک شبکه خود در نقاط اتصال WiFi عمومی محافظت کنید بدون اینکه ردیابی شوید ، به صورت ناشناس و ایمن مرور کنید.\n- از حریم خصوصی داده ها ، امنیت اطلاعات شخصی و امنیت اینترنت در حالی که VPN Robot روشن است محافظت کنید.\n- از مرور خصوصی لذت ببرید.\n- رمزگذاری داده ها با استفاده از پروتکل های OpenVPN (UDP / TCP).\n\n★ پایدار - پایدارترین - هرگز اتصال را قطع نکنید\n- VPN با سرعت بالا و اتصال پایدار\n- شبکه های جهانی ، vpn رایگان برای ایالات متحده آمریکا ، هند ، ژاپن ، سنگاپور ، کانادا ، فرانسه ، آلمان ، انگلیس و غیره\n- پشتیبانی کامل از عربستان سعودی و امارات متحده عربی\n\n\n★ سرورهای چند VPN\n- vpn برای ایالات متحده\n- vpn برای آلمان\n- vpn برای هند\n- vpn برای سنگاپور\n- vpn برای کانادا\n- vpn برای روسیه\n- vpn برای ژاپن \n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 16,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=free.vpnusa.fast.unlimited.free.secure.turbo"
+        },
+        {
+          "offset": 42,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 180,
+          "length": 860,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1130,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://uploadboy.com/kfegein73v4o/USA"
+        },
+        {
+          "offset": 1159,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1178,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1195,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1218,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1218,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1218,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=free.vpnusa.fast.unlimited.free.secure.turbo"
+      }
     }
   ]
 }

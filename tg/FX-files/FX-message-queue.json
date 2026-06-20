@@ -3081,6 +3081,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3577,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781959203,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIN-Wo2iiNcjQuzCAZuggJAVOzP8DnwAAKnC2sbKxuxRcwUa_PDy_IUAQADAgADcwADPAQ",
+          "file_unique_id": "AQADpwtrGysbsUV4",
+          "file_size": 963,
+          "width": 62,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIN-Wo2iiNcjQuzCAZuggJAVOzP8DnwAAKnC2sbKxuxRcwUa_PDy_IUAQADAgADbQADPAQ",
+          "file_unique_id": "AQADpwtrGysbsUVy",
+          "file_size": 9818,
+          "width": 221,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIN-Wo2iiNcjQuzCAZuggJAVOzP8DnwAAKnC2sbKxuxRcwUa_PDy_IUAQADAgADeAADPAQ",
+          "file_unique_id": "AQADpwtrGysbsUV9",
+          "file_size": 28863,
+          "width": 552,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIN-Wo2iiNcjQuzCAZuggJAVOzP8DnwAAKnC2sbKxuxRcwUa_PDy_IUAQADAgADeQADPAQ",
+          "file_unique_id": "AQADpwtrGysbsUV-",
+          "file_size": 50137,
+          "width": 884,
+          "height": 1280
+        }
+      ],
+      "caption": "#پست‌بعدی\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 9,
+          "type": "hashtag"
+        },
+        {
+          "offset": 22,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 22,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 22,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -4304,6 +4304,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3597,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781978883,
+      "text": "Octohide VPN\nبا ربات رسمی کدتخفیف رو بگیرید و ردیم کنید تا اکانتتون بشه 6 ماهه\nباگ داره با هر اکانت تلگرام کد بگیرید 3 ماه 3 ماه اضافه میشه به اکانتتون \n@octohide_bot\n\nنوع اتصال رو بزارید Vless\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 153,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 195,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 208,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 230,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -1986,6 +1986,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3555,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781928661,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN42o2EtUfNzJuKcZGIYrhpykRPakeAAJ7D2sboV2xUdWquo0m0UK-AQADAgADcwADPAQ",
+          "file_unique_id": "AQADew9rG6FdsVF4",
+          "file_size": 1343,
+          "width": 45,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN42o2EtUfNzJuKcZGIYrhpykRPakeAAJ7D2sboV2xUdWquo0m0UK-AQADAgADbQADPAQ",
+          "file_unique_id": "AQADew9rG6FdsVFy",
+          "file_size": 18574,
+          "width": 160,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN42o2EtUfNzJuKcZGIYrhpykRPakeAAJ7D2sboV2xUdWquo0m0UK-AQADAgADeAADPAQ",
+          "file_unique_id": "AQADew9rG6FdsVF9",
+          "file_size": 79903,
+          "width": 401,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIN42o2EtUfNzJuKcZGIYrhpykRPakeAAJ7D2sboV2xUdWquo0m0UK-AQADAgADeQADPAQ",
+          "file_unique_id": "AQADew9rG6FdsVF-",
+          "file_size": 131281,
+          "width": 576,
+          "height": 1148
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد 8 تا 188 یک عدد به صورت رندوم کامنت کنید\n🎁 3 برنده اکانت بهارات مووی بلند مدتت میبیرن \n⏳ قرعه کشی عصر یکشنبه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 161,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

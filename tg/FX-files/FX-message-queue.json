@@ -2497,7 +2497,7 @@
       }
     },
     {
-      "message_id": 3564,
+      "message_id": 3565,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2510,11 +2510,11 @@
       },
       "date": 1781942582,
       "document": {
-        "file_name": "@Error404Bin2.conf",
+        "file_name": "@Error404Bin.conf",
         "mime_type": "application/octet-stream",
-        "file_id": "BQACAgQAAyEFAATqPDJ3AAIN7Go2STZmJuy6bJZnEBzCfgdt0d50AAKnIQAC7sewUShMuMJHMkazPAQ",
-        "file_unique_id": "AgADpyEAAu7HsFE",
-        "file_size": 444
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIN7Wo2STaJgRd2noSu3iZEnz9khEYmAAKoIQAC7sewUXCMrqI0PS2UPAQ",
+        "file_unique_id": "AgADqCEAAu7HsFE",
+        "file_size": 2925
       },
       "caption": "• Sent via TeleFeed",
       "caption_entities": [

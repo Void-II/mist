@@ -2059,6 +2059,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3556,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781928782,
+      "text": "اینم هر رفرال ۱۱۰هزارتومان \nبا دوتا میشه ۷۰گیگ فیلتر خرید بزنید \nتا نبسته❤️\nhttps://t.me/Pingdaat_bot?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 76,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

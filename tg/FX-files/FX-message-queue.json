@@ -2311,6 +2311,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3560,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1781937002,
+      "text": "📣اطلاعیه \n\nاکانت اکسپرس و همچنین فایل اوپن مجدد موجود شد\n\nقیمت اکسپرس کرکی یک ساله 1200 میلیون ( گارانتی سالم بودن اکانت و یک بار تعویض در صورت پریدن اکانت)\nاوپن وی پی ان یک ماهه نامحدود 700 تومن\n  \n\nجهت ثبت سفارش میتونید به پشتيبانی مراجعه کنید\n\nسرويس داخل بات هم فعال شد است به صورت مولتی لوکیشن همراه با تست رایگان همچنین اکانت کپ کات کرکی موجودی است \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 359,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 373,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 389,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 420,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 420,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 420,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

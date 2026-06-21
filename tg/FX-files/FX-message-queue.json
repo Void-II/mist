@@ -8368,6 +8368,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3674,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782079987,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOWmo4YfOziZ2m0v3aknqSCoUbd93lAAIuDmsbFQPAUSF-aqzkLKesAQADAgADcwADPAQ",
+          "file_unique_id": "AQADLg5rGxUDwFF4",
+          "file_size": 1400,
+          "width": 90,
+          "height": 59
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOWmo4YfOziZ2m0v3aknqSCoUbd93lAAIuDmsbFQPAUSF-aqzkLKesAQADAgADbQADPAQ",
+          "file_unique_id": "AQADLg5rGxUDwFFy",
+          "file_size": 20256,
+          "width": 320,
+          "height": 209
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOWmo4YfOziZ2m0v3aknqSCoUbd93lAAIuDmsbFQPAUSF-aqzkLKesAQADAgADeAADPAQ",
+          "file_unique_id": "AQADLg5rGxUDwFF9",
+          "file_size": 86885,
+          "width": 800,
+          "height": 522
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOWmo4YfOziZ2m0v3aknqSCoUbd93lAAIuDmsbFQPAUSF-aqzkLKesAQADAgADeQADPAQ",
+          "file_unique_id": "AQADLg5rGxUDwFF-",
+          "file_size": 159935,
+          "width": 1280,
+          "height": 835
+        }
+      ],
+      "caption": "یه کاربر خارجی توییت زده: من تازه شرطبندی رو شروع کردم و این ........ده به دوران اوجِ کورتوا تبدیل شد😂\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

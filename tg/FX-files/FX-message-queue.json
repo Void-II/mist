@@ -6907,6 +6907,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3644,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782068886,
+      "video": {
+        "duration": 44,
+        "width": 464,
+        "height": 848,
+        "file_name": "IMG_3263.MP4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 464,
+            "height": 848,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIOPGo4NpaGXoSbkWiT7NosGRQJUwN5AAL0HQAC1P7BUXH00uu8WdiwPAQ",
+            "file_unique_id": "AgAD9B0AAtT-wVE",
+            "file_size": 9227020
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg48ajg2lrcpkbFAO07EeT3UW2HNFjIAAhwkAAK4lsFRx975-buwksgBAAdtAAM8BA",
+          "file_unique_id": "AQADHCQAAriWwVFy",
+          "file_size": 22678,
+          "width": 175,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg48ajg2lrcpkbFAO07EeT3UW2HNFjIAAhwkAAK4lsFRx975-buwksgBAAdtAAM8BA",
+          "file_unique_id": "AQADHCQAAriWwVFy",
+          "file_size": 22678,
+          "width": 175,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIOPGo4Npa3KZGxQDtOxHk91FthzRYyAAIcJAACuJbBUcfe-fm7sJLIPAQ",
+        "file_unique_id": "AgADHCQAAriWwVE",
+        "file_size": 9226091
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

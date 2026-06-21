@@ -6388,6 +6388,91 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3635,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782062466,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOM2o4HYJJJ_qeO0ZARiIz63hzhUbrAAJMDmsbZJ3AUddaz5B38k17AQADAgADcwADPAQ",
+          "file_unique_id": "AQADTA5rG2SdwFF4",
+          "file_size": 1363,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOM2o4HYJJJ_qeO0ZARiIz63hzhUbrAAJMDmsbZJ3AUddaz5B38k17AQADAgADbQADPAQ",
+          "file_unique_id": "AQADTA5rG2SdwFFy",
+          "file_size": 15499,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOM2o4HYJJJ_qeO0ZARiIz63hzhUbrAAJMDmsbZJ3AUddaz5B38k17AQADAgADeAADPAQ",
+          "file_unique_id": "AQADTA5rG2SdwFF9",
+          "file_size": 45675,
+          "width": 800,
+          "height": 450
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOM2o4HYJJJ_qeO0ZARiIz63hzhUbrAAJMDmsbZJ3AUddaz5B38k17AQADAgADdwADPAQ",
+          "file_unique_id": "AQADTA5rG2SdwFF8",
+          "file_size": 86352,
+          "width": 1366,
+          "height": 768
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOM2o4HYJJJ_qeO0ZARiIz63hzhUbrAAJMDmsbZJ3AUddaz5B38k17AQADAgADeQADPAQ",
+          "file_unique_id": "AQADTA5rG2SdwFF-",
+          "file_size": 87418,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "caption": "به مدت یک هفته رایگان شد\nDeepSeek v4 flash Api\nhttps://www.openmodel.ai/event\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 47,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 79,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 92,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 114,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

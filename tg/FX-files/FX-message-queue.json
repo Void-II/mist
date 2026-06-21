@@ -5557,6 +5557,65 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3619,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782036845,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOI2o3uW3iiPMjoc5y9V8vROMt-XFgAAJGDmsbTS65UUCxktSXsRAFAQADAgADcwADPAQ",
+          "file_unique_id": "AQADRg5rG00uuVF4",
+          "file_size": 1151,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOI2o3uW3iiPMjoc5y9V8vROMt-XFgAAJGDmsbTS65UUCxktSXsRAFAQADAgADbQADPAQ",
+          "file_unique_id": "AQADRg5rG00uuVFy",
+          "file_size": 2492,
+          "width": 101,
+          "height": 101
+        }
+      ],
+      "caption": "اخیرن نسخه برنامه Super VPN مود شد\n\n🎉اشتراک فعال شده ✅\n\n🎉روز اشتراک افزایش یافته 📅\n\n🎉تبلیغات حذف شده 🚫\n\n\nبرای دانلود برنامه روی دانلود کلیک کنید\n\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 152,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

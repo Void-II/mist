@@ -4981,6 +4981,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3611,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782020585,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOG2o3eempAbkqYJunhtm22IwLG9YoAAIWDmsbTS65URAxvN8mIgZYAQADAgADcwADPAQ",
+          "file_unique_id": "AQADFg5rG00uuVF4",
+          "file_size": 752,
+          "width": 44,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOG2o3eempAbkqYJunhtm22IwLG9YoAAIWDmsbTS65URAxvN8mIgZYAQADAgADbQADPAQ",
+          "file_unique_id": "AQADFg5rG00uuVFy",
+          "file_size": 6967,
+          "width": 156,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOG2o3eempAbkqYJunhtm22IwLG9YoAAIWDmsbTS65URAxvN8mIgZYAQADAgADeAADPAQ",
+          "file_unique_id": "AQADFg5rG00uuVF9",
+          "file_size": 25545,
+          "width": 390,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOG2o3eempAbkqYJunhtm22IwLG9YoAAIWDmsbTS65URAxvN8mIgZYAQADAgADeQADPAQ",
+          "file_unique_id": "AQADFg5rG00uuVF-",
+          "file_size": 44422,
+          "width": 624,
+          "height": 1280
+        }
+      ],
+      "caption": "نسخه مود شده filamingo 🎬\n\n🔓 امکان دانلود و تماشای آنلاین فیلم و سریال 🌍📺\n🗑️ فایل‌های اضافی حذف شده 🧹✨\n\nبرای دانلود کلیک کنید 👇\n⭐ دوستان حمایت فراموش نشه 🤝❤️\n\nبرای دانلود کلیک کنید\n\n@XBat_team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 189,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 200,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -7384,6 +7384,79 @@
       "link_preview_options": {
         "url": "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/persiana-sports"
       }
+    },
+    {
+      "message_id": 3654,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782071467,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIORmo4QKu1lLWFpzL2bejvUpOA4wbsAAIhD2sbvYHBUXx4-c3Ruk9NAQADAgADcwADPAQ",
+          "file_unique_id": "AQADIQ9rG72BwVF4",
+          "file_size": 1720,
+          "width": 68,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIORmo4QKu1lLWFpzL2bejvUpOA4wbsAAIhD2sbvYHBUXx4-c3Ruk9NAQADAgADbQADPAQ",
+          "file_unique_id": "AQADIQ9rG72BwVFy",
+          "file_size": 21955,
+          "width": 241,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIORmo4QKu1lLWFpzL2bejvUpOA4wbsAAIhD2sbvYHBUXx4-c3Ruk9NAQADAgADeAADPAQ",
+          "file_unique_id": "AQADIQ9rG72BwVF9",
+          "file_size": 73873,
+          "width": 602,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIORmo4QKu1lLWFpzL2bejvUpOA4wbsAAIhD2sbvYHBUXx4-c3Ruk9NAQADAgADeQADPAQ",
+          "file_unique_id": "AQADIQ9rG72BwVF-",
+          "file_size": 111120,
+          "width": 963,
+          "height": 1280
+        }
+      ],
+      "caption": "بنر تماشاگر ایرانی\nرشید مظاهری کجاست؟\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 39,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 52,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 78,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 78,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 78,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -5667,6 +5667,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3621,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782038020,
+      "text": "🌍 مولتی لوکیشن 🇦🇪 Dubai 1\n🇫🇷 France\n🇹🇷 Turkey\n🇮🇹 Italy Hamrah\n🇮🇹 Italy 1\n🇫🇮 Irancell\n🇫🇮 Hamrah\n🇩🇪 Germany Hamrah\n♾️ کاربر نامحدود\n📅 اعتبار ۱ ماهه\n⚡ سرعت بالا و اتصال پایدار\n🤖 مناسب اینستاگرام، تلگرام و یوتیوب\n💰 هر گیگ فقط ۵,۰۰۰ تومان\n📩 خرید و پشتیبانی:\n\n @amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 276,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 301,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -9402,6 +9402,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3695,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782137519,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOb2o5Qq_cRkMHjuA_ZuOXfQbxSdMtAAKyDmsblqjJUXx217HAaW7_AQADAgADcwADPAQ",
+          "file_unique_id": "AQADsg5rG5aoyVF4",
+          "file_size": 929,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOb2o5Qq_cRkMHjuA_ZuOXfQbxSdMtAAKyDmsblqjJUXx217HAaW7_AQADAgADbQADPAQ",
+          "file_unique_id": "AQADsg5rG5aoyVFy",
+          "file_size": 14601,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOb2o5Qq_cRkMHjuA_ZuOXfQbxSdMtAAKyDmsblqjJUXx217HAaW7_AQADAgADeAADPAQ",
+          "file_unique_id": "AQADsg5rG5aoyVF9",
+          "file_size": 67946,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOb2o5Qq_cRkMHjuA_ZuOXfQbxSdMtAAKyDmsblqjJUXx217HAaW7_AQADAgADeQADPAQ",
+          "file_unique_id": "AQADsg5rG5aoyVF-",
+          "file_size": 137580,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOb2o5Qq_cRkMHjuA_ZuOXfQbxSdMtAAKyDmsblqjJUXx217HAaW7_AQADAgADdwADPAQ",
+          "file_unique_id": "AQADsg5rG5aoyVF8",
+          "file_size": 297390,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "چه گیری کردیم ها\n\nبه خوابمونم گیر میدن خدااایااا\n\nازش یه میستریوم وی پی ان گرفتم میدم شما استفاده کنید دم کامران 🧼🧼 گرم\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 50,
+          "length": 71,
+          "type": "spoiler"
+        },
+        {
+          "offset": 122,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

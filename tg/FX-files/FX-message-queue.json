@@ -9482,6 +9482,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3696,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782137699,
+      "text": "📲خب چالش داریم\n✔️3برنده میستریوم یکماهه میبرن\n📌بین عدد 8 تا 188 عدد به صورت رندوم بزنین\n🔴تا فردا صبح ساعت12:34 وقت دارین که کامنت بزارید\n\n@XBat_Team  | @Xbat_chat\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 141,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 155,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

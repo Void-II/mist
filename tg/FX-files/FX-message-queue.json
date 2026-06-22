@@ -9351,6 +9351,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3694,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782136079,
+      "text": "📣اطلاعیه\n\nفروش در سایت برای کاربران قدیمی آغاز شد\n\nاگه از کاربران قدیمی هستین داخل پشتیبانی اطلاع بدین تا نحوه کار با سایت براتون ارسال شه\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 143,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 173,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -9183,6 +9183,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3690,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782132479,
+      "text": "سایت فروش کانفیگ هم فعال شد\n\nفقط کاربران که خرید داشتن میتونن دسترسی پیدا کنن\n\nاطلاع بدن تا بهشون آدرس بدیم\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 109,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 120,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

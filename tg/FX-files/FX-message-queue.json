@@ -9818,6 +9818,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3703,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782149880,
+      "text": "هدیه امشب ❤️\n\nهمین الان کانفیگ اختصاصی تیم اینترنت آزاد میتونید بگیرین\n\n@mitivpnbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 72,
+          "type": "bold"
+        },
+        {
+          "offset": 72,
+          "length": 11,
+          "type": "mention"
+        },
+        {
+          "offset": 72,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

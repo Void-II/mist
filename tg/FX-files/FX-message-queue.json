@@ -8559,6 +8559,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3678,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782112821,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOXmo44jWF1ay1_84AAbxN_7ldDufLBgACrw1rG5aoyVGLti9IodtGqwEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADrw1rG5aoyVF4",
+          "file_size": 1212,
+          "width": 90,
+          "height": 70
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOXmo44jWF1ay1_84AAbxN_7ldDufLBgACrw1rG5aoyVGLti9IodtGqwEAAwIAA20AAzwE",
+          "file_unique_id": "AQADrw1rG5aoyVFy",
+          "file_size": 13587,
+          "width": 320,
+          "height": 250
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOXmo44jWF1ay1_84AAbxN_7ldDufLBgACrw1rG5aoyVGLti9IodtGqwEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADrw1rG5aoyVF9",
+          "file_size": 42129,
+          "width": 800,
+          "height": 626
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOXmo44jWF1ay1_84AAbxN_7ldDufLBgACrw1rG5aoyVGLti9IodtGqwEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADrw1rG5aoyVF-",
+          "file_size": 52788,
+          "width": 1166,
+          "height": 912
+        }
+      ],
+      "caption": "پیامی دیروز عصر اسنپ فود داده به ملت 🥴\n\nاون استیکر رو فقط کصکش ها مادرجنده این چه پیامیه اخه\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 95,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 118,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 118,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 118,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -8990,6 +8990,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3687,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782121859,
+      "text": "#پیشنهادی ممبر\n این ربات دانلودره خیلی خوبه یوتیوب من دانلود میکنم سرعت خیلی بالای داره \n\n @MegaSaverBot\n\nYouTube, Instagram, TikTok, & Pinterest.\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 9,
+          "type": "hashtag"
+        },
+        {
+          "offset": 91,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 149,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 162,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

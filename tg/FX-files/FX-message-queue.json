@@ -11267,6 +11267,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3736,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782213902,
+      "text": "🔴نان در تهران تا ۱۰۰ درصد گران شد\nقیمت نون تو تهران قبل از اینکه به طور رسمی اعلام بشه که افزایش پیدا کرده، تو نونوایی‌ها ۴-۵ ماه قبل‌تر افزایش پیدا می‌کنه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 158,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 171,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

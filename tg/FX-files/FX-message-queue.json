@@ -10740,6 +10740,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3724,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782203341,
+      "text": "🔴 آموزش و پرورش : \nدانش آموزان عزیز، اعتراضات شما شنیده شد ولی هیچ تغییری تو برنامه امتحانات نهایی ایجاد نمیشه؛\n\nامتحانات نهایی پایه یازدهم از 20 تیر 1405 و پایه دوازدهم از 21 تیر 1405 دقیقاً طبق همون برنامه‌ای که قبلاً اعلام شده بود برگزار میشن.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 114,
+          "length": 133,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

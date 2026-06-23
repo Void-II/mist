@@ -11175,6 +11175,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3734,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782213825,
+      "text": "شعار مرگ بر آمریکا ممنوع شد.\n\nطبق بند ۲ تفاهم نامه‌ای که ایران و آمریکا امضا کردن از این بعد شعار مرگ بر آمریکا و سوزاندن پرچم آمریکا ممنوعه و هر کسی این کارو بکنه به جرم اقدام علیه امنیت ملی دستگیر میشه!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 205,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 218,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

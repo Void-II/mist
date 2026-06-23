@@ -11460,6 +11460,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3740,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782222362,
+      "text": "🚨🇵🇹🇨🇴 انتظار میره علیرضا فغانی تو هفته سوم جام جهانی بازی کلمبیا و پرتغال رو سوت بزنه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 91,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 104,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 130,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

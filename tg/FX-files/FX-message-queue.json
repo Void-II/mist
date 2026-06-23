@@ -12157,6 +12157,119 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3754,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782243243,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOqmo636v2ylKJ6odz5UOKqB9mopNrAAI2EGsbb13ZUculvpOAOHMGAQADAgADcwADPAQ",
+          "file_unique_id": "AQADNhBrG29d2VF4",
+          "file_size": 981,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOqmo636v2ylKJ6odz5UOKqB9mopNrAAI2EGsbb13ZUculvpOAOHMGAQADAgADbQADPAQ",
+          "file_unique_id": "AQADNhBrG29d2VFy",
+          "file_size": 12881,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOqmo636v2ylKJ6odz5UOKqB9mopNrAAI2EGsbb13ZUculvpOAOHMGAQADAgADeAADPAQ",
+          "file_unique_id": "AQADNhBrG29d2VF9",
+          "file_size": 77627,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOqmo636v2ylKJ6odz5UOKqB9mopNrAAI2EGsbb13ZUculvpOAOHMGAQADAgADeQADPAQ",
+          "file_unique_id": "AQADNhBrG29d2VF-",
+          "file_size": 167734,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "EXPRESSVPN \n\nluigiannino@hotmail.com:FpZZDX56 | Status = [ACTIVE] | LicenseCode = [ECHUF6NL835CF9REQPWDYKB] | billingCycle = [24 Months]\n\nmarijan.nedic1@gmail.com:Murinjo007. | Status = [ACTIVE] | LicenseCode = [EDFAQHWVRCHXVUCVTSDL54T] | billingCycle = [12 Months]\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 13,
+          "length": 253,
+          "type": "blockquote"
+        },
+        {
+          "offset": 13,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 13,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 36,
+          "length": 102,
+          "type": "bold"
+        },
+        {
+          "offset": 138,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 138,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 162,
+          "length": 103,
+          "type": "bold"
+        },
+        {
+          "offset": 268,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 281,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

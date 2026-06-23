@@ -11615,6 +11615,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3743,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782229442,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOn2o6qcJhCyOKGpAaChuMIHbMRcGAAAJfDWsb7bvZUYjfh7M2IW2iAQADAgADcwADPAQ",
+          "file_unique_id": "AQADXw1rG-272VF4",
+          "file_size": 2201,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOn2o6qcJhCyOKGpAaChuMIHbMRcGAAAJfDWsb7bvZUYjfh7M2IW2iAQADAgADbQADPAQ",
+          "file_unique_id": "AQADXw1rG-272VFy",
+          "file_size": 30266,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOn2o6qcJhCyOKGpAaChuMIHbMRcGAAAJfDWsb7bvZUYjfh7M2IW2iAQADAgADeAADPAQ",
+          "file_unique_id": "AQADXw1rG-272VF9",
+          "file_size": 118823,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOn2o6qcJhCyOKGpAaChuMIHbMRcGAAAJfDWsb7bvZUYjfh7M2IW2iAQADAgADeQADPAQ",
+          "file_unique_id": "AQADXw1rG-272VF-",
+          "file_size": 216608,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "ترکیب پرتغال با حضور فیکس رونالدو🔥\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 36,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 49,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

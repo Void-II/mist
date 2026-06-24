@@ -13252,6 +13252,82 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3776,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782299484,
+      "text": "کل مجموعه های موسیقی در یک برنامه\nاسپاتیفای\nدزار\nیوتیوب موزیک و....\n\nامن و متن باز \nپخش آنلاین موزیک و موزیک ویدئو\n\nلینک دانلود از گیتهاب\nhttps://github.com/MrTG-CodeBot/muzicX-music-app\n\nاگر براتون مقدور بود از سازندش حمایت کنید\n\nبرنامه خوبیه خودم تست کردم\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 138,
+          "type": "bold"
+        },
+        {
+          "offset": 138,
+          "length": 48,
+          "type": "url"
+        },
+        {
+          "offset": 138,
+          "length": 48,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 73,
+          "type": "bold"
+        },
+        {
+          "offset": 259,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 259,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 272,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 272,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 294,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://github.com/MrTG-CodeBot/muzicX-music-app"
+      }
     }
   ]
 }

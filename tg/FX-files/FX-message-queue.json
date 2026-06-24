@@ -13792,6 +13792,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3785,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782309125,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOyWo74QXT2W8FrqSBWEtKbzN24DOfAAJNDmsb0rzgUUsV3CjRObnKAQADAgADcwADPAQ",
+          "file_unique_id": "AQADTQ5rG9K84FF4",
+          "file_size": 1559,
+          "width": 90,
+          "height": 89
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOyWo74QXT2W8FrqSBWEtKbzN24DOfAAJNDmsb0rzgUUsV3CjRObnKAQADAgADbQADPAQ",
+          "file_unique_id": "AQADTQ5rG9K84FFy",
+          "file_size": 18496,
+          "width": 320,
+          "height": 316
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOyWo74QXT2W8FrqSBWEtKbzN24DOfAAJNDmsb0rzgUUsV3CjRObnKAQADAgADeAADPAQ",
+          "file_unique_id": "AQADTQ5rG9K84FF9",
+          "file_size": 68938,
+          "width": 800,
+          "height": 790
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOyWo74QXT2W8FrqSBWEtKbzN24DOfAAJNDmsb0rzgUUsV3CjRObnKAQADAgADeQADPAQ",
+          "file_unique_id": "AQADTQ5rG9K84FF-",
+          "file_size": 93379,
+          "width": 1170,
+          "height": 1155
+        }
+      ],
+      "caption": "حکم اعدام مهنام نواب صفوی، از معترضین دی ماه صادر شد\nفرصت ۲۰ روزه برای اعتراض به حکم داده شده و اگه اعتراض مورد تایید قاضی قرار نگیره، حکم اجرا میشه\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 150,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 163,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 189,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

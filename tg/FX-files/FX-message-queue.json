@@ -14042,6 +14042,96 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 3789,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782310925,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOzWo76A0somehrCSRyBG9kWvHbFF3AAJnDmsbb13hUVXg02YlOKPqAQADAgADcwADPAQ",
+          "file_unique_id": "AQADZw5rG29d4VF4",
+          "file_size": 2040,
+          "width": 90,
+          "height": 67
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOzWo76A0somehrCSRyBG9kWvHbFF3AAJnDmsbb13hUVXg02YlOKPqAQADAgADbQADPAQ",
+          "file_unique_id": "AQADZw5rG29d4VFy",
+          "file_size": 33058,
+          "width": 320,
+          "height": 240
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOzWo76A0somehrCSRyBG9kWvHbFF3AAJnDmsbb13hUVXg02YlOKPqAQADAgADeAADPAQ",
+          "file_unique_id": "AQADZw5rG29d4VF9",
+          "file_size": 147933,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOzWo76A0somehrCSRyBG9kWvHbFF3AAJnDmsbb13hUVXg02YlOKPqAQADAgADeQADPAQ",
+          "file_unique_id": "AQADZw5rG29d4VF-",
+          "file_size": 316194,
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOzWo76A0somehrCSRyBG9kWvHbFF3AAJnDmsbb13hUVXg02YlOKPqAQADAgADdwADPAQ",
+          "file_unique_id": "AQADZw5rG29d4VF8",
+          "file_size": 368542,
+          "width": 1448,
+          "height": 1086
+        }
+      ],
+      "caption": "Eset samall Business Security\n\nExp: 31 Day\n\n\nLicense:GPCH-XB4C-KBAT-TU8S-XS53\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 45,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

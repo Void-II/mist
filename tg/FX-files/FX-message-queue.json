@@ -13865,6 +13865,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3786,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782309545,
+      "text": "قوه قضائیه: ازین به بعد هر کس علیه آمریکا شعار بده یا حرف بزنه، ۱ سال حبس یا جریمه مالی میشه.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 106,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

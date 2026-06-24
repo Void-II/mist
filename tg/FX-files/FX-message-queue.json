@@ -13751,6 +13751,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3784,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782306185,
+      "text": "اینو ممبرا فرستادن گفتن تست هم کردن خواستین بزنید\nپیام ممبر👇👇👇\nسلام امیر\n\nhttps://t.me/velorisagent_bot/velorisagent?startapp=MQRX3MGH\n\nاین ایردراپه هست با اسپین روزانه میتونی توکن یا دلار بگیری من خودم ۴ دلار بهم داد برداشت کردم زیر ۱۰ دقیقه زد ولتم \nدلار رو شبکه بی آن بی هست \nفیکم نیست میشه چنج کرد به تون یا هرچی ک میخوای\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 77,
+          "length": 60,
+          "type": "url"
+        },
+        {
+          "offset": 341,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 341,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 341,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

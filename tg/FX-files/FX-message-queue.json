@@ -14549,6 +14549,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3797,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782326929,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO1Wo8JpH8KdO-axOaZ5os9l77gvp5AALUDmsbb13hUU5LQE8zSud9AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1A5rG29d4VF4",
+          "file_size": 1209,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO1Wo8JpH8KdO-axOaZ5os9l77gvp5AALUDmsbb13hUU5LQE8zSud9AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1A5rG29d4VFy",
+          "file_size": 18178,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO1Wo8JpH8KdO-axOaZ5os9l77gvp5AALUDmsbb13hUU5LQE8zSud9AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1A5rG29d4VF9",
+          "file_size": 83618,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO1Wo8JpH8KdO-axOaZ5os9l77gvp5AALUDmsbb13hUU5LQE8zSud9AQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1A5rG29d4VF-",
+          "file_size": 160309,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "خب چالش داریم\n\n🎁چالش اکانت فیلترشکن پیور پرمیوم\n\nPure VPN Premium Auto (تمدید مجدد)\n\n🥇پرسرعت و لوکیشن زیاد متصل با همه اینترنت ها \n🫟بین اعداد 1تا عدد85فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 50,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 269,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

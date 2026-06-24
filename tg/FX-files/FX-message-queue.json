@@ -14508,6 +14508,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3796,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782326046,
+      "text": "شرکت غول چینی ByteDance (سازنده تیک تاک)چهار مدل بزرگ هوش مصنوعی  را معرفی کرد\n\nDoubao 2.1 Pro\nمتمرکز بر کدنویسی و agent workflow\n\nSeedance 2.5\n• ویدیوهای تا ۳۰ ثانیه\n• پشتیبانی از 4K\n\nSeedream 5.0 Pro\n• متن بهتر در داخل تصاویر\n• ویرایش چندلایه\n• فایل‌های طراحی قابل ویرایش\n\nSeed-Audio 1.0\n• مکالمات چندشخصیتی\n• موسیقی + افکت‌های صوتی\n\nبرای دسترسی باید از VPN چین استفاده کنید:\nhttps://www.doubao.com/\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 378,
+          "length": 23,
+          "type": "url"
+        },
+        {
+          "offset": 414,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 414,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 414,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

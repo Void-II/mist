@@ -13464,6 +13464,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3779,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782300185,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOw2o7vhkGdj6qt9nW0sg5DKslkZV4AAIjDmsbb13hUcflQAyIiBu2AQADAgADcwADPAQ",
+          "file_unique_id": "AQADIw5rG29d4VF4",
+          "file_size": 1941,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOw2o7vhkGdj6qt9nW0sg5DKslkZV4AAIjDmsbb13hUcflQAyIiBu2AQADAgADbQADPAQ",
+          "file_unique_id": "AQADIw5rG29d4VFy",
+          "file_size": 27488,
+          "width": 239,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOw2o7vhkGdj6qt9nW0sg5DKslkZV4AAIjDmsbb13hUcflQAyIiBu2AQADAgADeAADPAQ",
+          "file_unique_id": "AQADIw5rG29d4VF9",
+          "file_size": 114370,
+          "width": 597,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOw2o7vhkGdj6qt9nW0sg5DKslkZV4AAIjDmsbb13hUcflQAyIiBu2AQADAgADeQADPAQ",
+          "file_unique_id": "AQADIw5rG29d4VF-",
+          "file_size": 198985,
+          "width": 903,
+          "height": 1210
+        }
+      ],
+      "caption": "با اعلام رسمی راک استار قیمت GTA VI مشخص شد\n\nنسخه Standard:\n80 دلار، معادل 12 میلیون\n\nنسخه Ultimate Edition:\n100 دلار، معادل 16 میلیون \n\nاز فردا پیش خرید این بازی آغاز میشود\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 137,
+          "length": 36,
+          "type": "bold"
+        },
+        {
+          "offset": 175,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 188,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 210,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

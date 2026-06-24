@@ -13901,6 +13901,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3787,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782310085,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOy2o75MWOhOArOn7q59IIxpBQIyyEAAISD2sbF_ThUaVL251NpTwkAQADAgADcwADPAQ",
+          "file_unique_id": "AQADEg9rGxf04VF4",
+          "file_size": 848,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOy2o75MWOhOArOn7q59IIxpBQIyyEAAISD2sbF_ThUaVL251NpTwkAQADAgADbQADPAQ",
+          "file_unique_id": "AQADEg9rGxf04VFy",
+          "file_size": 10077,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOy2o75MWOhOArOn7q59IIxpBQIyyEAAISD2sbF_ThUaVL251NpTwkAQADAgADeAADPAQ",
+          "file_unique_id": "AQADEg9rGxf04VF9",
+          "file_size": 36594,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIOy2o75MWOhOArOn7q59IIxpBQIyyEAAISD2sbF_ThUaVL251NpTwkAQADAgADeQADPAQ",
+          "file_unique_id": "AQADEg9rGxf04VF-",
+          "file_size": 61576,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nسرویس مولتی لوکیشن با بهترین کیفیت و بالاترین اپ تایم در سایت و بات موجود است\n\nجهت ثبت سفارش داخل سایت و بات میتونید اقدام به خرید کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 151,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 165,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 181,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 212,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -15025,6 +15025,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3805,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782335886,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO3Wo8SY7cDSTAL-9c23vNOv5Rm9GFAAIZD2sbb13hUZc4rB6QaBJgAQADAgADcwADPAQ",
+          "file_unique_id": "AQADGQ9rG29d4VF4",
+          "file_size": 1805,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO3Wo8SY7cDSTAL-9c23vNOv5Rm9GFAAIZD2sbb13hUZc4rB6QaBJgAQADAgADbQADPAQ",
+          "file_unique_id": "AQADGQ9rG29d4VFy",
+          "file_size": 24549,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO3Wo8SY7cDSTAL-9c23vNOv5Rm9GFAAIZD2sbb13hUZc4rB6QaBJgAQADAgADeAADPAQ",
+          "file_unique_id": "AQADGQ9rG29d4VF9",
+          "file_size": 97915,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO3Wo8SY7cDSTAL-9c23vNOv5Rm9GFAAIZD2sbb13hUZc4rB6QaBJgAQADAgADeQADPAQ",
+          "file_unique_id": "AQADGQ9rG29d4VF-",
+          "file_size": 139602,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "Extreme VPN\n\nStatus: Premium\n\nExp:2026/07/02\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail: valotew519@zemyai.com\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n\n➿➿➿➿➿➿\nGoogle Play  App Store\n\nWindows\n\nری اکشن یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 8,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 13,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 58,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 21,
+          "type": "email"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 97,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 146,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 154,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.extremevpn.vpnclient.android"
+        },
+        {
+          "offset": 167,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/extremevpn-fast-secure-vpn/id6449742374"
+        },
+        {
+          "offset": 178,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://extremevpn.com/clients/latest/windows/extremevpn_windows.exe"
+        },
+        {
+          "offset": 186,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 209,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 222,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

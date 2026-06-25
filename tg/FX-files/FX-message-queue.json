@@ -16316,6 +16316,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3827,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782407889,
+      "text": "جنریت عکس و ویدیو\n200 کردیت بابت ثبت نام\nروزانه 60 کردیت رایگان\nبابت هر عکس 11 کردیت کم میکنه\nمیتونید با تغییر ایمیل بینهایت استفاده کنید \nhttps://www.oiioii.ai/home\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 139,
+          "length": 26,
+          "type": "url"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://www.oiioii.ai/home"
+      }
     }
   ]
 }

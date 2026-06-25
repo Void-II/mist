@@ -16439,6 +16439,58 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3831,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782409869,
+      "text": "Norton VPN\n\nهرکسی واسه خودش شخصی بگیره\nآیپی خوب سرور آمریکا وصل بشید\n\nوارد لینک بشید و اطلاعات لازم رو وارد کنید\nبین در اولین کامنت پین شده\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 75,
+          "length": 4,
+          "type": "text_link",
+          "url": "https://buy.norton.com/ps?selSKU=21454123&ctry=ES&lang=es&tppc=94503596-81BC-F81E-A12D-FA76BF259110&ptype=cart&promocode=VPN30WIN10FR&inid=nortoncom-vpn-for-windows-10__ps"
+        },
+        {
+          "offset": 141,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 154,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -16191,7 +16191,7 @@
       }
     },
     {
-      "message_id": 3823,
+      "message_id": 3824,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -16203,31 +16203,21 @@
         "type": "channel"
       },
       "date": 1782405789,
-      "text": "🔴دیشب همزمان با بازی برزیل و اسکاتلند تو جام جهانی، دو زلزله 7.2 و 7.5 ریشتری ونزوئلا رو لرزوند که نتیجه‌اش فعلا شده 164 فوتی و بالای 11,000 مفقودی!\n\nنکته عجیبش اینجاست که 36 سال پیش، تو جام جهانی 1990، وقتی برزیل و اسکاتلند بازی داشتن، یه زلزله 7.4 ریشتری تو منجیل و  رودبار اومد و 37 هزار نفر کشته شدن\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "امروز صبح به وقت ژاپن🇯🇵 هم یه زلزله 7.2 ریشتری تو این کشور اومد که فقط هشت نفر خیلی جزئی زخمی شدن.\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 305,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 318,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 344,
+          "offset": 113,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 344,
+          "offset": 113,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 344,
+          "offset": 113,
           "length": 8,
           "type": "underline"
         }

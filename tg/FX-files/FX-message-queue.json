@@ -16895,6 +16895,73 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3841,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782422148,
+      "text": "کاهش قیمت باورنکردنی‼️\nفقط و فقط گیگی 3 هزار تومان🔥\n\nپرداخت با کارت به کارت فعاله💰\n🤖 @mitivpnbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 23,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 17,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 17,
+          "type": "underline"
+        },
+        {
+          "offset": 54,
+          "length": 28,
+          "type": "bold"
+        },
+        {
+          "offset": 88,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

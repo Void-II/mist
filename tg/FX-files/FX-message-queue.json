@@ -16225,6 +16225,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3825,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782406029,
+      "text": "روی گیفت کارت ایکس‌باکس و پلی‌استیشن تخفیف خورد میتونید بگیرید از خودم:\n@NER_HER\nلطفاً به بیوگرافیم توجه نکنید مرسی❤️\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 158,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 158,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 158,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

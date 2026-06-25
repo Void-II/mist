@@ -16609,6 +16609,61 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3835,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782415749,
+      "document": {
+        "file_name": "price_list_wholesale.txt",
+        "mime_type": "text/plain",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIOmWo6bUqKYSpuhOKunDdZd9XFNNFBAALnHQAC-_bAUAdiYj6JBtiHPAQ",
+        "file_unique_id": "AgAD5x0AAvv2wFA",
+        "file_size": 20327
+      },
+      "caption": "📣اطلاعیه \n\nلیست موجودی اکانت های کرکی و قیمت همکاری برای تمامی کاربران\n\nهر اکانتی لازم داشتین فقط کافیه به پشتیبانی اطلاع بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 131,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 145,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 161,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

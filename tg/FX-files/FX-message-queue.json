@@ -15217,6 +15217,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3807,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782370087,
+      "text": "⚡ اینترنت بدون محدودیت | سریع و پایدار\n\n💎 پنل VIP\n🔹 ۱۸ کانفیگ + لوکیشن اختصاصی\n💰 هر گیگ: ۵,۰۰۰ تومان\n\n💠 پنل اقتصادی\n🔹 ۱۱ کانفیگ + لوکیشن اختصاصی\n💰 هر گیگ: ۳,۵۰۰ تومان\n\n✅ اشتراک ۱ ماهه\n✅حداقل خرید حجم 5گیگ به بالا\n✅ کاربر نامحدود\n🎁 تست رایگان قبل از خرید\n\n📩 سفارش و پشتیبانی:\n@amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 283,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 308,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 308,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 308,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -15844,6 +15844,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3818,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782402908,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6mo9T1ytI7T4Qcus1IIf-RxsZdhsAAIBDmsboWjpUUeSPWhDmWA5AQADAgADcwADPAQ",
+          "file_unique_id": "AQADAQ5rG6Fo6VF4",
+          "file_size": 916,
+          "width": 45,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6mo9T1ytI7T4Qcus1IIf-RxsZdhsAAIBDmsboWjpUUeSPWhDmWA5AQADAgADbQADPAQ",
+          "file_unique_id": "AQADAQ5rG6Fo6VFy",
+          "file_size": 10478,
+          "width": 160,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6mo9T1ytI7T4Qcus1IIf-RxsZdhsAAIBDmsboWjpUUeSPWhDmWA5AQADAgADeAADPAQ",
+          "file_unique_id": "AQADAQ5rG6Fo6VF9",
+          "file_size": 38663,
+          "width": 401,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO6mo9T1ytI7T4Qcus1IIf-RxsZdhsAAIBDmsboWjpUUeSPWhDmWA5AQADAgADeQADPAQ",
+          "file_unique_id": "AQADAQ5rG6Fo6VF-",
+          "file_size": 65845,
+          "width": 642,
+          "height": 1280
+        }
+      ],
+      "caption": "📲خب چالش داریم \n✔️برنده اشتراک یکی از بهترین سایتهای دانلود فیلم و سریال دوبله فارسی بدون سانسور یعنی  والا مووی چندین ماه رو میبره \nنکته مثبت این سایت تنوع دوبله شاید بعضی فیلم 4 دوبله فارسی مختلف بزاره با انتخاب خودتون انتخاب کنید معمولا فیلم های معروف و نکته دوم ادرس اختصاصی بدون فیلتر برای اکانته\nعدد ما بین 588 تا 688 یک عدد به صورت رندوم بزنین \n\nتا ساعت 8 شب فردا وقت دارین کامنت بزارید\n@XBat_Team @Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 134,
+          "length": 168,
+          "type": "blockquote"
+        },
+        {
+          "offset": 395,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 406,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 429,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

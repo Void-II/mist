@@ -16403,6 +16403,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3830,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782408969,
+      "text": "یک نفر که Norton VPN نیاز داره زیر همین پست کامنت بذاره اکانت تازه زده شده بدم بهش\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

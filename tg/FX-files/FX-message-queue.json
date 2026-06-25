@@ -16000,6 +16000,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3820,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782403808,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Go9UuAG7_RF3_PLfGL3N2nXxaXEAAIXDmsboWjpUToU-8Q6GZSHAQADAgADcwADPAQ",
+          "file_unique_id": "AQADFw5rG6Fo6VF4",
+          "file_size": 1237,
+          "width": 80,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Go9UuAG7_RF3_PLfGL3N2nXxaXEAAIXDmsboWjpUToU-8Q6GZSHAQADAgADbQADPAQ",
+          "file_unique_id": "AQADFw5rG6Fo6VFy",
+          "file_size": 12495,
+          "width": 285,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Go9UuAG7_RF3_PLfGL3N2nXxaXEAAIXDmsboWjpUToU-8Q6GZSHAQADAgADeAADPAQ",
+          "file_unique_id": "AQADFw5rG6Fo6VF9",
+          "file_size": 42567,
+          "width": 712,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Go9UuAG7_RF3_PLfGL3N2nXxaXEAAIXDmsboWjpUToU-8Q6GZSHAQADAgADeQADPAQ",
+          "file_unique_id": "AQADFw5rG6Fo6VF-",
+          "file_size": 70109,
+          "width": 1080,
+          "height": 1214
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد 788 تا 988 یک عدد به صورت رندوم کامنت کنید\n🎁 برنده اکانت Veee vpn هفت ماهه میبره(این عکس چالش قبلیه ایرانسل راحت متصله)\n⏳ قرعه کشی عصر جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 192,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

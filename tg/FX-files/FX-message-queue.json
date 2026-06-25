@@ -16068,6 +16068,81 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3821,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782405609,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Wo9Wej45FyzAyE-pN0LISKFBZzEAAInDmsboWjpUcH59KZz8FSuAQADAgADcwADPAQ",
+          "file_unique_id": "AQADJw5rG6Fo6VF4",
+          "file_size": 506,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Wo9Wej45FyzAyE-pN0LISKFBZzEAAInDmsboWjpUcH59KZz8FSuAQADAgADbQADPAQ",
+          "file_unique_id": "AQADJw5rG6Fo6VFy",
+          "file_size": 3525,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Wo9Wej45FyzAyE-pN0LISKFBZzEAAInDmsboWjpUcH59KZz8FSuAQADAgADeAADPAQ",
+          "file_unique_id": "AQADJw5rG6Fo6VF9",
+          "file_size": 12032,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Wo9Wej45FyzAyE-pN0LISKFBZzEAAInDmsboWjpUcH59KZz8FSuAQADAgADeQADPAQ",
+          "file_unique_id": "AQADJw5rG6Fo6VF-",
+          "file_size": 23808,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO7Wo9Wej45FyzAyE-pN0LISKFBZzEAAInDmsboWjpUcH59KZz8FSuAQADAgADdwADPAQ",
+          "file_unique_id": "AQADJw5rG6Fo6VF8",
+          "file_size": 52514,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد 988 تا 1188 یک عدد به صورت رندوم کامنت کنید\n🎁4 برنده اکانت یکماهه Quark vpn میبرن(همراه اول عالی وصل) \n⏳ قرعه کشی شب جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 174,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

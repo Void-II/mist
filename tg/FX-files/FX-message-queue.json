@@ -15519,6 +15519,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3813,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782390608,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO5Wo9H1AuBY-qohLVPzNjAUj0d3EZAALVDWsboWjpUahuiPAab_OWAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1Q1rG6Fo6VF4",
+          "file_size": 1127,
+          "width": 62,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO5Wo9H1AuBY-qohLVPzNjAUj0d3EZAALVDWsboWjpUahuiPAab_OWAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1Q1rG6Fo6VFy",
+          "file_size": 10960,
+          "width": 219,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO5Wo9H1AuBY-qohLVPzNjAUj0d3EZAALVDWsboWjpUahuiPAab_OWAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1Q1rG6Fo6VF9",
+          "file_size": 34028,
+          "width": 548,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIO5Wo9H1AuBY-qohLVPzNjAUj0d3EZAALVDWsboWjpUahuiPAab_OWAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1Q1rG6Fo6VF-",
+          "file_size": 36507,
+          "width": 591,
+          "height": 862
+        }
+      ],
+      "caption": "📲خب چالش داریم\n✔️3 برنده میستریوم 24 روزه میبرن\n📌بین عدد 8 تا 188 عدد به صورت رندوم بزنین\n🔴تا فردا شب ساعت 8 وقت دارین که کامنت بزارید\n\n@XBat_Team  | @Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 139,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 153,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 176,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

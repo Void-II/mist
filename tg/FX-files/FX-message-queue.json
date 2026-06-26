@@ -17269,6 +17269,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3849,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782476102,
+      "text": "Bitdefender VPN\n\nوارد لینک بشید\nبین رو جنریت کنید\nآیپی تمیز مکزیک🇲🇽\nبین در کامنت اول پین شده\nاگه موفق شدید شات بدید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 132,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 154,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

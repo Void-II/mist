@@ -18377,6 +18377,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3869,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782494756,
+      "text": "ربات رفرال \n#پیشنهادی ممبر\nبرای هر دعوت ۲۵هزارتومان \nبا دوتا دعوت میشه ۵گیگ گرفت بزنید.\n\nhttps://t.me/MGVPNNbot?start=ref_8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 12,
+          "length": 9,
+          "type": "hashtag"
+        },
+        {
+          "offset": 89,
+          "length": 43,
+          "type": "url"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 145,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

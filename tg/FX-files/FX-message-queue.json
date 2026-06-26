@@ -19075,6 +19075,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3886,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782504543,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPLmo-3F-yaP8ZoW1A4fpWMr0cxtXUAAIYD2sb6RP4US620nAxEHjVAQADAgADcwADPAQ",
+          "file_unique_id": "AQADGA9rG-kT-FF4",
+          "file_size": 725,
+          "width": 39,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPLmo-3F-yaP8ZoW1A4fpWMr0cxtXUAAIYD2sb6RP4US620nAxEHjVAQADAgADbQADPAQ",
+          "file_unique_id": "AQADGA9rG-kT-FFy",
+          "file_size": 6864,
+          "width": 140,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPLmo-3F-yaP8ZoW1A4fpWMr0cxtXUAAIYD2sb6RP4US620nAxEHjVAQADAgADeAADPAQ",
+          "file_unique_id": "AQADGA9rG-kT-FF9",
+          "file_size": 22351,
+          "width": 351,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPLmo-3F-yaP8ZoW1A4fpWMr0cxtXUAAIYD2sb6RP4US620nAxEHjVAQADAgADeQADPAQ",
+          "file_unique_id": "AQADGA9rG-kT-FF-",
+          "file_size": 37180,
+          "width": 562,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nاکانت پرایوت وی پی ان شارژ شد\n\nدر مورد اکانت های کرکی ضمانت یک بار تعویض در صورت خرابی اکانت به کاربران داده خواهد شد و در مورد اتصال هیچگونه ضمانتی داده نخواهد\n\nجهت ثبت سفارش به پشتيبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 212,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 226,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 273,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 273,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 273,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

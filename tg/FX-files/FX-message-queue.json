@@ -19318,6 +19318,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3891,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782507664,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPM2o-6I9kX6bvqwr0M9-YVA7lH_QEAAIuD2sb6RP4UdCHS2LBCDd-AQADAgADcwADPAQ",
+          "file_unique_id": "AQADLg9rG-kT-FF4",
+          "file_size": 868,
+          "width": 39,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPM2o-6I9kX6bvqwr0M9-YVA7lH_QEAAIuD2sb6RP4UdCHS2LBCDd-AQADAgADbQADPAQ",
+          "file_unique_id": "AQADLg9rG-kT-FFy",
+          "file_size": 8460,
+          "width": 140,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPM2o-6I9kX6bvqwr0M9-YVA7lH_QEAAIuD2sb6RP4UdCHS2LBCDd-AQADAgADeAADPAQ",
+          "file_unique_id": "AQADLg9rG-kT-FF9",
+          "file_size": 28086,
+          "width": 351,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPM2o-6I9kX6bvqwr0M9-YVA7lH_QEAAIuD2sb6RP4UdCHS2LBCDd-AQADAgADeQADPAQ",
+          "file_unique_id": "AQADLg9rG-kT-FF-",
+          "file_size": 44499,
+          "width": 562,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه\n\n\nاکانت هات اسپات شارژ شد\n\nدر مورد اکانت های کرکی ضمانت یک بار تعویض در صورت خرابی اکانت به کاربران داده خواهد شد و در مورد اتصال هیچگونه ضمانتی داده نخواهد شد\n\nجهت ثبت سفارش به پشتيبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 210,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 224,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 240,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 271,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 271,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 271,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

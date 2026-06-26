@@ -17964,6 +17964,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3863,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782485883,
+      "text": "r.i.pmarleyyourinheaven@gmail.com:Cartertaj69@\n\ninfinityglance@gmail.com:ILOVECOOKIESALT5$\n\njobtesla13@gmail.com:Rathore@2024\n\nJeff@shiverhamilton.com:Rabun129$\n\nmarijan.nedic1@gmail.com:Murinjo007.\n\nپسوورد چنج نکنید.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 33,
+          "type": "email"
+        },
+        {
+          "offset": 48,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 92,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 127,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 162,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 218,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 231,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

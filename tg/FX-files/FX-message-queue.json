@@ -17406,6 +17406,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3852,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782479932,
+      "document": {
+        "file_name": "Error404Bin.conf",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIPDGo-fDzG7Rs4AAHwkX-8GDQO3qEv-QAC7B4AAhuD8VH24KU83kLQ9jwE",
+        "file_unique_id": "AgAD7B4AAhuD8VE",
+        "file_size": 885
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

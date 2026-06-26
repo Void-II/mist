@@ -19740,6 +19740,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3899,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782511301,
+      "text": "Joshsx5:09397120271 | PaymentMethod =  None | AllGames =  Farlight 84 | \n\npoxyr43005:xcqp68085K | Balance = R$ 0,00 | PaymentMethod =  None | AllGames =  Rust, Brawlhalla, PUBG: BATTLEGROUNDS, PUBG: Test Server, Zula Global, PUBG: Experimental Server, Idle Shape\n\nDc1Yk6Qz2Vv7:Shadey@@@1983Uu | Balance = ¥ 0.00 | PaymentMethod =  None | AllGames = [Team Fortress 2, Spacewar, Dota 2, Dota Underlords, EA SPORTS FC\\u2122 25 | \n\nJohnwick717:Moahmmiidd!@# | PaymentMethod =  None | AllGames = Team Fortress 2, Spacewar, Dota 2, Destiny 2\n\nاکانت استیم.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 8,
+          "length": 11,
+          "type": "phone_number"
+        },
+        {
+          "offset": 285,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 550,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 573,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 573,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 573,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

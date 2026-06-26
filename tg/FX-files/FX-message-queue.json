@@ -17593,6 +17593,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3856,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782480663,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPEGo-fxe4-Xs8OqKx6yTo-YPs7a89AALMDWsbfyTwUYG7tflDVq8tAQADAgADcwADPAQ",
+          "file_unique_id": "AQADzA1rG38k8FF4",
+          "file_size": 2123,
+          "width": 73,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPEGo-fxe4-Xs8OqKx6yTo-YPs7a89AALMDWsbfyTwUYG7tflDVq8tAQADAgADbQADPAQ",
+          "file_unique_id": "AQADzA1rG38k8FFy",
+          "file_size": 36393,
+          "width": 260,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPEGo-fxe4-Xs8OqKx6yTo-YPs7a89AALMDWsbfyTwUYG7tflDVq8tAQADAgADeAADPAQ",
+          "file_unique_id": "AQADzA1rG38k8FF9",
+          "file_size": 156791,
+          "width": 649,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPEGo-fxe4-Xs8OqKx6yTo-YPs7a89AALMDWsbfyTwUYG7tflDVq8tAQADAgADeQADPAQ",
+          "file_unique_id": "AQADzA1rG38k8FF-",
+          "file_size": 282342,
+          "width": 1039,
+          "height": 1280
+        }
+      ],
+      "caption": "پوستری که فدراسیون فوتبال برای بازی با تیم ملی مصر به سبک کاور GTA داده بیرون: \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 80,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

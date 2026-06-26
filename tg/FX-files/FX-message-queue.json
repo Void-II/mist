@@ -17320,6 +17320,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3850,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782478623,
+      "text": "GEMINI YOUTUBE AND FREE PLAY STORE TRIAL\n\n515462003667|08|28|RND\n515462003667|04|29|RND\n1P : KZ [🇰🇿] ARG🇩🇿 USA 🇺🇸\n\nZIP Code: 020101\nProvince: Astana\nCity: Astana\nAddress: Street x\nCountry: Kazakhstan\n\nAddress 1 :- Algeria\nAddress 2 :- Leave blank\nCity :- Algeria\nPostal Code :- 30000\nAddress Algeria\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 307,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 320,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 342,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -21308,6 +21308,64 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3927,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782584046,
+      "text": "21روز سرور رایگان برای 3 دستگاه بگیرین  و با دعوت 3 نفر 1 ماه بهتون میده اینو کامران معرفی کرد گفت بزار حجم کم اوردم 🥴\nلینک کامی\n\nاینم لینک منه نهایت زدین چالش میکنم به یکفر میدمش\n\nساده اس استارت کنید تو کانال روسی عضو شید برگردین بات رو جعبه های هدیه بزنید ساب داده شده رو تو برنامه Happ بزنید یا... بدون فیلترشکن میتونید سرور ها رو بروز کنید\n@XBat_Team \n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 120,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://t.me/AuroraVPNservice_bot?start=ref_7711296305"
+        },
+        {
+          "offset": 131,
+          "length": 49,
+          "type": "text_link",
+          "url": "https://t.me/AuroraVPNservice_bot?start=ref_7106584375"
+        },
+        {
+          "offset": 345,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 358,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 381,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

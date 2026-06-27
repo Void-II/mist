@@ -21051,6 +21051,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3922,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782579965,
+      "text": "با لینک دعوت برین این بات روسی وایرگارد 15 گیگ رایگان میده تو اپیکشین Amnezia vpn وارد کنید موقع وارد کردن تیک رو بزنید\nربات\nhttps://t.me/ikiVPNbot?start=r-B507LRJJFR4B\n\nاستارت کنید زبان انگلیسی بزنید بعد بزنید کانکت بعدش پروتکل وایرگارد انتخاب کنید وبعد کشور تموم سرور میده\n\nنکته سرعتش خیلی بالاست برای یوتیوب اینستاگرام و... خوبه اشتراک یکماهه  نامحدوداش 84 استارز که اوپن نامحدود یه  سری جا های دیگر ازون تره ولی ما فقط میگیم رایگان شو بگیرین\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 125,
+          "length": 43,
+          "type": "url"
+        },
+        {
+          "offset": 170,
+          "length": 105,
+          "type": "blockquote"
+        },
+        {
+          "offset": 288,
+          "length": 169,
+          "type": "blockquote"
+        },
+        {
+          "offset": 446,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 469,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 469,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 469,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/ikiVPNbot?start=r-B507LRJJFR4B"
+      }
     }
   ]
 }

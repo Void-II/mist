@@ -20208,6 +20208,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3906,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782548645,
+      "text": "vless://6f1e69e9-cdb5-499f-af55-ee480987691a@journalist_info.allcaline.ir:6690?security=reality&encryption=none&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=a334d0f1d82608de#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF\n\nلوکیشن فنلاند\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 315,
+          "type": "code"
+        },
+        {
+          "offset": 332,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 345,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 367,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

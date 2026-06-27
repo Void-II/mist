@@ -20457,6 +20457,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3911,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782561965,
+      "text": "هدیه امروز ❤️ کانفیگ اختصاصی اینترنت آزاد میتونید داشته باشید👇\n\n@MiTiVPNBOT\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 63,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 11,
+          "type": "mention"
+        },
+        {
+          "offset": 65,
+          "length": 1,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

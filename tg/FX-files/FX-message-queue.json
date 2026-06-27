@@ -20259,6 +20259,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3907,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782552725,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPQ2o_mJVRyebaf16j2NRS-IdAMkwPAALWEmsbpp74UX2a0DpABTuRAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1hJrG6ae-FF4",
+          "file_size": 1115,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPQ2o_mJVRyebaf16j2NRS-IdAMkwPAALWEmsbpp74UX2a0DpABTuRAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1hJrG6ae-FFy",
+          "file_size": 13030,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPQ2o_mJVRyebaf16j2NRS-IdAMkwPAALWEmsbpp74UX2a0DpABTuRAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1hJrG6ae-FF9",
+          "file_size": 50107,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPQ2o_mJVRyebaf16j2NRS-IdAMkwPAALWEmsbpp74UX2a0DpABTuRAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1hJrG6ae-FF-",
+          "file_size": 100142,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPQ2o_mJVRyebaf16j2NRS-IdAMkwPAALWEmsbpp74UX2a0DpABTuRAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD1hJrG6ae-FF8",
+          "file_size": 236932,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "فرانسه برگشتتتت \n\n486هزار تومن بابت خط خودم پول دادم 🥴 دوباره بگیرمش\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 71,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

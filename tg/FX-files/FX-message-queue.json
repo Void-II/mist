@@ -20380,6 +20380,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3909,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782554585,
+      "text": "کافینگ وایرگارد موجود شد \n۵لوکیشن \nدوتا آلمان برای وبگردی \n\nسه تا لوکیشن مخصوص گیم \nآلمان \nترکیه \nامارات \n\nتک کابره \n۳۶گیگ\n۱۳۰هزارتومان \nیک ماه \nمخصوص تموم گوشیا \n\n۲۵عدد موجوده \nبرای خرید پیوی \n@amirasali80\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 194,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

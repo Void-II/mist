@@ -21550,6 +21550,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3933,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782597996,
+      "media_group_id": "14260783972241460",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPXWpASWy1FLd6BsFVQZaVmBKLb-4gAALKEGsbAR4BUt3O7Ge5EWsJAQADAgADcwADPAQ",
+          "file_unique_id": "AQADyhBrGwEeAVJ4",
+          "file_size": 1677,
+          "width": 76,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPXWpASWy1FLd6BsFVQZaVmBKLb-4gAALKEGsbAR4BUt3O7Ge5EWsJAQADAgADbQADPAQ",
+          "file_unique_id": "AQADyhBrGwEeAVJy",
+          "file_size": 15834,
+          "width": 270,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPXWpASWy1FLd6BsFVQZaVmBKLb-4gAALKEGsbAR4BUt3O7Ge5EWsJAQADAgADeAADPAQ",
+          "file_unique_id": "AQADyhBrGwEeAVJ9",
+          "file_size": 56619,
+          "width": 674,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPXWpASWy1FLd6BsFVQZaVmBKLb-4gAALKEGsbAR4BUt3O7Ge5EWsJAQADAgADeQADPAQ",
+          "file_unique_id": "AQADyhBrGwEeAVJ-",
+          "file_size": 97027,
+          "width": 1079,
+          "height": 1280
+        }
+      ],
+      "caption": "ترکیب دوتا تیم برای بازی امشب\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 30,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 43,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

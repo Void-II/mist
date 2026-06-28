@@ -22784,6 +22784,72 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3956,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782672941,
+      "poll": {
+        "id": "5911337916696626845",
+        "question": "دوستان پیشنهاد بدین \n\nاسم ربات فروش فیلترشکنم چی بزارم",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "AsaliNet",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "AsaliFast",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "2",
+            "text": "AsaliShop",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "3",
+            "text": "@Asaliv2ray",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": true,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }

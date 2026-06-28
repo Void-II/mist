@@ -22850,6 +22850,42 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 3957,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782673067,
+      "text": "آیپی ثابت مکزیک میخوامم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 36,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 36,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 36,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

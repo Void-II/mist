@@ -21775,6 +21775,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3937,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782631779,
+      "text": "هنوزم متصله ۵۰گیگ داره بزنید❤️😁\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 45,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 45,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 45,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

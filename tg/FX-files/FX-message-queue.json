@@ -23050,6 +23050,117 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3962,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782683088,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPempBldCJNWIE6pn1muoLtsxAJ60uAAKNDWsbqg4RUqvXoATrfg3MAQADAgADcwADPAQ",
+          "file_unique_id": "AQADjQ1rG6oOEVJ4",
+          "file_size": 2271,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPempBldCJNWIE6pn1muoLtsxAJ60uAAKNDWsbqg4RUqvXoATrfg3MAQADAgADbQADPAQ",
+          "file_unique_id": "AQADjQ1rG6oOEVJy",
+          "file_size": 32245,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPempBldCJNWIE6pn1muoLtsxAJ60uAAKNDWsbqg4RUqvXoATrfg3MAQADAgADeAADPAQ",
+          "file_unique_id": "AQADjQ1rG6oOEVJ9",
+          "file_size": 143077,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPempBldCJNWIE6pn1muoLtsxAJ60uAAKNDWsbqg4RUqvXoATrfg3MAQADAgADeQADPAQ",
+          "file_unique_id": "AQADjQ1rG6oOEVJ-",
+          "file_size": 288669,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "😺 Hidemy .name VPN\n\n💎 𝐂𝐨𝐝𝐞 : \n607049447065219\n\n\n🌠 Plan: Premium \n📅 Expiry : 7 Days\n\n🔗 Download links :\n🖥 Windows  🍭 Android 🍏 ios\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 15,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 57,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 84,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://hide.mn/files/software/hidemyname_vpn_2.1.915.exe"
+        },
+        {
+          "offset": 127,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.fourksoft.openvpn"
+        },
+        {
+          "offset": 138,
+          "length": 3,
+          "type": "text_link",
+          "url": "https://itunes.apple.com/app/hidemy-name-vpn/id1200692581"
+        },
+        {
+          "offset": 144,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

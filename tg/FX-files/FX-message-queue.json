@@ -23344,6 +23344,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3965,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782689268,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPfWpBrfR5NGIWEaCT3piDXv6_PteKAAKxDWsbqg4RUvjCrEdPigSvAQADAgADcwADPAQ",
+          "file_unique_id": "AQADsQ1rG6oOEVJ4",
+          "file_size": 1766,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPfWpBrfR5NGIWEaCT3piDXv6_PteKAAKxDWsbqg4RUvjCrEdPigSvAQADAgADbQADPAQ",
+          "file_unique_id": "AQADsQ1rG6oOEVJy",
+          "file_size": 21712,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPfWpBrfR5NGIWEaCT3piDXv6_PteKAAKxDWsbqg4RUvjCrEdPigSvAQADAgADeAADPAQ",
+          "file_unique_id": "AQADsQ1rG6oOEVJ9",
+          "file_size": 81319,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPfWpBrfR5NGIWEaCT3piDXv6_PteKAAKxDWsbqg4RUvjCrEdPigSvAQADAgADeQADPAQ",
+          "file_unique_id": "AQADsQ1rG6oOEVJ-",
+          "file_size": 109179,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "Turbo VPN\n\nStatus: Premium + Platinum\n\nExp:2026/07/04\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail: error404bin@dropoffs.org\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\nری اکشن و شات یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 6,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 74,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 109,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 121,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 156,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 164,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn&referrer=utm_source%3Dofficial_website_free%26utm_medium%3DHyperlink%26utm_campaign%3Dofficial_website"
+        },
+        {
+          "offset": 177,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apple.co/2x5Bk3S"
+        },
+        {
+          "offset": 188,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://f002.backblazeb2.com/file/windows-turbo/TurboVPN_setup.exe"
+        },
+        {
+          "offset": 196,
+          "length": 27,
+          "type": "bold"
+        },
+        {
+          "offset": 225,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 238,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

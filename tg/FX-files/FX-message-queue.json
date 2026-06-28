@@ -22183,6 +22183,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3945,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782660483,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPaWpBPYPob4TfFD23KEvvcNL_Z8xSAAI6Dmsbqg4JUh7P4dfhEezgAQADAgADcwADPAQ",
+          "file_unique_id": "AQADOg5rG6oOCVJ4",
+          "file_size": 2181,
+          "width": 90,
+          "height": 72
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPaWpBPYPob4TfFD23KEvvcNL_Z8xSAAI6Dmsbqg4JUh7P4dfhEezgAQADAgADbQADPAQ",
+          "file_unique_id": "AQADOg5rG6oOCVJy",
+          "file_size": 35363,
+          "width": 320,
+          "height": 256
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPaWpBPYPob4TfFD23KEvvcNL_Z8xSAAI6Dmsbqg4JUh7P4dfhEezgAQADAgADeAADPAQ",
+          "file_unique_id": "AQADOg5rG6oOCVJ9",
+          "file_size": 142854,
+          "width": 800,
+          "height": 640
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPaWpBPYPob4TfFD23KEvvcNL_Z8xSAAI6Dmsbqg4JUh7P4dfhEezgAQADAgADeQADPAQ",
+          "file_unique_id": "AQADOg5rG6oOCVJ-",
+          "file_size": 275043,
+          "width": 1280,
+          "height": 1024
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPaWpBPYPob4TfFD23KEvvcNL_Z8xSAAI6Dmsbqg4JUh7P4dfhEezgAQADAgADdwADPAQ",
+          "file_unique_id": "AQADOg5rG6oOCVJ8",
+          "file_size": 278925,
+          "width": 1402,
+          "height": 1122
+        }
+      ],
+      "caption": "🚀 فیلترشکن پرسرعت | پینگ پایین | اتصال پایدار\n\n🎮 WireGuard Gaming\n📦 ۳۶ گیگ\n🌍 لوکیشن‌ها:\n🇹🇷 ترکیه\n🇦🇪 امارات\n🇩🇪 آلمان\n\n🌐 WireGuard وبگردی\n🇩🇪 ۲ سرور اختصاصی آلمان\n⚡ سرعت بالا و پایداری عالی\n\n💎 V2RayNG | مولتی‌لوکیشن\n🌍 ۱۲ لوکیشن فعال\n👥 بدون محدودیت تعداد کاربر\n💰 هر گیگ فقط ۳,۵۰۰ تومان\n\n✅ مناسب برای:\n🎮 گیم\n🤖 هوش مصنوعی\n📱 تلگرام، واتساپ، اینستاگرام\n🌐 وبگردی و استریم\n\n⚡ سرعت بالا | اتصال پایدار | تحویل فوری\n\n📩 سفارش و پشتیبانی:\n@amirasali80\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 447,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 472,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 472,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 472,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

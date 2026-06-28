@@ -22137,6 +22137,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3944,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782652995,
+      "text": "این گرون شدن کانفیگ ها هم خیلی برا من خوب شد\n\nیه عده بچه سال گدا گشنه سیک خوردن رفتن و یه سری ادم با شخصیت موندن که الان تقریبا یک ماهه حتی یک پیامم ارسال نکردن بگن فلانه یا چیزه\n\n1000 تا کاربر درست درمون داشته باشی بهتر از 4 5 هزار نفر ادم بی جنبه عقده ای\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 258,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 269,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 295,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

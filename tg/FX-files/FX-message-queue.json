@@ -25493,6 +25493,61 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4003,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782774241,
+      "document": {
+        "file_name": "Proton+VPN+Premium+v5.19.16.0+605191600+Mod+signed.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIPo2pC-eH1p3Nx54lZ6-IEhT4NbHRsAALBHAACv9XpUeeBhurkadCDPAQ",
+        "file_unique_id": "AgADwRwAAr_V6VE",
+        "file_size": 60949660
+      },
+      "caption": "Proton VPN: Fast & Secure VPN\n\nقابلیت‌های رابط کاربری پریمیوم باز شده‌اند: پیشنهادهای ارتقا حذف شده، مسدودکنندهٔ تبلیغات NetShield فعال شده، اعلان‌های ارتقا پنهان شده‌اند، سرورهای رایگان با رابط پریمیوم نمایش داده می‌شوند (نشان Plus، بدون نمایش محدودیت سرعت، و همهٔ پرچم‌های ویژگی فعال هستند).\n◉ تله‌متری غیرفعال شده: تمام جمع‌آوری داده‌های تله‌متری، تحلیل‌ها و داده‌های مشاهده‌پذیری مسدود شده است.\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 367,
+          "type": "blockquote"
+        },
+        {
+          "offset": 399,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 412,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 434,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 434,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 434,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

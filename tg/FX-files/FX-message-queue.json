@@ -25324,7 +25324,7 @@
       ]
     },
     {
-      "message_id": 4000,
+      "message_id": 4001,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -25335,32 +25335,32 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1782771511,
-      "text": "🔴 شین | درگیری‌ها میان گروه‌های کُرد و نیروهای سپاه پاسداران انقلاب اسلامی در پاوه، استان کرمانشاه.\nتلفاتی از عناصر سپاه پاسداران گزارش شده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "date": 1782771512,
+      "text": "🔴 تاکنون ۲ نیرو سپاه کشته شدند.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 143,
+          "offset": 33,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 156,
+          "offset": 46,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 182,
+          "offset": 72,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 182,
+          "offset": 72,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 182,
+          "offset": 72,
           "length": 8,
           "type": "underline"
         }

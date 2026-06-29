@@ -23638,6 +23638,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3969,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782731994,
+      "text": "vless://bef27a41-ea82-44d4-86f6-77d8538dd7b7@adidas.ftrer.shop:9010?security=reality&encryption=none&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e8b1541e7387ffba#%F0%9F%87%A6%F0%9F%87%BF\n\nآذربایجان \nتست کنید سرعتشو \n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 267,
+          "type": "code"
+        },
+        {
+          "offset": 298,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 311,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 333,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 333,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 333,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -23531,6 +23531,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3967,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782718913,
+      "text": "ExpressVPN Account  \n\n\nUser: svmilroy@gmail.com\npass: Creatit99!\n\nUser: HelloBoy24TvIII353@babyeat.food\nELT8GVEH9CAQKSMX4AMYBNP\n\nWindows : \nELT8GVEH9CAQKSMX4AMYBNP\nEWG947XDWCHHB27WEHYBGAH\n\nبا فیلتر روشن لاگین کنید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 29,
+          "length": 18,
+          "type": "code"
+        },
+        {
+          "offset": 54,
+          "length": 10,
+          "type": "code"
+        },
+        {
+          "offset": 72,
+          "length": 31,
+          "type": "code"
+        },
+        {
+          "offset": 104,
+          "length": 23,
+          "type": "code"
+        },
+        {
+          "offset": 214,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 227,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -25186,6 +25186,142 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3999,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782768720,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPn2pC5FATU7vClKRhJMy2iNRgfbP0AALSD2sbEJcZUhEeggI_RgxMAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD0g9rGxCXGVJ4",
+          "file_size": 2079,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPn2pC5FATU7vClKRhJMy2iNRgfbP0AALSD2sbEJcZUhEeggI_RgxMAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD0g9rGxCXGVJy",
+          "file_size": 34413,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPn2pC5FATU7vClKRhJMy2iNRgfbP0AALSD2sbEJcZUhEeggI_RgxMAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD0g9rGxCXGVJ9",
+          "file_size": 155158,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPn2pC5FATU7vClKRhJMy2iNRgfbP0AALSD2sbEJcZUhEeggI_RgxMAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD0g9rGxCXGVJ-",
+          "file_size": 306496,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Symlex VPN\n\nExp: 👽\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail: fihoba3995@cadebek.com\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿\nGooglePlay    AppStore\n\nWindows\nری اکشن و شات یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 7,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 40,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 73,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 85,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 120,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 127,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=app.kismyo.vpn&hl=en&gl=US"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://apps.apple.com/ae/app/symlex-vpn-trusted-secured/id1476025535"
+        },
+        {
+          "offset": 151,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://symlexvpn.store/symlexvpn4windows.zip"
+        },
+        {
+          "offset": 158,
+          "length": 27,
+          "type": "bold"
+        },
+        {
+          "offset": 187,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 200,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 222,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

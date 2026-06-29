@@ -24256,6 +24256,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3982,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782747690,
+      "text": "🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆\n🇹🇷Türkiye\n🇺🇸USA\n🇦🇪UAE\n🇫🇮𝐅𝐢𝐧𝐥𝐚𝐧𝐝\n🇳🇱Netherlands\n🇫🇷France\n🇦🇱 Albania\n🇮🇹Italy\n🇵🇱Poland\n🇸🇪Sweden\n🇬🇧United Kingdom\n🇨🇭Switzerland\n🇦🇲Armenia\n🇧🇦Bosnia\n🇷🇸Serbia\n🇲🇹Malta\n🇪🇪Estonia\n🇧🇪Belgium\n🇧🇭Bahrain\n\nپنل موجود کنیم \nهمه این لوکیشن هارو داشته باشه یه جا \nاونم با گیگی ۵هزارتومان!؟😁😁\n\n\nاره👍\nنه❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 363,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 363,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 363,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

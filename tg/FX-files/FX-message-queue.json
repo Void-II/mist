@@ -25045,6 +25045,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3998,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782767459,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPnmpC32NFZIML24OBOeCvgTJAzNfDAAIfDWsbN30YUsgwIj0YdB28AQADAgADcwADPAQ",
+          "file_unique_id": "AQADHw1rGzd9GFJ4",
+          "file_size": 2397,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPnmpC32NFZIML24OBOeCvgTJAzNfDAAIfDWsbN30YUsgwIj0YdB28AQADAgADbQADPAQ",
+          "file_unique_id": "AQADHw1rGzd9GFJy",
+          "file_size": 40328,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPnmpC32NFZIML24OBOeCvgTJAzNfDAAIfDWsbN30YUsgwIj0YdB28AQADAgADeAADPAQ",
+          "file_unique_id": "AQADHw1rGzd9GFJ9",
+          "file_size": 197011,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPnmpC32NFZIML24OBOeCvgTJAzNfDAAIfDWsbN30YUsgwIj0YdB28AQADAgADeQADPAQ",
+          "file_unique_id": "AQADHw1rGzd9GFJ-",
+          "file_size": 396467,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "CyberGhost VPN\n\nStatus: Premium\n\nExp:2026/07/04\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail: error404bin@dropoffs.org\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\nری اکشن و شات یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 16,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 61,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 68,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 94,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 115,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 158,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://www.cyberghostvpn.com/download/android-vpn"
+        },
+        {
+          "offset": 171,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://www.cyberghostvpn.com/download/ios-vpn"
+        },
+        {
+          "offset": 182,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://www.cyberghostvpn.com/download/windows-vpn"
+        },
+        {
+          "offset": 190,
+          "length": 27,
+          "type": "bold"
+        },
+        {
+          "offset": 219,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 232,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

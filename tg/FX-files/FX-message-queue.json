@@ -24200,6 +24200,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3981,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782747476,
+      "video": {
+        "duration": 36,
+        "width": 360,
+        "height": 720,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg-NakKRVHzXqsBZOALVCxVEyPFam1kAAs0dAAKqDhlSzxVq3YWyv-UBAAdtAAM8BA",
+          "file_unique_id": "AQADzR0AAqoOGVJy",
+          "file_size": 12763,
+          "width": 160,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg-NakKRVHzXqsBZOALVCxVEyPFam1kAAs0dAAKqDhlSzxVq3YWyv-UBAAdtAAM8BA",
+          "file_unique_id": "AQADzR0AAqoOGVJy",
+          "file_size": 12763,
+          "width": 160,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIPjWpCkVR816rAWTgC1QsVRMjxWptZAALNHQACqg4ZUs8Vat2Fsr_lPAQ",
+        "file_unique_id": "AgADzR0AAqoOGVI",
+        "file_size": 14535402
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

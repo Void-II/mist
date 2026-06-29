@@ -24442,6 +24442,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3986,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782753172,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkmpCp5QdSdniykU_REpdNytF3qOCAALsDmsbqg4ZUjUdExkHK_IKAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD7A5rG6oOGVJ4",
+          "file_size": 1587,
+          "width": 90,
+          "height": 82
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkmpCp5QdSdniykU_REpdNytF3qOCAALsDmsbqg4ZUjUdExkHK_IKAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD7A5rG6oOGVJy",
+          "file_size": 20599,
+          "width": 320,
+          "height": 292
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkmpCp5QdSdniykU_REpdNytF3qOCAALsDmsbqg4ZUjUdExkHK_IKAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD7A5rG6oOGVJ9",
+          "file_size": 82007,
+          "width": 800,
+          "height": 731
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPkmpCp5QdSdniykU_REpdNytF3qOCAALsDmsbqg4ZUjUdExkHK_IKAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD7A5rG6oOGVJ-",
+          "file_size": 170897,
+          "width": 1280,
+          "height": 1170
+        }
+      ],
+      "caption": "Auto sub\nAuto speech recognition to generate subtitle\nجنریت زیرنویس با AI\nلوکال و آفلاین\nویندوز لینوکس مک\nباید یکی از مدل های whisper رو دانلود کنید\nhttps://github.com/tmoroney/auto-subs\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 149,
+          "length": 37,
+          "type": "url"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

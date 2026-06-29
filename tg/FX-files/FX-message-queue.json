@@ -24333,6 +24333,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 3984,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782752757,
+      "text": "خب خب سروریس \n\nمولتی لوکیشن \n🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆\n🇹🇷Türkiye\n🇺🇸USA\n🇦🇪UAE\n🇫🇮𝐅𝐢𝐧𝐥𝐚𝐧𝐝\n🇳🇱Netherlands\n🇫🇷France\n🇦🇱 Albania\n🇮🇹Italy\n🇵🇱Poland\n🇸🇪Sweden\n🇬🇧United Kingdom\n🇨🇭Switzerland\n🇦🇲Armenia\n🇧🇦Bosnia\n🇷🇸Serbia\n🇲🇹Malta\n🇪🇪Estonia\n🇧🇪Belgium\n🇧🇭Bahrain\nبه رباتمون اضافع کنید \n\nدوتا سروریس داریم اقتصادی و مولتی \n\nجهت دریافت و خرید آیدی رباتمون 😁❤️\n\n@asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 379,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 406,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 406,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 406,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

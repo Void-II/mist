@@ -25322,6 +25322,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4000,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782771511,
+      "text": "🔴 شین | درگیری‌ها میان گروه‌های کُرد و نیروهای سپاه پاسداران انقلاب اسلامی در پاوه، استان کرمانشاه.\nتلفاتی از عناصر سپاه پاسداران گزارش شده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 143,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 156,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 182,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

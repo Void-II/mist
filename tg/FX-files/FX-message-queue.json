@@ -24583,6 +24583,47 @@
       "link_preview_options": {
         "url": "https://iromusicapp.com/"
       }
+    },
+    {
+      "message_id": 3988,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782754437,
+      "text": "https://flowapp-website.vercel.app/\n\nکلاینت یوتیوب بدون تبلیغ با امکان دانلود\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 35,
+          "type": "url"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

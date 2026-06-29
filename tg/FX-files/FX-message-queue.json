@@ -24510,6 +24510,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 3987,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782753195,
+      "text": "🔰Iromusic & Movie🔰\n\n🔎 SiteLink\n\n💡5.1.0 | #Film\n\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a / arm64-v8\n\n\nتوضیحات درباره برنامه:\nآیروموزیک یک اپلیکیشن برای فیلم و سریال های جدید ایرانی و سریع و سبک در زمینه انتشار موزیک برای کاربران ایرانی است. با آیروموزیک می‌توانید میلیون‌ها آهنگ ایرانی و خارجی در ژانرها و دوره‌های زمانی مختلف را آنلاین بشنوید و یا دانلود کنید.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://iromusicapp.com/"
+        },
+        {
+          "offset": 45,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 216,
+          "length": 237,
+          "type": "blockquote"
+        },
+        {
+          "offset": 542,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/147982"
+        },
+        {
+          "offset": 571,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 590,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 607,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 630,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 630,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 630,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://iromusicapp.com/"
+      }
     }
   ]
 }

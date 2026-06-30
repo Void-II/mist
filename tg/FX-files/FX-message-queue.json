@@ -28571,6 +28571,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4063,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782862876,
+      "text": "به به ری اکشنا خداس\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 32,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 32,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 32,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

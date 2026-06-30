@@ -26729,6 +26729,105 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4024,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782821741,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIPuGpDs23KuqdTDAHccIeKvcwlAmguAALeC2sbXS8hRrFAtZ7VjuUOAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD3gtrG10vIUZ4",
+          "file_size": 1250,
+          "width": 90,
+          "height": 82
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIPuGpDs23KuqdTDAHccIeKvcwlAmguAALeC2sbXS8hRrFAtZ7VjuUOAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD3gtrG10vIUZy",
+          "file_size": 12206,
+          "width": 320,
+          "height": 291
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIPuGpDs23KuqdTDAHccIeKvcwlAmguAALeC2sbXS8hRrFAtZ7VjuUOAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD3gtrG10vIUZ9",
+          "file_size": 40461,
+          "width": 800,
+          "height": 728
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIPuGpDs23KuqdTDAHccIeKvcwlAmguAALeC2sbXS8hRrFAtZ7VjuUOAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD3gtrG10vIUZ-",
+          "file_size": 56938,
+          "width": 1080,
+          "height": 983
+        }
+      ],
+      "caption": "Telegram WS Proxy Android\nیک اپلیکیشن اندرویدی برای اتصال پروکسی MTProto تلگرام.\nاین برنامه می تونه در بعضی شرایط مشکلات اتصال تلگرام را تا حدی کاهش بدهه و حتی باعث بهبود سرعت بشه، چون ترافیک را از دو مسیر عبور می‌دهد:\nاتصال امن از طریق WebSocket روی Cloudflare\nیا اتصال مستقیم به دیتاسنترهای تلگرام\n\nنصب کردید بزنید روی ایکون تلگرام ابی شد وصل میشه زیرش یه گزینه بزنید هدایتتون میکنه داخل تلگرام و کانکت بزنید\nیا اون لینک زیرش آیکون کپی بزنید و ببرید تو تلگرام بزنید وصل بشه\n\nسرعت خوبی داره اوپن سورس هم هستش برای بیشتر نتا هم اوکیه\n\nhttps://github.com/amurcanov/tg-ws-proxy-android/releases\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 25,
+          "type": "text_link",
+          "url": "https://github.com/amurcanov/tg-ws-proxy-android"
+        },
+        {
+          "offset": 0,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 58,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 281,
+          "length": 18,
+          "type": "bold"
+        },
+        {
+          "offset": 535,
+          "length": 57,
+          "type": "blockquote"
+        },
+        {
+          "offset": 535,
+          "length": 57,
+          "type": "url"
+        },
+        {
+          "offset": 605,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 605,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 605,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

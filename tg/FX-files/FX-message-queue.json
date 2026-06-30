@@ -26636,6 +26636,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4021,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782821413,
+      "media_group_id": "14262571307364076",
+      "video": {
+        "duration": 26,
+        "width": 736,
+        "height": 480,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg-1akOyJUZeQoETKbHGg5Z6YUKamrIAAo80AALDzRhScLvxJIESXl0BAAdtAAM8BA",
+          "file_unique_id": "AQADjzQAAsPNGFJy",
+          "file_size": 3405,
+          "width": 320,
+          "height": 209
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAg-1akOyJUZeQoETKbHGg5Z6YUKamrIAAo80AALDzRhScLvxJIESXl0BAAdtAAM8BA",
+          "file_unique_id": "AQADjzQAAsPNGFJy",
+          "file_size": 3405,
+          "width": 320,
+          "height": 209
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIPtWpDsiVGXkKBEymxxoOWemFCmpqyAAKPNAACw80YUnC78SSBEl5dPAQ",
+        "file_unique_id": "AgADjzQAAsPNGFI",
+        "file_size": 1656619
+      },
+      "caption": "حسین یکتا رو یادتونه توی اعتراضات دی ماه اومد گفت بچه هاتون رو بیرون نفرستین، اگه تیر خوردن مسئولیتش با خودتونه.\n\nحالا فیلم تولد پسرش اومده بیرون، میزی از خوراکی‌های متنوع که شاید هیچوقت ما نخوریم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 198,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

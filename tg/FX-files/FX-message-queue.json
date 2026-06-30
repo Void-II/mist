@@ -27219,7 +27219,7 @@
       }
     },
     {
-      "message_id": 4033,
+      "message_id": 4034,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -27231,31 +27231,31 @@
         "type": "channel"
       },
       "date": 1782836595,
-      "text": "محسن پاک‌نژاد، وزیر نفت جمهوری اسلامی استعفا داد\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "ایران اینترنشنال در گزارشی اختصاصی مدعی شد که شورای عالی امنیت ملی جمهوری اسلامی در یک دستورالعمل محرمانه تأکید کرده که در ۴۸ ساعت برگزاری مراسم تشییع پیکر علی خامنه‌ای، از انتشار یا بازنشر هرگونه خبر درباره مذاکرات یا احتمال توافق در تمامی رسانه‌ها خودداری شود.\nبر اساس این گزارش، هدف از این تصمیم، افزایش حضور و جمعیت در مراسم تشییع عنوان شده است.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 49,
+          "offset": 350,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 62,
+          "offset": 363,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 88,
+          "offset": 389,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 88,
+          "offset": 389,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 88,
+          "offset": 389,
           "length": 8,
           "type": "underline"
         }

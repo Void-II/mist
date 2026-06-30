@@ -26874,6 +26874,61 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4026,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782822673,
+      "document": {
+        "file_name": "arvanping (2).ovpn",
+        "mime_type": "text/plain",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIPc2pBZjrbLNjVnyKfU6PqB4h4HEl-AAJOIQAC_8GpUCS0hquR24gCPAQ",
+        "file_unique_id": "AgADTiEAAv_BqVA",
+        "file_size": 8488
+      },
+      "caption": "📣اطلاعیه\n\nفایل اوپن وی پی ان نامحدود مخصوص اعضای اروان پینگ\n\nتست کنید که براتون متصل میشه اگه اتصال براتون انجام شد و قطع وصلی داشتین به علت اتصال زیاد کاربران هست\nقیمت 600 تومن هست و به صورت محدود است جهت خرید به پشتیبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 237,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 251,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 267,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 298,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

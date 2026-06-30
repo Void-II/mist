@@ -28166,6 +28166,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4055,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782849856,
+      "text": "فروش تلگرام پرمیوم  برای کاربران  آغاز شد\n\n1 ساله 21 دلار ✔️\n6ماه 13 دلار ✔️\n3 ماه 9 دلار ✔️\n\nجهت سفارش میتونید به ایدی زیر پیام بدین \n\n@NexTiShop\n\n\n@nextishop_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 136,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 149,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -25664,6 +25664,122 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4005,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782784383,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpWpDIX9tXEh8no650YLvNytKZFJPAAK9DmsbEJchUuTmQoBHWqUlAQADAgADcwADPAQ",
+          "file_unique_id": "AQADvQ5rGxCXIVJ4",
+          "file_size": 1795,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpWpDIX9tXEh8no650YLvNytKZFJPAAK9DmsbEJchUuTmQoBHWqUlAQADAgADbQADPAQ",
+          "file_unique_id": "AQADvQ5rGxCXIVJy",
+          "file_size": 23478,
+          "width": 319,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpWpDIX9tXEh8no650YLvNytKZFJPAAK9DmsbEJchUuTmQoBHWqUlAQADAgADeAADPAQ",
+          "file_unique_id": "AQADvQ5rGxCXIVJ9",
+          "file_size": 84035,
+          "width": 797,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpWpDIX9tXEh8no650YLvNytKZFJPAAK9DmsbEJchUuTmQoBHWqUlAQADAgADeQADPAQ",
+          "file_unique_id": "AQADvQ5rGxCXIVJ-",
+          "file_size": 160560,
+          "width": 1276,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpWpDIX9tXEh8no650YLvNytKZFJPAAK9DmsbEJchUuTmQoBHWqUlAQADAgADdwADPAQ",
+          "file_unique_id": "AQADvQ5rGxCXIVJ8",
+          "file_size": 415433,
+          "width": 2552,
+          "height": 2560
+        }
+      ],
+      "caption": "Browsec VPN\n\n⏳Exp: 2026/07/07\n➿➿➿➿➿➿➿➿➿➿➿➿\n📌اول برنامه نصبی را از طریق فروشگاه خود دستگاه دانلود و نصب کنید\n\n🔗سپس روی لینک کلیک کنید خودکار وارد حساب میشوید\n🧩چنانچه با ارور مواجه شدید یعنی ظرفیت اکانت تکمیل است\n\n➿➿➿➿➿➿➿➿➿\n⏰ظرفیت اکانت محدود میباشد\n➿➿➿➿➿\n\nری اکشن و شات یادتون نره 🧡\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 8,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 14,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 120,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://pr2phg7t24w97el5.bapplinks.com/signin?mirror=browservps.org&t=kxxp9fqvsp9Uu7vnxyA7"
+        },
+        {
+          "offset": 214,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 250,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 288,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 301,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 323,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 323,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 323,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

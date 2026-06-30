@@ -28076,6 +28076,96 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4054,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782849256,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP1mpEHujLlGb0tLzbcUuKBqrpaVVoAAKbDmsbDfUgUhtTyY2_aeZbAQADAgADcwADPAQ",
+          "file_unique_id": "AQADmw5rGw31IFJ4",
+          "file_size": 1067,
+          "width": 46,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP1mpEHujLlGb0tLzbcUuKBqrpaVVoAAKbDmsbDfUgUhtTyY2_aeZbAQADAgADbQADPAQ",
+          "file_unique_id": "AQADmw5rGw31IFJy",
+          "file_size": 14978,
+          "width": 162,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP1mpEHujLlGb0tLzbcUuKBqrpaVVoAAKbDmsbDfUgUhtTyY2_aeZbAQADAgADeAADPAQ",
+          "file_unique_id": "AQADmw5rGw31IFJ9",
+          "file_size": 67477,
+          "width": 406,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP1mpEHujLlGb0tLzbcUuKBqrpaVVoAAKbDmsbDfUgUhtTyY2_aeZbAQADAgADeQADPAQ",
+          "file_unique_id": "AQADmw5rGw31IFJ-",
+          "file_size": 133464,
+          "width": 649,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP1mpEHujLlGb0tLzbcUuKBqrpaVVoAAKbDmsbDfUgUhtTyY2_aeZbAQADAgADdwADPAQ",
+          "file_unique_id": "AQADmw5rGw31IFJ8",
+          "file_size": 323143,
+          "width": 1299,
+          "height": 2560
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nرضایت مشتری \n\nتحویل در کمتر از ده دقیقه \n\nجهت سفارش میتونید به ایدی زیر پیام بدین \n\n@NexTiShop\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 95,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 123,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 139,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

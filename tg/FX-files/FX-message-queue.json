@@ -26965,6 +26965,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4028,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782823453,
+      "text": "اکانت HMA\n\nاکانت دو ساله هست اینو تست کنید \n\nKey = L55V52-8LJLPJ-5GLGJN\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 73,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -25780,6 +25780,137 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4006,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782789162,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpmpDNCo86_O-2powqdE8FKZ1PdiRAALTDmsbEJchUoLXcsunVbDyAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD0w5rGxCXIVJ4",
+          "file_size": 1564,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpmpDNCo86_O-2powqdE8FKZ1PdiRAALTDmsbEJchUoLXcsunVbDyAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD0w5rGxCXIVJy",
+          "file_size": 18243,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpmpDNCo86_O-2powqdE8FKZ1PdiRAALTDmsbEJchUoLXcsunVbDyAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD0w5rGxCXIVJ9",
+          "file_size": 66208,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPpmpDNCo86_O-2powqdE8FKZ1PdiRAALTDmsbEJchUoLXcsunVbDyAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD0w5rGxCXIVJ-",
+          "file_size": 92900,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "ExitLag\n\n⏳Exp:👽\n〰〰〰〰〰〰〰〰〰〰〰〰〰〰\n✉️Email: p3057260@gmail.com \n\n🔑Password: @Error404Bin\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n⏰ظرفیت اکانت محدود میباشد\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n⭕️نکته اکانت فعال است برای استفاده نیازمند تماشای یک تبلیغ دارید\n\nGooglePlay   App Store\n\nWindows\n\nری اکشن و شات یادتون نره 🧡\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 34,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 41,
+          "length": 18,
+          "type": "email"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 74,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 143,
+          "length": 62,
+          "type": "italic"
+        },
+        {
+          "offset": 207,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.exitlag.gamebooster"
+        },
+        {
+          "offset": 220,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/exitlag-lower-your-ping/id6499235163"
+        },
+        {
+          "offset": 231,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://cdn.exitlag.com/SetupExitLag-5.21.2-x64.exe"
+        },
+        {
+          "offset": 239,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 270,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 283,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

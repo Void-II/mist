@@ -25911,6 +25911,139 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4007,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782793145,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPp2pDQ7lEw_kZkdwq-PHW1CaY8PigAALWDmsbEJchUnOdULXLe2abAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1g5rGxCXIVJ4",
+          "file_size": 1681,
+          "width": 90,
+          "height": 89
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPp2pDQ7lEw_kZkdwq-PHW1CaY8PigAALWDmsbEJchUnOdULXLe2abAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1g5rGxCXIVJy",
+          "file_size": 22004,
+          "width": 320,
+          "height": 316
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPp2pDQ7lEw_kZkdwq-PHW1CaY8PigAALWDmsbEJchUnOdULXLe2abAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1g5rGxCXIVJ9",
+          "file_size": 76659,
+          "width": 800,
+          "height": 790
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPp2pDQ7lEw_kZkdwq-PHW1CaY8PigAALWDmsbEJchUnOdULXLe2abAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1g5rGxCXIVJ-",
+          "file_size": 145512,
+          "width": 1280,
+          "height": 1264
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIPp2pDQ7lEw_kZkdwq-PHW1CaY8PigAALWDmsbEJchUnOdULXLe2abAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD1g5rGxCXIVJ8",
+          "file_size": 388402,
+          "width": 2559,
+          "height": 2527
+        }
+      ],
+      "caption": "IPSafe VPN\n\n⏳Exp:2026/07/15\n〰〰〰〰〰〰〰〰〰〰〰〰〰〰\n✉️Email: p3057260@gmail.com \n\n🔑Password: @Error404Bin\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n⏰ظرفیت اکانت محدود میباشد\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n\nGooglePlay   App Store\n\nWindows\nری اکشن و شات یادتون نره 🧡\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 13,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 45,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 52,
+          "length": 18,
+          "type": "email"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 85,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 153,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.ipsafevpn.vpnapp&utm_source=ipsafevpn"
+        },
+        {
+          "offset": 166,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/ip-safe-vpn/id6584527016"
+        },
+        {
+          "offset": 177,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://cdn.ipsafevpn.com/downloads/windows/ipsafevpn-latest.exe"
+        },
+        {
+          "offset": 184,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 215,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 228,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 250,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 250,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 250,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

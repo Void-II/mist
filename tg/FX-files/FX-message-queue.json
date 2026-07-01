@@ -30004,6 +30004,69 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 4089,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782925458,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP-WpFSJJDpsMiY9SKtVZMKcm0vnznAALcDWsbWi0oUnuLZJ5-CjyGAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD3A1rG1otKFJ4",
+          "file_size": 1742,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP-WpFSJJDpsMiY9SKtVZMKcm0vnznAALcDWsbWi0oUnuLZJ5-CjyGAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD3A1rG1otKFJy",
+          "file_size": 22844,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP-WpFSJJDpsMiY9SKtVZMKcm0vnznAALcDWsbWi0oUnuLZJ5-CjyGAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD3A1rG1otKFJ9",
+          "file_size": 85820,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP-WpFSJJDpsMiY9SKtVZMKcm0vnznAALcDWsbWi0oUnuLZJ5-CjyGAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD3A1rG1otKFJ-",
+          "file_size": 143739,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🎉 چالش حدس عدد | از ۱ تا ۱۰۰ 🎉\n🔥 یک عدد بین ۱ تا ۱۰۰ انتخاب شده!\n👇 فقط کافیه عددی که فکر می‌کنی درسته رو داخل کامنت ارسال کنی.\n\n🏆 جایزه نفر برنده: 🎁 ساب اختصاصی مولتی لوکیشن 📦 ۲۵ گیگابایت ⏳ ۲۰ روز اعتبار 🇹🇷 لوکیشن ترکیه ⚡ پینگ زیر ۸۰\n\n📌 قوانین: • هر نفر فقط یک عدد ارسال کنه. • اولین نفری که عدد صحیح رو حدس بزنه برنده میشه. • ویرایش یا ارسال چند عدد باعث حذف از چالش میشه.\n🍀 موفق باشی، شاید برنده این دوره تو باشی!\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 439,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 439,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 439,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

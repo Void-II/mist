@@ -30067,6 +30067,63 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4090,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782931039,
+      "text": "هدیه امشب میتونین کانفیگ اختصاصی رو داشته باشید \n\n🔹 کانفیگ نت ملی برای دریافت کلیک کن👉\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 49,
+          "type": "bold"
+        },
+        {
+          "offset": 50,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 13,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 67,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 101,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

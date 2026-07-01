@@ -28803,6 +28803,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4068,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782894437,
+      "text": "🔥 ساب اختصاصی آماده شد!\n\n⚡️ ساب سرورهای V2RayNG\n🇹🇷 لوکیشن: ترکیه\n📶 پینگ زیر 80ms\n⏳ اعتبار: 15 روز\n\n🚀 مناسب وب‌گردی، گیم و استفاده روزمره با اتصال پایدار.\n\nداخل برنامه v2rayng\nhapp.v2box\nهدیفای قابل استفاده \n\nhttps://shomali.themusiccenter.dpdns.org:2083/sub/dTgzNzYxOTc1MDlfNmFhMDZhLDE3ODI3NjIzOTc7M5rgkyn67\n\n\nری اکشن بزنید❤️😁\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 213,
+          "length": 99,
+          "type": "url"
+        },
+        {
+          "offset": 333,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 346,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 368,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 368,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 368,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

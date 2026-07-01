@@ -29819,6 +29819,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4086,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782917118,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9mpFJ_7NE0Z_JtYt6M_7E_Yu2lWbAALeDWsbiykoUk5Z7p8U059yAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD3g1rG4spKFJ4",
+          "file_size": 1396,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9mpFJ_7NE0Z_JtYt6M_7E_Yu2lWbAALeDWsbiykoUk5Z7p8U059yAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD3g1rG4spKFJy",
+          "file_size": 25374,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9mpFJ_7NE0Z_JtYt6M_7E_Yu2lWbAALeDWsbiykoUk5Z7p8U059yAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD3g1rG4spKFJ9",
+          "file_size": 111175,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9mpFJ_7NE0Z_JtYt6M_7E_Yu2lWbAALeDWsbiykoUk5Z7p8U059yAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD3g1rG4spKFJ-",
+          "file_size": 203498,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "🎬 Gapfilm مود شده 📱\n═══════════════════════════════════════\n\n📌 درباره برنامه :\n\nگپ فیلم یک اپلیکیشن ایرانی سرگرمی و محتوای ویدیویی است که برای تماشای محتواهای ویدیویی، بررسی آثار هنری و سرگرمی طراحی شده است. این برنامه امکان دسترسی راحت به محتوا را در هر زمان و مکان فراهم می‌کند.\n✨ قابلیت‌ها: ✅ تماشای محتوای ویدیویی و سرگرمی\n✅ تنظیم کیفیت پخش متناسب با سرعت اینترنت\n✅ ذخیره محتوای مورد علاقه\n✅ تماشای راحت‌تر محتوا حتی با اینترنت ضعیف‌تر\n✅ رابط کاربری ساده و کاربردی\n✅ مناسب برای گوشی\n━━━━━━━━━━━━━━━━━━━\n\n🧬 تغییرات نسخه مود شده :\n\n🫧 محدودیت‌ها برداشته شده 🔓\n\n🫧پخش فیلم و سریال باز شده ▶️\n\n🫧دانلود فیلم و سریال باز شده 📥\n\n🫧 تبلیغات حذف شده 🚫\n\n🫧 فایل‌های اضافی حذف شده 🗑️\n\n🫧 بدون نیاز به لاگین\n\n═══════════════════════\nبرای دانلود کلیک کنید 📥\n═══════════════════════\n\n@Xbat_Team\n@modchii\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 83,
+          "length": 407,
+          "type": "blockquote"
+        },
+        {
+          "offset": 784,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 795,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 816,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

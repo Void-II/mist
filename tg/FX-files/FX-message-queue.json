@@ -30206,6 +30206,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4093,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1782939079,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9WpFCNKGtGLT87hIexoUHtPfKN0oAAISD2sbaN0pUvyQwKGLk6VxAQADAgADcwADPAQ",
+          "file_unique_id": "AQADEg9rG2jdKVJ4",
+          "file_size": 841,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9WpFCNKGtGLT87hIexoUHtPfKN0oAAISD2sbaN0pUvyQwKGLk6VxAQADAgADbQADPAQ",
+          "file_unique_id": "AQADEg9rG2jdKVJy",
+          "file_size": 9583,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9WpFCNKGtGLT87hIexoUHtPfKN0oAAISD2sbaN0pUvyQwKGLk6VxAQADAgADeAADPAQ",
+          "file_unique_id": "AQADEg9rG2jdKVJ9",
+          "file_size": 36569,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIP9WpFCNKGtGLT87hIexoUHtPfKN0oAAISD2sbaN0pUvyQwKGLk6VxAQADAgADeQADPAQ",
+          "file_unique_id": "AQADEg9rG2jdKVJ-",
+          "file_size": 59421,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nسرویس مولتی لوکیشن با بهترین کیفیت و بالاترین اپ تایم در سایت و بات موجود است\n\nبا استفاده از لوکیشن های 1/2 میتونید مصرفتونو رو بهینه کنید به این صورت که از حجم کلی کانفیگ شما به ازای 1 گیگ مصرف 500 مگ از کانفیگتون کم خواهد شد و فقط سرویس المان 1 به صورت کامل حجم شما رو محاسبه خواهد کرد\n\nجهت ثبت سفارش داخل سایت و بات میتونید اقدام به خرید کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 361,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 375,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 391,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 422,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 422,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 422,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

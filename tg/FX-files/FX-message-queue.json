@@ -35090,6 +35090,103 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.labs.language.tailwind"
       }
+    },
+    {
+      "message_id": 4186,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783104162,
+      "text": "📚 NotebookLM\nدستیار AI رایگان گوگل که فقط از روی فایل‌های خودت جواب میده!\n\nبرخلاف ChatGPT که گاهی چیزای اشتباه میگه، NotebookLM فقط از روی اسناد خودت جواب میده، نه از حافظه عمومی AI\nیعنی صد در صد قابل اعتماده!\n\nچطور کار می‌کنه؟\n1️⃣ برو سایت notebooklm.google.com و با اکانت گوگل وارد شو (یا برنامش را نصب کن)\n\n2️⃣ تا ۵۰ تا منبع آپلود کن. PDF، سایت، فایل ورد، گوگل داک، حتی لینک ویدیوهای یوتیوب\n\n3️⃣ هر سوالی درباره اون فایل‌ها داری بپرس. جواب رو فقط از همون منابع میده\n\n4️⃣ برای هر جواب، منبعش رو هم نشون میده. می‌تونی چک کنی درست گفته یا نه\n\nچه کاربردی داره؟\n📖 برای دانشجوها: جزوه و کتاب رو آپلود کن، ازش امتحان بگیر\n\n💼 برای کارمندها: قرارداد یا گزارش طولانی رو خلاصه کن\n\n🎓 برای محتواسازها: چند تا مقاله بده، ازش ایده پست بگیر\n\n🎥 لینک یه ویدیوی یوتیوب طولانی رو بده، خلاصه‌اش رو بگیر\n\n✅ کاملاً رایگان\n✅ بدون نیاز به تایید هویت\n✅ فارسی هم عالیییی پشتیبانی میکنه\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 71,
+          "type": "bold"
+        },
+        {
+          "offset": 183,
+          "length": 27,
+          "type": "blockquote"
+        },
+        {
+          "offset": 212,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 242,
+          "length": 21,
+          "type": "url"
+        },
+        {
+          "offset": 289,
+          "length": 19,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.labs.language.tailwind"
+        },
+        {
+          "offset": 289,
+          "length": 19,
+          "type": "bold"
+        },
+        {
+          "offset": 544,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 564,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 624,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 679,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 868,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 881,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 903,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 903,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 903,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

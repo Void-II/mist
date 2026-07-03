@@ -34293,6 +34293,72 @@
       "link_preview_options": {
         "url": "https://t.me/epic_gift_bot/app?startapp=ref_uHJYIw"
       }
+    },
+    {
+      "message_id": 4170,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783091801,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQSmpH0lnbfJyzUF82qxr0qXW-vMNMAAIHDmsbe4g4UqAefQa6dK6bAQADAgADcwADPAQ",
+          "file_unique_id": "AQADBw5rG3uIOFJ4",
+          "file_size": 1416,
+          "width": 90,
+          "height": 72
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQSmpH0lnbfJyzUF82qxr0qXW-vMNMAAIHDmsbe4g4UqAefQa6dK6bAQADAgADbQADPAQ",
+          "file_unique_id": "AQADBw5rG3uIOFJy",
+          "file_size": 14942,
+          "width": 320,
+          "height": 257
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQSmpH0lnbfJyzUF82qxr0qXW-vMNMAAIHDmsbe4g4UqAefQa6dK6bAQADAgADeAADPAQ",
+          "file_unique_id": "AQADBw5rG3uIOFJ9",
+          "file_size": 18140,
+          "width": 384,
+          "height": 308
+        }
+      ],
+      "caption": "🤣🤣🤣\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 7,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 20,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

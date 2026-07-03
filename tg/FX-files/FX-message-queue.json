@@ -34941,6 +34941,58 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4184,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783103929,
+      "text": "آموزش گرفتن سریع دامین\n\nوارد سایت زیر بشید و Create an account را بزنید و ثبت‌نام کنید\nhttps://katabump.com\n\nسه خط بالا را بزنید و در بخش My Domains دامین خودتون را ثبت کنید. تمام\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 87,
+          "length": 20,
+          "type": "text_link",
+          "url": "https://rl.katabump.fr/199fbf"
+        },
+        {
+          "offset": 180,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 193,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

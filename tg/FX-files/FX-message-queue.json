@@ -33059,6 +33059,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4144,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783038519,
+      "text": "گللللللللللللل شددددد\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 22,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 33,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 47,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 66,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 66,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

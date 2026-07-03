@@ -33426,6 +33426,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4152,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783064061,
+      "text": "📣اطلاعیه\n\nدر حال رفع مشکل هستیم چنانچه لوکیشن جدیدی نیاز دارید فقط کافیه داخل کامنت ها اعلام کنید \n\nهر لوکیشنی بیشترین درخواست رو داشته باشه سریعا اضافه خواهد شد \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 167,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 181,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -35260,6 +35260,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4188,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783109502,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQXGpIF36VWqU_VNjq1xNjg8H_Ial0AAKhDWsbe4hAUoMgMkq6z2sQAQADAgADcwADPAQ",
+          "file_unique_id": "AQADoQ1rG3uIQFJ4",
+          "file_size": 573,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQXGpIF36VWqU_VNjq1xNjg8H_Ial0AAKhDWsbe4hAUoMgMkq6z2sQAQADAgADbQADPAQ",
+          "file_unique_id": "AQADoQ1rG3uIQFJy",
+          "file_size": 4575,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQXGpIF36VWqU_VNjq1xNjg8H_Ial0AAKhDWsbe4hAUoMgMkq6z2sQAQADAgADeAADPAQ",
+          "file_unique_id": "AQADoQ1rG3uIQFJ9",
+          "file_size": 14437,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQXGpIF36VWqU_VNjq1xNjg8H_Ial0AAKhDWsbe4hAUoMgMkq6z2sQAQADAgADeQADPAQ",
+          "file_unique_id": "AQADoQ1rG3uIQFJ-",
+          "file_size": 24408,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "یه روش پیدا کردم برا ساخت اکانت هوش مصنوعی Claude\n\nاول یه ایپی تمیز امریکا گیر بیارید\nباهاش یه جیمیل امریکایی بسازید\nبعد داخل اپ بشین و از طریق جیمیل نه ایمیل خود جیمیل ثبت نام کنید\n\nدیگه اینطور ازتون شماره نمیخواد تا پچ نشده کارهاش کنید\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 239,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 250,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 276,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -34242,6 +34242,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4169,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783091261,
+      "text": "https://t.me/epic_gift_bot/app?startapp=ref_uHJYIw\n\nt.me/mellgifts_bot/app?startapp=036X6L2Y\n\nجفتشون اسپین دارن بزنین\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 50,
+          "type": "url"
+        },
+        {
+          "offset": 52,
+          "length": 40,
+          "type": "url"
+        },
+        {
+          "offset": 118,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/epic_gift_bot/app?startapp=ref_uHJYIw"
+      }
     }
   ]
 }

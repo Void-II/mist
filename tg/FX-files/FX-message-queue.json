@@ -34359,6 +34359,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4171,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783094261,
+      "document": {
+        "file_name": "𝙽𝚎𝚝-𝙼𝚎𝚕𝚒 ❤️.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIQS2pH2_WeU6uDRBXlP4x2-pdOpGjhAAKlCgACEQNARvntq2b5My0PPAQ",
+        "file_unique_id": "AgADpQoAAhEDQEY",
+        "file_size": 40904
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

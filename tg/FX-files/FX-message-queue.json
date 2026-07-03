@@ -33770,6 +33770,70 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4159,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783078601,
+      "media_group_id": "14264628812796508",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQP2pHnslOnIC0YPBg1H_KBByIMrzpAALHDmsbAs1AUmFT_OlyiXAUAQADAgADcwADPAQ",
+          "file_unique_id": "AQADxw5rGwLNQFJ4",
+          "file_size": 1072,
+          "width": 54,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQP2pHnslOnIC0YPBg1H_KBByIMrzpAALHDmsbAs1AUmFT_OlyiXAUAQADAgADbQADPAQ",
+          "file_unique_id": "AQADxw5rGwLNQFJy",
+          "file_size": 12835,
+          "width": 193,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQP2pHnslOnIC0YPBg1H_KBByIMrzpAALHDmsbAs1AUmFT_OlyiXAUAQADAgADeAADPAQ",
+          "file_unique_id": "AQADxw5rGwLNQFJ9",
+          "file_size": 40655,
+          "width": 482,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQP2pHnslOnIC0YPBg1H_KBByIMrzpAALHDmsbAs1AUmFT_OlyiXAUAQADAgADeQADPAQ",
+          "file_unique_id": "AQADxw5rGwLNQFJ-",
+          "file_size": 68548,
+          "width": 771,
+          "height": 1280
+        }
+      ],
+      "caption": "اخه بچه سال \nرسید فیک میفرستی \nتو رسید فیک درست کردنم خلاقیت نداری تورو خدا زده من من چرا بزنم \nمبلغ سروریس ۱۲۵تومانه \nبعدشم تاریخ !؟\nبگیرم همین رسیدو بکنم تو ....\nبن شدی دفعه دیه............\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 204,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

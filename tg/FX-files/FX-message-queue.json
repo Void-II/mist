@@ -34624,6 +34624,66 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4178,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783098041,
+      "document": {
+        "file_name": "XBat_Team🇸🇬.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIQUmpH6rnvkhXJoH2ON1rT4Udenfx0AALhIAACeClBUt0X5gnv_d8GPAQ",
+        "file_unique_id": "AgAD4SAAAngpQVI",
+        "file_size": 1504
+      },
+      "caption": "سرور پرسرعت NPV Tunnel \nلوکیشن سنگاپور 🇸🇬 \nبرای همه اپراتور ها قابل استفاده است ولی منطقه ها متفاوته شبکه شون تست کنید \n\n اندروید و ایفونم تو اپ استور خودش هس برای دانلود \nhttps://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv\nطریقه استفاده :برنامه NPV بالا رو از گوگل پلی دانلود کنید \nسپس این فایل رو دانلود کنید کلیک کنید روش روش و برنامه که نصب کردین رو میاره رو صفحه انتخاب ش کنید \n  سرور اد میشه  به همین راحتی\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 174,
+          "length": 76,
+          "type": "url"
+        },
+        {
+          "offset": 251,
+          "length": 189,
+          "type": "blockquote"
+        },
+        {
+          "offset": 441,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 464,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 464,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 464,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

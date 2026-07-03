@@ -33719,6 +33719,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4158,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783077041,
+      "text": "ساب اشتراک ویتوری \nحجم 90\nهدیفای v2rayng\n\n\n\nhttps://sub.catanahita.com/25017/sub/252pygsyws4y6zwm\nری اکشن  یادت نره❤️\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 44,
+          "length": 53,
+          "type": "url"
+        },
+        {
+          "offset": 118,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 153,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

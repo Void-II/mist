@@ -290,6 +290,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4219,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783180184,
+      "text": "📣اطلاعیه \n\nفروش تلگرام پرمیوم هم برای کاربران اروان پینگ آغاز شد\n\n1 ساله 21 دلار ✔️\n6ماه 13 دلار ✔️\n3 ماه 9 دلار ✔️\n\nجهت سفارش میتونید به ایدی زیر پیام بدین \n\n@NexTiShop\n\nادرس چنل\n@nextishop_Notices\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 160,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 181,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 203,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 217,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 264,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

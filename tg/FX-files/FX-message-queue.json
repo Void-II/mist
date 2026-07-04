@@ -1221,6 +1221,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4235,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783200225,
+      "video": {
+        "duration": 70,
+        "width": 1280,
+        "height": 720,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhCLakl54T21HN1Ag_0MS0MX3urhEFkAAtEfAAJYNlBSHuhAWkfwKucBAAdtAAM8BA",
+          "file_unique_id": "AQAD0R8AAlg2UFJy",
+          "file_size": 12383,
+          "width": 320,
+          "height": 180
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhCLakl54T21HN1Ag_0MS0MX3urhEFkAAtEfAAJYNlBSHuhAWkfwKucBAAdtAAM8BA",
+          "file_unique_id": "AQAD0R8AAlg2UFJy",
+          "file_size": 12383,
+          "width": 320,
+          "height": 180
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIQi2pJeeE9tRzdQIP9DEtDF97q4RBZAALRHwACWDZQUh7oQFpH8CrnPAQ",
+        "file_unique_id": "AgAD0R8AAlg2UFI",
+        "file_size": 16988827
+      },
+      "caption": "دعوای این دوتا پت و مت\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 23,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 36,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

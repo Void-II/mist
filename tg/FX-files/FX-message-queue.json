@@ -35679,7 +35679,7 @@
       }
     },
     {
-      "message_id": 4198,
+      "message_id": 4199,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -35690,22 +35690,22 @@
         "title": "Backup",
         "type": "channel"
       },
-      "date": 1783125162,
-      "text": "گلللل\n\n• Sent via TeleFeed",
+      "date": 1783125163,
+      "text": "یسسس\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 18,
+          "offset": 17,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 18,
+          "offset": 17,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 18,
+          "offset": 17,
           "length": 8,
           "type": "underline"
         }

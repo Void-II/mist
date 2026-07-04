@@ -36259,6 +36259,89 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4207,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783147843,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQb2pIrUOmD5l5W6XwiK7noC-ekMUzAAKoDmsbX4dIUiFq5aBKdAQ6AQADAgADcwADPAQ",
+          "file_unique_id": "AQADqA5rG1-HSFJ4",
+          "file_size": 1126,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQb2pIrUOmD5l5W6XwiK7noC-ekMUzAAKoDmsbX4dIUiFq5aBKdAQ6AQADAgADbQADPAQ",
+          "file_unique_id": "AQADqA5rG1-HSFJy",
+          "file_size": 16942,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQb2pIrUOmD5l5W6XwiK7noC-ekMUzAAKoDmsbX4dIUiFq5aBKdAQ6AQADAgADeAADPAQ",
+          "file_unique_id": "AQADqA5rG1-HSFJ9",
+          "file_size": 83014,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQb2pIrUOmD5l5W6XwiK7noC-ekMUzAAKoDmsbX4dIUiFq5aBKdAQ6AQADAgADeQADPAQ",
+          "file_unique_id": "AQADqA5rG1-HSFJ-",
+          "file_size": 160471,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "🏆یه چالش متفاوت برای طرفداران موزیک\n\n🫟Tidal Music Family Premium\n\n🥇نحوه چالش:اولین نفری که راس ساعت11زیر پست کامنت بذاره فول اکانت که فمیلی 6کاربره هست بهش تعلق میگیره\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 40,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 9,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 185,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

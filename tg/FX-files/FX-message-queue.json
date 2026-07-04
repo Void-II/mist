@@ -239,6 +239,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4218,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783179165,
+      "text": "📣اطلاعیه \n\nبا اپدیت جدید سرویس مولتی لوکیشن به بیش از 50 لوکیشن با ایپی ثابت و همچنین ایپی تمیز مخصوص رفع تحریم دسترسی پیدا می‌کنید اپدیت به زودی اعمال خواهد شد\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 165,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 195,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 226,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

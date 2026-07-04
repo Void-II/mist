@@ -483,6 +483,94 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4223,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783187445,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQf2pJR_XRMwLxfLDuoiMLB4-WP5TcAAKxDmsbe1BJUia-Vq_ss21-AQADAgADcwADPAQ",
+          "file_unique_id": "AQADsQ5rG3tQSVJ4",
+          "file_size": 1601,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQf2pJR_XRMwLxfLDuoiMLB4-WP5TcAAKxDmsbe1BJUia-Vq_ss21-AQADAgADbQADPAQ",
+          "file_unique_id": "AQADsQ5rG3tQSVJy",
+          "file_size": 25643,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQf2pJR_XRMwLxfLDuoiMLB4-WP5TcAAKxDmsbe1BJUia-Vq_ss21-AQADAgADeAADPAQ",
+          "file_unique_id": "AQADsQ5rG3tQSVJ9",
+          "file_size": 104877,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQf2pJR_XRMwLxfLDuoiMLB4-WP5TcAAKxDmsbe1BJUia-Vq_ss21-AQADAgADeQADPAQ",
+          "file_unique_id": "AQADsQ5rG3tQSVJ-",
+          "file_size": 187579,
+          "width": 853,
+          "height": 1280
+        }
+      ],
+      "caption": "🔥 گنجینه‌ای از بهترین سایت‌های رایگان اینترنت!\n\n🎁 سایت FMHY (Free Media Heck Yeah)؛ یکی از کامل‌ترین دایرکتوری‌های اینترنت برای پیدا کردن منابع رایگان\n\nاگر دنبال سایت‌های رایگان و کاربردی هستید، FMHY یکی از بهترین گزینه‌هاست. این وب‌سایت خودش هیچ فایل، فیلم یا نرم‌افزاری را میزبانی نمی‌کند؛ بلکه لینک معتبرترین سایت‌ها و سرویس‌های رایگان را به‌صورت دسته‌بندی‌شده جمع‌آوری کرده تا راحت‌تر به چیزی که نیاز دارید برسید.\n\n📂 در FMHY تقریباً برای هر موضوعی یک بخش وجود دارد:\n🎬 فیلم و سریال\n🎌 انیمه\n🎵 موسیقی\n📚 کتاب\n🎮 بازی\n💻 نرم‌افزار\n🤖 هوش مصنوعی\n🎓 آموزش\n🛠 ابزارهای آنلاین\nو ده‌ها دسته‌بندی کاربردی دیگر.\n\n⭐ ویژگی مهم FMHY این است که لینک‌ها به‌طور مرتب بررسی و به‌روزرسانی می‌شوند، رابط کاربری ساده و سریع دارد و به‌دلیل کیفیت بالای فهرست‌ها، بین کاربران حرفه‌ای اینترنت به‌عنوان یکی از معتبرترین دایرکتوری‌های منابع رایگان شناخته می‌شود.\n\n🔗 FMHY: https://fmhy.net\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 48,
+          "type": "bold"
+        },
+        {
+          "offset": 421,
+          "length": 51,
+          "type": "bold"
+        },
+        {
+          "offset": 856,
+          "length": 16,
+          "type": "url"
+        },
+        {
+          "offset": 874,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 887,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 909,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 909,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 909,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

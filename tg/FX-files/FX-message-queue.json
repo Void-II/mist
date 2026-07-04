@@ -1045,6 +1045,52 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=n24.nest.project"
       }
+    },
+    {
+      "message_id": 4231,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783197045,
+      "text": "https://t.me/InfernoDigitalsBot?start=ref_6948878650\n این بات به ازای هر ده رفرال یک دلار بهتون میده و با اون یک دلار میتونید اشتراک جمنای 18 ماهه بگیرید.\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 52,
+          "type": "url"
+        },
+        {
+          "offset": 155,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

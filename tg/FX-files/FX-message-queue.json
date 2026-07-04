@@ -709,6 +709,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4226,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783191585,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgmpJWCEtl2IKdiCJmSSQ2ICyqk8ZAALpDmsbe1BJUt8HU421w-hTAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD6Q5rG3tQSVJ4",
+          "file_size": 2162,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgmpJWCEtl2IKdiCJmSSQ2ICyqk8ZAALpDmsbe1BJUt8HU421w-hTAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD6Q5rG3tQSVJy",
+          "file_size": 32106,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgmpJWCEtl2IKdiCJmSSQ2ICyqk8ZAALpDmsbe1BJUt8HU421w-hTAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD6Q5rG3tQSVJ9",
+          "file_size": 129942,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgmpJWCEtl2IKdiCJmSSQ2ICyqk8ZAALpDmsbe1BJUt8HU421w-hTAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD6Q5rG3tQSVJ-",
+          "file_size": 182210,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "Le VPN \n\n⭐️Status: Premium\n\n⏳Exp:2026/07/11\n➿➿➿➿➿➿➿➿➿➿➿➿\n📨Email: sacep89719@widenely.com\n\n🔓Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿\n📌ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play    App Store\n\nWindows\n\n🍓ری اکشن یادتون نره\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 3,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 151,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 159,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.levpn.app.levpn"
+        },
+        {
+          "offset": 174,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://itunes.apple.com/app/le-vpn/id792864867"
+        },
+        {
+          "offset": 185,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://le-vpn.com/dist/Le_VPN_x64_latest.exe"
+        },
+        {
+          "offset": 193,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 217,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

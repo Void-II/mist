@@ -35785,6 +35785,148 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4202,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783129144,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQampIZDiTt9TVSZzrKTZguVFfoh4dAAJIEGsbAs1AUlXV7wflD7aFAQADAgADcwADPAQ",
+          "file_unique_id": "AQADSBBrGwLNQFJ4",
+          "file_size": 1251,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQampIZDiTt9TVSZzrKTZguVFfoh4dAAJIEGsbAs1AUlXV7wflD7aFAQADAgADbQADPAQ",
+          "file_unique_id": "AQADSBBrGwLNQFJy",
+          "file_size": 18416,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQampIZDiTt9TVSZzrKTZguVFfoh4dAAJIEGsbAs1AUlXV7wflD7aFAQADAgADeAADPAQ",
+          "file_unique_id": "AQADSBBrGwLNQFJ9",
+          "file_size": 81721,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQampIZDiTt9TVSZzrKTZguVFfoh4dAAJIEGsbAs1AUlXV7wflD7aFAQADAgADeQADPAQ",
+          "file_unique_id": "AQADSBBrGwLNQFJ-",
+          "file_size": 192924,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQampIZDiTt9TVSZzrKTZguVFfoh4dAAJIEGsbAs1AUlXV7wflD7aFAQADAgADdwADPAQ",
+          "file_unique_id": "AQADSBBrGwLNQFJ8",
+          "file_size": 256770,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Iflip VPN\n\nStatus: Premium\n\nExp: 2026/07/7\n➿➿➿➿➿➿➿➿➿➿➿➿\nEmail: sacep89719@widenely.com\n\nPassword:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play   App Store\n\nری اکشن یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 6,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 63,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 97,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.connectip.safe.iflipvpn"
+        },
+        {
+          "offset": 166,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/apple-store/id1555998056?pt=122387496&ct=UnlimitedWeb&mt=8"
+        },
+        {
+          "offset": 176,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 199,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

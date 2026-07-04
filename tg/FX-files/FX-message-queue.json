@@ -132,6 +132,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4216,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783176644,
+      "text": "📣اطلاعیه \n\nبه زودی لوکیشن های جدیدی به ساب اضافه خواهد شد\n\nهمچنین تمامی لوکیشن ها ایپی تمیز هستن و رفع تحریم هستند\n\nاگر لوکیشن دیگه مد نظرتون هست فقط کافیه داخل کامنت ها اطلاع رسانی کنید \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 192,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 206,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 222,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -1478,6 +1478,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4238,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783202205,
+      "text": "توی بسته های اینترنتی هوا کردن خیلی سریع تموم میشه !\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

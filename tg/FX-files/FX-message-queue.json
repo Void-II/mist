@@ -183,6 +183,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4217,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783177904,
+      "video": {
+        "duration": 17,
+        "width": 720,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhB5akkisB1yj8KUJNgwBHwrFdkdYjQAAhUdAAJ7UElS8SN0vSG4p50BAAdtAAM8BA",
+          "file_unique_id": "AQADFR0AAntQSVJy",
+          "file_size": 15180,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhB5akkisB1yj8KUJNgwBHwrFdkdYjQAAhUdAAJ7UElS8SN0vSG4p50BAAdtAAM8BA",
+          "file_unique_id": "AQADFR0AAntQSVJy",
+          "file_size": 15180,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIQeWpJIrAdco_ClCTYMAR8KxXZHWI0AAIVHQACe1BJUvEjdL0huKedPAQ",
+        "file_unique_id": "AgADFR0AAntQSVI",
+        "file_size": 2549845
+      },
+      "caption": "همین ریمیکس رو کسی داره؟\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 37,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 37,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 37,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

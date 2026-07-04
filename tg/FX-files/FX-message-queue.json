@@ -392,6 +392,61 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4221,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783186425,
+      "document": {
+        "file_name": "400gig🇳🇱.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIQfWpJQ_nR9oPYrkJSWnz4hWOloRL-AAIfHAACHiNRUtnAshCMgaQ7PAQ",
+        "file_unique_id": "AgADHxwAAh4jUVI",
+        "file_size": 1904
+      },
+      "caption": "سرور پرسرعت NPV Tunnel \nحجم 400گیگ\nمدتت نامحدود تایم \nلوکیشن هلند 🇳🇱 \nبرای همه اپراتور ها قابل استفاده است ولی منطقه ها متفاوته شبکه شون تست کنید \n\n اندروید و ایفونم تو اپ استور خودش هس برای دانلود \nhttps://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv\nطریقه استفاده :برنامه NPV بالا رو از گوگل پلی دانلود کنید \nسپس این فایل رو دانلود کنید کلیک کنید روش روش و برنامه که نصب کردین رو میاره رو صفحه انتخاب ش کنید \n  سرور اد میشه  به همین راحتی\n\n﻿\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 201,
+          "length": 76,
+          "type": "url"
+        },
+        {
+          "offset": 278,
+          "length": 190,
+          "type": "blockquote"
+        },
+        {
+          "offset": 470,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 493,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 493,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 493,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

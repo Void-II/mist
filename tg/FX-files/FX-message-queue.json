@@ -1287,6 +1287,119 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4236,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783200405,
+      "video": {
+        "duration": 27,
+        "width": 884,
+        "height": 1920,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 588,
+            "height": 1280,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIQjGpJepW-oq9n2I95nQRam28TEd7hAAIGHwACVLFRUrAp6y58jVfoPAQ",
+            "file_unique_id": "AgADBh8AAlSxUVI",
+            "file_size": 3093385
+          },
+          {
+            "width": 588,
+            "height": 1280,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIQjGpJepXQe_mlqgu77TIwZyNYY9N4AAKaIAACzRxQUhupptHMU6XSPAQ",
+            "file_unique_id": "AgADmiAAAs0cUFI",
+            "file_size": 4162594
+          },
+          {
+            "width": 392,
+            "height": 856,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIQjGpJepUgb05KOb7nYs-TlmD7PkygAAIHZwIAATfAUFKiSZDRnlxRNTwE",
+            "file_unique_id": "AgADB2cCAAE3wFBS",
+            "file_size": 1410234
+          },
+          {
+            "width": 392,
+            "height": 856,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIQjGpJepUf-plNyBz3WE5IHUCPUY6jAAJZGwACrh1IUonW9ysmWVSNPAQ",
+            "file_unique_id": "AgADWRsAAq4dSFI",
+            "file_size": 2180275
+          },
+          {
+            "width": 884,
+            "height": 1920,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIQjGpJepX1BJi7ilZkCdvKSC6WAVQMAAJfIAACXT9JUqsj9Ae1E0zpPAQ",
+            "file_unique_id": "AgADXyAAAl0_SVI",
+            "file_size": 6607735
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhCMakl6lYJGoefEcRzAwjF1PaZ2RKEAApYdAAKluVBSaZMYeWNmKpMBAAdtAAM8BA",
+          "file_unique_id": "AQADlh0AAqW5UFJy",
+          "file_size": 10801,
+          "width": 147,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhCMakl6lYJGoefEcRzAwjF1PaZ2RKEAApYdAAKluVBSaZMYeWNmKpMBAAdtAAM8BA",
+          "file_unique_id": "AQADlh0AAqW5UFJy",
+          "file_size": 10801,
+          "width": 147,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIQjGpJepWCRqHnxHEcwMIxdT2mdkShAAKWHQACpblQUmmTGHljZiqTPAQ",
+        "file_unique_id": "AgADlh0AAqW5UFI",
+        "file_size": 6606935
+      },
+      "caption": "📣اطلاعیه \n\nلینک ساب اپدیت شد\n\nبا اپدیت لینک ساب دسترسی به بیش از 50 لوکیشن با قیمت فوق العاده اقتصادی و همچنین ایپی ثابت و کاملا مخصوص رفع تحریم دسترسی پیدا می‌کنید\n\nفقط کافیه بات رو استارت کنید تا به راحتی به تمامی لوکیشن ها دسترسی پیدا کنید \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 248,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 262,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 278,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 309,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 309,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 309,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

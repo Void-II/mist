@@ -571,6 +571,80 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4224,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783189725,
+      "media_group_id": "14265517806209628",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgGpJUN3qPyUFuavM6WTICm43KBHjAAK2DWsbWDZQUkmKzay6V0-bAQADAgADcwADPAQ",
+          "file_unique_id": "AQADtg1rG1g2UFJ4",
+          "file_size": 1205,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgGpJUN3qPyUFuavM6WTICm43KBHjAAK2DWsbWDZQUkmKzay6V0-bAQADAgADbQADPAQ",
+          "file_unique_id": "AQADtg1rG1g2UFJy",
+          "file_size": 15263,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgGpJUN3qPyUFuavM6WTICm43KBHjAAK2DWsbWDZQUkmKzay6V0-bAQADAgADeAADPAQ",
+          "file_unique_id": "AQADtg1rG1g2UFJ9",
+          "file_size": 53329,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQgGpJUN3qPyUFuavM6WTICm43KBHjAAK2DWsbWDZQUkmKzay6V0-bAQADAgADeQADPAQ",
+          "file_unique_id": "AQADtg1rG1g2UFJ-",
+          "file_size": 85759,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴 شاهزاده رضا پهلوی:\n\nصحبتی دارم خطاب به نمایندگان خارجی‌ای که برای دفن دیکتاتور سابق جمهوری اسلامی، به تهران سفر کردن؛\nایران عزادار خامنه‌ای نیست. ایران عزادارِ بیش از  40 هزار زن و مردی هستش که تو روزهای 18 و 19 دی، به دست خامنه‌ای،\nقالیباف و ماشین سرکوبشون قتل‌عام شدن.\nرژیم برای برپایی این نمایش تبلیغاتی، مبالغ زیادی از ثروت مردم ایران رو هزینه کرده، ولی حتی یه رهبر از کشورهای دموکراتیک هم تو اون حاضر نشده.\nاون چیزی که امروز می‌بینید، ملتی نیست که برای حاکمش عزادار باشه؛ بلکه ملتیه سرشار از خشمِ بر‌حق، و همین خشم و شجاعت قهرمانانه، اون چیزی رو که از این رژیم جنایتکار باقی مونده، به زیر خواهد کشید.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 609,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 622,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 648,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 648,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 648,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

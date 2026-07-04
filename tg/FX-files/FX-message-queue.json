@@ -36378,6 +36378,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4209,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783153755,
+      "text": "ساب مخصوص \n\nV2rayng\n\nهدیفای\n\nhttps://pro.metalping.ir/sub/djMsOTI3MywxNzgzMTUzNDE03cac3458a5\nm_m_vpn18\n\nری اکشن یادت نره🌛\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 29,
+          "length": 63,
+          "type": "url"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+      }
     }
   ]
 }

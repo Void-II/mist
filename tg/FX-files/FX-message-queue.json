@@ -2312,7 +2312,7 @@
       }
     },
     {
-      "message_id": 4257,
+      "message_id": 4258,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -2324,43 +2324,70 @@
         "type": "channel"
       },
       "date": 1783270279,
-      "text": "🇺🇸🔻با اعلام د اتلتیک:\nکارت قرمز بالوگان تو بازی با بوسنی بخشیده شده و جلوی بلژیک بازی میکنه😐\n\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
-      "entities": [
+      "photo": [
         {
-          "offset": 98,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQompKi4eic_VogmBr_2le7lc2yWOJAAJ4D2sbWDZYUucqjt1bqmk5AQADAgADcwADPAQ",
+          "file_unique_id": "AQADeA9rG1g2WFJ4",
+          "file_size": 1450,
+          "width": 90,
+          "height": 73
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQompKi4eic_VogmBr_2le7lc2yWOJAAJ4D2sbWDZYUucqjt1bqmk5AQADAgADbQADPAQ",
+          "file_unique_id": "AQADeA9rG1g2WFJy",
+          "file_size": 16986,
+          "width": 320,
+          "height": 260
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQompKi4eic_VogmBr_2le7lc2yWOJAAJ4D2sbWDZYUucqjt1bqmk5AQADAgADeAADPAQ",
+          "file_unique_id": "AQADeA9rG1g2WFJ9",
+          "file_size": 64239,
+          "width": 800,
+          "height": 649
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQompKi4eic_VogmBr_2le7lc2yWOJAAJ4D2sbWDZYUucqjt1bqmk5AQADAgADeQADPAQ",
+          "file_unique_id": "AQADeA9rG1g2WFJ-",
+          "file_size": 88455,
+          "width": 1100,
+          "height": 893
+        }
+      ],
+      "caption": "حالا خطایی که زده و کارت قرمزشو بخشیدن😐\n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 41,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 109,
+          "offset": 52,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 123,
+          "offset": 66,
           "length": 6,
           "type": "hashtag"
         },
         {
-          "offset": 142,
+          "offset": 85,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 142,
+          "offset": 85,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 142,
+          "offset": 85,
           "length": 8,
           "type": "underline"
         }
-      ],
-      "link_preview_options": {
-        "is_disabled": true
-      }
+      ]
     }
   ]
 }

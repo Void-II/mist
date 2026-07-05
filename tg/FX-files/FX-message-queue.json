@@ -2114,6 +2114,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4253,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783262296,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQnWpKbFei7nmddQni35anLN9c1Ll3AALjDWsbe1BRUtTEPND-OPVEAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD4w1rG3tQUVJ4",
+          "file_size": 794,
+          "width": 90,
+          "height": 42
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQnWpKbFei7nmddQni35anLN9c1Ll3AALjDWsbe1BRUtTEPND-OPVEAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD4w1rG3tQUVJy",
+          "file_size": 9722,
+          "width": 320,
+          "height": 148
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQnWpKbFei7nmddQni35anLN9c1Ll3AALjDWsbe1BRUtTEPND-OPVEAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD4w1rG3tQUVJ9",
+          "file_size": 36018,
+          "width": 800,
+          "height": 371
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQnWpKbFei7nmddQni35anLN9c1Ll3AALjDWsbe1BRUtTEPND-OPVEAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD4w1rG3tQUVJ-",
+          "file_size": 58619,
+          "width": 1280,
+          "height": 594
+        }
+      ],
+      "caption": "💎 دسترسی رایگان به Claude Opus 4.7! ✨\n\n✨ کدنویسی و توسعه پیشرفته\n✨ استدلال پیچیده و حل مسئله\n✨ وظایف هوش مصنوعی با زمینه طولانی\n✨ دسترسی رایگان محدود به زمان\n\nشروع کنید از اینجا: https://zyloo.io/models\nاز Claude Opus 4.7 به صورت رایگان\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 180,
+          "length": 23,
+          "type": "url"
+        },
+        {
+          "offset": 250,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 250,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 250,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

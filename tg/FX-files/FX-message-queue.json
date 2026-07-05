@@ -3356,6 +3356,95 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4277,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783287080,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQtWpKzSjcjnHgv2keLdg-Pphh10y-AAIDDWsbe1BZUm-xslul3boqAQADAgADcwADPAQ",
+          "file_unique_id": "AQADAw1rG3tQWVJ4",
+          "file_size": 1672,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQtWpKzSjcjnHgv2keLdg-Pphh10y-AAIDDWsbe1BZUm-xslul3boqAQADAgADbQADPAQ",
+          "file_unique_id": "AQADAw1rG3tQWVJy",
+          "file_size": 20313,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQtWpKzSjcjnHgv2keLdg-Pphh10y-AAIDDWsbe1BZUm-xslul3boqAQADAgADeAADPAQ",
+          "file_unique_id": "AQADAw1rG3tQWVJ9",
+          "file_size": 80181,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQtWpKzSjcjnHgv2keLdg-Pphh10y-AAIDDWsbe1BZUm-xslul3boqAQADAgADeQADPAQ",
+          "file_unique_id": "AQADAw1rG3tQWVJ-",
+          "file_size": 112733,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "Seek VPN\n\nتست شده با سامانتل\n\nUser: sacep89719@widenely.com\n\nPass: @Error404Bin\n\nدانلود\n\nاکانت 5 کاربرس\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 36,
+          "length": 23,
+          "type": "email"
+        },
+        {
+          "offset": 67,
+          "length": 12,
+          "type": "code"
+        },
+        {
+          "offset": 81,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.seekvpn.proxy.secure"
+        },
+        {
+          "offset": 105,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 118,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

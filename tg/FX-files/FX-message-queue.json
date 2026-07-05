@@ -1913,6 +1913,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4249,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783250087,
+      "text": "#معرفی ربات رایگان \n\nاین رباتم ۷روزه \nتست رایگان میده بگیرید استفاده کنید \nاکانت تست بزنید بعد بهتون میده بخش سروریس های من \nخرید اصلا نکنید \nبا هر رفرالم ۲۰۰هزارتومان\n\nhttps://t.me/irspeedyshopbot?start=8376197509\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 169,
+          "length": 45,
+          "type": "url"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 227,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

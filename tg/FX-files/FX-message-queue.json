@@ -3613,6 +3613,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4281,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783289540,
+      "media_group_id": "14266316325241068",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQuWpK1sQtphGH9ELlq1DjBCoKaoP_AALHD2sbWDZYUlhUMgbsGeVaAQADAgADcwADPAQ",
+          "file_unique_id": "AQADxw9rG1g2WFJ4",
+          "file_size": 1673,
+          "width": 90,
+          "height": 87
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQuWpK1sQtphGH9ELlq1DjBCoKaoP_AALHD2sbWDZYUlhUMgbsGeVaAQADAgADbQADPAQ",
+          "file_unique_id": "AQADxw9rG1g2WFJy",
+          "file_size": 18103,
+          "width": 320,
+          "height": 310
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQuWpK1sQtphGH9ELlq1DjBCoKaoP_AALHD2sbWDZYUlhUMgbsGeVaAQADAgADeAADPAQ",
+          "file_unique_id": "AQADxw9rG1g2WFJ9",
+          "file_size": 64677,
+          "width": 800,
+          "height": 776
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQuWpK1sQtphGH9ELlq1DjBCoKaoP_AALHD2sbWDZYUlhUMgbsGeVaAQADAgADeQADPAQ",
+          "file_unique_id": "AQADxw9rG1g2WFJ-",
+          "file_size": 111518,
+          "width": 1280,
+          "height": 1241
+        }
+      ],
+      "caption": "کص‌مادرت گیمارش حروم زاده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 26,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 39,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 65,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

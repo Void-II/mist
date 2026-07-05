@@ -2864,6 +2864,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4268,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783277839,
+      "text": "🔵HMA VPN\n\nFG73S9-GUU4LJ-594JNS\nUAHMC4-AT853J-594JBW\n9ATBKR-YRSUK2-594J6E\nUWPPNF-N8ALXJ-594JH2\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 11,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 32,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 53,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 74,
+          "length": 20,
+          "type": "code"
+        },
+        {
+          "offset": 96,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

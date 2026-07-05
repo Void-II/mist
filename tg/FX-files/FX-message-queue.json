@@ -1995,6 +1995,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4251,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783253807,
+      "text": "این یارو \n@amid_babaioploplp\nهم با فروش دوره و این چیزا سر بچه مچه ها کلاه گذاشته پولشون رو گرفته یه برنامه رایگان داده دستشون حواستون باشه دله دزد زیاد شده\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 10,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

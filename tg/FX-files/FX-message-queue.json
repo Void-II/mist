@@ -3212,6 +3212,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4274,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783285880,
+      "text": "📣اطلاعیه \n\nلوکیشن ها اپدیت شدن و فقط لوکیشن های با کیفیت بالا باقی ماندن\n\nاگر لوکیشن خاصی مد نظرتون هست اطلاع بدین تا براتون اضافه کنیم\n\nهمچنین تمامی لوکیشن های ایپی ثابت هستند و رفع تحریم هستند که به راحتی تمامی هوش های مصنوعی اپ های موزیک تحریم های گوگل رو با بالاترین سرعت دور میزنن\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 290,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 304,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 320,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 351,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 351,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 351,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

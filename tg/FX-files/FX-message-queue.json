@@ -3991,6 +3991,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4289,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783295720,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQwWpK7ui9mhqnsAz8Mzwas5672zfnAAJrEGsb-AtZUsCdU8gu8EIoAQADAgADcwADPAQ",
+          "file_unique_id": "AQADaxBrG_gLWVJ4",
+          "file_size": 1321,
+          "width": 87,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQwWpK7ui9mhqnsAz8Mzwas5672zfnAAJrEGsb-AtZUsCdU8gu8EIoAQADAgADbQADPAQ",
+          "file_unique_id": "AQADaxBrG_gLWVJy",
+          "file_size": 11583,
+          "width": 308,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQwWpK7ui9mhqnsAz8Mzwas5672zfnAAJrEGsb-AtZUsCdU8gu8EIoAQADAgADeAADPAQ",
+          "file_unique_id": "AQADaxBrG_gLWVJ9",
+          "file_size": 45146,
+          "width": 771,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQwWpK7ui9mhqnsAz8Mzwas5672zfnAAJrEGsb-AtZUsCdU8gu8EIoAQADAgADeQADPAQ",
+          "file_unique_id": "AQADaxBrG_gLWVJ-",
+          "file_size": 45880,
+          "width": 852,
+          "height": 884
+        }
+      ],
+      "caption": "Nord VPN \n\nStatus: Premium\n\nEmail: m62054776@gmail.com\n\nPassword: عسلیییییییی\n\nشات و لایک یادتون نره⭐\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 35,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 66,
+          "length": 11,
+          "type": "code"
+        },
+        {
+          "offset": 103,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 138,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -2500,6 +2500,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4261,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783272439,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQpWpKk_dvjv_d3af0o1jKcNOxAAFZgwACgg9rG1g2WFI8GKvAMfYppQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADgg9rG1g2WFJ4",
+          "file_size": 1031,
+          "width": 90,
+          "height": 39
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQpWpKk_dvjv_d3af0o1jKcNOxAAFZgwACgg9rG1g2WFI8GKvAMfYppQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADgg9rG1g2WFJy",
+          "file_size": 13007,
+          "width": 320,
+          "height": 139
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQpWpKk_dvjv_d3af0o1jKcNOxAAFZgwACgg9rG1g2WFI8GKvAMfYppQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADgg9rG1g2WFJ9",
+          "file_size": 39473,
+          "width": 800,
+          "height": 347
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQpWpKk_dvjv_d3af0o1jKcNOxAAFZgwACgg9rG1g2WFI8GKvAMfYppQEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADgg9rG1g2WFJ-",
+          "file_size": 60287,
+          "width": 1280,
+          "height": 556
+        }
+      ],
+      "caption": "پست ترامپ در مورد این مورد که تشکر کرده از فیفا \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 49,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 60,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 74,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

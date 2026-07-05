@@ -2704,6 +2704,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4265,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783277059,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIQqWpKpgOx5ZqS7Jp5h2OXZgnZZa74AAKlDWsbGmpYRlCPRbHN-79mAQADAgADcwADPAQ",
+          "file_unique_id": "AQADpQ1rGxpqWEZ4",
+          "file_size": 1029,
+          "width": 90,
+          "height": 39
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIQqWpKpgOx5ZqS7Jp5h2OXZgnZZa74AAKlDWsbGmpYRlCPRbHN-79mAQADAgADbQADPAQ",
+          "file_unique_id": "AQADpQ1rGxpqWEZy",
+          "file_size": 13028,
+          "width": 320,
+          "height": 139
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIQqWpKpgOx5ZqS7Jp5h2OXZgnZZa74AAKlDWsbGmpYRlCPRbHN-79mAQADAgADeAADPAQ",
+          "file_unique_id": "AQADpQ1rGxpqWEZ9",
+          "file_size": 39450,
+          "width": 800,
+          "height": 347
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIQqWpKpgOx5ZqS7Jp5h2OXZgnZZa74AAKlDWsbGmpYRlCPRbHN-79mAQADAgADeQADPAQ",
+          "file_unique_id": "AQADpQ1rGxpqWEZ-",
+          "file_size": 60291,
+          "width": 1280,
+          "height": 556
+        }
+      ],
+      "caption": "فیفا به درخواست ترامپ، کارت قرمزی که مهاجم آمریکا، تو بازی قبل گرفته بود رو بخشید تا محرومیت بازیکن تو بازی بعد جام جهانی رفع بشه/:\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

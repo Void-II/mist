@@ -3022,6 +3022,52 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 4271,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783280539,
+      "text": "🚨🇺🇸🇧🇪 | فدراسیون فوتبال بلژیک به تصمیم فیفا برای مجاز شدن فولارین بالوگان جهت بازی مقابل بلژیک اعتراض کرد. بلژیک میگه طبق قوانین فیفا، بازیکنی که کارت قرمز گرفته باید به‌طور خودکار بازی بعدی رو از دست بده و تصمیم فیفا برخلاف آیین‌نامه جام جهانی 2026 عه. فدراسیون بلژیک اعلام کرد برای حفظ عدالت و بازی جوانمردانه، همه گزینه‌های قانونی رو برای پیگیری این موضوع بررسی خواهد کرد.\nپیج آرشیووار هم در جواب این اقدام فیفا اونارو سیرک خطاب کرده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 442,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 455,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 481,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 481,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 481,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

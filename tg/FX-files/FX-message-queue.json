@@ -3114,6 +3114,104 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4273,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783284138,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQsWpKwapzDmTl3Ng2DXHAzQGy02b1AALh0jEbI8AxUs6bjifmGAj_AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD4dIxGyPAMVJ4",
+          "file_size": 1498,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQsWpKwapzDmTl3Ng2DXHAzQGy02b1AALh0jEbI8AxUs6bjifmGAj_AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD4dIxGyPAMVJy",
+          "file_size": 21684,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQsWpKwapzDmTl3Ng2DXHAzQGy02b1AALh0jEbI8AxUs6bjifmGAj_AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD4dIxGyPAMVJ9",
+          "file_size": 81712,
+          "width": 736,
+          "height": 736
+        }
+      ],
+      "caption": "- وقتی یه نوتیفیکیشن از طرف اون میاد.\n\nپروکسی پروکسی\n\n➖➖➖➖➖➖➖➖\n Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 37,
+          "type": "bold"
+        },
+        {
+          "offset": 39,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=sv-1.maf-nodef.ir&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 46,
+          "length": 6,
+          "type": "text_link",
+          "url": "https://t.me/proxy?server=sv-2.maf-nodef.ir&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 63,
+          "length": 66,
+          "type": "blockquote"
+        },
+        {
+          "offset": 63,
+          "length": 1,
+          "type": "italic"
+        },
+        {
+          "offset": 64,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 75,
+          "length": 43,
+          "type": "italic"
+        },
+        {
+          "offset": 118,
+          "length": 11,
+          "type": "mention"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

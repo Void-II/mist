@@ -3263,6 +3263,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4275,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783286000,
+      "text": "چت رایگان با همه مدل های هوش مصنوعی در یک قاب\n• 𝗖𝗵𝗮𝘁𝗚𝗣𝗧\n• 𝗚𝗲𝗺𝗶𝗻𝗶\n• 𝗖𝗹𝗮𝘂𝗱𝗲\n• 𝗚𝗿𝗼𝗸\n• 𝗗𝗲𝗲𝗽𝗦𝗲𝗲𝗸\n• 𝗣𝗲𝗿𝗽𝗹𝗲𝘅𝗶𝘁𝘆\n• 𝗠𝗲𝘁𝗮 𝗔𝗜\n• 𝗤𝘄𝗲𝗻\n• 𝗔𝗻𝗱 𝗠𝗼𝗿𝗲..\n\nhttps://unlimitedai.org/chat/\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 194,
+          "length": 29,
+          "type": "url"
+        },
+        {
+          "offset": 225,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 238,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

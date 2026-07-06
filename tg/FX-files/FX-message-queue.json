@@ -7456,6 +7456,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4360,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783374203,
+      "text": "25 هزار استارز قرعه کشی کردیم امشب تا فردا مهلت داره اگه دوست داشتید شرکت کنید کافیه فقط دو چنل زیر رو عضو باشید.\n\n@mitivpn\n@Ads27279\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 113,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 124,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 146,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

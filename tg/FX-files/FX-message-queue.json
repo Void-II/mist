@@ -4980,6 +4980,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4306,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783343362,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0mpLqQIdPOQmqh_7j9SsjIoLUoC_AAIfEGsb-AthUvUXldKx1zHQAQADAgADcwADPAQ",
+          "file_unique_id": "AQADHxBrG_gLYVJ4",
+          "file_size": 1865,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0mpLqQIdPOQmqh_7j9SsjIoLUoC_AAIfEGsb-AthUvUXldKx1zHQAQADAgADbQADPAQ",
+          "file_unique_id": "AQADHxBrG_gLYVJy",
+          "file_size": 27739,
+          "width": 320,
+          "height": 319
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0mpLqQIdPOQmqh_7j9SsjIoLUoC_AAIfEGsb-AthUvUXldKx1zHQAQADAgADeAADPAQ",
+          "file_unique_id": "AQADHxBrG_gLYVJ9",
+          "file_size": 109386,
+          "width": 800,
+          "height": 797
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0mpLqQIdPOQmqh_7j9SsjIoLUoC_AAIfEGsb-AthUvUXldKx1zHQAQADAgADeQADPAQ",
+          "file_unique_id": "AQADHxBrG_gLYVJ-",
+          "file_size": 214732,
+          "width": 1280,
+          "height": 1276
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0mpLqQIdPOQmqh_7j9SsjIoLUoC_AAIfEGsb-AthUvUXldKx1zHQAQADAgADdwADPAQ",
+          "file_unique_id": "AQADHxBrG_gLYVJ8",
+          "file_size": 558056,
+          "width": 2559,
+          "height": 2551
+        }
+      ],
+      "caption": "🏆خب چالش داریم\n\n🎖چالش اکانت 31روزه آیدیو مک موزیک پرمیوم\n\n🎵 Audio Mack Music Premium \n\n🥇بین اعداد 1تا عدد99فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 213,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 226,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

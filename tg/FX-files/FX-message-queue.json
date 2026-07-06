@@ -6740,7 +6740,7 @@
       }
     },
     {
-      "message_id": 4343,
+      "message_id": 4344,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -6752,31 +6752,27 @@
         "type": "channel"
       },
       "date": 1783371442,
-      "sticker": {
-        "width": 511,
-        "height": 512,
-        "emoji": "😭",
-        "set_name": "SadCatHogif",
-        "is_animated": false,
-        "is_video": false,
-        "type": "regular",
-        "thumbnail": {
-          "file_id": "AAMCBAADIQUABOo8MncAAhD3akwWsk0hRLa6hqqmIsnL7nlD2IMAAsEHAAKGeDhSkQIjOS9tlpUBAAdtAAM8BA",
-          "file_unique_id": "AQADwQcAAoZ4OFJy",
-          "file_size": 9022,
-          "width": 319,
-          "height": 320
+      "text": "دلم دوتا وقت 15 دقیقه میخاد\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 40,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
-        "thumb": {
-          "file_id": "AAMCBAADIQUABOo8MncAAhD3akwWsk0hRLa6hqqmIsnL7nlD2IMAAsEHAAKGeDhSkQIjOS9tlpUBAAdtAAM8BA",
-          "file_unique_id": "AQADwQcAAoZ4OFJy",
-          "file_size": 9022,
-          "width": 319,
-          "height": 320
+        {
+          "offset": 40,
+          "length": 8,
+          "type": "bold"
         },
-        "file_id": "CAACAgQAAyEFAATqPDJ3AAIQ92pMFrJNIUS2uoaqpiLJy-55Q9iDAALBBwAChng4UpECIzkvbZaVPAQ",
-        "file_unique_id": "AgADwQcAAoZ4OFI",
-        "file_size": 17862
+        {
+          "offset": 40,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
       }
     }
   ]

@@ -7193,6 +7193,62 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4354,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783372763,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRAmpMG9tgyRSJn2DqJcZmlVORM0P_AAK8DGsbjRRoRlq8AAG93bGRtQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADvAxrG40UaEZ4",
+          "file_size": 1408,
+          "width": 90,
+          "height": 66
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRAmpMG9tgyRSJn2DqJcZmlVORM0P_AAK8DGsbjRRoRlq8AAG93bGRtQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADvAxrG40UaEZy",
+          "file_size": 15295,
+          "width": 320,
+          "height": 235
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRAmpMG9tgyRSJn2DqJcZmlVORM0P_AAK8DGsbjRRoRlq8AAG93bGRtQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADvAxrG40UaEZ9",
+          "file_size": 36972,
+          "width": 734,
+          "height": 540
+        }
+      ],
+      "caption": "💔 اشک های سلطان\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

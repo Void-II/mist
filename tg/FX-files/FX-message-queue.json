@@ -5749,6 +5749,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4321,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783359132,
+      "text": "Email: glshulters@gmail.com  \nPassword: SPEDequity2024$$  \nExpiry: 2028-09-09\n\nNordvpn\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 7,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 87,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

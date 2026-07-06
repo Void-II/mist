@@ -5681,6 +5681,74 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4320,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783358782,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ4GpL5T6vVu1U44odkDz_eUXDU7y8AAK4D2sbH5VgUqzXRTXWR2xsAQADAgADcwADPAQ",
+          "file_unique_id": "AQADuA9rGx-VYFJ4",
+          "file_size": 718,
+          "width": 90,
+          "height": 37
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ4GpL5T6vVu1U44odkDz_eUXDU7y8AAK4D2sbH5VgUqzXRTXWR2xsAQADAgADbQADPAQ",
+          "file_unique_id": "AQADuA9rGx-VYFJy",
+          "file_size": 7807,
+          "width": 320,
+          "height": 130
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ4GpL5T6vVu1U44odkDz_eUXDU7y8AAK4D2sbH5VgUqzXRTXWR2xsAQADAgADeAADPAQ",
+          "file_unique_id": "AQADuA9rGx-VYFJ9",
+          "file_size": 25909,
+          "width": 800,
+          "height": 324
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ4GpL5T6vVu1U44odkDz_eUXDU7y8AAK4D2sbH5VgUqzXRTXWR2xsAQADAgADeQADPAQ",
+          "file_unique_id": "AQADuA9rGx-VYFJ-",
+          "file_size": 35352,
+          "width": 1080,
+          "height": 438
+        }
+      ],
+      "caption": "اشتراک که رو مود اپیکیشن فیلماز بود دوستان اطلاع دادن تموم شده بود اما الان تمدیدش کردم براتون به مدتت 6 ماه خريدم که با خیال راحت فیلم هاتون رو دانلود کنید نیاز به حذف و نصب نیس همون نسخه قبلیه دیگه استفاده کنید \n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 215,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

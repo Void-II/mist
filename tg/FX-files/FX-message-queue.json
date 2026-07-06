@@ -6580,6 +6580,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4339,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783368082,
+      "text": "2برنده 2تا لینک 18 ماه هوش مصنوعی جیمینی میبرن\nاز عدد 0 تا 88 یه عدد بزارید\nفردا راندوم قرعه کشی میشه عدد دو نفر در میاد\nتا ساعت 18 عصر فردا وقت دارین کامنت بزارید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 164,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 187,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 187,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 187,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

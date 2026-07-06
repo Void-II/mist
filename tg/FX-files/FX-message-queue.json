@@ -4195,6 +4195,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4293,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783318221,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQxWpLRs3WuJSbFr4pII61Tcz1gzZLAAJID2sbH5VYUv2YoZ7iCvg2AQADAgADcwADPAQ",
+          "file_unique_id": "AQADSA9rGx-VWFJ4",
+          "file_size": 1112,
+          "width": 90,
+          "height": 53
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQxWpLRs3WuJSbFr4pII61Tcz1gzZLAAJID2sbH5VYUv2YoZ7iCvg2AQADAgADbQADPAQ",
+          "file_unique_id": "AQADSA9rGx-VWFJy",
+          "file_size": 18666,
+          "width": 320,
+          "height": 190
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQxWpLRs3WuJSbFr4pII61Tcz1gzZLAAJID2sbH5VYUv2YoZ7iCvg2AQADAgADeAADPAQ",
+          "file_unique_id": "AQADSA9rGx-VWFJ9",
+          "file_size": 106953,
+          "width": 800,
+          "height": 474
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQxWpLRs3WuJSbFr4pII61Tcz1gzZLAAJID2sbH5VYUv2YoZ7iCvg2AQADAgADeQADPAQ",
+          "file_unique_id": "AQADSA9rGx-VWFJ-",
+          "file_size": 117450,
+          "width": 904,
+          "height": 536
+        }
+      ],
+      "caption": "حتی فوتبال به ادم درس میده بیشتر از مدرسه\nدرس دیشب : به هیچکس بیشتر از لیاقتش خوبی نکنید\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 53,
+          "length": 35,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

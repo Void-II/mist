@@ -7249,6 +7249,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4355,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783372890,
+      "text": "9 دقیقه دیگ تموم میشه باید هردو چنل جوین باشید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -6544,6 +6544,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4338,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783367886,
+      "text": "vless://bbb128dc-0357-4b1e-925b-13d3dbdc5521@es.209qu4892fh8934.live:443?security=reality&encryption=none&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=t24u9hr8723hr923.com&sid=7a38ee48a97c3ab7#El_chapo\n\n\nاینم هدیه ی من به شما، دم همتون گرم خارش گاییده شد❤️\nحجمش نامحدوده\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 352,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 352,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 352,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -4074,6 +4074,51 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4290,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783306401,
+      "document": {
+        "file_name": "v2rayNG_2.2.6_armeabi-v7a.apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIQwmpLGKGJwwJaJyvZE-oV78FT2h4IAAJXIAACdTpRUr6QZafH73pIPAQ",
+        "file_unique_id": "AgADVyAAAnU6UVI",
+        "file_size": 29030776
+      },
+      "caption": "📌 نسخه جدید V2rayNG\n🔖 Version: 2.2.6\n📦 armeabi-v7a\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 3,
+          "length": 17,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 66,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

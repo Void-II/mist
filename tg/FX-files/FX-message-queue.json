@@ -4268,6 +4268,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4294,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783320021,
+      "text": "📢 خبر خوب از AsaliShop! 🎉\nبرای رضایت بیشتر شما، قیمت سرویس‌های ربات کاهش پیدا کرده و از امروز می‌تونید با شرایط بهتر خریدتون رو انجام بدید. 🚀\n✨ همچنین اکانت تست رایگان هم داخل ربات قرار گرفته تا قبل از خرید، کیفیت سرویس رو امتحان کنید.\n✅ تحویل سریع\n🌍 مولتی لوکیشن\n⚡ سرعت و پایداری بالا\n🛠️ پشتیبانی پاسخگو\n🤖 ربات خرید: \n@asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 325,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 352,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 352,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 352,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

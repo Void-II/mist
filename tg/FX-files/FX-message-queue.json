@@ -6190,6 +6190,41 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4330,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783364302,
+      "video_note": {
+        "duration": 16,
+        "length": 400,
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhDqakv6ztsaaO8XfvLc-Kn2BT1L8rUAAuUpAAIEDGFSBI5zVRVdpi8BAAdtAAM8BA",
+          "file_unique_id": "AQAD5SkAAgQMYVJy",
+          "file_size": 16974,
+          "width": 320,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhDqakv6ztsaaO8XfvLc-Kn2BT1L8rUAAuUpAAIEDGFSBI5zVRVdpi8BAAdtAAM8BA",
+          "file_unique_id": "AQAD5SkAAgQMYVJy",
+          "file_size": 16974,
+          "width": 320,
+          "height": 320
+        },
+        "file_id": "DQACAgQAAyEFAATqPDJ3AAIQ6mpL-s7bGmjvF37y3Pip9gU9S_K1AALlKQACBAxhUgSOc1UVXaYvPAQ",
+        "file_unique_id": "AgAD5SkAAgQMYVI",
+        "file_size": 2139316
+      }
     }
   ]
 }

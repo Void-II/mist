@@ -4861,6 +4861,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4304,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783343182,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0GpLqE1N3PB2EY9Wa0-32cBDjTfLAAKyDmsbGBlgUu-aIKpG-Q0JAQADAgADcwADPAQ",
+          "file_unique_id": "AQADsg5rGxgZYFJ4",
+          "file_size": 755,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0GpLqE1N3PB2EY9Wa0-32cBDjTfLAAKyDmsbGBlgUu-aIKpG-Q0JAQADAgADbQADPAQ",
+          "file_unique_id": "AQADsg5rGxgZYFJy",
+          "file_size": 6016,
+          "width": 183,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0GpLqE1N3PB2EY9Wa0-32cBDjTfLAAKyDmsbGBlgUu-aIKpG-Q0JAQADAgADeAADPAQ",
+          "file_unique_id": "AQADsg5rGxgZYFJ9",
+          "file_size": 19150,
+          "width": 458,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQ0GpLqE1N3PB2EY9Wa0-32cBDjTfLAAKyDmsbGBlgUu-aIKpG-Q0JAQADAgADeQADPAQ",
+          "file_unique_id": "AQADsg5rGxgZYFJ-",
+          "file_size": 27712,
+          "width": 733,
+          "height": 1280
+        }
+      ],
+      "caption": "استوری محسن چاووشی برای علی خامنه ای و کامنت مهران غفوریان\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 59,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 72,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

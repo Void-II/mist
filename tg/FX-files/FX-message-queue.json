@@ -4309,6 +4309,96 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4295,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783320021,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQx2pLTdU6AAHOm4sD6n5ad6kQbCmL5QACyBBrG_gLWVI6uM8KGHB7IQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADyBBrG_gLWVJ4",
+          "file_size": 1335,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQx2pLTdU6AAHOm4sD6n5ad6kQbCmL5QACyBBrG_gLWVI6uM8KGHB7IQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADyBBrG_gLWVJy",
+          "file_size": 21720,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQx2pLTdU6AAHOm4sD6n5ad6kQbCmL5QACyBBrG_gLWVI6uM8KGHB7IQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADyBBrG_gLWVJ9",
+          "file_size": 104229,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQx2pLTdU6AAHOm4sD6n5ad6kQbCmL5QACyBBrG_gLWVI6uM8KGHB7IQEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADyBBrG_gLWVJ-",
+          "file_size": 241878,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQx2pLTdU6AAHOm4sD6n5ad6kQbCmL5QACyBBrG_gLWVI6uM8KGHB7IQEAAwIAA3cAAzwE",
+          "file_unique_id": "AQADyBBrG_gLWVJ8",
+          "file_size": 320316,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Pure VPN \n\n⭐️Status: Premium\n\n⏳Exp:2026/07/13\n➿➿➿➿➿➿➿➿➿➿➿➿\n📨Email: m62054776@gmail.com\n\n🔑Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿\n🎗ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\n💫ری اکشن یادتون نره\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 68,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 100,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 225,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

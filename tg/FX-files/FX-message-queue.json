@@ -4439,6 +4439,59 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4297,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783321581,
+      "text": "پخت و پز امروز لذت ببرید 🫶\n\nپروکسی         پروکسی\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 29,
+          "length": 6,
+          "type": "text_link",
+          "url": "tg://proxy?server=sv-2.maf-nodef.ir&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 44,
+          "length": 6,
+          "type": "text_link",
+          "url": "tg://proxy?server=sv-1.maf-nodef.ir&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

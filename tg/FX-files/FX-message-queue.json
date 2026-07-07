@@ -8526,6 +8526,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4383,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783437084,
+      "text": "توی چند روز اخیر، ۲۴ نفر در ایران بخاطر اینکه میخواستن ادای اون زوج معروف نیویورکی رو در بیارن و از دکل برن بالا و از همدیگه خواستگاری کنن، به پایین پرتاب و کشته شدن\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 166,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 179,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 205,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

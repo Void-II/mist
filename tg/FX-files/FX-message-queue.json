@@ -10397,6 +10397,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4428,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783460500,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRTGpNcpS8Q7bYqyc9vlgWbtJiFV84AAL9DGsbGS1xUnqg_lk9cOErAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD_QxrGxktcVJ4",
+          "file_size": 1398,
+          "width": 82,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRTGpNcpS8Q7bYqyc9vlgWbtJiFV84AAL9DGsbGS1xUnqg_lk9cOErAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD_QxrGxktcVJy",
+          "file_size": 20591,
+          "width": 292,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRTGpNcpS8Q7bYqyc9vlgWbtJiFV84AAL9DGsbGS1xUnqg_lk9cOErAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD_QxrGxktcVJ9",
+          "file_size": 97567,
+          "width": 729,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRTGpNcpS8Q7bYqyc9vlgWbtJiFV84AAL9DGsbGS1xUnqg_lk9cOErAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD_QxrGxktcVJ-",
+          "file_size": 155836,
+          "width": 1167,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴واکنش اون دکل مخابراتی توی سیریک که آمریکا هر چند وقت یه بار میاد میزنه میره :\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

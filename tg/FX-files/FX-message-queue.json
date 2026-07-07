@@ -9802,7 +9802,7 @@
       }
     },
     {
-      "message_id": 4414,
+      "message_id": 4415,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -9814,31 +9814,26 @@
         "type": "channel"
       },
       "date": 1783458940,
-      "text": "آمریکا حذف شده ترامپ بیکار شده داره میزنه\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "🔴خبرگزاری مهر و فارس حملات سنگین آمریکا به جنوب کشور و انفجار های پی در پی در جنوب کشور رو تایید کردن.\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 42,
-          "length": 10,
-          "type": "mention"
+          "offset": 2,
+          "length": 19,
+          "type": "bold"
         },
         {
-          "offset": 55,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 81,
+          "offset": 116,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 81,
+          "offset": 116,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 81,
+          "offset": 116,
           "length": 8,
           "type": "underline"
         }

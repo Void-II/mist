@@ -7962,6 +7962,79 @@
         "file_unique_id": "AgADyBcAArx6wVM",
         "file_size": 89979
       }
+    },
+    {
+      "message_id": 4372,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783418244,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRFGpMzYTTQk6eFuOidSK9WyeRCIVBAAKdDmsbGBloUjHVahr3F8H5AQADAgADcwADPAQ",
+          "file_unique_id": "AQADnQ5rGxgZaFJ4",
+          "file_size": 1163,
+          "width": 56,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRFGpMzYTTQk6eFuOidSK9WyeRCIVBAAKdDmsbGBloUjHVahr3F8H5AQADAgADbQADPAQ",
+          "file_unique_id": "AQADnQ5rGxgZaFJy",
+          "file_size": 12513,
+          "width": 200,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRFGpMzYTTQk6eFuOidSK9WyeRCIVBAAKdDmsbGBloUjHVahr3F8H5AQADAgADeAADPAQ",
+          "file_unique_id": "AQADnQ5rGxgZaFJ9",
+          "file_size": 39208,
+          "width": 499,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRFGpMzYTTQk6eFuOidSK9WyeRCIVBAAKdDmsbGBloUjHVahr3F8H5AQADAgADeQADPAQ",
+          "file_unique_id": "AQADnQ5rGxgZaFJ-",
+          "file_size": 57474,
+          "width": 798,
+          "height": 1280
+        }
+      ],
+      "caption": "استوری پیج تیم‌ملی\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 19,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 32,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 58,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 58,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 58,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

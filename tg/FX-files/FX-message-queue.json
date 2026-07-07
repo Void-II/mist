@@ -10654,6 +10654,75 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4432,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783461521,
+      "media_group_id": "14267692171242916",
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRUGpNdpFo2k3BcUxxW-jnqn_RLogzAAJ3DGsbjRRwRpTgdTGNP8aSAQADAgADcwADPAQ",
+          "file_unique_id": "AQADdwxrG40UcEZ4",
+          "file_size": 1124,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRUGpNdpFo2k3BcUxxW-jnqn_RLogzAAJ3DGsbjRRwRpTgdTGNP8aSAQADAgADbQADPAQ",
+          "file_unique_id": "AQADdwxrG40UcEZy",
+          "file_size": 13149,
+          "width": 180,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRUGpNdpFo2k3BcUxxW-jnqn_RLogzAAJ3DGsbjRRwRpTgdTGNP8aSAQADAgADeAADPAQ",
+          "file_unique_id": "AQADdwxrG40UcEZ9",
+          "file_size": 51672,
+          "width": 450,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRUGpNdpFo2k3BcUxxW-jnqn_RLogzAAJ3DGsbjRRwRpTgdTGNP8aSAQADAgADeQADPAQ",
+          "file_unique_id": "AQADdwxrG40UcEZ-",
+          "file_size": 54762,
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "caption": "اولین تصاویر منتشر شده از نزدیکی محل اصابت در بندرعباس!!!\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 57,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

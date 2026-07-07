@@ -7791,6 +7791,60 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4368,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783414940,
+      "document": {
+        "file_name": "-2147483648_-210050.jpg",
+        "mime_type": "image/jpeg",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhEQakzAnGyLeTFuonSJMBqUywwf2c4AArQeAAL4C2lSMrgUYqJVAAFxAQAHbQADPAQ",
+          "file_unique_id": "AQADtB4AAvgLaVJy",
+          "file_size": 2528,
+          "width": 320,
+          "height": 28
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhEQakzAnGyLeTFuonSJMBqUywwf2c4AArQeAAL4C2lSMrgUYqJVAAFxAQAHbQADPAQ",
+          "file_unique_id": "AQADtB4AAvgLaVJy",
+          "file_size": 2528,
+          "width": 320,
+          "height": 28
+        },
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIREGpMwJxsi3kxbqJ0iTAalMsMH9nOAAK0HgAC-AtpUjK4FGKiVQABcTwE",
+        "file_unique_id": "AgADtB4AAvgLaVI",
+        "file_size": 19276
+      },
+      "caption": "زرنگا وصلید چیزی نمیگین!؟😂\nخوبه گفتم نظر بدین\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -7696,6 +7696,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4366,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783413624,
+      "text": "vless://b42eb41d-c8ee-420c-a4b9-ea32dbbd2ac8@hayabusa.proxy.rlwy.net:49151?encryption=none&security=reality&type=tcp&headerType=none&sni=www.speedtest.net&fp=ios&alpn=http%2F1.1&pbk=nULSLUCaczWhy8AKyJyAOkCFtqoEZB2AkMVCAlhXKnI&sid=82a4a1fd3db16fd8#game\n\nاینو یه تست بکنید \nببینید چطورع \nاوکی بود بگید روش ساختش رایگانش بزارم براتون\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 251,
+          "type": "code"
+        },
+        {
+          "offset": 343,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 343,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 343,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

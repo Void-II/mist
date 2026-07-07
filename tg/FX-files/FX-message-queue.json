@@ -8269,6 +8269,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4379,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783435165,
+      "media_group_id": "14267481322798684",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRG2pND52tVC44iS92TdENd00c8AmGAAITEGsb1K1oUkdI1Pep6clKAQADAgADcwADPAQ",
+          "file_unique_id": "AQADExBrG9StaFJ4",
+          "file_size": 1231,
+          "width": 61,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRG2pND52tVC44iS92TdENd00c8AmGAAITEGsb1K1oUkdI1Pep6clKAQADAgADbQADPAQ",
+          "file_unique_id": "AQADExBrG9StaFJy",
+          "file_size": 25634,
+          "width": 218,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRG2pND52tVC44iS92TdENd00c8AmGAAITEGsb1K1oUkdI1Pep6clKAQADAgADeAADPAQ",
+          "file_unique_id": "AQADExBrG9StaFJ9",
+          "file_size": 99808,
+          "width": 545,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRG2pND52tVC44iS92TdENd00c8AmGAAITEGsb1K1oUkdI1Pep6clKAQADAgADeQADPAQ",
+          "file_unique_id": "AQADExBrG9StaFJ-",
+          "file_size": 158979,
+          "width": 872,
+          "height": 1280
+        }
+      ],
+      "caption": "امروز ی دختر بخاطر اینکه امتحان ها تعویق نخورد خودکشی کرده\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 60,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 73,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 99,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

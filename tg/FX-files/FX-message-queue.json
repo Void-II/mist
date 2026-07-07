@@ -8705,6 +8705,42 @@
         }
       ],
       "has_media_spoiler": true
+    },
+    {
+      "message_id": 4386,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783437564,
+      "text": "قرعه کشی تا ۱۲ امشب مهلت داره حتما شرکت کنید استارز هدیه بگیرید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 76,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

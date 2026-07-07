@@ -7737,6 +7737,60 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4367,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783413864,
+      "document": {
+        "file_name": "-2147483648_-210048.jpg",
+        "mime_type": "image/jpeg",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhEPaky8aHEIkwPMDZhFegICea4eMicAAq8eAAL4C2lS-D1yb4W8T7gBAAdtAAM8BA",
+          "file_unique_id": "AQADrx4AAvgLaVJy",
+          "file_size": 2166,
+          "width": 320,
+          "height": 27
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhEPaky8aHEIkwPMDZhFegICea4eMicAAq8eAAL4C2lS-D1yb4W8T7gBAAdtAAM8BA",
+          "file_unique_id": "AQADrx4AAvgLaVJy",
+          "file_size": 2166,
+          "width": 320,
+          "height": 27
+        },
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIRD2pMvGhxCJMDzA2YRXoCAnmuHjInAAKvHgAC-AtpUvg9cm-FvE-4PAQ",
+        "file_unique_id": "AgADrx4AAvgLaVI",
+        "file_size": 16788
+      },
+      "caption": "چرا وصل میشید 😂چیزی نمیگید😁زرنگا\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

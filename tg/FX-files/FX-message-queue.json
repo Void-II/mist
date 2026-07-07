@@ -10591,6 +10591,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4431,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783460800,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRT2pNc8CJ__0AAdD_ngfcXfVVAkn-2QAC_wxrGxktcVJ-hUSpyS_2FAEAAwIAA3MAAzwE",
+          "file_unique_id": "AQAD_wxrGxktcVJ4",
+          "file_size": 706,
+          "width": 90,
+          "height": 23
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRT2pNc8CJ__0AAdD_ngfcXfVVAkn-2QAC_wxrGxktcVJ-hUSpyS_2FAEAAwIAA20AAzwE",
+          "file_unique_id": "AQAD_wxrGxktcVJy",
+          "file_size": 7450,
+          "width": 320,
+          "height": 83
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRT2pNc8CJ__0AAdD_ngfcXfVVAkn-2QAC_wxrGxktcVJ-hUSpyS_2FAEAAwIAA3gAAzwE",
+          "file_unique_id": "AQAD_wxrGxktcVJ9",
+          "file_size": 23214,
+          "width": 800,
+          "height": 208
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRT2pNc8CJ__0AAdD_ngfcXfVVAkn-2QAC_wxrGxktcVJ-hUSpyS_2FAEAAwIAA3kAAzwE",
+          "file_unique_id": "AQAD_wxrGxktcVJ-",
+          "file_size": 28629,
+          "width": 1080,
+          "height": 281
+        }
+      ],
+      "caption": "چنل های تلگرامی را بمباران کنید 😐\n\n😂نرید چیزی بخریدااا\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -10528,6 +10528,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4430,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783460581,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTmpNcuWAZ-pFHjc4QCZUt374a_MYAAJ2DGsbjRRwRhXV8T_zVkbNAQADAgADcwADPAQ",
+          "file_unique_id": "AQADdgxrG40UcEZ4",
+          "file_size": 837,
+          "width": 63,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTmpNcuWAZ-pFHjc4QCZUt374a_MYAAJ2DGsbjRRwRhXV8T_zVkbNAQADAgADbQADPAQ",
+          "file_unique_id": "AQADdgxrG40UcEZy",
+          "file_size": 8671,
+          "width": 224,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTmpNcuWAZ-pFHjc4QCZUt374a_MYAAJ2DGsbjRRwRhXV8T_zVkbNAQADAgADeQADPAQ",
+          "file_unique_id": "AQADdgxrG40UcEZ-",
+          "file_size": 27283,
+          "width": 608,
+          "height": 867
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTmpNcuWAZ-pFHjc4QCZUt374a_MYAAJ2DGsbjRRwRhXV8T_zVkbNAQADAgADeAADPAQ",
+          "file_unique_id": "AQADdgxrG40UcEZ9",
+          "file_size": 40797,
+          "width": 561,
+          "height": 800
+        }
+      ],
+      "caption": "پاشید صبح شده\n\n🔴🔴انفجار بسیار شدید تو سیریک :\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 60,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 60,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 60,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

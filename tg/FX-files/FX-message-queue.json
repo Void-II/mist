@@ -8572,6 +8572,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4384,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783437205,
+      "media_group_id": "14267497643537796",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRIGpNF5VPV0yGN0amaAo7FY21AAETaQACHBBrG9StaFIu_5U20og9igEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADHBBrG9StaFJ4",
+          "file_size": 705,
+          "width": 45,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRIGpNF5VPV0yGN0amaAo7FY21AAETaQACHBBrG9StaFIu_5U20og9igEAAwIAA20AAzwE",
+          "file_unique_id": "AQADHBBrG9StaFJy",
+          "file_size": 8864,
+          "width": 160,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRIGpNF5VPV0yGN0amaAo7FY21AAETaQACHBBrG9StaFIu_5U20og9igEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADHBBrG9StaFJ9",
+          "file_size": 42159,
+          "width": 401,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRIGpNF5VPV0yGN0amaAo7FY21AAETaQACHBBrG9StaFIu_5U20og9igEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADHBBrG9StaFJ-",
+          "file_size": 83774,
+          "width": 642,
+          "height": 1280
+        }
+      ],
+      "caption": "مربوط به این پست\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 17,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 30,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 56,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 56,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "has_media_spoiler": true
     }
   ]
 }

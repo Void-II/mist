@@ -9933,6 +9933,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4418,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783459164,
+      "text": "🚨🚨🚨فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد که در پاسخ به حملات ایران به سه کشتی تجاری در تنگه هرمز، حملات سنگینی را علیه ایران آغاز کرده است.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 152,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 165,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -10460,6 +10460,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4429,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783460524,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTWpNcqy6KKBovIettSnM1d1k3zGhAAJ1DGsbjRRwRksg0MQFmwNkAQADAgADcwADPAQ",
+          "file_unique_id": "AQADdQxrG40UcEZ4",
+          "file_size": 917,
+          "width": 90,
+          "height": 48
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTWpNcqy6KKBovIettSnM1d1k3zGhAAJ1DGsbjRRwRksg0MQFmwNkAQADAgADbQADPAQ",
+          "file_unique_id": "AQADdQxrG40UcEZy",
+          "file_size": 10347,
+          "width": 320,
+          "height": 171
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTWpNcqy6KKBovIettSnM1d1k3zGhAAJ1DGsbjRRwRksg0MQFmwNkAQADAgADeAADPAQ",
+          "file_unique_id": "AQADdQxrG40UcEZ9",
+          "file_size": 41093,
+          "width": 800,
+          "height": 427
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIRTWpNcqy6KKBovIettSnM1d1k3zGhAAJ1DGsbjRRwRksg0MQFmwNkAQADAgADeQADPAQ",
+          "file_unique_id": "AQADdQxrG40UcEZ-",
+          "file_size": 50024,
+          "width": 1280,
+          "height": 684
+        }
+      ],
+      "caption": "اسلکه‌ی سیریک (هرمزگان)، شناورهای تندروی سپاه در آتش می‌سوزند.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 62,
+          "type": "bold"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 75,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

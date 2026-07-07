@@ -9720,7 +9720,7 @@
       }
     },
     {
-      "message_id": 4411,
+      "message_id": 4412,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -9732,31 +9732,31 @@
         "type": "channel"
       },
       "date": 1783458580,
-      "text": "صدای چند انفجار تو جریزه سیرئک - نزدیک تنگه.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "text": "قشم نزدیک 8 صدای انفجار \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 46,
+          "offset": 25,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 59,
+          "offset": 38,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 85,
+          "offset": 64,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 85,
+          "offset": 64,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 85,
+          "offset": 64,
           "length": 8,
           "type": "underline"
         }

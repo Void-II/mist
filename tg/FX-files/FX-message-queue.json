@@ -7845,6 +7845,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4369,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783416144,
+      "text": "خبر بد برای دشمن مردم ایران (ایرانخودرو) معاون هماهنگی امور اقتصادی استاندار فارس خبر از منطقه آزاد شدن چندین نقطه از استان فارس خبر داد ‼️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 139,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

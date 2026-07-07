@@ -7579,6 +7579,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4363,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783394303,
+      "text": "بدبخت من تویم و بچه های اند که این پیام رو می‌بینند چون جوانی نکردیم تا بوده حرص زندگی مردم کشور کافر ولی مرفه یا مسلمانان عرب حوضه خلیج فارس رو خوردیم همه چی دارن اونا و اینکه رونالدو و نیمار که بماند بهترین های تاریخ فوتبال اند زندگی خوبی داشتن با باختن صفر نمیشن این من و تویم جوان ایرانی که صفر صفریم\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 305,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 328,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 328,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 328,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

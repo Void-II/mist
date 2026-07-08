@@ -12909,6 +12909,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4477,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783528675,
+      "text": "🚨🚨🇺🇸ترامپ: سه نسل از رهبری ایران نابود شدند. شاید این نسل هم نابود شود.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 77,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 90,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

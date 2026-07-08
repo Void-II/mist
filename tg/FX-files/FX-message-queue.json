@@ -16508,7 +16508,7 @@
       }
     },
     {
-      "message_id": 4553,
+      "message_id": 4554,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -16520,31 +16520,31 @@
         "type": "channel"
       },
       "date": 1783544936,
-      "text": "️گزارش اختلال اینترنت در بعضی مناطق کشور\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "text": "فروش سرور مستقیم گیگی 6  هزارتومان \nسرور تانل(نیم‌بها هم هست) گیگی 9500 هزار‌تومان (مخصوص نت ملی)\nسرور گیمینگ وایرگارد 100 گیگ 580 هزارتومان (بهترین سرویس گیم موجود داخل ایران)\nسرور گیمینگ مولتی لوکیشن گیگی 8 هزارتومان(برای روزمره هم میتونید استفاده کنید)\nسرور نامحدود هم موجوده.\nپریمیوم تلگرام و استارز و انواع اکانت‌های قانونی وی‌پی‌ان، موزیک‌پلیر ، گیفت‌کارت پلی‌استیشن و ایکس‌باکس و گیفت تلگرام هم موجوده.\nتون هم موجوده.\n\nبرای خرید:\n@e7fnn\n@XBat_Team\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 42,
+          "offset": 437,
+          "length": 6,
+          "type": "mention"
+        },
+        {
+          "offset": 444,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 53,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 79,
+          "offset": 467,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 79,
+          "offset": 467,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 79,
+          "offset": 467,
           "length": 8,
           "type": "underline"
         }

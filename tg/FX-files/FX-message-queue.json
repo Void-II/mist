@@ -12143,6 +12143,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4463,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783507854,
+      "text": "اینو هم دانلود کنید \nاسکنر برای ipبرای شیر خورشید \n\nو کلودفلر و dnsهس خیلی خوبه. \n\n\nhttps://github.com/mirarr-app/network-checker/releases/download/1.3.0/app-arm64-v8a-release.apk\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 84,
+          "length": 95,
+          "type": "url"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 192,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

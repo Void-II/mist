@@ -11127,6 +11127,42 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=com.nextappstm.nextmovie"
       }
+    },
+    {
+      "message_id": 4440,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783486373,
+      "text": "دوستان یه چندروزی نبودم درگیر کارام بودم شرمنده🙏\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 62,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -14070,7 +14070,7 @@
       }
     },
     {
-      "message_id": 4503,
+      "message_id": 4504,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -14085,32 +14085,25 @@
       "media_group_id": "14268342614083396",
       "photo": [
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRl2pOtCrplZiNz8WHVqN9iXotSQABqgACyRprGzfLeVLaCcM3WphSSAEAAwIAA3MAAzwE",
-          "file_unique_id": "AQADyRprGzfLeVJ4",
-          "file_size": 869,
-          "width": 67,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRmGpOtCpBsgqXtfzwUlVH6inBuU06AALKGmsbN8t5UuWa8PntMUQdAQADAgADcwADPAQ",
+          "file_unique_id": "AQADyhprGzfLeVJ4",
+          "file_size": 894,
+          "width": 78,
           "height": 90
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRl2pOtCrplZiNz8WHVqN9iXotSQABqgACyRprGzfLeVLaCcM3WphSSAEAAwIAA20AAzwE",
-          "file_unique_id": "AQADyRprGzfLeVJy",
-          "file_size": 7869,
-          "width": 240,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRmGpOtCpBsgqXtfzwUlVH6inBuU06AALKGmsbN8t5UuWa8PntMUQdAQADAgADbQADPAQ",
+          "file_unique_id": "AQADyhprGzfLeVJy",
+          "file_size": 11470,
+          "width": 276,
           "height": 320
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRl2pOtCrplZiNz8WHVqN9iXotSQABqgACyRprGzfLeVLaCcM3WphSSAEAAwIAA3gAAzwE",
-          "file_unique_id": "AQADyRprGzfLeVJ9",
-          "file_size": 35615,
-          "width": 600,
-          "height": 800
-        },
-        {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRl2pOtCrplZiNz8WHVqN9iXotSQABqgACyRprGzfLeVLaCcM3WphSSAEAAwIAA3kAAzwE",
-          "file_unique_id": "AQADyRprGzfLeVJ-",
-          "file_size": 66363,
-          "width": 900,
-          "height": 1200
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRmGpOtCpBsgqXtfzwUlVH6inBuU06AALKGmsbN8t5UuWa8PntMUQdAQADAgADeAADPAQ",
+          "file_unique_id": "AQADyhprGzfLeVJ9",
+          "file_size": 26252,
+          "width": 646,
+          "height": 750
         }
       ],
       "caption": "• Sent via TeleFeed",

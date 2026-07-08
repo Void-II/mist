@@ -15099,6 +15099,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4523,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783543436,
+      "animation": {
+        "file_name": "IMG_4578.MP4",
+        "mime_type": "video/mp4",
+        "duration": 5,
+        "width": 960,
+        "height": 1280,
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhGrak62jAh3U6DzASjGcljeHhzLdH4AAp4cAALen3hSoE_gGCyG18gBAAdtAAM8BA",
+          "file_unique_id": "AQADnhwAAt6feFJy",
+          "file_size": 15926,
+          "width": 240,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhGrak62jAh3U6DzASjGcljeHhzLdH4AAp4cAALen3hSoE_gGCyG18gBAAdtAAM8BA",
+          "file_unique_id": "AQADnhwAAt6feFJy",
+          "file_size": 15926,
+          "width": 240,
+          "height": 320
+        },
+        "file_id": "CgACAgQAAyEFAATqPDJ3AAIRq2pOtowId1Og8wEoxnJY3h4cy3R-AAKeHAAC3p94UqBP4BgshtfIPAQ",
+        "file_unique_id": "AgADnhwAAt6feFI",
+        "file_size": 1356107
+      },
+      "document": {
+        "file_name": "IMG_4578.MP4",
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhGrak62jAh3U6DzASjGcljeHhzLdH4AAp4cAALen3hSoE_gGCyG18gBAAdtAAM8BA",
+          "file_unique_id": "AQADnhwAAt6feFJy",
+          "file_size": 15926,
+          "width": 240,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhGrak62jAh3U6DzASjGcljeHhzLdH4AAp4cAALen3hSoE_gGCyG18gBAAdtAAM8BA",
+          "file_unique_id": "AQADnhwAAt6feFJy",
+          "file_size": 15926,
+          "width": 240,
+          "height": 320
+        },
+        "file_id": "CgACAgQAAyEFAATqPDJ3AAIRq2pOtowId1Og8wEoxnJY3h4cy3R-AAKeHAAC3p94UqBP4BgshtfIPAQ",
+        "file_unique_id": "AgADnhwAAt6feFI",
+        "file_size": 1356107
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

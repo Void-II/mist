@@ -12229,6 +12229,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4465,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783508154,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQjWpJfs0SEw-W43vpq5uwufRy-fxVAAIcDmsbpblQUk9O-CNSqjboAQADAgADcwADPAQ",
+          "file_unique_id": "AQADHA5rG6W5UFJ4",
+          "file_size": 618,
+          "width": 39,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQjWpJfs0SEw-W43vpq5uwufRy-fxVAAIcDmsbpblQUk9O-CNSqjboAQADAgADbQADPAQ",
+          "file_unique_id": "AQADHA5rG6W5UFJy",
+          "file_size": 6037,
+          "width": 140,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQjWpJfs0SEw-W43vpq5uwufRy-fxVAAIcDmsbpblQUk9O-CNSqjboAQADAgADeAADPAQ",
+          "file_unique_id": "AQADHA5rG6W5UFJ9",
+          "file_size": 19050,
+          "width": 351,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIQjWpJfs0SEw-W43vpq5uwufRy-fxVAAIcDmsbpblQUk9O-CNSqjboAQADAgADeQADPAQ",
+          "file_unique_id": "AQADHA5rG6W5UFJ-",
+          "file_size": 28741,
+          "width": 562,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nبا اپدیت امشب تمامی لوکیشن ها رفع تحریم شدند و به تمامی سایت ها و اپ های تحریم شده میتونید دسترسی پیدا کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 122,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 136,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 152,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 183,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 183,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 183,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

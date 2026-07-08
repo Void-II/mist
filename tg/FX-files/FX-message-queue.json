@@ -14647,6 +14647,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4514,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783543136,
+      "text": "⭕️تا کنون حملات بی سابقه ای به بوشهر و بندرعباس انجام شده\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

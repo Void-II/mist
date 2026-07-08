@@ -12184,6 +12184,51 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4464,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783508094,
+      "document": {
+        "file_name": "[🇬🇧] UK 2.ovpn",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgIAAyEFAATqPDJ3AAIRcGpOLH7G6TaPh7t9WL84YgQBQJNFAAJ3qAACyXxQSltCzy3B5VqTPAQ",
+        "file_unique_id": "AgADd6gAAsl8UEo",
+        "file_size": 3093
+      },
+      "caption": "کانفیگ جدید OpenVPN \n\nحجم نامحدود\nری اکشن یادت نره🖤🚀\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 67,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

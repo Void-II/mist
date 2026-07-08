@@ -16772,6 +16772,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4560,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783546916,
+      "video": {
+        "duration": 11,
+        "width": 640,
+        "height": 336,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhHQak7EJPYnTGiv4Y-SDKgQjmqNBfoAAg4bAAIZLXlSp29i-sTnIdQBAAdtAAM8BA",
+          "file_unique_id": "AQADDhsAAhkteVJy",
+          "file_size": 8719,
+          "width": 320,
+          "height": 168
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhHQak7EJPYnTGiv4Y-SDKgQjmqNBfoAAg4bAAIZLXlSp29i-sTnIdQBAAdtAAM8BA",
+          "file_unique_id": "AQADDhsAAhkteVJy",
+          "file_size": 8719,
+          "width": 320,
+          "height": 168
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIR0GpOxCT2J0xor-GPkgyoEI5qjQX6AAIOGwACGS15UqdvYvrE5yHUPAQ",
+        "file_unique_id": "AgADDhsAAhkteVI",
+        "file_size": 1033011
+      },
+      "caption": "middle east core :\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 31,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 31,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

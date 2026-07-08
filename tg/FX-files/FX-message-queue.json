@@ -13194,6 +13194,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4482,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783532935,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgmpOjYeGsg6Fl9vQ8YZvAU9hWoV4AAL9Dmsb1K1wUp1MDD3uIIsIAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD_Q5rG9StcFJ4",
+          "file_size": 2710,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgmpOjYeGsg6Fl9vQ8YZvAU9hWoV4AAL9Dmsb1K1wUp1MDD3uIIsIAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD_Q5rG9StcFJy",
+          "file_size": 36985,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgmpOjYeGsg6Fl9vQ8YZvAU9hWoV4AAL9Dmsb1K1wUp1MDD3uIIsIAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD_Q5rG9StcFJ9",
+          "file_size": 138975,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgmpOjYeGsg6Fl9vQ8YZvAU9hWoV4AAL9Dmsb1K1wUp1MDD3uIIsIAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD_Q5rG9StcFJ-",
+          "file_size": 200321,
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "caption": "محمد امینی ستاره بسکتبال ایران که تو درفت ۲۰۲۶ شرکت کرده بود و تیمی برش نداشته بود بعنوان بازیکن اندرفت به بوستون سلتیکس پیوست \n\nپ‌ن: فعلا رسما به‌ بوستون نرفته، تو سامرلیگ بازی می‌کنه و اگه عملکرد خوبی داشته باش قرارداد رسمی میبندن\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 234,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 247,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 273,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 273,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 273,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

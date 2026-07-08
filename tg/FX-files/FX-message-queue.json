@@ -15632,6 +15632,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4534,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783543796,
+      "text": "🔻 یک منبع امنیتی اسرائیلی اعلام کرده که آماده‌سازی‌ها برای احتمال واکنش ایران و لبنان در حال انجام هست.\nاما در حال حاضر هیچ نشونه غیرعادی از آمادگی ایران برای شلیک موشک به سمت اسرائیل شناسایی نشده .\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 201,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 238,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

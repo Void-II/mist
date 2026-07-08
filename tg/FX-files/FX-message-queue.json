@@ -12678,6 +12678,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4472,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783518235,
+      "text": "🔴 ترامپ: در یک روز می‌توانیم تمام پل‌های ایران را تخریب کنیم. نیروگاه‌های برق آن‌ها، جایی که برق تولید می‌کنند را در صورت لزوم نابود خواهیم کرد. آن‌ها تاسیسات تصفیه آب دارند. در صورت لزوم، این تاسیسات را نیز نابود خواهیم کرد.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 226,
+          "type": "bold"
+        },
+        {
+          "offset": 239,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 239,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 239,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

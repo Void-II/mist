@@ -12863,6 +12863,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4476,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783528403,
+      "text": "اوله اسپورت برزیل: نیمار ممکنه تو 35 سالگی تصمیم به خداحافظی از فوتبال بگیره؛ نیمار به دلیل خستگی روحی و قدرندیدنِ تلاش‌های 15 ساله‌اش در تیم ملی برزیل، ممکنه از فوتبال خداحافظی کنه. اون در حال حاضر سه راه پیش رو داره؛ بازگشت به سانتوس، پیوستن به باشگاهی کم‌فشارتر، یا خداحافظی کامل از دنیای فوتبال.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 300,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 313,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 339,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 339,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 339,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

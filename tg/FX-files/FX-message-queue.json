@@ -13111,6 +13111,89 @@
       "link_preview_options": {
         "url": "https://youtu.be/1bng5JVcqzc"
       }
+    },
+    {
+      "message_id": 4481,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783532035,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgWpOigOhHBXwQoYkAAGdLVNINGrfgAACCw5rG0pScVKoLTDSMUoQewEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADCw5rG0pScVJ4",
+          "file_size": 1573,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgWpOigOhHBXwQoYkAAGdLVNINGrfgAACCw5rG0pScVKoLTDSMUoQewEAAwIAA20AAzwE",
+          "file_unique_id": "AQADCw5rG0pScVJy",
+          "file_size": 23207,
+          "width": 180,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgWpOigOhHBXwQoYkAAGdLVNINGrfgAACCw5rG0pScVKoLTDSMUoQewEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADCw5rG0pScVJ9",
+          "file_size": 92694,
+          "width": 450,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRgWpOigOhHBXwQoYkAAGdLVNINGrfgAACCw5rG0pScVKoLTDSMUoQewEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADCw5rG0pScVJ-",
+          "file_size": 167668,
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nفروش جم موبایل لجند آغاز شد\n\nثبت سفارش در پشتیبانی \n@NexTiShop\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 64,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 78,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 92,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 108,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 139,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 139,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 139,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -12796,6 +12796,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4475,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783519855,
+      "video": {
+        "duration": 10,
+        "width": 640,
+        "height": 360,
+        "file_name": "ssstwitter.com_1783516020447.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 640,
+            "height": 360,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIRe2pOWm-o4Dlb9qpdUag_58-CMaBDAAIeHAACTSlwUnedyJQV5QzfPAQ",
+            "file_unique_id": "AgADHhwAAk0pcFI",
+            "file_size": 345883
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhF7ak5ab3gcPrLb7hI994DbYLtHWQ8AAq0fAAIOc3BS8MeQXYuTykoBAAdtAAM8BA",
+          "file_unique_id": "AQADrR8AAg5zcFJy",
+          "file_size": 12170,
+          "width": 320,
+          "height": 180
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhF7ak5ab3gcPrLb7hI994DbYLtHWQ8AAq0fAAIOc3BS8MeQXYuTykoBAAdtAAM8BA",
+          "file_unique_id": "AQADrR8AAg5zcFJy",
+          "file_size": 12170,
+          "width": 320,
+          "height": 180
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIRe2pOWm94HD6y2-4SPfeA22C7R1kPAAKtHwACDnNwUvDHkF2Lk8pKPAQ",
+        "file_unique_id": "AgADrR8AAg5zcFI",
+        "file_size": 350299
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

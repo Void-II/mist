@@ -13804,7 +13804,7 @@
       }
     },
     {
-      "message_id": 4496,
+      "message_id": 4497,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -13816,21 +13816,31 @@
         "type": "channel"
       },
       "date": 1783542656,
-      "text": "🔻 فرودگاه بندر چابهار مورد هدف قرار گرفت.\n\n• Sent via TeleFeed",
+      "text": "🔴صدای حدود ۱۰ انفجار در چابهار و کنارک لحظاتی قبل بود و برق قسمتی از شهر چابهار هم قطع شده است / ایرنا\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 55,
+          "offset": 105,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 142,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 55,
+          "offset": 142,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 55,
+          "offset": 142,
           "length": 8,
           "type": "underline"
         }

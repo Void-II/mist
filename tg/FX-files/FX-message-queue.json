@@ -12642,6 +12642,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4471,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783517875,
+      "text": "🔴 ترامپ: دیشب به خارگ حمله کردیم. گفتم همه‌چیو بزنید بجز لوله‌های نفتی. شاید اونجارو تصاحب کنیم. دیشب اونجارو زدیم، امشبم احتمال داره بزنیمش.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

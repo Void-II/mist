@@ -13010,6 +13010,46 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4479,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783529935,
+      "document": {
+        "file_name": "متصل متود جدید رایگان🖤🚀.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIRf2pOgc-UD3Ci5S1v0PPwWPo282wuAAKDGgACGS15UkYlQVi4uBeYPAQ",
+        "file_unique_id": "AgADgxoAAhkteVI",
+        "file_size": 1440
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

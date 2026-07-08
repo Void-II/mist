@@ -16027,7 +16027,7 @@
       }
     },
     {
-      "message_id": 4542,
+      "message_id": 4543,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -16039,31 +16039,31 @@
         "type": "channel"
       },
       "date": 1783544096,
-      "text": "🔴بوموسی مورد هدف قرار گرفت\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "text": "صدای چندین انفجار در جاسک\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 29,
+          "offset": 27,
           "length": 10,
           "type": "mention"
         },
         {
-          "offset": 40,
+          "offset": 38,
           "length": 13,
           "type": "mention"
         },
         {
-          "offset": 66,
+          "offset": 64,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 66,
+          "offset": 64,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 66,
+          "offset": 64,
           "length": 8,
           "type": "underline"
         }

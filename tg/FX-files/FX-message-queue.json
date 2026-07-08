@@ -12368,6 +12368,52 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 4467,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783509474,
+      "text": "ترامپ رسما اعلام کرد جمهوری اسلامی رو ریشه کن می‌کنه!\n\nاونا تمام سعی‌شون اینه که من رو ترور کنن، توی تمام فهرست هاشون برای ترور، اسم من توی صدر لیسته.\nجمهوری اسلامی مثل سرطانه. با سرطان باید چیکار کرد؟ آفرین ریشه کن کردش. منم همینکارو میکنم.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 242,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 255,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 281,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 281,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 281,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

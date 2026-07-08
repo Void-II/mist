@@ -13050,6 +13050,67 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4480,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783530235,
+      "text": "آموزش ساخت \nپنل سنایی | تنظیمات VLESS از صفر تا صد\n\nدر این ویدیو به صورت کامل یاد می گیرید چطور با پنل سنایی (ال-3X) یک کانفیگ حرفه ای و بهینه بسازید.\n\nکسایی سیستم دارن بهتره \nبا گوشی سخته \n\nhttps://youtu.be/1bng5JVcqzc\n\nری اکشن یادت نره \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed**",
+      "entities": [
+        {
+          "offset": 116,
+          "length": 75,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 28,
+          "type": "url"
+        },
+        {
+          "offset": 191,
+          "length": 28,
+          "type": "bold"
+        },
+        {
+          "offset": 219,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 239,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 274,
+          "length": 10,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://youtu.be/1bng5JVcqzc"
+      }
     }
   ]
 }

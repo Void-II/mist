@@ -10925,6 +10925,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4437,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783471293,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRVWpNnL1YKUh_y-LgHcoFgSVbUYxdAAJTDWsb80RxUoZgSn8kyj6qAQADAgADcwADPAQ",
+          "file_unique_id": "AQADUw1rG_NEcVJ4",
+          "file_size": 2136,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRVWpNnL1YKUh_y-LgHcoFgSVbUYxdAAJTDWsb80RxUoZgSn8kyj6qAQADAgADbQADPAQ",
+          "file_unique_id": "AQADUw1rG_NEcVJy",
+          "file_size": 33474,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRVWpNnL1YKUh_y-LgHcoFgSVbUYxdAAJTDWsb80RxUoZgSn8kyj6qAQADAgADeAADPAQ",
+          "file_unique_id": "AQADUw1rG_NEcVJ9",
+          "file_size": 157715,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIRVWpNnL1YKUh_y-LgHcoFgSVbUYxdAAJTDWsb80RxUoZgSn8kyj6qAQADAgADeQADPAQ",
+          "file_unique_id": "AQADUw1rG_NEcVJ-",
+          "file_size": 321579,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Paramont Plus\n\ndeacon@deacontyler.com:DT99P@ssw0rd!!\n\nandirahmandahir@gmail.com:king1423\n\nشات لایک+اک بیشتر\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 15,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 54,
+          "length": 25,
+          "type": "email"
+        },
+        {
+          "offset": 109,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 144,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -11986,7 +11986,7 @@
       }
     },
     {
-      "message_id": 4459,
+      "message_id": 4460,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -11998,32 +11998,38 @@
         "type": "channel"
       },
       "date": 1783504134,
-      "document": {
-        "file_name": "𝑭𝑨𝑺𝑻 𝑵𝑷𝑽🚀.npvt",
-        "mime_type": "application/octet-stream",
-        "file_id": "BQACAgEAAyEFAATqPDJ3AAIRa2pOHQYWJcUNDtPfLrFz09qTE4biAAIBBwACOcZxRvRgyDxUNtqiPAQ",
-        "file_unique_id": "AgADAQcAAjnGcUY",
-        "file_size": 34508
-      },
-      "caption": "• Sent via TeleFeed",
-      "caption_entities": [
+      "text": "ترامپ: \nاونا 54 هزار نفر از مردم خودشونو که اعتراض کردن کشتن:\nبعضیا میپرسن که چرا معترضا تو ایران نتونستن به قدرت برسن؟ چون اونا مُردن، اونارو کشتن چون اسلحه‌ای نداشتن، به‌جاش خودشون کلی اسلحه‌های قوی دارن و رسانه‌ها هم گزارش نمیدن.\nاونا آدمای بدی هستن و نمیخوام وقتمو باهاشون تلف کنم، میذارم مذاکره‌ کننده‌هام ادامه بدن ولی من خودم دیگه ادامه نمیدم باهاشون.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
         {
-          "offset": 11,
+          "offset": 359,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 372,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 398,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 11,
+          "offset": 398,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 11,
+          "offset": 398,
           "length": 8,
           "type": "underline"
         }
-      ]
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

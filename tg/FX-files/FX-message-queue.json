@@ -19455,6 +19455,53 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4620,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783628446,
+      "text": "دوستان هی میان پی وی میگن نت داخلی نشه تحمل 3 ماه روبیکا ایتا اینا نداریم چیکار کنیم\nاز روزی این ربات رو معرفی کردیم فعال بوده سرور تانل گیگی 12 هزار میده یه 3 گیگ بگیرین این یارو هم نت ملی کنن باز میکنه 360 400 هزار یک گیگو این سرور V2ray فروش ها مراعات مردم رو نمیکنن والا بیشتر هزینه نکنید چون معلوم نیست چی بشه این سری اگه جنگ بالا بگیره\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 97,
+          "length": 4,
+          "type": "text_link",
+          "url": "https://t.me/VeloxStar_Bot?start=7106584375"
+        },
+        {
+          "offset": 343,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/VeloxStar_Bot?start=7106584375"
+      }
     }
   ]
 }

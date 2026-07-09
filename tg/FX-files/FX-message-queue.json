@@ -16991,6 +16991,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4565,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783562378,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR1WpPAAGKDl25MhBoikT1LzhO4GkNUAAChRBrG3ndeFLxLYotVP5CmgEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADhRBrG3ndeFJ4",
+          "file_size": 2449,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR1WpPAAGKDl25MhBoikT1LzhO4GkNUAAChRBrG3ndeFLxLYotVP5CmgEAAwIAA20AAzwE",
+          "file_unique_id": "AQADhRBrG3ndeFJy",
+          "file_size": 32499,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR1WpPAAGKDl25MhBoikT1LzhO4GkNUAAChRBrG3ndeFLxLYotVP5CmgEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADhRBrG3ndeFJ9",
+          "file_size": 138965,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR1WpPAAGKDl25MhBoikT1LzhO4GkNUAAChRBrG3ndeFLxLYotVP5CmgEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADhRBrG3ndeFJ-",
+          "file_size": 282097,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🏆خب چالش داریم\n\n🎖چالش اکانت واتساپ مجازی آمریکا🇺🇸\n\nWhatsApp USA Number\n\n🥇بین اعداد 1تا عدد99فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 199,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 212,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 234,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

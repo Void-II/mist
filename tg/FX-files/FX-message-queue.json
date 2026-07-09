@@ -19112,6 +19112,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4611,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783623584,
+      "text": "از کویت موشک و جنگنده و راکت شلیک کردن سمت ایران😐😐😐😐\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 69,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -19502,6 +19502,42 @@
       "link_preview_options": {
         "url": "https://t.me/VeloxStar_Bot?start=7106584375"
       }
+    },
+    {
+      "message_id": 4621,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783633486,
+      "text": "توکجا بودی یهو اومدی\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 33,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 33,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

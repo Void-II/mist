@@ -18053,6 +18053,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4588,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783604802,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR7GpPpkJV0_5gLJklEtYwbxB5U4VWAALfDmsbed2AUv0JlT8203vxAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD3w5rG3ndgFJ4",
+          "file_size": 1601,
+          "width": 90,
+          "height": 67
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR7GpPpkJV0_5gLJklEtYwbxB5U4VWAALfDmsbed2AUv0JlT8203vxAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD3w5rG3ndgFJy",
+          "file_size": 23513,
+          "width": 320,
+          "height": 240
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR7GpPpkJV0_5gLJklEtYwbxB5U4VWAALfDmsbed2AUv0JlT8203vxAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD3w5rG3ndgFJ9",
+          "file_size": 99441,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIR7GpPpkJV0_5gLJklEtYwbxB5U4VWAALfDmsbed2AUv0JlT8203vxAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD3w5rG3ndgFJ-",
+          "file_size": 164113,
+          "width": 1280,
+          "height": 960
+        }
+      ],
+      "caption": "GTA VI PRE-ORDER SUBS.....\n\nIP:🇧🇷\n\nClean IP:✅\n\nبین در بخش کامنت ها\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 83,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 105,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

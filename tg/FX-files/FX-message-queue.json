@@ -17330,6 +17330,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4572,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783594301,
+      "text": "📣اطلاعیه \n\nکاربران قدیمی که ادرس سایت براشون ارسال شده لطفا هرچه زودتر عضو سایت بشن که اگه احیانا اینترنت دچار اختلال شد داخل سایت فروش داریم\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 146,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 160,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 207,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

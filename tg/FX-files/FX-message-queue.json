@@ -19574,6 +19574,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4623,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783637627,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISD2pQJnuhsd1JqBbX0TsSUoJ3rVIEAAIzEGsbxE6BUiKBGBBarlpfAQADAgADcwADPAQ",
+          "file_unique_id": "AQADMxBrG8ROgVJ4",
+          "file_size": 603,
+          "width": 45,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISD2pQJnuhsd1JqBbX0TsSUoJ3rVIEAAIzEGsbxE6BUiKBGBBarlpfAQADAgADbQADPAQ",
+          "file_unique_id": "AQADMxBrG8ROgVJy",
+          "file_size": 4963,
+          "width": 160,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISD2pQJnuhsd1JqBbX0TsSUoJ3rVIEAAIzEGsbxE6BUiKBGBBarlpfAQADAgADeAADPAQ",
+          "file_unique_id": "AQADMxBrG8ROgVJ9",
+          "file_size": 17069,
+          "width": 399,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISD2pQJnuhsd1JqBbX0TsSUoJ3rVIEAAIzEGsbxE6BUiKBGBBarlpfAQADAgADeQADPAQ",
+          "file_unique_id": "AQADMxBrG8ROgVJ-",
+          "file_size": 28937,
+          "width": 638,
+          "height": 1280
+        }
+      ],
+      "caption": "برنامه اختصاصی X movie (دانلودر اوامووی) 🎬\n\nاستفاده ازش آسونه 👇\n1️⃣ اسم فیلم رو میزنی\n2️⃣ روی فیلم مورد نظر کلیک میکنید\n3️⃣ روی دانلود کلیک میکنید و لینک دانلود فیلم کپی میشه\n\nبرای دانلود کلیک کنید 📥\n⭐دوستان حمایت فراموش نشه\n@modchii\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 228,
+          "length": 19,
+          "type": "blockquote"
+        },
+        {
+          "offset": 228,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/modchii"
+        },
+        {
+          "offset": 237,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://t.me/XBat_Team"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

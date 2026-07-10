@@ -20457,6 +20457,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4641,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783686113,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISIWpQ4-EuzNs1IMzFbKvk-wN3wFHnAALZDWsb3FyJUpcg7GOQ8IMDAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD2Q1rG9xciVJ4",
+          "file_size": 518,
+          "width": 70,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISIWpQ4-EuzNs1IMzFbKvk-wN3wFHnAALZDWsb3FyJUpcg7GOQ8IMDAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD2Q1rG9xciVJy",
+          "file_size": 6566,
+          "width": 249,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISIWpQ4-EuzNs1IMzFbKvk-wN3wFHnAALZDWsb3FyJUpcg7GOQ8IMDAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD2Q1rG9xciVJ9",
+          "file_size": 45363,
+          "width": 622,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISIWpQ4-EuzNs1IMzFbKvk-wN3wFHnAALZDWsb3FyJUpcg7GOQ8IMDAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD2Q1rG9xciVJ-",
+          "file_size": 112178,
+          "width": 994,
+          "height": 1278
+        }
+      ],
+      "caption": "چنچ کردن رمزو پس رو \nعسلی هم بسیار ادم مهربون\nزدم پنلو از ریشه بگا دادم اونم قطع شد 😂😁\nامشب میسازم قرعه میکنم بین دو نفر  میدمشون 😁وقت کنم هر شب میزارم قرعه\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

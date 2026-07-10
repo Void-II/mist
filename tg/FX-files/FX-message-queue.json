@@ -20217,6 +20217,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4636,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783680892,
+      "text": "🇪🇸🇵🇹 لامین یامال: ابهت تو فوتبال یعنی چی؟ از نظر من یعنی کریستیانو رونالدو.\n\n ابهت یعنی اینکه یه نفر وارد یه جایی بشه و تو فورا حس کنی یه چیز متفاوتی داره، مثل وقتی که یه نفر رو تو یه فیلم میبینی و میگی واو، مثل برد پیت. و تو فوتبال، کریستیانو بهترین مثال برای ابهته.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 272,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 285,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 311,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

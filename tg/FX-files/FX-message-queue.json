@@ -19962,6 +19962,87 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4631,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783676271,
+      "video": {
+        "duration": 68,
+        "width": 576,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhIXalC9b8TehO11pkfHRiuX3kLXjxoAAr4fAAJ53YhSQn0C4_6qQZcBAAdtAAM8BA",
+          "file_unique_id": "AQADvh8AAnndiFJy",
+          "file_size": 12959,
+          "width": 144,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhIXalC9b8TehO11pkfHRiuX3kLXjxoAAr4fAAJ53YhSQn0C4_6qQZcBAAdtAAM8BA",
+          "file_unique_id": "AQADvh8AAnndiFJy",
+          "file_size": 12959,
+          "width": 144,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAISF2pQvW_E3oTtdaZHx0Yrl95C148aAAK-HwACed2IUkJ9AuP-qkGXPAQ",
+        "file_unique_id": "AgADvh8AAnndiFI",
+        "file_size": 12985403
+      },
+      "caption": "📡 فیلترشکن رایگان ویژه همراهان\n(آزمایشی - حجم محدود):\nپنل پاسارگارد \nنحوه دریافت:\n\n1️⃣ روی لینک پنل کلیک کنید:\nhttps://pasarguard-production-03dd.up.railway.app/dashboard/#/users\n\n2️⃣ وارد شوید با:\nUser: admin\nPass: PaSarGuard2026!\nدرصورت ارور پسورد هر دو رو تایپ کنید\n\n3️⃣ از منوی بالا (سه نقطه)، گزینه Users رو بزنید.\n\n4️⃣ روی دکمه آبی Add User کلیک کنید.\n\n5️⃣ مشخصات دلخواه رو وارد کنید:\n\n· یه اسم برای کاربر بنویسید.\n· حجم (مثلاً ۵ یا ۱۰ گیگ) و تاریخ انقضا تعیین کنید.\nبعد تیک اخر صفحه بزنید\n· تیک Active رو بزنید و دکمه آبی رو بزنید تا بسازید.\n\n6️⃣ روی کاربر ساخته‌شده کلیک کنید، گزینه Copy Link رو بزنید و لینک رو در وی‌پی‌ان‌ (مثلاً V2Ray یا کافینگ‌پ) وارد کنید.\n⚠️ تذکر:\n· این پنل آزمایشی و رایگانه.\n· لطفاً دانلود سنگین نکنید تا همه استفاده کنن.\n· در صورت پر شدن حجم، کاربر جدید بسازید.\nموفق باشید.\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 112,
+          "length": 67,
+          "type": "url"
+        },
+        {
+          "offset": 205,
+          "length": 5,
+          "type": "code"
+        },
+        {
+          "offset": 217,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 809,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 822,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 844,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 844,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 844,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

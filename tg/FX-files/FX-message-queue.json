@@ -20607,6 +20607,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4644,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783694394,
+      "text": "📣اطلاعیه \n\nاکانت chatgpt موجود شد\n\n⚠️ توضیحات استفاده از اکانت ChatGPT\n\n\n• 🔴 اکانت‌ها به‌صورت اشتراکی ارائه می‌شوند؛ \n\n• 🔴 هر اکانت فقط روی یک گوشی فعال می‌شود و امکان ورود مجدد یا تغییر دستگاه وجود ندارد.\n\n• 🔴 قبل از اولین ورود، از انتخاب دستگاه نهایی خود اطمینان حاصل کنید؛ زیرا ورود مجدد روی دستگاه دیگر امکان‌پذیر نیست.\n\n• 🔴 استفاده از IP یا VPN ثابت توصیه می‌شود تا از ایجاد محدودیت‌های امنیتی و مسدود شدن اکانت جلوگیری شود.\n\n• 🔴 اکانت‌ها تا آخرین روز مدت گارانتی تحت پشتیبانی هستند و مشکلات طبق شرایط گارانتی بررسی خواهند شد\n\nقیمت 800 هزار تومن\n\nجهت ثبت سفارش به پشتيبانی پیام بدین \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 598,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 612,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 628,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 659,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 659,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 659,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

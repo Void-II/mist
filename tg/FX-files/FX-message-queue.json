@@ -20566,6 +20566,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4643,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783688753,
+      "text": "🎉 تخفیف ویژه ۱۵٪ برای ۱۰ نفر اول!\nکه خرید سروریس انجام بدن \n\n\nبا کد تخفیف: 15\n\nفقط تا تکمیل ظرفیت (۱۰ کاربر) معتبره.\n\nبرای خرید وارد ربات شوید:\n@asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 145,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 172,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

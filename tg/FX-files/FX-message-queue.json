@@ -21270,6 +21270,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4653,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783713897,
+      "text": "یکی که اسپاتیفایش تریال داشته باشه زود بفرسته پیوی\n@NER_HER\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 51,
+          "length": 8,
+          "type": "mention"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 72,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

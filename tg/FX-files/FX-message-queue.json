@@ -20520,6 +20520,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4642,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783686893,
+      "text": "دوستانی که پنل میخان واسشون بسازم رایگان \n\nوارد ربات زیر بشید \n@asalishop_bot\nگزینه اکانت رایگان بزنید \nبعد لینک بهتون میده \n۲۰نفر دعوت کنید \nبعد \nاز دعوت روی حساب کاربری بزنید پیامو کپی کنید برام بفرستید \n😁👍\nپنل بهتون داده میشه \n@asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 63,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 232,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 259,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 259,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 259,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

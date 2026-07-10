@@ -20355,6 +20355,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4639,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783685573,
+      "text": "خب خب زرنگی چنچ کردی!؟😂۵دقیقه صبر کنید الان میزنم خار پنلو میپاکم😂😂👍\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

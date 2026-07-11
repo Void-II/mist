@@ -21602,6 +21602,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4661,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783760644,
+      "text": "vless://99642cd6-6005-a707-00d3-29bf08c351c7@x4g-production-1d09.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-1d09.up.railway.app&path=/ws/99642cd6-6005-a707-00d3-29bf08c351c7&sni=x4g-production-1d09.up.railway.app&fp=firefox&alpn=h2%2Chttp/1.1#X4G-asaliiiitest\n\nتست کنید نتیجه بگید \nساخت از متود رایگان x4g\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 292,
+          "type": "code"
+        },
+        {
+          "offset": 340,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 353,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 375,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 375,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 375,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

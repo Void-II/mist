@@ -23759,6 +23759,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4700,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783808713,
+      "text": "📣اطلاعیه \n\nدر مورد قیمت ها بسیاری از کاربران دچار سو تفاهم شدند\n\nسرویس های که پسوند. 1/2 رو دارند مصرف کانفیگ شما رو نصف خواهد کرد یعنی اگر به این لوکیشن ها متصل باشین و 50 گیگ حجم خریداری کرده باشین میتونید تا 100 گیگ مصرف داشته باشین جهت تست رایگان میتونید به بات مراجعه‌ کنید \n\n گروه مخصوص نماینده ها و اعضای قدیمی\nهم مجدد در دسترس شما کاربران گرامی قرار ‌گرفته ( فقط کاربرهای که ایدی دارند و یک ماه اخیر خرید داشتند تایید خواهند شد)\n\nhttps://t.me/+SsEUXQLFdnplNzJk\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices۰\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 439,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 473,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 487,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 535,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 535,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 535,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

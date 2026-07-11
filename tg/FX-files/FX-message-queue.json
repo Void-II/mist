@@ -22751,6 +22751,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4680,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783794731,
+      "text": "Username: nikb37\nPassword: NikB2008_2008124\n\nUsername: KickeyGame197ar\nPassword: MCANSJC3CDVV\n\nUsername: Dv1Pu3Wd9Rp3\nPassword: Zalabata@ 12\n\nUsername: eyifpe4353\nPassword: UPcayix38S\n\nUsername: junjun888666682\nPassword: junyi621106\n\nUsername: OperaGXVPN\nPassword: 0888044220a-z\n\nUsername: qfcmw82270\nPassword: booK455445.\n\nUsername: ev8pb0uq4gk7\nPassword: Gp7Bl2Xr6Px1\n\nUsername: Niki212a\nPassword: Niki1122\n\nUsername: zon_jb\nPassword: Tomteland98\nاکانت استیم\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 461,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 484,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 484,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 484,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

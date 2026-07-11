@@ -22689,7 +22689,7 @@
       ]
     },
     {
-      "message_id": 4678,
+      "message_id": 4679,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -22704,59 +22704,49 @@
       "media_group_id": "14270357376923228",
       "photo": [
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRmpSi_AX3JbjGhOgKoLyK7IBsWkjAAIyDmsbweyYUoAQ10cVnaHCAQADAgADcwADPAQ",
-          "file_unique_id": "AQADMg5rG8HsmFJ4",
-          "file_size": 1045,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISR2pSi_A-UdLcOcKJD8mf2iA3hMnQAAIzDmsbweyYUj-fk8cwDePZAQADAgADcwADPAQ",
+          "file_unique_id": "AQADMw5rG8HsmFJ4",
+          "file_size": 948,
           "width": 90,
-          "height": 73
+          "height": 60
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRmpSi_AX3JbjGhOgKoLyK7IBsWkjAAIyDmsbweyYUoAQ10cVnaHCAQADAgADbQADPAQ",
-          "file_unique_id": "AQADMg5rG8HsmFJy",
-          "file_size": 12407,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISR2pSi_A-UdLcOcKJD8mf2iA3hMnQAAIzDmsbweyYUj-fk8cwDePZAQADAgADbQADPAQ",
+          "file_unique_id": "AQADMw5rG8HsmFJy",
+          "file_size": 11204,
           "width": 320,
-          "height": 259
+          "height": 215
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRmpSi_AX3JbjGhOgKoLyK7IBsWkjAAIyDmsbweyYUoAQ10cVnaHCAQADAgADeAADPAQ",
-          "file_unique_id": "AQADMg5rG8HsmFJ9",
-          "file_size": 44238,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISR2pSi_A-UdLcOcKJD8mf2iA3hMnQAAIzDmsbweyYUj-fk8cwDePZAQADAgADeAADPAQ",
+          "file_unique_id": "AQADMw5rG8HsmFJ9",
+          "file_size": 47152,
           "width": 800,
-          "height": 648
+          "height": 538
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRmpSi_AX3JbjGhOgKoLyK7IBsWkjAAIyDmsbweyYUoAQ10cVnaHCAQADAgADeQADPAQ",
-          "file_unique_id": "AQADMg5rG8HsmFJ-",
-          "file_size": 61364,
-          "width": 1179,
-          "height": 955
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISR2pSi_A-UdLcOcKJD8mf2iA3hMnQAAIzDmsbweyYUj-fk8cwDePZAQADAgADeQADPAQ",
+          "file_unique_id": "AQADMw5rG8HsmFJ-",
+          "file_size": 66111,
+          "width": 1070,
+          "height": 719
         }
       ],
-      "caption": "🔴 دفتر رهبری اولین عکس جدید از مجتبی خامنه ای رو منتشر کرد به این منظور که این عکس تازه گرفته شده، طی یه تحقیق ریز مشخص شد که این عکس توسط هوش مصنوعی ساخته شده.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption": "• Sent via TeleFeed",
       "caption_entities": [
         {
-          "offset": 162,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 175,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 201,
+          "offset": 11,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 201,
+          "offset": 11,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 201,
+          "offset": 11,
           "length": 8,
           "type": "underline"
         }

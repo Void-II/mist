@@ -23091,6 +23091,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4688,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783798557,
+      "text": "🔴 توانیر :‌ مردم اصلا نگران نباشن. از این به بعد برنامه خاموشی ها رو شفاف اعلام میکنیم. خیالتون راحت.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 103,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

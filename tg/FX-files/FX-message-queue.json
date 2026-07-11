@@ -21812,6 +21812,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4666,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783764784,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISOmpSFzAF0ltqb9F0E5REtUYsJ_68AAJtDGsbnoWQRiKb0VEVnh9IAQADAgADcwADPAQ",
+          "file_unique_id": "AQADbQxrG56FkEZ4",
+          "file_size": 1186,
+          "width": 90,
+          "height": 62
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISOmpSFzAF0ltqb9F0E5REtUYsJ_68AAJtDGsbnoWQRiKb0VEVnh9IAQADAgADbQADPAQ",
+          "file_unique_id": "AQADbQxrG56FkEZy",
+          "file_size": 18005,
+          "width": 320,
+          "height": 220
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISOmpSFzAF0ltqb9F0E5REtUYsJ_68AAJtDGsbnoWQRiKb0VEVnh9IAQADAgADeAADPAQ",
+          "file_unique_id": "AQADbQxrG56FkEZ9",
+          "file_size": 63372,
+          "width": 800,
+          "height": 551
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISOmpSFzAF0ltqb9F0E5REtUYsJ_68AAJtDGsbnoWQRiKb0VEVnh9IAQADAgADeQADPAQ",
+          "file_unique_id": "AQADbQxrG56FkEZ-",
+          "file_size": 77579,
+          "width": 1280,
+          "height": 881
+        }
+      ],
+      "caption": "شما بهش  بگین\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 26,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 26,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 26,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

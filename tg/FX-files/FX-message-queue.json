@@ -22930,6 +22930,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4684,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783798452,
+      "text": "# Generated AmneziaWG Config\n[Interface]\nPrivateKey = aIW2qdYdC0Vm3/1Uq5BBiC5ZPQ3ZtYw73REUss4bDmg=\nAddress = 172.16.0.2/32, 2606:4700:110:8abf:e3e2:f598:47fa:5406/128\nDNS = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001\nMTU = 1280\nJc = 5\nJmin = 10\nJmax = 40\nS1 = 0\nS2 = 0\nH1 = 1\nH2 = 2\nH3 = 3\nH4 = 4\n\n[Peer]\nPublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=\nAllowedIPs = 0.0.0.0/0, ::/0\nEndpoint = 8.6.112.165:928\n \n❤️وایرگارد ❤️\nاینو کپی کنید داخل آمزیا یا wgتانل بزنید \nنتیجه بگید \nهم‌گیمینگ هم وبگردی \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 434,
+          "type": "code"
+        },
+        {
+          "offset": 526,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 539,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 561,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

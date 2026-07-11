@@ -23462,6 +23462,112 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4696,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783804033,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWGpSsIH0jrbmICtoXe7j35MfRFx3AAJ8D2sb2jCZUuwTEQSswG0lAQADAgADcwADPAQ",
+          "file_unique_id": "AQADfA9rG9owmVJ4",
+          "file_size": 1441,
+          "width": 90,
+          "height": 73
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWGpSsIH0jrbmICtoXe7j35MfRFx3AAJ8D2sb2jCZUuwTEQSswG0lAQADAgADbQADPAQ",
+          "file_unique_id": "AQADfA9rG9owmVJy",
+          "file_size": 16371,
+          "width": 320,
+          "height": 260
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWGpSsIH0jrbmICtoXe7j35MfRFx3AAJ8D2sb2jCZUuwTEQSswG0lAQADAgADeAADPAQ",
+          "file_unique_id": "AQADfA9rG9owmVJ9",
+          "file_size": 59655,
+          "width": 800,
+          "height": 649
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWGpSsIH0jrbmICtoXe7j35MfRFx3AAJ8D2sb2jCZUuwTEQSswG0lAQADAgADeQADPAQ",
+          "file_unique_id": "AQADfA9rG9owmVJ-",
+          "file_size": 122013,
+          "width": 1280,
+          "height": 1039
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWGpSsIH0jrbmICtoXe7j35MfRFx3AAJ8D2sb2jCZUuwTEQSswG0lAQADAgADdwADPAQ",
+          "file_unique_id": "AQADfA9rG9owmVJ8",
+          "file_size": 303764,
+          "width": 2559,
+          "height": 2077
+        }
+      ],
+      "caption": "🩵journey VPN 30 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: Error404Bin#1@chukan.org\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 68,
+          "length": 12,
+          "type": "email"
+        },
+        {
+          "offset": 100,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.journey.vpn"
+        },
+        {
+          "offset": 125,
+          "length": 93,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 236,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 258,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 258,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 258,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

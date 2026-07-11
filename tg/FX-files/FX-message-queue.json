@@ -22431,6 +22431,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4673,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783792991,
+      "text": "📣اطلاعیه \n\nدرگاه واسط اپدیت شد\nکارمزد هم تا حدودی کم شد\nجهت خرید اول میتونید به راحتی از این درگاه استفاده کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 116,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 130,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 146,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -22983,7 +22983,7 @@
       }
     },
     {
-      "message_id": 4685,
+      "message_id": 4686,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -22998,59 +22998,49 @@
       "media_group_id": "14270387624271116",
       "photo": [
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTWpSmrQE46unxq2OyOiZIbCBD2d7AAJODmsbweyYUv1SOj6vk8zNAQADAgADcwADPAQ",
-          "file_unique_id": "AQADTg5rG8HsmFJ4",
-          "file_size": 752,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTmpSmrTlEE6zIDTr89T7ZOUwG5OCAAJPDmsbweyYUiV5S_yv-734AQADAgADcwADPAQ",
+          "file_unique_id": "AQADTw5rG8HsmFJ4",
+          "file_size": 818,
           "width": 90,
-          "height": 84
+          "height": 82
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTWpSmrQE46unxq2OyOiZIbCBD2d7AAJODmsbweyYUv1SOj6vk8zNAQADAgADbQADPAQ",
-          "file_unique_id": "AQADTg5rG8HsmFJy",
-          "file_size": 9003,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTmpSmrTlEE6zIDTr89T7ZOUwG5OCAAJPDmsbweyYUiV5S_yv-734AQADAgADbQADPAQ",
+          "file_unique_id": "AQADTw5rG8HsmFJy",
+          "file_size": 9363,
           "width": 320,
-          "height": 298
+          "height": 292
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTWpSmrQE46unxq2OyOiZIbCBD2d7AAJODmsbweyYUv1SOj6vk8zNAQADAgADeAADPAQ",
-          "file_unique_id": "AQADTg5rG8HsmFJ9",
-          "file_size": 33560,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTmpSmrTlEE6zIDTr89T7ZOUwG5OCAAJPDmsbweyYUiV5S_yv-734AQADAgADeAADPAQ",
+          "file_unique_id": "AQADTw5rG8HsmFJ9",
+          "file_size": 36176,
           "width": 800,
-          "height": 746
+          "height": 731
         },
         {
-          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTWpSmrQE46unxq2OyOiZIbCBD2d7AAJODmsbweyYUv1SOj6vk8zNAQADAgADeQADPAQ",
-          "file_unique_id": "AQADTg5rG8HsmFJ-",
-          "file_size": 52247,
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISTmpSmrTlEE6zIDTr89T7ZOUwG5OCAAJPDmsbweyYUiV5S_yv-734AQADAgADeQADPAQ",
+          "file_unique_id": "AQADTw5rG8HsmFJ-",
+          "file_size": 57989,
           "width": 1220,
-          "height": 1138
+          "height": 1115
         }
       ],
-      "caption": "ترکیب انگلیس و نروژ برای بازی امشبب🔥🔥\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption": "• Sent via TeleFeed",
       "caption_entities": [
         {
-          "offset": 40,
-          "length": 10,
-          "type": "mention"
-        },
-        {
-          "offset": 53,
-          "length": 13,
-          "type": "mention"
-        },
-        {
-          "offset": 79,
+          "offset": 11,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 79,
+          "offset": 11,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 79,
+          "offset": 11,
           "length": 8,
           "type": "underline"
         }

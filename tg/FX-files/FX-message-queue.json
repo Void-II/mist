@@ -21479,6 +21479,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4658,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783751811,
+      "text": "🔴صدا و سیما : هر جا صدای انفجار شنیدن همش تست مهمات عمل نکرده ی دروان جنگ بوده و جای هیچ نگرانی نیست.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 100,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

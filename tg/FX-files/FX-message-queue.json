@@ -22616,6 +22616,77 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4677,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783794239,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRWpSij8kJIE7PmKq-ESpgVljN9tmAAIhD2sbaN0pUkZ5fjAwOhD6AQADAgADcwADPAQ",
+          "file_unique_id": "AQADIQ9rG2jdKVJ4",
+          "file_size": 780,
+          "width": 90,
+          "height": 21
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRWpSij8kJIE7PmKq-ESpgVljN9tmAAIhD2sbaN0pUkZ5fjAwOhD6AQADAgADbQADPAQ",
+          "file_unique_id": "AQADIQ9rG2jdKVJy",
+          "file_size": 9051,
+          "width": 320,
+          "height": 73
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISRWpSij8kJIE7PmKq-ESpgVljN9tmAAIhD2sbaN0pUkZ5fjAwOhD6AQADAgADeAADPAQ",
+          "file_unique_id": "AQADIQ9rG2jdKVJ9",
+          "file_size": 11026,
+          "width": 390,
+          "height": 89
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nکاربران گرامی تبلیغات داخل بات و چنل که از طرف تلگرام هستنن و با AD شروع میشن به تیم ما هیچ ارتباطی ندارن و تماما کلاهبرداری هستن لطفا در واریز کردن یا خرید دقت کنید که به هیچ عنوان از سمت ما قابل پیگیری نیست و ممکن است اطلاعات حساب شما به صورت کامل هک شود \n\nتمامی پیام های اینچنینی کلاهبرداری هستند و تیم ما هیچگونه مسولیتی در قبال این پیام ها ندارند با تشکر از توجه شما\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 386,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 400,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 416,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 447,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

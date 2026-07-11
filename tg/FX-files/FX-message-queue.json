@@ -23045,6 +23045,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4687,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783798512,
+      "text": "پویان مختاری گرداننده‌ی سایت های قمار که خودشو مخالف رضا پهلوی جلوه داده بود و معتقد بود عاشق ایرانه امروز صبح ساعت ۶ با هواپیما به فرودگاه امام تهران اومد که توسط وزارت اطلاعات بازداشت و راهی گونی و منتقل به طویله شد\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 219,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 232,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 258,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 258,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 258,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -23619,6 +23619,110 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4698,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783807445,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWmpSvdUrMiOQDFhKo6krbcbos5EUAALBD2sb2jCZUkuSIe2Aq90qAQADAgADcwADPAQ",
+          "file_unique_id": "AQADwQ9rG9owmVJ4",
+          "file_size": 2117,
+          "width": 90,
+          "height": 88
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWmpSvdUrMiOQDFhKo6krbcbos5EUAALBD2sb2jCZUkuSIe2Aq90qAQADAgADbQADPAQ",
+          "file_unique_id": "AQADwQ9rG9owmVJy",
+          "file_size": 32703,
+          "width": 320,
+          "height": 313
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWmpSvdUrMiOQDFhKo6krbcbos5EUAALBD2sb2jCZUkuSIe2Aq90qAQADAgADeAADPAQ",
+          "file_unique_id": "AQADwQ9rG9owmVJ9",
+          "file_size": 143434,
+          "width": 800,
+          "height": 782
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISWmpSvdUrMiOQDFhKo6krbcbos5EUAALBD2sb2jCZUkuSIe2Aq90qAQADAgADeQADPAQ",
+          "file_unique_id": "AQADwQ9rG9owmVJ-",
+          "file_size": 255126,
+          "width": 1204,
+          "height": 1177
+        }
+      ],
+      "caption": "🩵Veepn VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: zdytrg@bwmyga.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 52,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 70,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 104,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.vpnproxy.connect"
+        },
+        {
+          "offset": 115,
+          "length": 93,
+          "type": "bold"
+        },
+        {
+          "offset": 211,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 226,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 248,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

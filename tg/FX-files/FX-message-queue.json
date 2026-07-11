@@ -23385,6 +23385,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4694,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783803373,
+      "text": "🔴شبکه ۱۴ اسرائیل: ترامپ برای توقف درگیری‌ها در تنگه هرمز به ایران ۲۴ ساعت فرصت داده بود، از اون ۲۴ ساعت کمتر از یک ساعت باقی مانده...\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 132,
+          "type": "bold"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 147,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

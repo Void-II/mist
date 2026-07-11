@@ -23568,6 +23568,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4697,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783805652,
+      "text": "📣اطلاعیه \n\nپنل برای نماینده موجود شد\n\nهر گیگ 7500 با خرید پنل همزمان یه بات نماینده هم براتون اضافه خواهد شد\n\nجهت ثبت سفارش به پشتيبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 150,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 164,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 180,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 211,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 211,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

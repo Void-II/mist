@@ -21520,6 +21520,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4659,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783755363,
+      "text": "فست چالش ✅\n\n5 نفر اولی که راس ساعت 11:15 کلمه ی   X_bat   رو کامنت کنند برنده اکانت 1 ماهه hotspotshield  میشن❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 50,
+          "length": 5,
+          "type": "code"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

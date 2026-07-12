@@ -25832,6 +25832,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4735,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783857195,
+      "text": "vless://2f769b0b-3609-875b-32ef-37c5d77149ff@x4g-production-1d09.up.railway.app:443?encryption=none&security=tls&type=xhttp&mode=packet-up&host=x4g-production-1d09.up.railway.app&path=/xhttp-siz10/packet-up/2f769b0b-3609-875b-32ef-37c5d77149ff&sni=x4g-production-1d09.up.railway.app&fp=ios&alpn=h2%2Chttp/1.1#X4G-aaaassaaaaliiii\n\nسرور جدید هلند \nبا پروتکل جدید \nنتیجه بگید \nبهترشو بسازم\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 328,
+          "type": "code"
+        },
+        {
+          "offset": 399,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 399,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 399,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

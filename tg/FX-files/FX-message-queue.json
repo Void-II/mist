@@ -26672,6 +26672,62 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4750,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783885096,
+      "text": "vless://c0322196-b0a5-7c61-deaf-d890fd8cad5b@x4g-production-455e.up.railway.app:443?path=%2Fws%2Fc0322196-b0a5-7c61-deaf-d890fd8cad5b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-455e.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-455e.up.railway.app#X4G-HaDi.%40Error404Bin\n\n\nمتصل \nلوکیشن آمریکا \nبرای هوش اینا خوبه \n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 323,
+          "type": "blockquote"
+        },
+        {
+          "offset": 0,
+          "length": 323,
+          "type": "code"
+        },
+        {
+          "offset": 367,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 380,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

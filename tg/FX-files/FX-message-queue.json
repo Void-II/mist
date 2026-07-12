@@ -26095,6 +26095,100 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4741,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783870455,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIShWpTs_fbVApwNmPBdnVCtwybmX3XAAKGDmsbXTygUlUw2r1UEXMoAQADAgADcwADPAQ",
+          "file_unique_id": "AQADhg5rG108oFJ4",
+          "file_size": 2307,
+          "width": 90,
+          "height": 89
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIShWpTs_fbVApwNmPBdnVCtwybmX3XAAKGDmsbXTygUlUw2r1UEXMoAQADAgADbQADPAQ",
+          "file_unique_id": "AQADhg5rG108oFJy",
+          "file_size": 34940,
+          "width": 320,
+          "height": 316
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIShWpTs_fbVApwNmPBdnVCtwybmX3XAAKGDmsbXTygUlUw2r1UEXMoAQADAgADeAADPAQ",
+          "file_unique_id": "AQADhg5rG108oFJ9",
+          "file_size": 161551,
+          "width": 800,
+          "height": 789
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIShWpTs_fbVApwNmPBdnVCtwybmX3XAAKGDmsbXTygUlUw2r1UEXMoAQADAgADeQADPAQ",
+          "file_unique_id": "AQADhg5rG108oFJ-",
+          "file_size": 216702,
+          "width": 1024,
+          "height": 1010
+        }
+      ],
+      "caption": "🩵POTATO VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n4 نفر کامنت بزارند رندوم انتخاب میشن و اکانت بهشون تعلق میگیرد\n\nاسپم ممنوع فقط یک کامنت\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 130,
+          "type": "bold"
+        },
+        {
+          "offset": 130,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.potatovpn.free.proxy.wifi"
+        },
+        {
+          "offset": 130,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 274,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

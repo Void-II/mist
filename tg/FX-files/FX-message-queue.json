@@ -25242,6 +25242,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4727,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783833494,
+      "text": "🔰DLFars🔰\n\n🔎 SiteLink\n\n💡2.6.0 | #Film\n\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a / arm64-v8\n\n\nتوضیحات درباره برنامه:\nدی ال فارس پخش و تماشای آنلاین فیلم و سریال با دوبله فارسی اختصاصی و زیرنویس فارسی به صورت رایگان و اشتراکی با استفاده از این اپلیکیشن شما میتوانید به آرشیو باورنکردنی از فیلم و سریالهای روز و قدیمی دنیا با دوبله فارسی یا زیرنویس دسترسی پیدا کنید . این اپلیکیشن سازگار با تمامی نسخه های اندروید و تلویزیون هوشمند میباشد.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 15,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://dlfars.ir/"
+        },
+        {
+          "offset": 35,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 206,
+          "length": 321,
+          "type": "blockquote"
+        },
+        {
+          "offset": 616,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/149461"
+        },
+        {
+          "offset": 645,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 664,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 681,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 704,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 704,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 704,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/Xbat_chat/149461"
+      }
     }
   ]
 }

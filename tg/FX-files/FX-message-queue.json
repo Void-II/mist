@@ -25631,6 +25631,103 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4733,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783855035,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISfWpTd7vqY_PiXkCRo8298zfgZFtyAAInDmsbXTygUiJXAAHJTkVxdwEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADJw5rG108oFJ4",
+          "file_size": 1051,
+          "width": 90,
+          "height": 80
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISfWpTd7vqY_PiXkCRo8298zfgZFtyAAInDmsbXTygUiJXAAHJTkVxdwEAAwIAA20AAzwE",
+          "file_unique_id": "AQADJw5rG108oFJy",
+          "file_size": 10829,
+          "width": 320,
+          "height": 285
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISfWpTd7vqY_PiXkCRo8298zfgZFtyAAInDmsbXTygUiJXAAHJTkVxdwEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADJw5rG108oFJ9",
+          "file_size": 14669,
+          "width": 425,
+          "height": 379
+        }
+      ],
+      "caption": "🩵VPN Vault 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: 13oyo@bwmyga.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 52,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 16,
+          "type": "email"
+        },
+        {
+          "offset": 69,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 89,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.appsverse.avvpn"
+        },
+        {
+          "offset": 114,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 210,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 225,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

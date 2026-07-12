@@ -25580,6 +25580,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4732,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783851237,
+      "text": "🔴میچ مک کانل سناتور جمهوری خواه ضد جمهوری اسلامی ایرانی دیگه هم به سرنوشت گراهام دچار شده و به بیمارستان منتقل شده و هنوز وضعیتش مشخص نیست! \n@odin_club\n@Arvanpingbot\n#mahdi\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 142,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 153,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 167,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

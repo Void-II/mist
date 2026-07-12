@@ -26728,6 +26728,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4751,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783887016,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISj2pT9KhLzA3q6uaRd9kIll9jkE00AAKuD2sbEHWgUryHLl0f5Lq8AQADAgADcwADPAQ",
+          "file_unique_id": "AQADrg9rGxB1oFJ4",
+          "file_size": 1514,
+          "width": 90,
+          "height": 72
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISj2pT9KhLzA3q6uaRd9kIll9jkE00AAKuD2sbEHWgUryHLl0f5Lq8AQADAgADbQADPAQ",
+          "file_unique_id": "AQADrg9rGxB1oFJy",
+          "file_size": 18246,
+          "width": 320,
+          "height": 256
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISj2pT9KhLzA3q6uaRd9kIll9jkE00AAKuD2sbEHWgUryHLl0f5Lq8AQADAgADeAADPAQ",
+          "file_unique_id": "AQADrg9rGxB1oFJ9",
+          "file_size": 73753,
+          "width": 800,
+          "height": 639
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISj2pT9KhLzA3q6uaRd9kIll9jkE00AAKuD2sbEHWgUryHLl0f5Lq8AQADAgADeQADPAQ",
+          "file_unique_id": "AQADrg9rGxB1oFJ-",
+          "file_size": 113290,
+          "width": 1206,
+          "height": 963
+        }
+      ],
+      "caption": "پست ترامپ تو تروث‌سوشیال\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 25,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 38,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

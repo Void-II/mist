@@ -26925,6 +26925,110 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4754,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783892987,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISkmpUC_sZx3_H-BDp_wX3AaLwMOXQAAITD2sbXTygUnuopLmNvTn9AQADAgADcwADPAQ",
+          "file_unique_id": "AQADEw9rG108oFJ4",
+          "file_size": 2000,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISkmpUC_sZx3_H-BDp_wX3AaLwMOXQAAITD2sbXTygUnuopLmNvTn9AQADAgADbQADPAQ",
+          "file_unique_id": "AQADEw9rG108oFJy",
+          "file_size": 28810,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISkmpUC_sZx3_H-BDp_wX3AaLwMOXQAAITD2sbXTygUnuopLmNvTn9AQADAgADeAADPAQ",
+          "file_unique_id": "AQADEw9rG108oFJ9",
+          "file_size": 121878,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISkmpUC_sZx3_H-BDp_wX3AaLwMOXQAAITD2sbXTygUnuopLmNvTn9AQADAgADeQADPAQ",
+          "file_unique_id": "AQADEw9rG108oFJ-",
+          "file_size": 242094,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🩵PIA VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: p9527673\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 79,
+          "type": "bold"
+        },
+        {
+          "offset": 79,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 79,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.privateinternetaccess.android"
+        },
+        {
+          "offset": 93,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 104,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 200,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

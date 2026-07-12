@@ -25315,6 +25315,110 @@
       "link_preview_options": {
         "url": "https://t.me/Xbat_chat/149461"
       }
+    },
+    {
+      "message_id": 4728,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783833854,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISeGpTJP51kxRMYQc_Jb3U1BVyPiUsAALaDmsbXTyYUj7S1q8kTUF1AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD2g5rG108mFJ4",
+          "file_size": 2263,
+          "width": 90,
+          "height": 83
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISeGpTJP51kxRMYQc_Jb3U1BVyPiUsAALaDmsbXTyYUj7S1q8kTUF1AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD2g5rG108mFJy",
+          "file_size": 30620,
+          "width": 320,
+          "height": 295
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISeGpTJP51kxRMYQc_Jb3U1BVyPiUsAALaDmsbXTyYUj7S1q8kTUF1AQADAgADeAADPAQ",
+          "file_unique_id": "AQAD2g5rG108mFJ9",
+          "file_size": 142972,
+          "width": 800,
+          "height": 737
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISeGpTJP51kxRMYQc_Jb3U1BVyPiUsAALaDmsbXTyYUj7S1q8kTUF1AQADAgADeQADPAQ",
+          "file_unique_id": "AQAD2g5rG108mFJ-",
+          "file_size": 270637,
+          "width": 1254,
+          "height": 1156
+        }
+      ],
+      "caption": "🩵Hide my name VPN 7 days\n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\nKey: 125259933480992\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 47,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 70,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.fourksoft.openvpn"
+        },
+        {
+          "offset": 82,
+          "length": 66,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 177,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 192,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 214,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

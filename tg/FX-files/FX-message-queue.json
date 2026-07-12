@@ -24643,6 +24643,105 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4719,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783826354,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISb2pTB7I5ujU98RKpJGd6JtuRQnpEAALXDmsbXTyYUpFlq9f2uF3YAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD1w5rG108mFJ4",
+          "file_size": 2160,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISb2pTB7I5ujU98RKpJGd6JtuRQnpEAALXDmsbXTyYUpFlq9f2uF3YAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD1w5rG108mFJy",
+          "file_size": 32130,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISb2pTB7I5ujU98RKpJGd6JtuRQnpEAALXDmsbXTyYUpFlq9f2uF3YAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD1w5rG108mFJ9",
+          "file_size": 138016,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISb2pTB7I5ujU98RKpJGd6JtuRQnpEAALXDmsbXTyYUpFlq9f2uF3YAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD1w5rG108mFJ-",
+          "file_size": 187879,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "🩵Le VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: obs73@gmeenramy.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 50,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 89,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.levpn.app.levpn"
+        },
+        {
+          "offset": 114,
+          "length": 67,
+          "type": "bold"
+        },
+        {
+          "offset": 210,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 225,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 247,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

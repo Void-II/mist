@@ -27610,6 +27610,86 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4764,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783934968,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISnGpUr_jFBIm-I4IKouVBN0wvbuHyAALQDWsbXTyoUrfdmIhczpY7AQADAgADcwADPAQ",
+          "file_unique_id": "AQAD0A1rG108qFJ4",
+          "file_size": 1620,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISnGpUr_jFBIm-I4IKouVBN0wvbuHyAALQDWsbXTyoUrfdmIhczpY7AQADAgADbQADPAQ",
+          "file_unique_id": "AQAD0A1rG108qFJy",
+          "file_size": 8591,
+          "width": 240,
+          "height": 240
+        }
+      ],
+      "caption": "🩵AVG VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n\nLicense: 9FCD2G-RPD4E2-5BLJFA\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 49,
+          "type": "bold"
+        },
+        {
+          "offset": 71,
+          "length": 11,
+          "type": "text_link",
+          "url": "http://play.google.com/store/apps/details?id=com.avg.android.vpn&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Davg+secure+vpn&pcampaignid=APPU"
+        },
+        {
+          "offset": 82,
+          "length": 67,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 193,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

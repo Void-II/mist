@@ -28496,6 +28496,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4782,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783968989,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISrmpVNN3X6uEP5amsEi7QBnyL3yXMAAIcDmsbU2qwUgfwdF1ftpZqAQADAgADcwADPAQ",
+          "file_unique_id": "AQADHA5rG1NqsFJ4",
+          "file_size": 1089,
+          "width": 90,
+          "height": 58
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISrmpVNN3X6uEP5amsEi7QBnyL3yXMAAIcDmsbU2qwUgfwdF1ftpZqAQADAgADbQADPAQ",
+          "file_unique_id": "AQADHA5rG1NqsFJy",
+          "file_size": 25058,
+          "width": 320,
+          "height": 207
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISrmpVNN3X6uEP5amsEi7QBnyL3yXMAAIcDmsbU2qwUgfwdF1ftpZqAQADAgADeAADPAQ",
+          "file_unique_id": "AQADHA5rG1NqsFJ9",
+          "file_size": 75553,
+          "width": 685,
+          "height": 443
+        }
+      ],
+      "caption": "🔴نیویورک تایمز : ترامپ رسماً کنگره را از سرگیری جنگ علیه ایران مطلع کرد\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 85,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -27987,6 +27987,104 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4772,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783951528,
+      "document": {
+        "file_name": "-𝐍𝐞𝐭𝐌𝐞𝐥𝐢🔥.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAISpGpU8KhxKfHELV7BV6Wf4yXgxcfbAAJiHwACeiioUvdE-Wrg-iaDPAQ",
+        "file_unique_id": "AgADYh8AAnooqFI",
+        "file_size": 33652
+      },
+      "caption": "🛡 کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون\n\n🔹 کانفیگ نت ملی برای دریافت کلیک کن👉\n\n🔹نحوه اتصال داخل اندروید کلیک کن👉\n\n🔹نحوه اتصال داخل آیفون کلیک کن👉\n\nاینترنت آزاد برای همه, یا هیچکس \n\nT.me/MiTiVPN 🏳️\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 86,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 93,
+          "length": 13,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 107,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 130,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 132,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/42"
+        },
+        {
+          "offset": 155,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 167,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 169,
+          "length": 21,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/13"
+        },
+        {
+          "offset": 190,
+          "length": 43,
+          "type": "bold"
+        },
+        {
+          "offset": 236,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 265,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 265,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 265,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

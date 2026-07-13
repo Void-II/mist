@@ -28620,6 +28620,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4784,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783971209,
+      "text": "🔴 صداوسیما: برخلاف خبرهای منتشر شده در فضای مجازی و فضاسازی برخی رسانه‌ها؛ در بندرعباس، جزایر هنگام، لارک، قشم، جاسک و سیریک تا این لحظه انفجاری رخ نداده.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 156,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 169,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 195,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

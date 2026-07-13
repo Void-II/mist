@@ -28281,6 +28281,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4777,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783967369,
+      "text": "از ساعاتی پیش ipv6  در برخی از اپراتور ها مجدد وصل شده \nhttps://radar.cloudflare.com/adoption-and-\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 55,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 42,
+          "type": "url"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 111,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

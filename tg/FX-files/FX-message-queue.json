@@ -27290,6 +27290,86 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4759,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783924517,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISl2pUhyWP7_qJK-Rb11qt3ZiU-qXtAALuDmsbn1yhUsjKOst_FRBUAQADAgADcwADPAQ",
+          "file_unique_id": "AQAD7g5rG59coVJ4",
+          "file_size": 781,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISl2pUhyWP7_qJK-Rb11qt3ZiU-qXtAALuDmsbn1yhUsjKOst_FRBUAQADAgADbQADPAQ",
+          "file_unique_id": "AQAD7g5rG59coVJy",
+          "file_size": 9310,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISl2pUhyWP7_qJK-Rb11qt3ZiU-qXtAALuDmsbn1yhUsjKOst_FRBUAQADAgADeAADPAQ",
+          "file_unique_id": "AQAD7g5rG59coVJ9",
+          "file_size": 32497,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISl2pUhyWP7_qJK-Rb11qt3ZiU-qXtAALuDmsbn1yhUsjKOst_FRBUAQADAgADeQADPAQ",
+          "file_unique_id": "AQAD7g5rG59coVJ-",
+          "file_size": 59730,
+          "width": 591,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISl2pUhyWP7_qJK-Rb11qt3ZiU-qXtAALuDmsbn1yhUsjKOst_FRBUAQADAgADdwADPAQ",
+          "file_unique_id": "AQAD7g5rG59coVJ8",
+          "file_size": 129426,
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "caption": "امشب چالش میزاریم ولی دوستان اکانت های که جایزه میبرید رو ندین به چند نفر که گوگل هشدار نده رمزت لو رفته این هشدار برای صاحب اکانت ها میره طرف رمز عبور عوض میکنه \n\nمن اکانت های جایزه میدم که خودم ماه ها توش لوگین بودم و گاهی استفاده میکردم و میدونم خراب نمیشن اینارو خودتون با دست خودتون خراب میکنید دیگه با دست به دست کردن اکانت با بقیه افراد\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 164,
+          "length": 179,
+          "type": "bold"
+        },
+        {
+          "offset": 345,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 368,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 368,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 368,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

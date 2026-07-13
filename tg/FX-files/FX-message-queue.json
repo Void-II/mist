@@ -28557,6 +28557,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4783,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783969289,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISr2pVNgk7fvfLHiymg-m-JekAAUGUBAACXQxrG2FssEbwdC-UtAy_rQEAAwIAA3MAAzwE",
+          "file_unique_id": "AQADXQxrG2FssEZ4",
+          "file_size": 1543,
+          "width": 47,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISr2pVNgk7fvfLHiymg-m-JekAAUGUBAACXQxrG2FssEbwdC-UtAy_rQEAAwIAA20AAzwE",
+          "file_unique_id": "AQADXQxrG2FssEZy",
+          "file_size": 20478,
+          "width": 168,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISr2pVNgk7fvfLHiymg-m-JekAAUGUBAACXQxrG2FssEbwdC-UtAy_rQEAAwIAA3gAAzwE",
+          "file_unique_id": "AQADXQxrG2FssEZ9",
+          "file_size": 81275,
+          "width": 420,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAISr2pVNgk7fvfLHiymg-m-JekAAUGUBAACXQxrG2FssEbwdC-UtAy_rQEAAwIAA3kAAzwE",
+          "file_unique_id": "AQADXQxrG2FssEZ-",
+          "file_size": 96186,
+          "width": 610,
+          "height": 1163
+        }
+      ],
+      "caption": "تبلیغات جلیلی توی نپستر !😂😂\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 42,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 42,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 42,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

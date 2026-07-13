@@ -27503,6 +27503,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4762,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783931968,
+      "text": "❗️پروتون vpn دوساله قانونی موجوده  + آیپی ثابت ترکیه قیمت اصلی  2500 اگه تا امشب خرید کنید  500تخفیف میدیم بهتون 2میلیون تقدیدمتون میشه:\n\n👨‍💻@qatel_seryalei\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 143,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 171,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

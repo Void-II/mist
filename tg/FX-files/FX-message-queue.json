@@ -29011,6 +29011,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4791,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783976355,
+      "text": "سری پیش اسپوف وصل بود\nهیچ منطقی و دلیلی نیست این سری هم وصل باشه\nگول تبلیغات کسشر نخورید یعنی یارو پای فیلترینگ اینقدر احمقه که نصف ایران با این اسپوف وصل بودن نفهمه چطور ببنده؟\n\nشل کنید ببینیم چی در میاد\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 206,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 217,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

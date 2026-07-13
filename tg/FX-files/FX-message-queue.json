@@ -28892,6 +28892,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4789,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783975949,
+      "text": "🔰PixelLab🔰\n\n🔎 GooglePlayLink\n\n💡2.1.9 | #edite\n\n\nⓂ️ نسخه vip شده\n \n◈ اشتراک پرمیوم فعال شده👑✓ \n◈ حذف فایل‌های اضافه✓\n◈حذف تبلیغات برنامه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\nبه راحتی کشیدن، اضافه کردن متن و برچسب های ساده و 3D، و ویرایش تصاویر خود را به صورت رایگان!\n\nویرایشگر عکس Pixel Lab: افزودن متن شیک، متن سه بعدی، شکل‌ها، برچسب‌ها و طراحی روی عکس شما هرگز آسان‌تر نبوده است. با یک رابط کاربری ساده و تمیز که به شما امکان می‌دهد روی هر کاری که انجام می‌دهید تمرکز کنید، انتخاب گسترده‌ای از پیش‌تنظیمات، فونت‌ها، برچسب‌ها، پس‌زمینه‌ها، بیش از 60 گزینه منحصربه‌فرد که می‌توانید سفارشی کنید و البته تخیل خود، می‌توانید گرافیک های خیره کننده ایجاد کنید و دوستان خود را مستقیماً از تلفن یا رایانه لوحی خود شگفت زده کنید.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab"
+        },
+        {
+          "offset": 43,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 186,
+          "length": 547,
+          "type": "blockquote"
+        },
+        {
+          "offset": 824,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/149629"
+        },
+        {
+          "offset": 854,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 873,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 890,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 913,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 913,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 913,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab"
+      }
     }
   ]
 }

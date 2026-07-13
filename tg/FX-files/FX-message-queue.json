@@ -28738,6 +28738,114 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4787,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783974555,
+      "document": {
+        "file_name": "-🚀𝑵𝒑𝒗𝑴𝒆𝒍𝒊.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAISs2pVSpuTSxyXXc1Ir1Lcr1s-zRbCAAIiIQACeiigUhuwv8cAAR5HqjwE",
+        "file_unique_id": "AgADIiEAAnoooFI",
+        "file_size": 33440
+      },
+      "caption": "🛡 کانفیگ فول پرسرعت نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون\n\nاین کانفیگ واسه ادم های معمولی نیست!\n\n🔹 کانفیگ اختصاصی برای دریافت کلیک کن👉\n\n🔹نحوه اتصال داخل اندروید کلیک کن👉\n\n🔹نحوه اتصال داخل آیفون کلیک کن👉\n\nاینترنت آزاد برای همه, یا هیچکس \n\nT.me/MiTiVPN 🔹\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 74,
+          "type": "bold"
+        },
+        {
+          "offset": 78,
+          "length": 36,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 119,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 134,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 159,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/42"
+        },
+        {
+          "offset": 182,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 196,
+          "length": 21,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/13"
+        },
+        {
+          "offset": 217,
+          "length": 46,
+          "type": "bold"
+        },
+        {
+          "offset": 263,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 276,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

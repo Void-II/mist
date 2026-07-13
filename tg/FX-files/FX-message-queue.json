@@ -28965,6 +28965,52 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab"
       }
+    },
+    {
+      "message_id": 4790,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783976009,
+      "text": "سری پیش خیلی از رفیق هامون ما رو به پول فروختن امیدوارم یه جوری بشه نتونن حتی یک مگ رد کنن\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 92,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

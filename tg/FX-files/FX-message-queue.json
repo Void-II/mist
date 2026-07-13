@@ -28666,6 +28666,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4785,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783972229,
+      "text": "🔴نیروی دریایی ایالات متحده آمریکا اعلام کرد که محاصرهٔ (یا انسداد دریاییِ) تمام بنادر ایران از فردا ساعت ۲۰:۰۰ به وقت گرینویچ (GMT) آغاز خواهد شد ، ۲۳:۳۰ به وقت ایران\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 180,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -27690,6 +27690,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4765,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783941988,
+      "text": "‎\nاول برید در تنظیمات موبایل‌تون و قسمت APN و روی APN ای که فعاله بزنید و مطمئن بشید APN Protocol روی IPv6/IPv4 باشه (روی مودم هم باید برید در پنل مدیریت مودم و فعالش کنید) و بعد برید در سایت زیر و منتظر بمونید تا نتیجه رو بگه، از ۱۰ نمره میده بهتون اگه صفر باشه یعنی کلا قطعه.\n\ntest-ipv6.com\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 279,
+          "length": 13,
+          "type": "url"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 305,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

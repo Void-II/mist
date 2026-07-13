@@ -29057,6 +29057,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4792,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783976909,
+      "text": "این VPN فروشایی که خیز برداشتن برای قطعی نت به امید IP Spoof، باید خدمتتون بگم که مالیدید. \n\nاگه کف تلگرام این همه آدم میگن ip spoof مطمئن باشید فیلترچی زودتر از شما ازین موضوع خبر داره. \n\nازونجایی که ip spoof و تانل استارلینک دیگه آخر ماجرا برای دور زدن قطعی اینترنت هستش، به احتمال زیاد کلا مصرف 1 به 1 روی سرور های ایران بسته بشه، یعنی بلافاصله بعد از مشاهده یا بصورت خودکار سرور شما از سمت دیتاسنتر suspend میشه\n\nپ.ن: خود isp ها قبلا اینکار رو پیاده کردن بودن چند ساله پیش. اگه یادتون باشه اون زمان خیلی ها ترافیک fake میزدن تا الگو مصرف بصورت 1 به 6 یا 1 به 10 دربیاد تا پول به ترافیک ندن که البته isp ها کم کم متوجه این موضوع شدن و در بدترین حالت اصلا کاری به متود ترافیک فیک نداشتن و میگفتن مستندات بفرست!\n\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 715,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 726,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 752,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 752,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 752,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

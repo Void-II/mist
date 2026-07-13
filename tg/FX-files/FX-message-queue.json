@@ -27158,6 +27158,98 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4757,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1783917617,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISlWpUbDE8FwNsQnHn1kyrLexsyHRDAALODWsbXTyoUpv1uobgsKNvAQADAgADcwADPAQ",
+          "file_unique_id": "AQADzg1rG108qFJ4",
+          "file_size": 1421,
+          "width": 90,
+          "height": 75
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISlWpUbDE8FwNsQnHn1kyrLexsyHRDAALODWsbXTyoUpv1uobgsKNvAQADAgADbQADPAQ",
+          "file_unique_id": "AQADzg1rG108qFJy",
+          "file_size": 11409,
+          "width": 320,
+          "height": 265
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAISlWpUbDE8FwNsQnHn1kyrLexsyHRDAALODWsbXTyoUpv1uobgsKNvAQADAgADeAADPAQ",
+          "file_unique_id": "AQADzg1rG108qFJ9",
+          "file_size": 15133,
+          "width": 447,
+          "height": 370
+        }
+      ],
+      "caption": "🩵Sky VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: 0e4z59@ozsaip.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\n\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 51,
+          "length": 17,
+          "type": "email"
+        },
+        {
+          "offset": 88,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 102,
+          "length": 11,
+          "type": "text_link",
+          "url": "http://play.google.com/store/apps/details?id=me.skyvpn.app&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dsky+vpn&pcampaignid=APPU_1_dCRtaLCvCs"
+        },
+        {
+          "offset": 114,
+          "length": 89,
+          "type": "bold"
+        },
+        {
+          "offset": 206,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

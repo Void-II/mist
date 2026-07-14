@@ -31434,6 +31434,86 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4834,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784051431,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4mpWdudrG9jXI9WBucu4B22MIx2YAALeDWsb3jm4Up1Pc1naryVDAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD3g1rG945uFJ4",
+          "file_size": 945,
+          "width": 51,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4mpWdudrG9jXI9WBucu4B22MIx2YAALeDWsb3jm4Up1Pc1naryVDAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD3g1rG945uFJy",
+          "file_size": 9701,
+          "width": 182,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4mpWdudrG9jXI9WBucu4B22MIx2YAALeDWsb3jm4Up1Pc1naryVDAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD3g1rG945uFJ9",
+          "file_size": 32869,
+          "width": 454,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4mpWdudrG9jXI9WBucu4B22MIx2YAALeDWsb3jm4Up1Pc1naryVDAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD3g1rG945uFJ-",
+          "file_size": 61926,
+          "width": 726,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4mpWdudrG9jXI9WBucu4B22MIx2YAALeDWsb3jm4Up1Pc1naryVDAQADAgADdwADPQQ",
+          "file_unique_id": "AQAD3g1rG945uFJ8",
+          "file_size": 97758,
+          "width": 1080,
+          "height": 1904
+        }
+      ],
+      "caption": "📲خب چالش داریم \n✔️برنده سرور اوپن اختصاصی کانال رو میبره (متصل برای همه اپراتور های کشور غیر از همراه اول دزد) \n📌بین عدد 788 تا 888 عدد به صورت رندوم بزنین\n🔴تا ساعت8:00 شب پنجشنبه وقت دارین کامنت بزارید\n\n@XBat_Team  | @Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 207,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 244,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

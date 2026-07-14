@@ -29825,6 +29825,48 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4809,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784017350,
+      "text": "ترامپ گفته بود مهمون ویژه میاد نیومد\nاحتمالا منظورش ایشون بوده👍\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 52,
+          "length": 5,
+          "type": "text_link",
+          "url": "tg://settings/"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 77,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -30824,6 +30824,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4824,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784040066,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS2GpWSoL7Djj_tumZbGoSguwCrbCbAAI1D2sbBAmxUp8Es92rSgYdAQADAgADcwADPQQ",
+          "file_unique_id": "AQADNQ9rGwQJsVJ4",
+          "file_size": 1359,
+          "width": 90,
+          "height": 52
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS2GpWSoL7Djj_tumZbGoSguwCrbCbAAI1D2sbBAmxUp8Es92rSgYdAQADAgADbQADPQQ",
+          "file_unique_id": "AQADNQ9rGwQJsVJy",
+          "file_size": 22183,
+          "width": 320,
+          "height": 185
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS2GpWSoL7Djj_tumZbGoSguwCrbCbAAI1D2sbBAmxUp8Es92rSgYdAQADAgADeAADPQQ",
+          "file_unique_id": "AQADNQ9rGwQJsVJ9",
+          "file_size": 82588,
+          "width": 800,
+          "height": 462
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS2GpWSoL7Djj_tumZbGoSguwCrbCbAAI1D2sbBAmxUp8Es92rSgYdAQADAgADeQADPQQ",
+          "file_unique_id": "AQADNQ9rGwQJsVJ-",
+          "file_size": 135297,
+          "width": 1280,
+          "height": 740
+        }
+      ],
+      "caption": "بازی GTA Online برای یک هفته رایگان شد و برای پلی دادن هم نیازی به پلاس و یا گیم‌پس نیست\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 5,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 90,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 125,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

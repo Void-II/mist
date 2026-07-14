@@ -31642,6 +31642,138 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4838,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784053051,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS5mpWfTvUMPjflEL-mSPP9HKa9qoxAAJ8D2sbBAmxUm2I7EUjl2PrAQADAgADcwADPQQ",
+          "file_unique_id": "AQADfA9rGwQJsVJ4",
+          "file_size": 1705,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS5mpWfTvUMPjflEL-mSPP9HKa9qoxAAJ8D2sbBAmxUm2I7EUjl2PrAQADAgADbQADPQQ",
+          "file_unique_id": "AQADfA9rGwQJsVJy",
+          "file_size": 23676,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS5mpWfTvUMPjflEL-mSPP9HKa9qoxAAJ8D2sbBAmxUm2I7EUjl2PrAQADAgADeAADPQQ",
+          "file_unique_id": "AQADfA9rGwQJsVJ9",
+          "file_size": 101725,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS5mpWfTvUMPjflEL-mSPP9HKa9qoxAAJ8D2sbBAmxUm2I7EUjl2PrAQADAgADeQADPQQ",
+          "file_unique_id": "AQADfA9rGwQJsVJ-",
+          "file_size": 211002,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Toggle VPN\n\n🌟Status: Premium\n\n⏳Exp: 1 Month یکماهه\n➿➿➿➿➿➿➿➿➿➿➿➿\n\nLicense: 2500732381880789\n\n➿➿➿➿➿➿➿➿➿\n❗️ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play   App Store\n\nWindows   AndroidTV\n\nری اکشن یادتون نره🩵 \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 7,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 14,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 92,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 137,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=org.toggle.vpn"
+        },
+        {
+          "offset": 151,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/id6744531647"
+        },
+        {
+          "offset": 162,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://cdn.toggle.org/manual/download/windows/latest/ToggleVPN.msi"
+        },
+        {
+          "offset": 172,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=org.toggle.vpn"
+        },
+        {
+          "offset": 182,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 207,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 220,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -32458,6 +32458,56 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4852,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784064092,
+      "document": {
+        "file_name": "گیمینگ آلمان🇩🇪.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIS9GpWqFyD4MpACe9IdZT1kQGCqu2rAAI1IwACgn-wUrOkZbL7B2HsPQQ",
+        "file_unique_id": "AgADNSMAAoJ_sFI",
+        "file_size": 4356
+      },
+      "caption": "نپسرنت متصل \n\nلوکیشن ترکیه \nمناسب گیم \nبدون حجم تا 7روز\n\nتست کنید نتیجه بگید\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 77,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 90,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

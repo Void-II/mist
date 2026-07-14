@@ -30948,6 +30948,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4826,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784049871,
+      "text": "چالش\n🫥 از بین عداد 8 تا 88 یک عدد به صورت رندوم کامنت کنید\n🎁 یک نفر 30 گیگ سرور اختصاصی وایرگارد یکماهه میبره\n⏳ قرعه کشی عصر جمعه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 163,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

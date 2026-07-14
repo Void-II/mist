@@ -29646,6 +29646,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4805,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784008170,
+      "text": "دوستان کسی اسپاتیفای داره پریمیوم. ،تایم مهم نی حتی ۱ روز یا ۲ روز مونده باشه ازش ..فقط برا تست کانفینگ میخوام \nکسی داشت بفرسته پیام بده\n@y6siin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 137,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 157,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

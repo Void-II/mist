@@ -30318,6 +30318,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4819,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784032111,
+      "text": "‏🆕آپدیت 12.9.0 تلگرام منتشر شد!\n\n💬ویژگی‌ها و تغییرات جدید:\n\n‌\n‌👽 اندروید: دایرکت \\| استور \\| کانال\n🍏 آی‌اواس: استور\n📱ویندوز / لینوکس \\| مک‌اواس\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 36,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 161,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 161,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 161,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

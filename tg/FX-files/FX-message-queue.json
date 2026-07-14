@@ -31361,6 +31361,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4832,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784051011,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4GpWdUPl6WwcfBrlgh7OjtQqB-b0AALdDWsb3jm4UhAAAbnSSPLj7QEAAwIAA3MAAz0E",
+          "file_unique_id": "AQAD3Q1rG945uFJ4",
+          "file_size": 656,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4GpWdUPl6WwcfBrlgh7OjtQqB-b0AALdDWsb3jm4UhAAAbnSSPLj7QEAAwIAA20AAz0E",
+          "file_unique_id": "AQAD3Q1rG945uFJy",
+          "file_size": 3582,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4GpWdUPl6WwcfBrlgh7OjtQqB-b0AALdDWsb3jm4UhAAAbnSSPLj7QEAAwIAA3gAAz0E",
+          "file_unique_id": "AQAD3Q1rG945uFJ9",
+          "file_size": 11719,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS4GpWdUPl6WwcfBrlgh7OjtQqB-b0AALdDWsb3jm4UhAAAbnSSPLj7QEAAwIAA3kAAz0E",
+          "file_unique_id": "AQAD3Q1rG945uFJ-",
+          "file_size": 17866,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "📲خب چالش داریم\n\n✔️برنده اکانت TunnelBear چهار ماهه میبره\n📌بین عدد588تا 688 یک عدد به صورت رندوم بزنین(برنده زحمت تست رو باید بکشه رو اپراتور خودشون)  پی نوشت ایرانسل تا یکماه پیش متصل بود الخصوص سرور کشور صربستان سرعت خوبی داشت\n🔴تا ساعت  8:00 شب پنجشنبه وقت دارین\n\n@XBat_Team\n@Xbat_chat\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 268,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 279,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 302,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 302,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 302,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

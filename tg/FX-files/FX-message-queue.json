@@ -30989,6 +30989,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4827,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784050051,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS22pWcYN0Rw640osPiPCZ8qlnGYJ4AALXDWsb3jm4UgABcrpC2ypnTAEAAwIAA3MAAz0E",
+          "file_unique_id": "AQAD1w1rG945uFJ4",
+          "file_size": 1102,
+          "width": 58,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS22pWcYN0Rw640osPiPCZ8qlnGYJ4AALXDWsb3jm4UgABcrpC2ypnTAEAAwIAA20AAz0E",
+          "file_unique_id": "AQAD1w1rG945uFJy",
+          "file_size": 11297,
+          "width": 205,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS22pWcYN0Rw640osPiPCZ8qlnGYJ4AALXDWsb3jm4UgABcrpC2ypnTAEAAwIAA3gAAz0E",
+          "file_unique_id": "AQAD1w1rG945uFJ9",
+          "file_size": 36525,
+          "width": 512,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS22pWcYN0Rw640osPiPCZ8qlnGYJ4AALXDWsb3jm4UgABcrpC2ypnTAEAAwIAA3kAAz0E",
+          "file_unique_id": "AQAD1w1rG945uFJ-",
+          "file_size": 64541,
+          "width": 819,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS22pWcYN0Rw640osPiPCZ8qlnGYJ4AALXDWsb3jm4UgABcrpC2ypnTAEAAwIAA3cAAz0E",
+          "file_unique_id": "AQAD1w1rG945uFJ8",
+          "file_size": 86510,
+          "width": 1080,
+          "height": 1688
+        }
+      ],
+      "caption": "چالش\n🫥 از بین عداد  188 تا 288  یک عدد به صورت رندوم کامنت کنید\n🎁 برنده یه اکانت زر فیلم کرکی 190 روزه میبیره(عکس چالش قبلیه سو تفاهم نشه) \n⏳ قرعه کشی عصر 5شنبه ساعت 8و 8 دقیقه شب برگذار میشه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 194,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 217,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

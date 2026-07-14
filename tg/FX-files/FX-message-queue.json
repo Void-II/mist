@@ -29600,6 +29600,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4804,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784006056,
+      "text": "🔴 اختلال گسترده در اینترنت ثابت و همراه\n\nگزارش‌های کاربران نشان می‌دهد از ساعاتی پیش، اینترنت ثابت و همراه در نقاط مختلف کشور با اختلالات گسترده و افت محسوس کیفیت خدمات مواجه شده است.\n\nکاربران از کاهش شدید سرعت، قطعی و وصل‌های مکرر، ناپایداری اتصال، پرش آنتن در شبکه‌های تلفن همراه و اختلال در دسترسی به برخی سرویس‌ها و پلتفرم‌های اینترنتی خبر می‌دهند./ رادار\n\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 363,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 374,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 400,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 400,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 400,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -33220,6 +33220,99 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4865,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784095713,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITAWpXI-GOCt8y_aMZHAjbKzTDSx4LAAIZDWsbxNm5UjbOvOkxeHBmAQADAgADcwADPQQ",
+          "file_unique_id": "AQADGQ1rG8TZuVJ4",
+          "file_size": 1207,
+          "width": 90,
+          "height": 51
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITAWpXI-GOCt8y_aMZHAjbKzTDSx4LAAIZDWsbxNm5UjbOvOkxeHBmAQADAgADbQADPQQ",
+          "file_unique_id": "AQADGQ1rG8TZuVJy",
+          "file_size": 16000,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITAWpXI-GOCt8y_aMZHAjbKzTDSx4LAAIZDWsbxNm5UjbOvOkxeHBmAQADAgADeAADPQQ",
+          "file_unique_id": "AQADGQ1rG8TZuVJ9",
+          "file_size": 70021,
+          "width": 800,
+          "height": 449
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITAWpXI-GOCt8y_aMZHAjbKzTDSx4LAAIZDWsbxNm5UjbOvOkxeHBmAQADAgADeQADPQQ",
+          "file_unique_id": "AQADGQ1rG8TZuVJ-",
+          "file_size": 122961,
+          "width": 1280,
+          "height": 719
+        }
+      ],
+      "caption": "🎁خرید دامین اختصاصی\n\nSite:anything.com\n\nIP:Austrilia🇦🇺\n\nClean IP:✅\n\n💳پلن 24دلاری انتخاب کنید\n\nبین در بخش کامنت\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 22,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 27,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 41,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 128,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 150,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

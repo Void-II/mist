@@ -34921,6 +34921,73 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4893,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784134174,
+      "video": {
+        "duration": 4,
+        "width": 464,
+        "height": 848,
+        "file_name": "IMG_4867.MP4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 464,
+            "height": 848,
+            "codec": "h264",
+            "file_id": "BAACAgIAAyEFAATqPDJ3AAITHWpXuh5l-GW1N6YotPeD53a8XZDuAAK9qAACKXHBSnYvyNl9MCWpPQQ",
+            "file_unique_id": "AgADvagAAilxwUo",
+            "file_size": 784044
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAgADIQUABOo8MncAAhMdale6HlrwkPRaSQeAFOaKdi4ebI4AAgSVAAL22cFKzvTq4QFEkD8BAAdtAAM9BA",
+          "file_unique_id": "AQADBJUAAvbZwUpy",
+          "file_size": 13314,
+          "width": 175,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAgADIQUABOo8MncAAhMdale6HlrwkPRaSQeAFOaKdi4ebI4AAgSVAAL22cFKzvTq4QFEkD8BAAdtAAM9BA",
+          "file_unique_id": "AQADBJUAAvbZwUpy",
+          "file_size": 13314,
+          "width": 175,
+          "height": 320
+        },
+        "file_id": "BAACAgIAAyEFAATqPDJ3AAITHWpXuh5a8JD0WkkHgBTminYuHmyOAAIElQAC9tnBSs706uEBRJA_PQQ",
+        "file_unique_id": "AgADBJUAAvbZwUo",
+        "file_size": 783473
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

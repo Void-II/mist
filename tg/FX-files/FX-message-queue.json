@@ -32865,6 +32865,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4859,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784083293,
+      "media_group_id": "14272666347579988",
+      "video": {
+        "duration": 14,
+        "width": 464,
+        "height": 824,
+        "file_name": "IMG_9053.MP4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 464,
+            "height": 824,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIS-2pW8110zDjpomYyJCHNdXB-jsHfAAIwCAAC8PmwRnNMLgvaMsRxPQQ",
+            "file_unique_id": "AgADMAgAAvD5sEY",
+            "file_size": 2876983
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhL7albzXY27wZkfLkk399gCwGceo1oAAtQGAAIp27lG85n0v13dRwcBAAdtAAM9BA",
+          "file_unique_id": "AQAD1AYAAinbuUZy",
+          "file_size": 9062,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhL7albzXY27wZkfLkk399gCwGceo1oAAtQGAAIp27lG85n0v13dRwcBAAdtAAM9BA",
+          "file_unique_id": "AQAD1AYAAinbuUZy",
+          "file_size": 9062,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIS-2pW812Nu8GZHy5JN_fYAsBnHqNaAALUBgACKdu5RvOZ9L9d3UcHPQQ",
+        "file_unique_id": "AgAD1AYAAinbuUY",
+        "file_size": 2876045
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

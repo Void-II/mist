@@ -36293,6 +36293,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4923,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784150735,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITO2pX-s_HFLSghqnF9qqm9InOb0JMAAJwDmsbSEfAUghX1SnTC2CMAQADAgADcwADPQQ",
+          "file_unique_id": "AQADcA5rG0hHwFJ4",
+          "file_size": 1882,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITO2pX-s_HFLSghqnF9qqm9InOb0JMAAJwDmsbSEfAUghX1SnTC2CMAQADAgADbQADPQQ",
+          "file_unique_id": "AQADcA5rG0hHwFJy",
+          "file_size": 41226,
+          "width": 237,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITO2pX-s_HFLSghqnF9qqm9InOb0JMAAJwDmsbSEfAUghX1SnTC2CMAQADAgADeAADPQQ",
+          "file_unique_id": "AQADcA5rG0hHwFJ9",
+          "file_size": 197295,
+          "width": 592,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITO2pX-s_HFLSghqnF9qqm9InOb0JMAAJwDmsbSEfAUghX1SnTC2CMAQADAgADeQADPQQ",
+          "file_unique_id": "AQADcA5rG0hHwFJ-",
+          "file_size": 361558,
+          "width": 947,
+          "height": 1280
+        }
+      ],
+      "caption": "بیمارستان بقایی کنار لوله سازی اهواز \n\nاین لوله سازی اکثرمحصولاتش رو برای ساخت موشک استفاده میکنه بازم یکی از جنایت های جمهوری قاتل اسلامی که هرچی ساختمان سپاه توی اهواز هست یا کنار مدرسه‌ یا بیمارستان کنارشون وجود داره، اگر هم ساختمون سپاه نباشه موشک سازی هاشو میبره بین مردم قرار میده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 289,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 302,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 328,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 328,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 328,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

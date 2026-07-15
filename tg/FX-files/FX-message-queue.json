@@ -33174,6 +33174,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4864,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784093793,
+      "text": "IPVANSH VPN\n\nIP:🇺🇸\n\n1 Month\n\nClean IP:✅ \n\nبین در بخش کامنت\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 62,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 75,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

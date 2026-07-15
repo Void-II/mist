@@ -33359,6 +33359,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4867,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784108793,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITA2pXVvls1R7Jk3swOl2R2OScCF0EAAJlDWsbSEe4Uuj7uFDqRXdzAQADAgADcwADPQQ",
+          "file_unique_id": "AQADZQ1rG0hHuFJ4",
+          "file_size": 1640,
+          "width": 72,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITA2pXVvls1R7Jk3swOl2R2OScCF0EAAJlDWsbSEe4Uuj7uFDqRXdzAQADAgADbQADPQQ",
+          "file_unique_id": "AQADZQ1rG0hHuFJy",
+          "file_size": 22197,
+          "width": 256,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITA2pXVvls1R7Jk3swOl2R2OScCF0EAAJlDWsbSEe4Uuj7uFDqRXdzAQADAgADeAADPQQ",
+          "file_unique_id": "AQADZQ1rG0hHuFJ9",
+          "file_size": 96427,
+          "width": 640,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITA2pXVvls1R7Jk3swOl2R2OScCF0EAAJlDWsbSEe4Uuj7uFDqRXdzAQADAgADeQADPQQ",
+          "file_unique_id": "AQADZQ1rG0hHuFJ-",
+          "file_size": 183748,
+          "width": 1024,
+          "height": 1280
+        }
+      ],
+      "caption": "مهمونای امشب عادل فردوسی پور🔥\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 31,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 44,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

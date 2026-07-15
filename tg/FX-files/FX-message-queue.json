@@ -33969,6 +33969,96 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4879,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784123014,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITD2pXjoY-YXjihpHDG6iYgeXbOWlEAALiDWsbxNm5UjDKK6iSCy2GAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD4g1rG8TZuVJ4",
+          "file_size": 1334,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITD2pXjoY-YXjihpHDG6iYgeXbOWlEAALiDWsbxNm5UjDKK6iSCy2GAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD4g1rG8TZuVJy",
+          "file_size": 21661,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITD2pXjoY-YXjihpHDG6iYgeXbOWlEAALiDWsbxNm5UjDKK6iSCy2GAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD4g1rG8TZuVJ9",
+          "file_size": 103810,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITD2pXjoY-YXjihpHDG6iYgeXbOWlEAALiDWsbxNm5UjDKK6iSCy2GAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD4g1rG8TZuVJ-",
+          "file_size": 241312,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITD2pXjoY-YXjihpHDG6iYgeXbOWlEAALiDWsbxNm5UjDKK6iSCy2GAQADAgADdwADPQQ",
+          "file_unique_id": "AQAD4g1rG8TZuVJ8",
+          "file_size": 319823,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Pure VPN \n\n⭐️Status: Premium\n➿➿➿➿➿➿➿➿➿➿➿➿\n📨Email: nojem72843@vicitro.com\n\n🔑Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿\n🎗ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\n💫ری اکشن یادتون نره\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 51,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 86,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 198,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 211,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 233,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 233,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -32620,6 +32620,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4855,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784082752,
+      "text": "منابع غربی\nحملات هوایی ایالات متحده، تیپ ۳۸۸ ارتش ایران در شهرستان بمپور، استان سیستان و بلوچستان را اوایل دیشب هدف قرار داد و مستقیماً به پادگان‌هایی که سربازان در آنها مستقر بودند، اصابت کرد.\n\n ده‌ها نفر از جمله تعداد زیادی کشته گزارش شده است.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 247,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 258,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 284,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 284,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 284,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

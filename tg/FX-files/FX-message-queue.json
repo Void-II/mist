@@ -33831,6 +33831,61 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4877,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784119294,
+      "document": {
+        "file_name": "دستورات ترموکس Aether.txt",
+        "mime_type": "text/plain",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAITDWpXf_7boH-DtUzQ-4i7P40mlet1AALgIAACrga5UlXz61ksMAp0PQQ",
+        "file_unique_id": "AgAD4CAAAq4GuVI",
+        "file_size": 257
+      },
+      "caption": "— دستورات مورد نیاز!\n—\n \nپروکسی مورد نیاز\nhttps://t.me/socks?server=127.0.0.1&port=1819\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 20,
+          "type": "blockquote"
+        },
+        {
+          "offset": 33,
+          "length": 1,
+          "type": "blockquote"
+        },
+        {
+          "offset": 42,
+          "length": 45,
+          "type": "url"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 100,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

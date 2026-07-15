@@ -33770,6 +33770,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4876,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784119294,
+      "video": {
+        "duration": 110,
+        "width": 384,
+        "height": 854,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhMMald__vdrL3FL4IpVRoSyNRa5JdIAAl4eAAK5kMFSQSxc77vmErUBAAdtAAM9BA",
+          "file_unique_id": "AQADXh4AArmQwVJy",
+          "file_size": 9795,
+          "width": 144,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhMMald__vdrL3FL4IpVRoSyNRa5JdIAAl4eAAK5kMFSQSxc77vmErUBAAdtAAM9BA",
+          "file_unique_id": "AQADXh4AArmQwVJy",
+          "file_size": 9795,
+          "width": 144,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAITDGpXf_73ay9xS-CKVUaEsjUWuSXSAAJeHgACuZDBUkEsXO-75hK1PQQ",
+        "file_unique_id": "AgADXh4AArmQwVI",
+        "file_size": 19114250
+      },
+      "caption": "🔌💡 آموزش ویدیویی کامل و ساده متود و پروژه Aether بصورت کاملاً رایگان و نامحدود! 🔥\n\nتو این ویدیو قدم به قدم یاد میدم چطور با این اسکریپت یه وی پی ان کاملاً رایگان و با سرعت خوب ران کنی.\n\n— پیش‌نیاز: هیچی!\n— سرعت: خوب و قابل قبول! — حجم: نامحدود!\n\n\nگیتهاب پروژه:\nhttps://github.com/CluvexStudio/Aether\nدستورات مورد نیاز: فایل در پست بعدی!\n‼️ نکته مهمی که یادم رفت در ویدیو بگم: برنامه ترموکس نباید تونل بشود! (از لیست تونل های v2rayNG حذف کنید، یا اگر این قابلیت رو فعال نکردید، باید تیک ترموکس رو بزنید بعنوان اینکه این برنامه تونل نشه!)\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 264,
+          "length": 38,
+          "type": "url"
+        },
+        {
+          "offset": 552,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 552,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 552,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

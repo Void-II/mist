@@ -33004,6 +33004,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4861,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784083712,
+      "text": "هم اکنون متاسفانه باخبر شدیم آسایشگاه سرباز های ایرانشهر هدف قرار گرفته و تعداد زیادی از سرباز ها جون خودشونو از دست دادن و آمار مجروحین هم خیلی بالاست جوری که مرکز انتقال خون ایرانشهر به طور به شدت فوری درخواست اهدای خون از سمت مردم کرده!!!\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 243,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 254,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 280,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 280,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 280,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

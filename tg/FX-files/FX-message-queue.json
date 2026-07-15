@@ -36257,6 +36257,42 @@
       "link_preview_options": {
         "url": "http://Play.google.com/store/apps/details?id=com.accarunit.motionvideoeditor"
       }
+    },
+    {
+      "message_id": 4922,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784148285,
+      "text": "🔴صداوسیما: شدت انفجار های اهواز بالاست، مردم اهواز لطفا از خونه خارج نشن خطرناکه.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

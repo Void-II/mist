@@ -34694,6 +34694,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4890,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784130994,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITGmpXrbKsDEl52Q5GhTg1Jg4UiIriAAK4DWsbSEfAUlW6CeWoBKZpAQADAgADcwADPQQ",
+          "file_unique_id": "AQADuA1rG0hHwFJ4",
+          "file_size": 1172,
+          "width": 90,
+          "height": 42
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITGmpXrbKsDEl52Q5GhTg1Jg4UiIriAAK4DWsbSEfAUlW6CeWoBKZpAQADAgADbQADPQQ",
+          "file_unique_id": "AQADuA1rG0hHwFJy",
+          "file_size": 13947,
+          "width": 320,
+          "height": 148
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITGmpXrbKsDEl52Q5GhTg1Jg4UiIriAAK4DWsbSEfAUlW6CeWoBKZpAQADAgADeAADPQQ",
+          "file_unique_id": "AQADuA1rG0hHwFJ9",
+          "file_size": 58551,
+          "width": 800,
+          "height": 369
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITGmpXrbKsDEl52Q5GhTg1Jg4UiIriAAK4DWsbSEfAUlW6CeWoBKZpAQADAgADeQADPQQ",
+          "file_unique_id": "AQADuA1rG0hHwFJ-",
+          "file_size": 106891,
+          "width": 1280,
+          "height": 590
+        }
+      ],
+      "caption": "اسرائیل: ایران فقط بلده شهرونده عادی بکشه. نمونش این پیرمرد 82 ساله بدبخته که تو حملات ایران به ما کشته شده\n\nسپاه: این پیرمرد بدبخت شهروند عادی نیست. اسمش «مایکل کاتز» هست که مهندس نظامی شرکت تسلیحاتی رافائله اسرائیله\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 219,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

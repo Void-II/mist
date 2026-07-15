@@ -36184,6 +36184,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4921,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784148215,
+      "text": "🔰Motion Ninja🔰\n\n🔎 GooglePlayLink\n\n💡4.1.6 | #edit\n\n\nⓂ️ نسخه vip شده\n \n◈ اشتراک پرمیوم فعال شده👑✓ \n◈ اشتراک دائمی فعال شده👌✓\n◈ حذف فایل‌های اضافه✓\n\n✪ معماری: arm64-v8\n\n\nتوضیحات درباره برنامه:\nویرایشگر ویدیوی PRO رایگان با صفحه سبز ، موسیقی ، پیپ ، جلوه ، قاب و ماسک.\n\nلحظه های زندگی خود را ثبت کنید و آنها را به فیلم های خلاقانه تبدیل کنید!\n\nMotion Ninja \nیک برنامه رایگان زیبایی ویرایشگر ویدیو برای هر دو حرفه ای و آماتور است. مانند Keyframe Animation ، PIP ، Transition ، کلید Chroma ، جلوه های ویژه عکس مگا و موارد دیگر مانند یک کارگردان حرفه ای فیلم هایی به سبک هالیوود با قدرت عالی ایجاد کنید.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 21,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.accarunit.motionvideoeditor"
+        },
+        {
+          "offset": 47,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 196,
+          "length": 407,
+          "type": "blockquote"
+        },
+        {
+          "offset": 693,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/150273"
+        },
+        {
+          "offset": 722,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 741,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 758,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 781,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 781,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 781,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://Play.google.com/store/apps/details?id=com.accarunit.motionvideoeditor"
+      }
     }
   ]
 }

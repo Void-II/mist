@@ -33096,6 +33096,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4863,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784093553,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS_2pXG3EXI3hlMqFUW8UB5f_pHmgAAxQNaxvE2blSoOeOnameKwABAQADAgADcwADPQQ",
+          "file_unique_id": "AQADFA1rG8TZuVJ4",
+          "file_size": 1607,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS_2pXG3EXI3hlMqFUW8UB5f_pHmgAAxQNaxvE2blSoOeOnameKwABAQADAgADbQADPQQ",
+          "file_unique_id": "AQADFA1rG8TZuVJy",
+          "file_size": 20907,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS_2pXG3EXI3hlMqFUW8UB5f_pHmgAAxQNaxvE2blSoOeOnameKwABAQADAgADeAADPQQ",
+          "file_unique_id": "AQADFA1rG8TZuVJ9",
+          "file_size": 76299,
+          "width": 799,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIS_2pXG3EXI3hlMqFUW8UB5f_pHmgAAxQNaxvE2blSoOeOnameKwABAQADAgADeQADPQQ",
+          "file_unique_id": "AQADFA1rG8TZuVJ-",
+          "file_size": 110398,
+          "width": 1080,
+          "height": 1082
+        }
+      ],
+      "caption": "Api رایگان\nمدل هوش مصنوعی\nGLM 4.7 Flash\napp.ofox.ai\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 40,
+          "length": 11,
+          "type": "url"
+        },
+        {
+          "offset": 53,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 66,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

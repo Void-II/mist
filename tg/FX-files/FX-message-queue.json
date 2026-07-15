@@ -34858,6 +34858,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4892,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784134054,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITHGpXuaZnm7ibN1EIBrfnBKkc02h5AAJcDmsbXxbBUnfcTcrhdYDWAQADAgADcwADPQQ",
+          "file_unique_id": "AQADXA5rG18WwVJ4",
+          "file_size": 2028,
+          "width": 70,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITHGpXuaZnm7ibN1EIBrfnBKkc02h5AAJcDmsbXxbBUnfcTcrhdYDWAQADAgADbQADPQQ",
+          "file_unique_id": "AQADXA5rG18WwVJy",
+          "file_size": 25724,
+          "width": 248,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITHGpXuaZnm7ibN1EIBrfnBKkc02h5AAJcDmsbXxbBUnfcTcrhdYDWAQADAgADeAADPQQ",
+          "file_unique_id": "AQADXA5rG18WwVJ9",
+          "file_size": 105413,
+          "width": 621,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITHGpXuaZnm7ibN1EIBrfnBKkc02h5AAJcDmsbXxbBUnfcTcrhdYDWAQADAgADeQADPQQ",
+          "file_unique_id": "AQADXA5rG18WwVJ-",
+          "file_size": 142149,
+          "width": 839,
+          "height": 1080
+        }
+      ],
+      "caption": "شهدای امروز پادگان ارتش  در بمپور\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 46,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

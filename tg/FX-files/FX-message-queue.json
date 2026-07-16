@@ -303,7 +303,7 @@
       }
     },
     {
-      "message_id": 4983,
+      "message_id": 4984,
       "sender_chat": {
         "id": -1003929813623,
         "title": "Backup",
@@ -315,21 +315,31 @@
         "type": "channel"
       },
       "date": 1784234498,
-      "text": "‼️ مثل اینکه اینترنت اختلال داره ، برای من که ضعیف شده\nداخل گیم پینگ ۲۵۰😐\n\n• Sent via TeleFeed",
+      "text": "حمله بی‌رحمانه آمریکا به بندر سیریک در جنوب ایران.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
       "entities": [
         {
-          "offset": 87,
+          "offset": 52,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 63,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 89,
           "length": 8,
           "type": "text_link",
           "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
         },
         {
-          "offset": 87,
+          "offset": 89,
           "length": 8,
           "type": "bold"
         },
         {
-          "offset": 87,
+          "offset": 89,
           "length": 8,
           "type": "underline"
         }

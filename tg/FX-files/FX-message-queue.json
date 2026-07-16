@@ -2064,6 +2064,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5018,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784235878,
+      "video": {
+        "duration": 12,
+        "width": 256,
+        "height": 480,
+        "file_name": "IMG_3562.MP4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 256,
+            "height": 480,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITmmpZR2abstagPu5WfU_mmdGTpnM5AAI0HgACvl3IUqFAfI10UGwAAT0E",
+            "file_unique_id": "AgADNB4AAr5dyFI",
+            "file_size": 714458
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhOaallHZlJiv0MrXYaDD7N0nWYgy7IAAo4iAAJRwshSxNe00zbOrSEBAAdtAAM9BA",
+          "file_unique_id": "AQADjiIAAlHCyFJy",
+          "file_size": 4914,
+          "width": 171,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhOaallHZlJiv0MrXYaDD7N0nWYgy7IAAo4iAAJRwshSxNe00zbOrSEBAAdtAAM9BA",
+          "file_unique_id": "AQADjiIAAlHCyFJy",
+          "file_size": 4914,
+          "width": 171,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAITmmpZR2ZSYr9DK12Ggw-zdJ1mIMuyAAKOIgACUcLIUsTXtNM2zq0hPQQ",
+        "file_unique_id": "AgADjiIAAlHCyFI",
+        "file_size": 714364
+      },
+      "caption": "انهدام یک لانچر هایمارس\n\n\n\n\nتوسط ایران در کویت هم اکنون\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 68,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

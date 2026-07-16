@@ -4099,6 +4099,97 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5058,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784238938,
+      "media_group_id": "14273911510911052",
+      "video": {
+        "duration": 7,
+        "width": 720,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 720,
+            "height": 1280,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITwmpZU1o1hPPMkZZz2JbF8q2zmLgvAAIgIAAC0ZvQUii8Eq19qqCtPQQ",
+            "file_unique_id": "AgADICAAAtGb0FI",
+            "file_size": 627573
+          },
+          {
+            "width": 720,
+            "height": 1280,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITwmpZU1qZkXO9bmkS8wWLQ-fEXdoOAAJjHwACyRXIUvi7aMhv-qHbPQQ",
+            "file_unique_id": "AgADYx8AAskVyFI",
+            "file_size": 897016
+          },
+          {
+            "width": 480,
+            "height": 852,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITwmpZU1oxImbaBSIZbQLH661TTRanAAK2KQAC_7_JUqh23-nor9AgPQQ",
+            "file_unique_id": "AgADtikAAv-_yVI",
+            "file_size": 302750
+          },
+          {
+            "width": 480,
+            "height": 852,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITwmpZU1qhGZF-Y_hkkLWloAnpQaU6AAK3GwAC_x_JUtmvQin07oUVPQQ",
+            "file_unique_id": "AgADtxsAAv8fyVI",
+            "file_size": 411914
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhPCallTWsBLFKA2EEtYLN4njcOGoZcAApscAAJibMhSh9fK7y1Gz8oBAAdtAAM9BA",
+          "file_unique_id": "AQADmxwAAmJsyFJy",
+          "file_size": 11443,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhPCallTWsBLFKA2EEtYLN4njcOGoZcAApscAAJibMhSh9fK7y1Gz8oBAAdtAAM9BA",
+          "file_unique_id": "AQADmxwAAmJsyFJy",
+          "file_size": 11443,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAITwmpZU1rASxSgNhBLWCzeJ43DhqGXAAKbHAACYmzIUofXyu8tRs_KPQQ",
+        "file_unique_id": "AgADmxwAAmJsyFI",
+        "file_size": 2365566
+      },
+      "caption": "🔴بوشهر رو همچنان دارن سنگین میزنن :\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 49,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 49,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 49,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

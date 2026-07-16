@@ -860,6 +860,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4995,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784234978,
+      "text": "⏺دو تن از کارکنان \n\n\n\nاداره راه آهن بندرعباس \n\n\n\nبه شهادت رسیدند\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 64,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 77,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 103,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

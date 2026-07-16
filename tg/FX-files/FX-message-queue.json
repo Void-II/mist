@@ -1135,6 +1135,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4970,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784233658,
+      "text": "🔴یه تریلی تانکر سوخت رو پل بوده که هدف قرار گرفته و منفجر شده، راننده‌هم متاسفانه جونش رو از دست داده.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 105,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 116,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 142,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

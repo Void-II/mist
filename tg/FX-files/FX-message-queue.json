@@ -4445,6 +4445,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5064,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784239659,
+      "media_group_id": "14273917275513908",
+      "document": {
+        "file_name": "🇺🇸@Error404Bin.conf",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAITyGpZViv9BzPwIg1GHblIAoGTN-mQAALCGgACboHJUuRfKxEV09zlPQQ",
+        "file_unique_id": "AgADwhoAAm6ByVI",
+        "file_size": 243
+      },
+      "caption": "💥تعدادی سرور وایرگارد قابل استفاده در\nAmnezia\nWg Tunnel\n\n⚡️سرورها در برای گیم هم قابل استفاده هستند\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 102,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 115,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 137,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

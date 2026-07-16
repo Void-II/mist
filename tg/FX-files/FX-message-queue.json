@@ -36715,6 +36715,72 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4931,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784192316,
+      "video": {
+        "duration": 17,
+        "width": 352,
+        "height": 624,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhNDalidPMVkigZi7eqv1UYRpo4RlC0AAg0cAAJIR8BSd8PrlKHvFnABAAdtAAM9BA",
+          "file_unique_id": "AQADDRwAAkhHwFJy",
+          "file_size": 11825,
+          "width": 181,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhNDalidPMVkigZi7eqv1UYRpo4RlC0AAg0cAAJIR8BSd8PrlKHvFnABAAdtAAM9BA",
+          "file_unique_id": "AQADDRwAAkhHwFJy",
+          "file_size": 11825,
+          "width": 181,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAITQ2pYnTzFZIoGYu3qr9VGEaaOEZQtAAINHAACSEfAUnfD65Sh7xZwPQQ",
+        "file_unique_id": "AgADDRwAAkhHwFI",
+        "file_size": 1571140
+      },
+      "caption": "داخل حرم نیست فکر میکنم\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 24,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 37,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

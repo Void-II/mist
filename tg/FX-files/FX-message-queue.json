@@ -3512,6 +3512,80 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5047,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784238098,
+      "video": {
+        "duration": 26,
+        "width": 1220,
+        "height": 688,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 848,
+            "height": 480,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAITt2pZUBJwwfcV_x7iC214l0BN-e8MAAIOCAACNYDRRkUGYFImwRLUPQQ",
+            "file_unique_id": "AgADDggAAjWA0UY",
+            "file_size": 1496773
+          },
+          {
+            "width": 848,
+            "height": 480,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAITt2pZUBLVZv5fdvCSguIB0BH_Zh-ZAAKOCwAC2kTRRqm0Bz2dhBMsPQQ",
+            "file_unique_id": "AgADjgsAAtpE0UY",
+            "file_size": 1854762
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhO3allQEjfA37Ll0mGBY4TAWKAxJHUAAr0FAAL06MlG9AqGGc1XaHkBAAdtAAM9BA",
+          "file_unique_id": "AQADvQUAAvToyUZy",
+          "file_size": 8276,
+          "width": 320,
+          "height": 180
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhO3allQEjfA37Ll0mGBY4TAWKAxJHUAAr0FAAL06MlG9AqGGc1XaHkBAAdtAAM9BA",
+          "file_unique_id": "AQADvQUAAvToyUZy",
+          "file_size": 8276,
+          "width": 320,
+          "height": 180
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAITt2pZUBI3wN-y5dJhgWOEwFigMSR1AAK9BQAC9OjJRvQKhhnNV2h5PQQ",
+        "file_unique_id": "AgADvQUAAvToyUY",
+        "file_size": 2970156
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

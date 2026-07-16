@@ -445,6 +445,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4987,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784234613,
+      "text": "گزارش رادار #کلودفلر: کاهش ترافیک اینترنت در چند استان؛ اصفهان، فارس و خراسان رضوی در صدر افت\n\n🔹 بررسی داده‌های رادار کلودفلر از وضعیت #ترافیک_اینترنت ایران در بازه‌های ۴۸ ساعت و هفت روز اخیر نشان می‌دهد که چند استان از جمله اصفهان، فارس، خراسان رضوی، البرز و تهران با کاهش نسبی ترافیک اینترنت مواجه بوده‌اند؛ موضوعی که می‌تواند نشانه‌ای از اختلال یا افت کیفیت دسترسی در این مناطق باشد./ #سیتنا\n\nهم‌زمانی کاهش ترافیک در چند استان، به‌ویژه در مراکز پرجمعیت، می‌تواند نشانه‌ای از اختلال در زیرساخت ارتباطی یا کاهش کیفیت خدمات اینترنت باشد؛ موضوعی که معمولاً با گزارش‌های کاربران درباره کندی یا دشواری دسترسی به برخی سرویس‌های اینترنتی هم‌زمان می‌شود.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 12,
+          "length": 8,
+          "type": "hashtag"
+        },
+        {
+          "offset": 136,
+          "length": 15,
+          "type": "hashtag"
+        },
+        {
+          "offset": 389,
+          "length": 6,
+          "type": "hashtag"
+        },
+        {
+          "offset": 397,
+          "length": 252,
+          "type": "blockquote"
+        },
+        {
+          "offset": 651,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 662,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 688,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 688,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 688,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

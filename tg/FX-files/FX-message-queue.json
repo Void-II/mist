@@ -2131,6 +2131,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5019,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784235938,
+      "text": "🔴استانداری هرمزگان اعلام کرد محورهای زیر تا اطلاع ثانوی مسدود هستند:\n\n🔹محور بندرعباس - خمیر - لار به‌طور کامل مسدود است.\n\n🔹محور کشار - کهورستان نیز مسدود شده است.\n\n🔹استانداری هرمزگان از شهروندان خواست از هرگونه تردد در محورهای یادشده و مناطق مجاور خودداری کرده، از مسیرهای جایگزین استفاده کنند و مسیر را برای تردد نیروهای امدادی، انتظامی و آتش‌نشانی باز نگه دارند.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 370,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 381,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 407,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 407,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 407,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -36827,6 +36827,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4933,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784192676,
+      "text": "چالش سخت با جایزه خیلی خیلی عالی\nبرنده اکانت فیلترشکن\nabscura vpn\nیه اهنگ ناقص تو کامنت های پست ارسال میشه شما باید کاملشو بفرستید اولین نفر برنده اس (منصفانه بازی کنید از هوش مصنوعی و... کمک نگیرید)\nاین فیلترشکن عین مولواد وی پی انه و شرکت بنیان گذار ارز معروف بیتکوین ساخته ش\n @XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 54,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 200,
+          "length": 77,
+          "type": "blockquote"
+        },
+        {
+          "offset": 279,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 302,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 302,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 302,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

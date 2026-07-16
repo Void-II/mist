@@ -2847,6 +2847,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5034,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784237138,
+      "text": "سمت پل مراکز نظامی اینا نرین اگه نت قطع شد\n\nواسه کنجکاوی هم شده اینکارو نکنید\n\nسمت جای که انفجار صورت میگیره هم نرین\n\nدنبال جانبازی و ایثارگری این کسشرا نباشید خودتونو بگا میدین میمیرین\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 187,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 198,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 224,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

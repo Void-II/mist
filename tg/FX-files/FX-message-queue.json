@@ -456,6 +456,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4957,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784232938,
+      "text": "وقوع حداقل ۱۰ انفجار مجدد در قشم\n\nدر پی حملات هوایی آمریکا، منابع محلی از شنیده شدن صدای حداقل ۱۰ انفجار مجدد در جزیره قشم خبر می‌دهند.\n\nاین انفجارها ناشی از تجاوز هوایی دشمن آمریکایی گزارش شده است./مهر\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 204,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 241,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

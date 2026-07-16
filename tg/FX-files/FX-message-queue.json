@@ -997,6 +997,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4967,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784233310,
+      "text": "🔴مقاومت عراق اعلام کرد که مبلغ 10 میلیون دلار به عنوان جایزه ترور ترامپ تعیین شده \n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 85,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 96,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -1181,6 +1181,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4971,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784233672,
+      "video": {
+        "duration": 24,
+        "width": 480,
+        "height": 848,
+        "file_name": "167.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 480,
+            "height": 848,
+            "codec": "av01",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAITa2pZPshdnm4FgmlzxiThWvpE7SO_AALRCAACIPHIRielAXELGp3VPQQ",
+            "file_unique_id": "AgAD0QgAAiDxyEY",
+            "file_size": 1124056
+          },
+          {
+            "width": 480,
+            "height": 848,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAITa2pZPsgU1AnMHT1WwLfouePKHOlMAAL5BgACJmDJRrlWBIab2X3TPQQ",
+            "file_unique_id": "AgAD-QYAAiZgyUY",
+            "file_size": 1583081
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhNralk-yPYWL6SVCWUMwl5UKqKWLbQAAkUFAALY78lGgIId8ROuKBYBAAdtAAM9BA",
+          "file_unique_id": "AQADRQUAAtjvyUZy",
+          "file_size": 7299,
+          "width": 181,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhNralk-yPYWL6SVCWUMwl5UKqKWLbQAAkUFAALY78lGgIId8ROuKBYBAAdtAAM9BA",
+          "file_unique_id": "AQADRQUAAtjvyUZy",
+          "file_size": 7299,
+          "width": 181,
+          "height": 320
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAITa2pZPsj2Fi-klQllDMJeVCqili20AAJFBQAC2O_JRoCCHfETrigWPQQ",
+        "file_unique_id": "AgADRQUAAtjvyUY",
+        "file_size": 1753470
+      },
+      "caption": "🔴 در حمله آمریکا به یکی از پل‌های کهورستان بندرعباس، گویا یه ماشین از پل سقوط کرده.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 97,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

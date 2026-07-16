@@ -37738,6 +37738,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4950,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784220753,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITVmpZDFGdFU8boUBffZIjyjuMYW0nAAIND2sbU4fJUpTnJDuD4j81AQADAgADcwADPQQ",
+          "file_unique_id": "AQADDQ9rG1OHyVJ4",
+          "file_size": 1341,
+          "width": 90,
+          "height": 86
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITVmpZDFGdFU8boUBffZIjyjuMYW0nAAIND2sbU4fJUpTnJDuD4j81AQADAgADbQADPQQ",
+          "file_unique_id": "AQADDQ9rG1OHyVJy",
+          "file_size": 20735,
+          "width": 320,
+          "height": 307
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITVmpZDFGdFU8boUBffZIjyjuMYW0nAAIND2sbU4fJUpTnJDuD4j81AQADAgADeQADPQQ",
+          "file_unique_id": "AQADDQ9rG1OHyVJ-",
+          "file_size": 69276,
+          "width": 840,
+          "height": 806
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITVmpZDFGdFU8boUBffZIjyjuMYW0nAAIND2sbU4fJUpTnJDuD4j81AQADAgADeAADPQQ",
+          "file_unique_id": "AQADDQ9rG1OHyVJ9",
+          "file_size": 80783,
+          "width": 800,
+          "height": 768
+        }
+      ],
+      "caption": "افزونه VPN فایرفاکس\n100 لوکیشن\nهر 1 ساعت پروکسیاش عوض میشه\nحجم افزونه 20KB\nSet Proxy\nhttps://addons.mozilla.org/en-US/firefox/addon/set-proxy/\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 85,
+          "length": 57,
+          "type": "url"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 155,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

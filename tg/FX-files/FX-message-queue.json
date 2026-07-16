@@ -1107,6 +1107,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5000,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784235278,
+      "text": "درمورد احتمال عملیات زمینی هنوز برای قضاوت خیلی زود هست، ترامپ تنها چند روز پیش بود که به کنگره اطمینان داد قصد اعزام نیروی زمینی به ایران را ندارد. اما از دیشب تا امروز یک چیزی در محاسبات آمریکایی ها تغییر کرده است که به صورت ناگهانی سطح تنش را یک هفته جلو تر از آنچه خود ترامپ در تصور داشت انداخته اند. فعلا باید حملات امشب را به پای ادامه هشدار ها بنویسیم، اما مثل همیشه این نوع حملات علاوه بر هشدار، زمینه ساز اقدامات بعدی هستند تا اگر روزی تصمیم جدیدی اتخاذ شد، همه چیز آماده باشد.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 488,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 499,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 525,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 525,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 525,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

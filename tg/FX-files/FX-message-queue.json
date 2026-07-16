@@ -874,6 +874,83 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4965,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784233298,
+      "video": {
+        "duration": 9,
+        "width": 352,
+        "height": 640,
+        "file_name": "ndREt9_jvTlY6Q_remux.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 352,
+            "height": 640,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAITZWpZPVKPRy53YUFk25jAEdlCPh7WAAKFBwACLN_IRkRUMwhGYzsbPQQ",
+            "file_unique_id": "AgADhQcAAizfyEY",
+            "file_size": 172038
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhNlalk9UuYLN2qEuXEOCYVdcZmOEbwAAu4IAAJpeslGYngurUsYXnEBAAdtAAM9BA",
+          "file_unique_id": "AQAD7ggAAml6yUZy",
+          "file_size": 1888,
+          "width": 176,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhNlalk9UuYLN2qEuXEOCYVdcZmOEbwAAu4IAAJpeslGYngurUsYXnEBAAdtAAM9BA",
+          "file_unique_id": "AQAD7ggAAml6yUZy",
+          "file_size": 1888,
+          "width": 176,
+          "height": 320
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAITZWpZPVLmCzdqhLlxDgmFXXGZjhG8AALuCAACaXrJRmJ4Lq1LGF5xPQQ",
+        "file_unique_id": "AgAD7ggAAml6yUY",
+        "file_size": 176135
+      },
+      "caption": "صدای انفجار و پرواز جنگنده بر فراز ایرانشهر\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 45,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 56,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 82,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

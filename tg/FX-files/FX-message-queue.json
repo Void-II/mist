@@ -558,6 +558,72 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4959,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784232998,
+      "video": {
+        "duration": 10,
+        "width": 272,
+        "height": 480,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 272,
+            "height": 480,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITX2pZPCboWrUpMThWj2FPG3nBMSvTAAJFKQACmvnIUh4gc_-KD_DYPQQ",
+            "file_unique_id": "AgADRSkAApr5yFI",
+            "file_size": 986027
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhNfalk8Jv-2_gzJgYYm9U_xMH9VngUAAsUdAAKXKMhSKnDQ_4aarIwBAAdtAAM9BA",
+          "file_unique_id": "AQADxR0AApcoyFJy",
+          "file_size": 4788,
+          "width": 181,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhNfalk8Jv-2_gzJgYYm9U_xMH9VngUAAsUdAAKXKMhSKnDQ_4aarIwBAAdtAAM9BA",
+          "file_unique_id": "AQADxR0AApcoyFJy",
+          "file_size": 4788,
+          "width": 181,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAITX2pZPCb_tv4MyYGGJvVP8TB_VZ4FAALFHQAClyjIUipw0P-GmqyMPQQ",
+        "file_unique_id": "AgADxR0AApcoyFI",
+        "file_size": 986807
+      },
+      "caption": "پل کاهور، واقع در منطقه کاهورهستان، بندرعباس، مورد اصابت مهمات آمریکایی قرار گرفت.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

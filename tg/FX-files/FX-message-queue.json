@@ -828,6 +828,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4964,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784233238,
+      "text": "عمو عزیزتان ترامپ اومده ازادتون کنه\n\nمادر جنده بهتون میگه تروریست\n\nداره زیر ساخت هامون میزنن\n\nخار همه چیز رو داره میگاد بعد میگه پشت مردمم\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 140,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 151,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 177,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

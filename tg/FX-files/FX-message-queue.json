@@ -37005,6 +37005,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4937,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784197984,
+      "text": "📣اطلاعیه \n\nکد تخفیف 10 درصدی برای ده خرید اول\n\nمدت استفاده 3 ساعت مخصوص اعضای بات\n\narvanping \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 98,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 112,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 128,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 159,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 159,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 159,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

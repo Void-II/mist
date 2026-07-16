@@ -114,6 +114,101 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4952,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784221057,
+      "video": {
+        "duration": 103,
+        "width": 590,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 588,
+            "height": 1280,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITWGpZDYH7hOUnovsn1Uw6ZfKikgABKAACLB0AAlBsyVJWXa9o1q6sbT0E",
+            "file_unique_id": "AgADLB0AAlBsyVI",
+            "file_size": 9701934
+          },
+          {
+            "width": 588,
+            "height": 1280,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITWGpZDYHEUJuO48SEtMoeOzLz8QhXAALRGgACMr7JUvhxWnLWe-QqPQQ",
+            "file_unique_id": "AgAD0RoAAjK-yVI",
+            "file_size": 10792349
+          },
+          {
+            "width": 392,
+            "height": 856,
+            "codec": "av01",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITWGpZDYFSqmj21KUBhx5pcXfwgz6fAALpIQAC63TIUgrJ-CvUfuFRPQQ",
+            "file_unique_id": "AgAD6SEAAut0yFI",
+            "file_size": 8225328
+          },
+          {
+            "width": 392,
+            "height": 856,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAITWGpZDYG_Eh0bobvlgpBI1h8DRD9ZAAJ9GAACH8TJUgeSuWwIwbvoPQQ",
+            "file_unique_id": "AgADfRgAAh_EyVI",
+            "file_size": 8729673
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhNYalkNgejHxhWi1ZiQkGHEkuXz6_UAAiYcAAI5M8lSlgABWgAB_9THaQEAB20AAz0E",
+          "file_unique_id": "AQADJhwAAjkzyVJy",
+          "file_size": 584,
+          "width": 148,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhNYalkNgejHxhWi1ZiQkGHEkuXz6_UAAiYcAAI5M8lSlgABWgAB_9THaQEAB20AAz0E",
+          "file_unique_id": "AQADJhwAAjkzyVJy",
+          "file_size": 584,
+          "width": 148,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAITWGpZDYHox8YVotWYkJBhxJLl8-v1AAImHAACOTPJUpYAAVoAAf_Ux2k9BA",
+        "file_unique_id": "AgADJhwAAjkzyVI",
+        "file_size": 13072429
+      },
+      "caption": "قرعه‌کشی چالش ها مطابق ویدئو انجام شده و شات های گرفته شده تو پست مربوط هر چالش ارسال و برنده ها مشخص خواهند شد\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 112,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

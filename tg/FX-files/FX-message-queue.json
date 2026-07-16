@@ -37298,6 +37298,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4943,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784203237,
+      "text": "پرسپولیس:\nجذب زارع، جلالی، تیکدری، عیدی، پورعلی و شهرآبادی\nتمدید علیپور\n\nتراکتور:\nجذب دانشگر، پارسا جعفری و حبیبی‌نژاد\nتمدید اسماعیلی‌فر\n\nسپاهان:\nجذب ثابت ایمانی و جلالی‌وند\nتمدید نورافکن، حسینی، حاج‌صفی، کریمی، رضاوند و زکی‌پور\n\n نساجی که از لیگ یک اومده:\nجذب آقایی‌پور، ایری، کسری طاهری و جعفرپور\n\nاستقلال؟ صفر تمدید صفر خرید\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 329,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 340,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 366,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

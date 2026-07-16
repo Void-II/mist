@@ -37206,6 +37206,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 4941,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784202097,
+      "text": "جی‌دی ونس: اگه رژیم بپاشه، ۹۴ میلیون آدم درمانده به اروپا و ایالات متحده سرازیر میشن! و وقتی تروریست‌ها در همه جای دنیا پخش میشن، زیرساخت تروریستی‌ شکل می‌گیره!\n\nتروریست تویی اون امریکایی کس ننه ترامپ مادر جندت\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 212,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 223,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 249,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

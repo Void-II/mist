@@ -1899,6 +1899,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5015,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784235775,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITl2pZRv9c6I679E4MAWJrpcUEVC2iAALND2sboxTIUheatS4_lIEQAQADAgADcwADPQQ",
+          "file_unique_id": "AQADzQ9rG6MUyFJ4",
+          "file_size": 1416,
+          "width": 79,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITl2pZRv9c6I679E4MAWJrpcUEVC2iAALND2sboxTIUheatS4_lIEQAQADAgADbQADPQQ",
+          "file_unique_id": "AQADzQ9rG6MUyFJy",
+          "file_size": 28984,
+          "width": 281,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITl2pZRv9c6I679E4MAWJrpcUEVC2iAALND2sboxTIUheatS4_lIEQAQADAgADeAADPQQ",
+          "file_unique_id": "AQADzQ9rG6MUyFJ9",
+          "file_size": 149452,
+          "width": 702,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITl2pZRv9c6I679E4MAWJrpcUEVC2iAALND2sboxTIUheatS4_lIEQAQADAgADeQADPQQ",
+          "file_unique_id": "AQADzQ9rG6MUyFJ-",
+          "file_size": 275079,
+          "width": 1080,
+          "height": 1230
+        }
+      ],
+      "caption": "🔴 تمامی پل هایی که بند خمیر را به بندرعباس متصل می کرد توسط ارتش آمریکا مورد اصابت قرار گرفت.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 96,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 107,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

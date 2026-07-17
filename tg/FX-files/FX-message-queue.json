@@ -6325,6 +6325,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5097,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784305326,
+      "text": "تعداد لایک ها قابل رضایت بود بنابراین بجای دونفر 4نفر برنده شدند\nمبارکشون🥳\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 88,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

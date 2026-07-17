@@ -6142,6 +6142,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5092,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784297873,
+      "text": "🔴پاکستان به ایران هشدار داده که اگه به عربستان حمله کنه، اسلام‌آباد اون رو حمله به خودش تلقی می‌کنه و ممکنه به ایران حمله کنه!\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 125,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 140,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

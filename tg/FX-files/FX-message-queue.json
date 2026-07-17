@@ -6572,6 +6572,69 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5102,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784314026,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIT7mpaeKqW1LD9h9k9eGjCGAABCY9U0AACWQxrG3gv2EYGOzy2uFbCMAEAAwIAA3MAAz0E",
+          "file_unique_id": "AQADWQxrG3gv2EZ4",
+          "file_size": 1344,
+          "width": 86,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIT7mpaeKqW1LD9h9k9eGjCGAABCY9U0AACWQxrG3gv2EYGOzy2uFbCMAEAAwIAA20AAz0E",
+          "file_unique_id": "AQADWQxrG3gv2EZy",
+          "file_size": 14384,
+          "width": 307,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIT7mpaeKqW1LD9h9k9eGjCGAABCY9U0AACWQxrG3gv2EYGOzy2uFbCMAEAAwIAA3kAAz0E",
+          "file_unique_id": "AQADWQxrG3gv2EZ-",
+          "file_size": 53884,
+          "width": 1080,
+          "height": 1126
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIT7mpaeKqW1LD9h9k9eGjCGAABCY9U0AACWQxrG3gv2EYGOzy2uFbCMAEAAwIAA3gAAz0E",
+          "file_unique_id": "AQADWQxrG3gv2EZ9",
+          "file_size": 54118,
+          "width": 767,
+          "height": 800
+        }
+      ],
+      "caption": "🔴کانفیگ فروش ها وقتی تحرکات نظامی شدید آمریکا تو منطقه رو میبینن:\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 79,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

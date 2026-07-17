@@ -4996,6 +4996,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5075,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784283066,
+      "text": "ابلاغ دستور آماده باش به دیتاسنتر‌ها برای قطع اینترنت\n\n\nاینو خبرو چن  کانالی دیدم نمیدونم واقعیه یا نه ولی امکانش بالاس چیزای مهمو دان و اپدیت داشته باشید مصل گوشیتون\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 179,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

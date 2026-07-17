@@ -7009,6 +7009,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5111,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784318107,
+      "text": "🔴 سنتکام: سنتکام امروز ساعت ۳ بعد از ظهر به وقت شرق آمریکا، برای هفتمین شب متوالی، دور جدیدی از حملات را علیه ایران آغاز کرد. این حملات با هدف ادامه تضعیف قابلیت‌های نظامی ایران، طبق دستور فرمانده کل قوا، طراحی شده‌اند.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 222,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 259,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 259,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 259,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -7856,6 +7856,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5129,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784319847,
+      "text": "اسامی شهدای حمله آمریکا به پل‌های بندرخمیر\n\nعبدالرحیم جعفری فرد ، محمد مؤیدی ، همایون چترزرین ، مازیار چترزرین ، مریم پراکنده دل ، سوگند دردمند ، فاطمه زهرا اکبری\n\nکس مادر ترامپ\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 179,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 190,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

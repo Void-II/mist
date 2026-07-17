@@ -7810,6 +7810,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5128,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784319483,
+      "text": "بر اساس گزارش‌ها، وزارت خزانه‌داری آمریکا (OFAC) صدور و تمدید گواهی امنیتی SSL را برای خبرگزاری حکومتی فارس مسدود کرد.\n\n شرکت‌های بین‌المللی مانند دیجی‌سرت و لتس‌انکریپت به دلیل تحریم‌ها، از ارائه خدمات امنیتی به دامنه‌های این رسانه خودداری کرده‌اند.\n گزارشهایی مبنی بر  ارسال بدافزار  یا موارد اینچنینی و نبود این گواهی باعث نمایش هشدارهای امنیتی شدید در مرورگرها و ایجاد مانع برای ورود کاربران  به این سایت می‌شود. \n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 419,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 430,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 456,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 456,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 456,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

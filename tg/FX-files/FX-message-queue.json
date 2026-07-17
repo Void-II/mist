@@ -6675,6 +6675,42 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5104,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784314626,
+      "text": "vless://d42f7afd-ec0a-4176-8a9b-bff2c4963023@91.107.174.64:59283?encryption=none&security=none&type=tcp#DE-Test\n\n100 گیگ سرور اهدایی از طرف ممبر عزیزمون\n\nبراش یه قلب بذارید دوستان❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

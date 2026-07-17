@@ -7193,6 +7193,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5115,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784318347,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT-2paiYsNid2Deu28o5gsdcSfrewMAAL4DmsbfiPRUjLfKZyXaKDZAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD-A5rG34j0VJ4",
+          "file_size": 1159,
+          "width": 90,
+          "height": 57
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT-2paiYsNid2Deu28o5gsdcSfrewMAAL4DmsbfiPRUjLfKZyXaKDZAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD-A5rG34j0VJy",
+          "file_size": 17822,
+          "width": 320,
+          "height": 202
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT-2paiYsNid2Deu28o5gsdcSfrewMAAL4DmsbfiPRUjLfKZyXaKDZAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD-A5rG34j0VJ9",
+          "file_size": 65392,
+          "width": 800,
+          "height": 506
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT-2paiYsNid2Deu28o5gsdcSfrewMAAL4DmsbfiPRUjLfKZyXaKDZAQADAgADdwADPQQ",
+          "file_unique_id": "AQAD-A5rG34j0VJ8",
+          "file_size": 84845,
+          "width": 1290,
+          "height": 816
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT-2paiYsNid2Deu28o5gsdcSfrewMAAL4DmsbfiPRUjLfKZyXaKDZAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD-A5rG34j0VJ-",
+          "file_size": 127574,
+          "width": 1280,
+          "height": 810
+        }
+      ],
+      "caption": "💢〰️ فوری/ سنت‌کام: دور جدید حملات از الان شروع شد.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 5,
+          "length": 46,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

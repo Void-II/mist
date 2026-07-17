@@ -6001,6 +6001,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5091,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784297827,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT42paOWOpL7iBUk4lOd-DLp4AAV8YMwACdg5rG1OH0VLjjWty9HlAlgEAAwIAA3MAAz0E",
+          "file_unique_id": "AQADdg5rG1OH0VJ4",
+          "file_size": 2126,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT42paOWOpL7iBUk4lOd-DLp4AAV8YMwACdg5rG1OH0VLjjWty9HlAlgEAAwIAA20AAz0E",
+          "file_unique_id": "AQADdg5rG1OH0VJy",
+          "file_size": 27029,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT42paOWOpL7iBUk4lOd-DLp4AAV8YMwACdg5rG1OH0VLjjWty9HlAlgEAAwIAA3gAAz0E",
+          "file_unique_id": "AQADdg5rG1OH0VJ9",
+          "file_size": 105047,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT42paOWOpL7iBUk4lOd-DLp4AAV8YMwACdg5rG1OH0VLjjWty9HlAlgEAAwIAA3kAAz0E",
+          "file_unique_id": "AQADdg5rG1OH0VJ-",
+          "file_size": 209669,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Stellar VPN\n\n🌟Status: Premium\n\n⏳Exp:2026/07/25\n➿➿➿➿➿➿➿➿➿➿➿➿\n📧Email: nojem72843@vicitro.com\n\n🔑Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿➿\n📍ظرفیت اکانت محدود میباشد\n\n➿➿➿➿➿➿\nGoogle Play  App Store\n\nWindows\n\n🍄ری اکشن یادتون نره \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 8,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 15,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 63,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 70,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 96,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 105,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 117,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 156,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 164,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.stellar.stellarvpn"
+        },
+        {
+          "offset": 177,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://stellarvpn.org/download?product=ios"
+        },
+        {
+          "offset": 188,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://stellarvpn.org/download?product=windows"
+        },
+        {
+          "offset": 196,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 221,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

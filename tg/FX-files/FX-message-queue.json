@@ -4640,6 +4640,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5068,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784277966,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITzGpZ687J31yxIi8c9l9UwYvRSX2_AAK3DWsbGPPRUr15eEs6X06EAQADAgADcwADPQQ",
+          "file_unique_id": "AQADtw1rGxjz0VJ4",
+          "file_size": 1282,
+          "width": 90,
+          "height": 69
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITzGpZ687J31yxIi8c9l9UwYvRSX2_AAK3DWsbGPPRUr15eEs6X06EAQADAgADbQADPQQ",
+          "file_unique_id": "AQADtw1rGxjz0VJy",
+          "file_size": 14233,
+          "width": 320,
+          "height": 246
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITzGpZ687J31yxIi8c9l9UwYvRSX2_AAK3DWsbGPPRUr15eEs6X06EAQADAgADeAADPQQ",
+          "file_unique_id": "AQADtw1rGxjz0VJ9",
+          "file_size": 47940,
+          "width": 800,
+          "height": 616
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAITzGpZ687J31yxIi8c9l9UwYvRSX2_AAK3DWsbGPPRUr15eEs6X06EAQADAgADeQADPQQ",
+          "file_unique_id": "AQADtw1rGxjz0VJ-",
+          "file_size": 62403,
+          "width": 1080,
+          "height": 832
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nتست سرعت لوکیشن امریکا مخصوص رفع تحریم همراه با حجم مصرفی دو برابر بیشتر یعنی با خرید20 گیگ 40 گیگ از این کانفیگ میتونید مصرف کنید\n\nنکته مهم فقط لوکیشن المان 1 دارای مصرف کامل هست\n\nجهت ثبت سفارش و تست رایگان به بات مراجعه کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 242,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 272,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

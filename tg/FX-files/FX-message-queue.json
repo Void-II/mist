@@ -5278,6 +5278,134 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5081,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784286846,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT2WpaDn6oG0N6a-k353YUDrACMgIrAAIIDmsbU4fRUlSD9KV9PcCnAQADAgADcwADPQQ",
+          "file_unique_id": "AQADCA5rG1OH0VJ4",
+          "file_size": 1677,
+          "width": 90,
+          "height": 89
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT2WpaDn6oG0N6a-k353YUDrACMgIrAAIIDmsbU4fRUlSD9KV9PcCnAQADAgADbQADPQQ",
+          "file_unique_id": "AQADCA5rG1OH0VJy",
+          "file_size": 22045,
+          "width": 320,
+          "height": 316
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT2WpaDn6oG0N6a-k353YUDrACMgIrAAIIDmsbU4fRUlSD9KV9PcCnAQADAgADeAADPQQ",
+          "file_unique_id": "AQADCA5rG1OH0VJ9",
+          "file_size": 76841,
+          "width": 800,
+          "height": 790
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT2WpaDn6oG0N6a-k353YUDrACMgIrAAIIDmsbU4fRUlSD9KV9PcCnAQADAgADeQADPQQ",
+          "file_unique_id": "AQADCA5rG1OH0VJ-",
+          "file_size": 147915,
+          "width": 1280,
+          "height": 1264
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIT2WpaDn6oG0N6a-k353YUDrACMgIrAAIIDmsbU4fRUlSD9KV9PcCnAQADAgADdwADPQQ",
+          "file_unique_id": "AQADCA5rG1OH0VJ8",
+          "file_size": 392504,
+          "width": 2559,
+          "height": 2527
+        }
+      ],
+      "caption": "IP Safe VPN\n\n〰〰〰〰〰〰〰〰〰〰〰〰〰〰\n✉️Email: nojem72843@vicitro.com\n\n🔑Password: @Error404Bin\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n⏰ظرفیت اکانت محدود میباشد\n\n📌با فیلتر کمکی خوب لاگین کنید تا سروراش بالا بیاد\nپروتکل اولیه وایرگارد هست با سامانتل وصل میشه اگه نشد تغییر بدید\n〰〰〰〰〰〰〰〰〰〰〰〰〰\n\nGooglePlay   App Store\n\nWindows\nری اکشن و شات یادتون نره 🧡\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 11,
+          "type": "bold"
+        },
+        {
+          "offset": 30,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 37,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 63,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 73,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 258,
+          "length": 10,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.ipsafevpn.vpnapp&utm_source=ipsafevpn"
+        },
+        {
+          "offset": 271,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/app/ip-safe-vpn/id6584527016"
+        },
+        {
+          "offset": 282,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://cdn.ipsafevpn.com/downloads/windows/ipsafevpn-latest.exe"
+        },
+        {
+          "offset": 289,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 320,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 333,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 355,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 355,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 355,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

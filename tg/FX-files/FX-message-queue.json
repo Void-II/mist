@@ -5534,6 +5534,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5085,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784292006,
+      "text": "حتی به یکنفرم نفروختم چون ابلاغیه به دیتاسنتر ها دادن که آماده باشن در صورت لزوم اینترنت قطع کنن من راضی به ضرر کسی نیستم هر چند اگه نت ها هم ملی میشد بعد رفع نت برای ماه بعدش اکانت ها تمدید میشد \n\nخلاصه تو این مملکت اسهال انفجاری هم شیوع پیدا کنه نت مارو قطع میکنن از بی عرضگی خودشنه 90 روز نت قطع کردن یارو هر کی رو خواست ترور کرد همه بانک ها رو هم هک کردن\n\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 198,
+          "length": 160,
+          "type": "bold"
+        },
+        {
+          "offset": 361,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 384,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 384,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 384,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

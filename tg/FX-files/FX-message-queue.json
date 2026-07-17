@@ -6183,6 +6183,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5093,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784298246,
+      "text": "سورفشارک مهلت تا اواخر سال 2027 الان وسطای 2026 ایم \nIkev2 & open\n\nUser : Gq9BxxqTa7VTxE7sUArgYUYh\nPass : xwarskc2mAmmn6vFMVnHp6Az\nPort : 500 / 4500\n\nHostname/Ip :\n217.9.247.4🇦🇱\n91.199.118.48🇩🇪\n92.62.120.115🇦🇲\n23.27.110.51🇦🇿\n194.110.115.219🇧🇪\n45.134.79.151🇫🇷\n92.62.123.101🇬🇱\n217.9.250.85🇰🇿\n146.70.102.205🇦🇪\nطریقه استفاده تو کامنت ها ارسال میشه برای ایرانسل میتونید از اوپن ش استفاده کنید \nنکته بدليل کاربر زیاد تو بعضی ساعت ممکنه وصل شدن با اختلال مواجه شه که باید چندین بار تلاش کنید و اینکه یکبار یه یه سرور وصل شدین تو اپ ذخیره میشه لازم نیست هر بار یوز و پسورد بزنید از طریق کادر بالا 3 لوکیشن اخر که وصل شدین قابل دسترسی هس\nلطفاً چنل دیگه که کاربران زیادی دارن یا افراد که میفروشن کپی نکنید لطفاً ادم باشید همون پول تبلیغات که تلگرام بهتون میده اکانت تهیه کنید بزارید چنل هاتون\n12 اکانت یکساله گلچين شده و خوب برای فروش اماده اس میتونید شخصی تهیه کنید اگه خواستین پیام بدهید با ضمانت عالی میدیم بهتون\n@ShahramSh1996\n\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 52,
+          "type": "bold"
+        },
+        {
+          "offset": 407,
+          "length": 239,
+          "type": "bold"
+        },
+        {
+          "offset": 647,
+          "length": 154,
+          "type": "blockquote"
+        },
+        {
+          "offset": 801,
+          "length": 122,
+          "type": "bold"
+        },
+        {
+          "offset": 924,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 940,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 963,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 963,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 963,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

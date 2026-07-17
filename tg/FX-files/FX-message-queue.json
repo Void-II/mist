@@ -5784,6 +5784,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5088,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784294508,
+      "text": "vless://06069771-bef8-4730-b711-c51efcdad901@onlineprochess.ir:8880?mode=auto&path=%2Fws&security=none&encryption=none&host=tsrety.dpdns.org&type=xhttp#odin_club\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 163,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 176,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

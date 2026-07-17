@@ -6810,6 +6810,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5107,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784316127,
+      "text": "📣اطلاعیه\n\nکد تخفیف ده درصدی بابت اختلال های امروز\n\nمخصوص تمدید و خرید سرویس جدید \n\nبا تمدید سرویس حجم و تایم باقی مانده ریست خواهد شد\n\nبابت قطعی 1 ساعته امروز پوزش میخوایم\n\nکد تخفیف :  arvanping\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 199,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 213,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 229,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

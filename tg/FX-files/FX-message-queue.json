@@ -4759,6 +4759,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5070,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784279946,
+      "text": "پست موقت \n3 تا دونه از این اکانت این فیلترشکن موجود کردیم با قیمت کم، سرور هاش کپی مولواد وی پی ان هس ولی خیلی سریع تر رو همه نت ها وصل میشه فقط برای کاربرای که قبلا ازمون خرید داشتن عصر پیام بدین الان اینجا برقی نی به لطف مسؤلین شارژ گوشیم ته کشیده انتم شده 3g اونم با قطع وصلی\n@ShahramSh1996\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 279,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 306,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

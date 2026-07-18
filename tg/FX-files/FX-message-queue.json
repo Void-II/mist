@@ -9786,6 +9786,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5165,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784382969,
+      "text": "عفت کلام داشته باش کلا ادمین ها و مالکین چنل ها باید یاد بگیرین ممبر ها نوکر شون نیستن که هر کاری بخوان انجام بدن  حالا خنده زدن اون یارو دست خودش نبوده دستش خورده فحش ندین به اداره برق فحش بدین 4 ساعت برق قطع میکنن مادر جنده ها\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 229,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

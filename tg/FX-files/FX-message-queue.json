@@ -11288,6 +11288,110 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5186,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784395749,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUQmpbt-W--t-wH--pD1-1PaK7b0U2AAIWDmsbkfLgUiitwX49fmKWAQADAgADcwADPQQ",
+          "file_unique_id": "AQADFg5rG5Hy4FJ4",
+          "file_size": 2698,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUQmpbt-W--t-wH--pD1-1PaK7b0U2AAIWDmsbkfLgUiitwX49fmKWAQADAgADbQADPQQ",
+          "file_unique_id": "AQADFg5rG5Hy4FJy",
+          "file_size": 45313,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUQmpbt-W--t-wH--pD1-1PaK7b0U2AAIWDmsbkfLgUiitwX49fmKWAQADAgADeAADPQQ",
+          "file_unique_id": "AQADFg5rG5Hy4FJ9",
+          "file_size": 201515,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUQmpbt-W--t-wH--pD1-1PaK7b0U2AAIWDmsbkfLgUiitwX49fmKWAQADAgADeQADPQQ",
+          "file_unique_id": "AQADFg5rG5Hy4FJ-",
+          "file_size": 287170,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "SurfShark Manual Connectin\n\nلیست سرورها\n\nUser : jD5rcvB5BmxaJntV7w4Mbrra\n\nPass : NhuzUBC9HFaArphkaGJAhD3m\n\nاعداد رو وارد کنید\n\n( http:// اگر اولش این اومد پاک کنید )\nIkev2: \n500 - 4500\nپورت ها :\nOpenVPN UDP Port : 3433 - 443 - 80 - 8080 - 8443\nOpenVPN TCP Port : 8443 - 443 - 80 - 8080\nIkev2 : 500 - 4500\n\nوصل شدید شات بفرستید\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 41,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 74,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 166,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 184,
+          "length": 1,
+          "type": "text_link",
+          "url": "https://t.me/itproxyy/4775?single"
+        },
+        {
+          "offset": 185,
+          "length": 119,
+          "type": "bold"
+        },
+        {
+          "offset": 328,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 341,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 363,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 363,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 363,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

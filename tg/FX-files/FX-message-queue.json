@@ -8739,6 +8739,110 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5149,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784375109,
+      "video": {
+        "duration": 19,
+        "width": 1920,
+        "height": 1050,
+        "file_name": "video.mp4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 1280,
+            "height": 700,
+            "codec": "av01",
+            "file_id": "BAACAgIAAyEFAATqPDJ3AAIUHWpbZ0S2AbgG1H9ihlrcvkGTdRdaAAIkpwACvjzgSkr31siM0KI0PQQ",
+            "file_unique_id": "AgADJKcAAr484Eo",
+            "file_size": 1953839
+          },
+          {
+            "width": 1280,
+            "height": 700,
+            "codec": "h264",
+            "file_id": "BAACAgIAAyEFAATqPDJ3AAIUHWpbZ0RafHto9rg-67NWsbtbvxvKAAJemwAC9YfhSoTf6NeM3BVKPQQ",
+            "file_unique_id": "AgADXpsAAvWH4Uo",
+            "file_size": 2618346
+          },
+          {
+            "width": 856,
+            "height": 468,
+            "codec": "av01",
+            "file_id": "BAACAgIAAyEFAATqPDJ3AAIUHWpbZ0S02bCB2D2jlxKEhvllXU_1AAJ5nQACxpzYSgaJ9fvr0y1JPQQ",
+            "file_unique_id": "AgADeZ0AAsac2Eo",
+            "file_size": 1073366
+          },
+          {
+            "width": 856,
+            "height": 468,
+            "codec": "h264",
+            "file_id": "BAACAgIAAyEFAATqPDJ3AAIUHWpbZ0THyYM4jR-eBdmZprvm1qJmAALjlwACeaLYSgN2cB5_nSMdPQQ",
+            "file_unique_id": "AgAD45cAAnmi2Eo",
+            "file_size": 1392612
+          },
+          {
+            "width": 1920,
+            "height": 1050,
+            "codec": "h264",
+            "file_id": "BAACAgIAAyEFAATqPDJ3AAIUHWpbZ0RamgUWa7JdLrzY0Yd7FjHGAAInxgACsanYSuDvmO580shBPQQ",
+            "file_unique_id": "AgADJ8YAArGp2Eo",
+            "file_size": 3254068
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAgADIQUABOo8MncAAhQdaltnRD6HbpqKOY8daA5MRiVUYsgAAuqfAALSU9lKfZ3WFTdS5_8BAAdtAAM9BA",
+          "file_unique_id": "AQAD6p8AAtJT2Upy",
+          "file_size": 11613,
+          "width": 320,
+          "height": 175
+        },
+        "thumb": {
+          "file_id": "AAMCAgADIQUABOo8MncAAhQdaltnRD6HbpqKOY8daA5MRiVUYsgAAuqfAALSU9lKfZ3WFTdS5_8BAAdtAAM9BA",
+          "file_unique_id": "AQAD6p8AAtJT2Upy",
+          "file_size": 11613,
+          "width": 320,
+          "height": 175
+        },
+        "file_id": "BAACAgIAAyEFAATqPDJ3AAIUHWpbZ0Q-h26aijmPHWgOTEYlVGLIAALqnwAC0lPZSn2d1hU3Uuf_PQQ",
+        "file_unique_id": "AgAD6p8AAtJT2Uo",
+        "file_size": 3264020
+      },
+      "caption": "🔴پرواز های کون به کونی هواپيماهای آمریکایی در ۲۴ گذشته از اروپا به خاورمیانه\n\nاین جابجایی ها خبر از یک بگایی شدید در روزهای آینده می‌دهند\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 2,
+          "length": 75,
+          "type": "bold"
+        },
+        {
+          "offset": 151,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 151,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 151,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

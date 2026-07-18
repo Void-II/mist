@@ -10045,6 +10045,110 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5169,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784385789,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUMWpbkP0DUXqVy9H3_KBL9craA41SAALHDWsbkfLgUj5vU_wj579YAQADAgADcwADPQQ",
+          "file_unique_id": "AQADxw1rG5Hy4FJ4",
+          "file_size": 1680,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUMWpbkP0DUXqVy9H3_KBL9craA41SAALHDWsbkfLgUj5vU_wj579YAQADAgADbQADPQQ",
+          "file_unique_id": "AQADxw1rG5Hy4FJy",
+          "file_size": 23180,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUMWpbkP0DUXqVy9H3_KBL9craA41SAALHDWsbkfLgUj5vU_wj579YAQADAgADeAADPQQ",
+          "file_unique_id": "AQADxw1rG5Hy4FJ9",
+          "file_size": 105527,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUMWpbkP0DUXqVy9H3_KBL9craA41SAALHDWsbkfLgUj5vU_wj579YAQADAgADeQADPQQ",
+          "file_unique_id": "AQADxw1rG5Hy4FJ-",
+          "file_size": 225741,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🩵VPN Vault 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: mosigit634@wudiart.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 52,
+          "type": "bold"
+        },
+        {
+          "offset": 53,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 75,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 95,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 109,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.appsverse.avvpn"
+        },
+        {
+          "offset": 120,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 216,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 231,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 253,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -10248,6 +10248,76 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5171,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784386329,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUM2pbkxl4Wm42Yb4lSxMHsT0N53BHAAJTDmsbrRThUrrDZa912XSqAQADAgADcwADPQQ",
+          "file_unique_id": "AQADUw5rG60U4VJ4",
+          "file_size": 1732,
+          "width": 60,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUM2pbkxl4Wm42Yb4lSxMHsT0N53BHAAJTDmsbrRThUrrDZa912XSqAQADAgADbQADPQQ",
+          "file_unique_id": "AQADUw5rG60U4VJy",
+          "file_size": 27619,
+          "width": 213,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUM2pbkxl4Wm42Yb4lSxMHsT0N53BHAAJTDmsbrRThUrrDZa912XSqAQADAgADeAADPQQ",
+          "file_unique_id": "AQADUw5rG60U4VJ9",
+          "file_size": 112085,
+          "width": 533,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUM2pbkxl4Wm42Yb4lSxMHsT0N53BHAAJTDmsbrRThUrrDZa912XSqAQADAgADeQADPQQ",
+          "file_unique_id": "AQADUw5rG60U4VJ-",
+          "file_size": 226962,
+          "width": 853,
+          "height": 1280
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUM2pbkxl4Wm42Yb4lSxMHsT0N53BHAAJTDmsbrRThUrrDZa912XSqAQADAgADdwADPQQ",
+          "file_unique_id": "AQADUw5rG60U4VJ8",
+          "file_size": 284891,
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "caption": "Usa : قیمت سایت 1دلار \nقیمت فروش امروز 100 T\n\nبقیه ی کشورها و پلتفرم ها رو استعلام بگیرید\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

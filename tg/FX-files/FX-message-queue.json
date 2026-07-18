@@ -10841,6 +10841,110 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5180,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784392330,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPGpbqorq7emyKx0HggNu03z4JzmqAALwDWsbkfLgUqopm_YaXqkQAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD8A1rG5Hy4FJ4",
+          "file_size": 955,
+          "width": 90,
+          "height": 58
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPGpbqorq7emyKx0HggNu03z4JzmqAALwDWsbkfLgUqopm_YaXqkQAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD8A1rG5Hy4FJy",
+          "file_size": 7355,
+          "width": 320,
+          "height": 205
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPGpbqorq7emyKx0HggNu03z4JzmqAALwDWsbkfLgUqopm_YaXqkQAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD8A1rG5Hy4FJ-",
+          "file_size": 20504,
+          "width": 1024,
+          "height": 657
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPGpbqorq7emyKx0HggNu03z4JzmqAALwDWsbkfLgUqopm_YaXqkQAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD8A1rG5Hy4FJ9",
+          "file_size": 20770,
+          "width": 800,
+          "height": 513
+        }
+      ],
+      "caption": "🩵ipvanish VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: mosigit634@wudiart.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 55,
+          "type": "bold"
+        },
+        {
+          "offset": 56,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 78,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 98,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 112,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.ixolit.ipvanish"
+        },
+        {
+          "offset": 123,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 219,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 234,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 256,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

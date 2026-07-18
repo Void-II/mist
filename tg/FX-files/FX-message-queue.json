@@ -11577,6 +11577,68 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5191,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784401270,
+      "media_group_id": "14275210163108492",
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIUR2pbzXYi6V_MFBhoxGOhxumo_pDeAAKNDWsbTnPgRqCodHFs4n-hAQADAgADcwADPQQ",
+          "file_unique_id": "AQADjQ1rG05z4EZ4",
+          "file_size": 1264,
+          "width": 90,
+          "height": 55
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIUR2pbzXYi6V_MFBhoxGOhxumo_pDeAAKNDWsbTnPgRqCodHFs4n-hAQADAgADbQADPQQ",
+          "file_unique_id": "AQADjQ1rG05z4EZy",
+          "file_size": 20977,
+          "width": 320,
+          "height": 197
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIUR2pbzXYi6V_MFBhoxGOhxumo_pDeAAKNDWsbTnPgRqCodHFs4n-hAQADAgADeAADPQQ",
+          "file_unique_id": "AQADjQ1rG05z4EZ9",
+          "file_size": 49744,
+          "width": 640,
+          "height": 394
+        }
+      ],
+      "caption": "اوکراینی‌ها یجوری با حمله پهپادی انبارهای روسیه رو ترکوندن که تصاویر آتش سوزی از فضا هم دیده میشه\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 97,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

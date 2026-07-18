@@ -8488,6 +8488,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5143,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784367548,
+      "text": "اطلاع رسانی \n\n\n📢 سرویس VIP جدید به ربات عسلی‌شاپ اضافه شد!\n\nهمین حالا توی ربات @asalishop_bot می‌تونی سرویس VIP رو با ۱۰ لوکیشن تانل‌شده و سرعت بالا تهیه کنی.\n\n👇 برای خرید یا اطلاعات بیشتر برو توی ربات:\n👉 @asalishop_bot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 80,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 208,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 235,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 235,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 235,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

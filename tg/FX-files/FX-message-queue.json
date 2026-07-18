@@ -8416,6 +8416,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5141,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784367311,
+      "text": "This channel is exploiting photos of other girls, extorting them, and engaging in sexual exploitation. I urge Telegram to block this channel as soon as possible and take appropriate action.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

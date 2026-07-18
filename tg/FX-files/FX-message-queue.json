@@ -11392,6 +11392,79 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5187,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784396349,
+      "text": "🔰LEARNit 🔰\n\n🔎 BazarLink\n\n💡 4.0.13 | #learning\n\n\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک پرمیوم فعال شده👑✓ \n◈ حذف فایل‌های اضافه✓\n◈حذف تبلیغات برنامه✓\n\n✪ معماری: armeabi-v7a / arm64-v8a\n\nتوضیحات درباره برنامه:\nلرنیت | آموزش زبان انگلیسی\n\nیادگیری انگلیسی راحت‌تر از همیشه\n\nرایگان امتحان کنید!\nبا بیش از ۴۰۰ هزار زبان‌آموز فعال در ماه\nو رضایت ۹۶ درصدی زبان‌آموزان\n\nویژگی‌های منحصربه‌فرد لرنیت:\n• محتوای آموزشی منظم و درس محور\n• ارائه تمرینات متنوع و بازی‌گونه\n• تقویت مکالمه، شنیدار، درک مطلب و افزایش دایره لغات\nآزمون تعیین سطح هوشمند\n• داستان‌های کوتاه زبان انگلیسی به همراه واژه‌نامه هوشمند\n• پاسخگویی به سوالات درسی توسط اساتید لرنیت\n• واژه‌نامه اختصاصی\n• جعبه لایتنر\n• کوییز (رقابت آنلاین دونفره!)\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://cafebazaar.ir/app/ir.learnit"
+        },
+        {
+          "offset": 40,
+          "length": 9,
+          "type": "hashtag"
+        },
+        {
+          "offset": 201,
+          "length": 491,
+          "type": "blockquote"
+        },
+        {
+          "offset": 781,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/150565"
+        },
+        {
+          "offset": 810,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 829,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 846,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 869,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 869,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 869,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://cafebazaar.ir/app/ir.learnit?ref=share"
+      }
     }
   ]
 }

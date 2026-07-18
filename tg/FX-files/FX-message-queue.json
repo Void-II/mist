@@ -8935,6 +8935,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5152,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784376309,
+      "video": {
+        "duration": 17,
+        "width": 720,
+        "height": 1280,
+        "mime_type": "video/mp4",
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhQgaltr9Kpy_wh9M5AmLEKZHCf67NIAAo8dAAL41NhSoevPd-fIF3sBAAdtAAM9BA",
+          "file_unique_id": "AQADjx0AAvjU2FJy",
+          "file_size": 9191,
+          "width": 180,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhQgaltr9Kpy_wh9M5AmLEKZHCf67NIAAo8dAAL41NhSoevPd-fIF3sBAAdtAAM9BA",
+          "file_unique_id": "AQADjx0AAvjU2FJy",
+          "file_size": 9191,
+          "width": 180,
+          "height": 320
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIUIGpba_Sqcv8IfTOQJixCmRwn-uzSAAKPHQAC-NTYUqHrz3fnyBd7PQQ",
+        "file_unique_id": "AgADjx0AAvjU2FI",
+        "file_size": 4972015
+      },
+      "caption": "در آمریکا به دلیل پخش «اذان» از تلفن یک مسلمان در هواپیما، فردی دچار وحشت شد و پس از شکایت او، هواپیما به صورت اضطراری فرود آمد.\nپلیس های مجهز به سلاح وارد هواپیما شدند و مسافر مسلمان را بازداشت کردند.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 203,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

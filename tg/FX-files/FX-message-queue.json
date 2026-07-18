@@ -11836,6 +11836,136 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5196,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784408410,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTGpb6Vo1cKg-AAHU3TBC6SmTk28OrgACYA5rG5Hy4FIp5bAtGAVKMgEAAwIAA3MAAz0E",
+          "file_unique_id": "AQADYA5rG5Hy4FJ4",
+          "file_size": 2009,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTGpb6Vo1cKg-AAHU3TBC6SmTk28OrgACYA5rG5Hy4FIp5bAtGAVKMgEAAwIAA20AAz0E",
+          "file_unique_id": "AQADYA5rG5Hy4FJy",
+          "file_size": 33114,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTGpb6Vo1cKg-AAHU3TBC6SmTk28OrgACYA5rG5Hy4FIp5bAtGAVKMgEAAwIAA3gAAz0E",
+          "file_unique_id": "AQADYA5rG5Hy4FJ9",
+          "file_size": 153791,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTGpb6Vo1cKg-AAHU3TBC6SmTk28OrgACYA5rG5Hy4FIp5bAtGAVKMgEAAwIAA3kAAz0E",
+          "file_unique_id": "AQADYA5rG5Hy4FJ-",
+          "file_size": 221931,
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "caption": "Apple Tv\n\nStatus: Premium\n➿➿➿➿➿➿➿➿➿➿➿➿\n📧Email: j31247295@gmail.com\n\n🔑Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿\nظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\n\nGoogle play   App Store\n\nری اکشن یادتون نره\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 41,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 48,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 71,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 92,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 127,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 136,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv&hl=en_GB"
+        },
+        {
+          "offset": 150,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/apple-tv/id1174078549"
+        },
+        {
+          "offset": 160,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 194,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 216,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

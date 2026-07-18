@@ -12136,6 +12136,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5200,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784413930,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPmpbrR3F3Qd3XHVg15gISFOq5sraAAIeDmsbeoLhUuBEocFvkQrLAQADAgADcwADPQQ",
+          "file_unique_id": "AQADHg5rG3qC4VJ4",
+          "file_size": 1224,
+          "width": 90,
+          "height": 67
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPmpbrR3F3Qd3XHVg15gISFOq5sraAAIeDmsbeoLhUuBEocFvkQrLAQADAgADbQADPQQ",
+          "file_unique_id": "AQADHg5rG3qC4VJy",
+          "file_size": 13807,
+          "width": 320,
+          "height": 237
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPmpbrR3F3Qd3XHVg15gISFOq5sraAAIeDmsbeoLhUuBEocFvkQrLAQADAgADeAADPQQ",
+          "file_unique_id": "AQADHg5rG3qC4VJ9",
+          "file_size": 45599,
+          "width": 800,
+          "height": 593
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUPmpbrR3F3Qd3XHVg15gISFOq5sraAAIeDmsbeoLhUuBEocFvkQrLAQADAgADeQADPQQ",
+          "file_unique_id": "AQADHg5rG3qC4VJ-",
+          "file_size": 59733,
+          "width": 1080,
+          "height": 800
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nهمچنان سرویس ها با بالاترین کیفیت و بیشترین پایداری در دسترس هستند \n\nجهت تست رایگان و دريافت 36 لوکیشن مختلف فقط کافیه بات رو استارت کنید\n\nهمچنین مصرف دو برابر بیشتر روی تمامی لوکیشن ها به غیر المان 1 فعال هست و هر گیگ تقریبا 4 هزار تومن برای کاربر هزینه دارد به علت اینکه سرویس تانل داخل سرویس ها قرار گرفته هست قیمت مقداری بالا هست وگرنه به راحتی میتونید با متصل شدن به لوکیشن ها مصرفتون رو دو برابر کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 422,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 436,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 452,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 483,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 483,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 483,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

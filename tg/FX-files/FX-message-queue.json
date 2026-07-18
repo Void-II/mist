@@ -11465,6 +11465,46 @@
       "link_preview_options": {
         "url": "https://cafebazaar.ir/app/ir.learnit?ref=share"
       }
+    },
+    {
+      "message_id": 5188,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784399455,
+      "document": {
+        "file_name": "متصل برای شرایط اختلال 😁🚀.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIURGpbxl8BcM3IC6998e7lZwG-ZO_4AAJ-HQACkfLgUnr38r9a10NvPQQ",
+        "file_unique_id": "AgADfh0AApHy4FI",
+        "file_size": 1224
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

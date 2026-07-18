@@ -8642,6 +8642,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5147,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784368268,
+      "text": "This Telegram channel is publishing and misusing photos of women without their consent. It violates their privacy and is used for harassment and exploitation. Please review this channel and take appropriate action, including removing the content and suspending the channel.The images were shared without the owners' permission and infringe on their privacy rights\n\nabuse@telegram.org\n\nایمیل هم بزنید دمتون گرم ،  لینک چنل رو ذکر کنید تو ایمیل ارسالی \nهرکدوم از این کارها شاید از رفتن ابروی یک نفر دیگه جلوگیری کنه، فک کنید خدایی نکرده خودتون تو این شرایط هستید\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 365,
+          "length": 18,
+          "type": "email"
+        },
+        {
+          "offset": 573,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 573,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 573,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

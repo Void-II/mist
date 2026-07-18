@@ -8283,6 +8283,47 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5138,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784365988,
+      "text": "vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.207:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&fp=chrome&sni=shegeftihaaa.net#%F0%9F%87%A7%F0%9F%87%AA\n\n200 گیگ دیگه سرور اهدایی از طرف آقا هادی عزیز\n\nدمش گرم🧡\n\nبراش یه قلب بذارید دوستان❤️\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "bot_command"
+        },
+        {
+          "offset": 292,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 292,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 292,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

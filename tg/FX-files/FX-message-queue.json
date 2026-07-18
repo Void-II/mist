@@ -10769,6 +10769,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5178,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784389509,
+      "text": "⭕️ اطلاعیه مهم:\nسطح پهنای باند و سرعت اینترنت تمامی اوپراتورها و دیتاسنترها به شدت کاهش یافته است، بررسی ها کاهش ۴٠ درصدی پهنای باند نسبت به دیروز را نشان می‌دهد.\nهمچنین رسانه‌ها از قطعی خطوط انتقال پهنای باند و شبکه به علت حملات آمریکا در بعضی مناطق جنوب کشور خبر می‌دهند.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

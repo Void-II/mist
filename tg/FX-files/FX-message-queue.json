@@ -10718,6 +10718,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5177,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784389149,
+      "text": "🔴 ستار هاشمی، وزیر ارتباطات: \nبه دستور قوه قضاییه،  اینترنت بعد از پایان جام جهانی قطع خواهد شد.\n\nاین خبر فیکه و کصشره\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 99,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 121,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 134,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 160,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

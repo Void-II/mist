@@ -11966,6 +11966,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5197,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784408650,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTWpb6kqtl9Syf63Rgb-NwDpdKUHdAAJkDmsbkfLgUvWu1jJPa53wAQADAgADcwADPQQ",
+          "file_unique_id": "AQADZA5rG5Hy4FJ4",
+          "file_size": 1134,
+          "width": 90,
+          "height": 66
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTWpb6kqtl9Syf63Rgb-NwDpdKUHdAAJkDmsbkfLgUvWu1jJPa53wAQADAgADbQADPQQ",
+          "file_unique_id": "AQADZA5rG5Hy4FJy",
+          "file_size": 13009,
+          "width": 320,
+          "height": 234
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTWpb6kqtl9Syf63Rgb-NwDpdKUHdAAJkDmsbkfLgUvWu1jJPa53wAQADAgADeQADPQQ",
+          "file_unique_id": "AQADZA5rG5Hy4FJ-",
+          "file_size": 39309,
+          "width": 827,
+          "height": 604
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUTWpb6kqtl9Syf63Rgb-NwDpdKUHdAAJkDmsbkfLgUvWu1jJPa53wAQADAgADeAADPQQ",
+          "file_unique_id": "AQADZA5rG5Hy4FJ9",
+          "file_size": 49782,
+          "width": 800,
+          "height": 584
+        }
+      ],
+      "caption": "Kimi K3 Ai\n\nمدل هوش مصنوعی کیمی به مدت 7ساعت رایگان \n\nhttps://zyloo.io/\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 54,
+          "length": 17,
+          "type": "url"
+        },
+        {
+          "offset": 73,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 108,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -8324,6 +8324,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5139,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784366048,
+      "text": "https://t.me/+p9ZO_1UyUnNlNmU0\n\n@prz826\n\nبچه‌ها. ، ااین بیناموسای مادرجنده دارن با عکس پروفایل دخترا و تهمت و ...مادرجندگی میکنن ، اینجا خودتون وغیرتتون‌از خجالتش در بیاید هرکاری میتونید بکنید هراطلاعاتی از ایدی گرفتید  و‌..\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 30,
+          "type": "url"
+        },
+        {
+          "offset": 32,
+          "length": 7,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/+p9ZO_1UyUnNlNmU0"
+      }
     }
   ]
 }

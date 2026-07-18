@@ -12214,6 +12214,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5201,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784414770,
+      "text": "یکسال اشتراک رایگان\n\nNorton 360\n\nلینک سایت\n\nپروموکد:BOL140699NORTON\nتست نشده\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 52,
+          "length": 15,
+          "type": "code"
+        },
+        {
+          "offset": 78,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 91,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 113,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

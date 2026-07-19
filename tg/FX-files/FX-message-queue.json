@@ -14236,6 +14236,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5235,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784495685,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUc2pdPkXjPtSpErLYO8mWwMoJL0gcAAJKDmsbtUXpUn3PVP6KKPD0AQADAgADcwADPQQ",
+          "file_unique_id": "AQADSg5rG7VF6VJ4",
+          "file_size": 1433,
+          "width": 90,
+          "height": 63
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUc2pdPkXjPtSpErLYO8mWwMoJL0gcAAJKDmsbtUXpUn3PVP6KKPD0AQADAgADbQADPQQ",
+          "file_unique_id": "AQADSg5rG7VF6VJy",
+          "file_size": 17605,
+          "width": 320,
+          "height": 224
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUc2pdPkXjPtSpErLYO8mWwMoJL0gcAAJKDmsbtUXpUn3PVP6KKPD0AQADAgADeAADPQQ",
+          "file_unique_id": "AQADSg5rG7VF6VJ9",
+          "file_size": 63442,
+          "width": 752,
+          "height": 526
+        }
+      ],
+      "caption": "خطا نبودا \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 24,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 50,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 50,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 50,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

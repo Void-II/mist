@@ -13933,6 +13933,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5229,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784495250,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUbWpdPJNYOm95TyxsVZ9zf1bxTJY7AAKIDmsbkEjoUpFrHPUO9OpPAQADAgADcwADPQQ",
+          "file_unique_id": "AQADiA5rG5BI6FJ4",
+          "file_size": 1817,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUbWpdPJNYOm95TyxsVZ9zf1bxTJY7AAKIDmsbkEjoUpFrHPUO9OpPAQADAgADbQADPQQ",
+          "file_unique_id": "AQADiA5rG5BI6FJy",
+          "file_size": 20732,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUbWpdPJNYOm95TyxsVZ9zf1bxTJY7AAKIDmsbkEjoUpFrHPUO9OpPAQADAgADeAADPQQ",
+          "file_unique_id": "AQADiA5rG5BI6FJ9",
+          "file_size": 88798,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUbWpdPJNYOm95TyxsVZ9zf1bxTJY7AAKIDmsbkEjoUpFrHPUO9OpPAQADAgADeQADPQQ",
+          "file_unique_id": "AQADiA5rG5BI6FJ-",
+          "file_size": 188538,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "💥دوستانی که ببرا نیاز دارند زیر همین پست  اعلام کنند چند نفری لاگین میشوند\nبرای اتصال خوب بعد از لاگین افراد دیگر را لاگین نکنید\nشات و لایک یادتون نره🌸\n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 156,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 169,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 191,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -12721,6 +12721,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5208,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784472672,
+      "text": "USER: p9449238\nPASS: jsHWK75Z4v\n\nUSER: p1419477\nPASS: EdNTMngrYS\n\n-Pia vpn\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 75,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 98,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

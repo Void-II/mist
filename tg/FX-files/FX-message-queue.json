@@ -15932,6 +15932,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5274,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784499194,
+      "text": "اسپانیا تو 8 بازی جام جهانی فقط 1 گل دریافت کرد این در حالیه که اونا مقابل رنک 2 3 7 8 فیفا بازی کردن. \n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 104,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 117,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 143,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

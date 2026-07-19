@@ -14953,6 +14953,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5252,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784497813,
+      "text": "آخرین باری که اسپانیا جام‌جهانی بردن قبلش یورو برده بودن\nدقیقا مثل امسال\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 73,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 86,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 112,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -12338,6 +12338,52 @@
       "link_preview_options": {
         "url": "https://play.google.com/store/apps/details?id=free.vpnusa.fast.unlimited.free.secure.turbo"
       }
+    },
+    {
+      "message_id": 5203,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784458271,
+      "text": "چگونه اشتراک 6 ماهه Notion Pro را به صورت رایگان دریافت کنیم؟\n\n1:ایمیل\n2: لینک - اشتراک آزمایشی 6 ماهه Notion\n\nلطفاً همه واکنش خود را نشان دهید.\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 146,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 159,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 181,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

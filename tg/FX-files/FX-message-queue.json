@@ -12580,6 +12580,101 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5206,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784468412,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUVmpc07z6NX25uTuJZQ2ZLXWYxRGTAAKbDWsbkfLoUnbqAAE6BOzEGgEAAwIAA3MAAz0E",
+          "file_unique_id": "AQADmw1rG5Hy6FJ4",
+          "file_size": 1981,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUVmpc07z6NX25uTuJZQ2ZLXWYxRGTAAKbDWsbkfLoUnbqAAE6BOzEGgEAAwIAA20AAz0E",
+          "file_unique_id": "AQADmw1rG5Hy6FJy",
+          "file_size": 31330,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUVmpc07z6NX25uTuJZQ2ZLXWYxRGTAAKbDWsbkfLoUnbqAAE6BOzEGgEAAwIAA3gAAz0E",
+          "file_unique_id": "AQADmw1rG5Hy6FJ9",
+          "file_size": 147558,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUVmpc07z6NX25uTuJZQ2ZLXWYxRGTAAKbDWsbkfLoUnbqAAE6BOzEGgEAAwIAA3kAAz0E",
+          "file_unique_id": "AQADmw1rG5Hy6FJ-",
+          "file_size": 298004,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Paper VPN \n\n⭐️Status: Premium\n\n⏳Exp:2026/07/26\n➿➿➿➿➿➿➿➿➿➿➿➿\n📨Email: mosigit634@wudiart.com\n\n🔑Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿\n🎗ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play   App Store\n\n💫ری اکشن یادتون نره\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 69,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 104,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 161,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=io.papervpn.android.app&hl=en_US"
+        },
+        {
+          "offset": 175,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/paper-vpn/id6460976587"
+        },
+        {
+          "offset": 208,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

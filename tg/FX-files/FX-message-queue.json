@@ -12675,6 +12675,52 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5207,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784469492,
+      "text": "🎙مجری : آقا مجتبی رو دیدی؟\n\n🇮🇷 عراقچی : نه من هیچ وقت ندیدم، کلا تعداد خیلی کمی دیدنش.\nخود آمریکایی‌ها به ترامپ گفتن الان چیکار کردی مثلا؟ خامنه‌ای که جوون شد ، تنگه‌ی باز رو هم بستی ، مواد غنی‌شده ايران هم که بهت ندادن...\nهرجا می‌شینم با این خارجی‌ها، میگن دسخوش عباس کشورتون بعد این جنگ خیلی قوی‌تر شد، شگفت‌زده شدیم.\nبمب اتمی ما تنگه هرمزه ، دنیا فهمید ایران خیلی قویه.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 376,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 389,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 415,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 415,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 415,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -13138,6 +13138,142 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 5215,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784487095,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUX2pdHLeT9Q0Vm9-Qrg-a3XnTiUiIAALuDmsb2hLpUoVkeCxhe4BxAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD7g5rG9oS6VJ4",
+          "file_size": 1889,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUX2pdHLeT9Q0Vm9-Qrg-a3XnTiUiIAALuDmsb2hLpUoVkeCxhe4BxAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD7g5rG9oS6VJy",
+          "file_size": 23856,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUX2pdHLeT9Q0Vm9-Qrg-a3XnTiUiIAALuDmsb2hLpUoVkeCxhe4BxAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD7g5rG9oS6VJ9",
+          "file_size": 92352,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUX2pdHLeT9Q0Vm9-Qrg-a3XnTiUiIAALuDmsb2hLpUoVkeCxhe4BxAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD7g5rG9oS6VJ-",
+          "file_size": 185470,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Hide my VPN\n\n⭐️Status: Premium\n\n⏳Exp:2026/07/22\n\n➿➿➿➿➿➿➿➿➿➿➿➿\n✉️username: Kingghost\n\n🔑Password:@Error404Bin\n➿➿➿➿➿➿➿➿➿\n❗️ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play  App Store\n\nWindows\n\nری اکشن یادتون نره🩵\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 8,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 15,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 64,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 87,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 96,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 108,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 145,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 153,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://hide.me/download/android"
+        },
+        {
+          "offset": 166,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://hide.me/download/ios"
+        },
+        {
+          "offset": 177,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://hide.me/en/software/windowsv4/download"
+        },
+        {
+          "offset": 186,
+          "length": 21,
+          "type": "bold"
+        },
+        {
+          "offset": 208,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 221,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 243,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

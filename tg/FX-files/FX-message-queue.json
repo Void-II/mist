@@ -18583,6 +18583,61 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5325,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784578003,
+      "document": {
+        "file_name": "ShahramSh1996🇦🇱.ovpn",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIUzWpef9ODxeorUUH6NBi-l_Y1oqOXAAJPHQAC7W3wUgH0fC-jtONxPQQ",
+        "file_unique_id": "AgADTx0AAu1t8FI",
+        "file_size": 5612
+      },
+      "caption": "سرور اوپن اختصاصی\nحجم نامحدوده ولی محدودیت کاربر داره بهتره پخش نشه قطع وصلی پیش میاد مخصوص نت ایرانسل سایر نت ها رو تست کنید \nلوکیشن سرور آلبانی 🇦🇱 \n\nتو کامنت ها بگین با کدوم نت وصل شدین بهش\nطریقه استفاده\nابتدا برنامه اوپن کانکت رو دانلود کنید\nhttps://play.google.com/store/apps/details?id=net.openvpn.openvpn\nآموزش اضافه کردن سرور \n1.فایل سرور رو دانلود کنید بزنید تو دانلود هاتون ذخیره شه \n2. وارد برنامه مربوطه بشوید رو علامت + پایین صفحه بزنید\n3.تو منوی بعدی رو Upload File بزنید و Browse میره تو فایل هاتون فایل رو پیدا میکنید میزنید روش اوکی میکنید تموم\n4.یوز و پسورد سیو شده راحت بزنید کانکت\n اعتبار 4 ماه \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 247,
+          "length": 65,
+          "type": "url"
+        },
+        {
+          "offset": 313,
+          "length": 288,
+          "type": "blockquote"
+        },
+        {
+          "offset": 617,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 640,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 640,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 640,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -18679,6 +18679,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5327,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784580644,
+      "text": "🔰Santroo Film🔰\n\n🔎 LinkSite\n\n💡5.1 | #Film\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری:armeabi-v7a/arm64-v8\n\nتوضیحات درباره برنامه:\nسانتروفیلم با هدف ایجاد تجربهای تازه و لذت بخش از دنیای فیلم و سریال به وجود آمده است. در سانترو فیلم، ما به تماشای ساده، سریع و بی دغدغه باور داریم — جایی که هر کاربر بتواند با هر اینترنتی و در هر سرعتی، فیلم یا سریال مورد عالقه اش را بدون وقفه و به آسانی تماشا کند.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 21,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://santroofilm.ir/"
+        },
+        {
+          "offset": 39,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 205,
+          "length": 268,
+          "type": "blockquote"
+        },
+        {
+          "offset": 562,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/150731"
+        },
+        {
+          "offset": 591,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 610,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 627,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 650,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 650,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 650,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://santroofilm.ir/"
+      }
     }
   ]
 }

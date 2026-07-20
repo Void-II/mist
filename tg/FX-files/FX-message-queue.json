@@ -16668,6 +16668,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5289,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784520134,
+      "text": "🗓۱۴۰۵/۰۴/۲۹\n\nمرکز لرزه نگاری ایران:\n\nزمین لرزه‌ای به بزرگی ۵.۲ ریشتر در عمق ۸ کیلومتری زمین با مرکزیت کوزران، استان کرمانشاه را در ساعت ۷:۱۳ دقیقه صبح با شدت لرزاند.\n\nاین زمین لرزه در اکثر شهرهای کرمانشاه، جنوب کردستان و شمال ایلام احساس شده است.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 249,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 260,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 286,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

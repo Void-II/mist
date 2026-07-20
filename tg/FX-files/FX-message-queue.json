@@ -17113,6 +17113,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5297,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784541734,
+      "text": "🔰Elmas TV🔰\n\n🔎 LinkSite\n\n💡3.0.0 | #Film\n\nⓂ️ نسخه vip شده\n\n◈ اشتراک فعال شده👑✓ \n◈ محدودیت پخش آنلاین برداشته شده✓ \n◈ محدودیت دانلود برداشته شده✓\n\n✪ معماری: armeabi-v7a/arm64-v8\n\nتوضیحات درباره برنامه:\nجامع ترین و بروزترین:\nدوست داران سریال و فیلم ترکی و کره ای با elmastv به کاملترین و جامع ترین آرشیو فیلم و سریال ترکی و کره ای دسترسی خواهند داشت.\nامکان دانلود و پخش آنلاین\nتمامی قسمت های سریالها قابل پخش آنلاین می باشد، امکان دانلود تمامی قسمت ها نیز وجود خواهد داشت.\nتمامی کیفیت ها و نیم بها\nقسمت های سریال با کیفیت های متفاوت و HD در elmastv موجود می باشد و ترافیک محاسبه شده نیم بها می باشد.\nپخش در تلویزیون هوشمند\nبا استفاده از امکانات منحصر به فرد elmastv امکان انتخاب عنوان مورد نظر و پخش آن در تلویزیون هوشمند فراهم می باشد\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n📲برای دانلود فایل از سایت بر روی ( دانــلود )  کلیک کنید.\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://www.elmastv.com/"
+        },
+        {
+          "offset": 37,
+          "length": 5,
+          "type": "hashtag"
+        },
+        {
+          "offset": 204,
+          "length": 533,
+          "type": "blockquote"
+        },
+        {
+          "offset": 826,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/150706"
+        },
+        {
+          "offset": 855,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 874,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 891,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 914,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 914,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 914,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://t.me/Xbat_chat/150706"
+      }
     }
   ]
 }

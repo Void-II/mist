@@ -17382,6 +17382,73 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5302,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784556463,
+      "video": {
+        "duration": 101,
+        "width": 640,
+        "height": 320,
+        "file_name": "IMG_8321.MP4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 640,
+            "height": 320,
+            "codec": "h264",
+            "file_id": "BAACAgQAAyEFAATqPDJ3AAIUtmpeK689a27i5WGy32fs0SWjFu0KAAKSHAACXEnxUkWrUynbNsPDPQQ",
+            "file_unique_id": "AgADkhwAAlxJ8VI",
+            "file_size": 9270587
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhS2al4rr-Xe0lhagsLvf9uWQ0T54V8AAh0fAAIdS_BSzTM4NW1GRCkBAAdtAAM9BA",
+          "file_unique_id": "AQADHR8AAh1L8FJy",
+          "file_size": 11317,
+          "width": 320,
+          "height": 164
+        },
+        "thumb": {
+          "file_id": "AAMCBAADIQUABOo8MncAAhS2al4rr-Xe0lhagsLvf9uWQ0T54V8AAh0fAAIdS_BSzTM4NW1GRCkBAAdtAAM9BA",
+          "file_unique_id": "AQADHR8AAh1L8FJy",
+          "file_size": 11317,
+          "width": 320,
+          "height": 164
+        },
+        "file_id": "BAACAgQAAyEFAATqPDJ3AAIUtmpeK6_l3tJYWoLC73_blkNE-eFfAAIdHwACHUvwUs0zODVtRkQpPQQ",
+        "file_unique_id": "AgADHR8AAh1L8FI",
+        "file_size": 9272911
+      },
+      "caption": "• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 11,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

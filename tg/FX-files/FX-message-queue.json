@@ -17495,6 +17495,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5304,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784557003,
+      "text": "⭕️از صبح تا حالا اکثر درگاه های پرداخت سایتا از کار افتادن الان بانک مرکزی بیانیه داد مردم خیالشون راحت باشه هک نشدیم،آمریکا گواهینامه امنیتی شاپرک رو لغو کرده بخاطر همین فعلا درگاه های پرداخت از کار افتادن اما بزودی درستش میکنیم.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 232,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 243,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 269,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 269,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 269,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

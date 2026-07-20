@@ -17577,6 +17577,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5306,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784560903,
+      "text": "حرفای خداداد عزیزی خطاب به قلعه نویی:\n\nاقای قلعه‌ نویی اوت شدی. الکی تو تلویزیون اراجیف نگو ، مردم نون ندارن بخورن تو ساعت 10 میلیاردیتو نشون میدی. به من میگی لوده و دلقک ؛ با رفیقات برو AFC ببین عکس‌ کی توی تالار ستارگان آسیاست\nاین همه پول گرفتید. به جز 140 میلیارد پاداش جام جهانی ؛ 400 میلیاردم بودجه از وزارت گرفتید  بازم سیر نشدید و رفتید درخواست وام 1000 میلیاردی به پزشکیان دادید\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 387,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 400,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 426,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 426,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 426,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -18449,6 +18449,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5323,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784575903,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUy2ped58XoaT4kICjR4IovxuQhYPnAAIKD2sbDd3xUu5puCfBv11pAQADAgADcwADPQQ",
+          "file_unique_id": "AQADCg9rGw3d8VJ4",
+          "file_size": 2258,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUy2ped58XoaT4kICjR4IovxuQhYPnAAIKD2sbDd3xUu5puCfBv11pAQADAgADbQADPQQ",
+          "file_unique_id": "AQADCg9rGw3d8VJy",
+          "file_size": 33410,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUy2ped58XoaT4kICjR4IovxuQhYPnAAIKD2sbDd3xUu5puCfBv11pAQADAgADeAADPQQ",
+          "file_unique_id": "AQADCg9rGw3d8VJ9",
+          "file_size": 141990,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUy2ped58XoaT4kICjR4IovxuQhYPnAAIKD2sbDd3xUu5puCfBv11pAQADAgADeQADPQQ",
+          "file_unique_id": "AQADCg9rGw3d8VJ-",
+          "file_size": 284801,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🏆چالش اکانت مجازی اینستاگرام کانادا پلاس⭐️\n\n🌟 Instagram Canada Account Plus\n\n🥇بین اعداد 1تا عدد85فقط یک عدد بذارید رندوم به یک نفر اکانت تقدیم خواهد شد\n\nاسپم و ویرایش ممنوع❌\n\nری اکشن و لایک مرامی❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 48,
+          "length": 29,
+          "type": "bold"
+        },
+        {
+          "offset": 202,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 237,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

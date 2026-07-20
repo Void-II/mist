@@ -18752,6 +18752,84 @@
       "link_preview_options": {
         "url": "https://santroofilm.ir/"
       }
+    },
+    {
+      "message_id": 5328,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784581364,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUrmpd22qRkyu4ygEYpt-w1lZ0OaYaAAKzDWsbr3rxUgbm4CXJM1pyAQADAgADcwADPQQ",
+          "file_unique_id": "AQADsw1rG6968VJ4",
+          "file_size": 1294,
+          "width": 90,
+          "height": 69
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUrmpd22qRkyu4ygEYpt-w1lZ0OaYaAAKzDWsbr3rxUgbm4CXJM1pyAQADAgADbQADPQQ",
+          "file_unique_id": "AQADsw1rG6968VJy",
+          "file_size": 14485,
+          "width": 320,
+          "height": 244
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUrmpd22qRkyu4ygEYpt-w1lZ0OaYaAAKzDWsbr3rxUgbm4CXJM1pyAQADAgADeAADPQQ",
+          "file_unique_id": "AQADsw1rG6968VJ9",
+          "file_size": 48104,
+          "width": 800,
+          "height": 611
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIUrmpd22qRkyu4ygEYpt-w1lZ0OaYaAAKzDWsbr3rxUgbm4CXJM1pyAQADAgADeQADPQQ",
+          "file_unique_id": "AQADsw1rG6968VJ-",
+          "file_size": 62323,
+          "width": 1080,
+          "height": 825
+        }
+      ],
+      "caption": "📣اطلاعیه \n\nتست سرعت لوکیشن المان 3 مخصوص استریم و دانلود\n\nبا حجم مصرفی دو برابر بیشتر\n\nجهت تست رایگان بات رو استارت کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 125,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 139,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 155,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 186,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

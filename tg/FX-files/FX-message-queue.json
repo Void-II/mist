@@ -17872,6 +17872,72 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5313,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784564568,
+      "text": "Email: pauliroezi@yahoo.com\nPass: Puppypower@1\nPlan: VIP\n\nEmail: antonyatg123@gmail.com\nPass: Cuentaatgg27.\nPlan: VIP\n\nEmail: fbcamacho@gmail.com\nPass: purebred4\nPlan: MONTH\n\nEmail: dolores@hostilemarketing.com\nPass: WorldWide5*\nPlan: VIP\nاکانت کپ‌کات\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 7,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 65,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 126,
+          "length": 19,
+          "type": "email"
+        },
+        {
+          "offset": 182,
+          "length": 28,
+          "type": "email"
+        },
+        {
+          "offset": 252,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 265,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 291,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

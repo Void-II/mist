@@ -18307,6 +18307,112 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5321,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784574043,
+      "text": "Email: ashleyajones76@yahoo.com\nPassword: 1317Nelm\n\nEmail: jgiannettict@sbcglobal.net\nPassword: natasprod666\n\nEmail: deantequerayusmary85usa@gmail.com\nPassword: 79Yusdean\n\nEmail: jycarney@verizon.net\nPassword: Toothbrush65\n\n-Nord VPN\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 7,
+          "type": "spoiler"
+        },
+        {
+          "offset": 7,
+          "length": 24,
+          "type": "email"
+        },
+        {
+          "offset": 7,
+          "length": 24,
+          "type": "spoiler"
+        },
+        {
+          "offset": 31,
+          "length": 28,
+          "type": "spoiler"
+        },
+        {
+          "offset": 59,
+          "length": 26,
+          "type": "email"
+        },
+        {
+          "offset": 59,
+          "length": 26,
+          "type": "spoiler"
+        },
+        {
+          "offset": 85,
+          "length": 32,
+          "type": "spoiler"
+        },
+        {
+          "offset": 117,
+          "length": 33,
+          "type": "email"
+        },
+        {
+          "offset": 117,
+          "length": 33,
+          "type": "spoiler"
+        },
+        {
+          "offset": 150,
+          "length": 29,
+          "type": "spoiler"
+        },
+        {
+          "offset": 179,
+          "length": 20,
+          "type": "email"
+        },
+        {
+          "offset": 179,
+          "length": 20,
+          "type": "spoiler"
+        },
+        {
+          "offset": 199,
+          "length": 23,
+          "type": "spoiler"
+        },
+        {
+          "offset": 234,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

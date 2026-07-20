@@ -16852,6 +16852,107 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5293,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784521514,
+      "document": {
+        "file_name": "Spain🇪🇸.ovpn",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIUrWpdoyqBA-GrLooK-HTnvlNxMPxIAALgHQAC3uDoUqsyejOxKuyvPQQ",
+        "file_unique_id": "AgAD4B0AAt7g6FI",
+        "file_size": 2746
+      },
+      "caption": "کانفیگ‌ OpenVpn \n\nکشور: اسپانیا\n\nبرای Android | IOS | Windows\n\nAndroid: Openvpn-connect\n\n\n تمامی اپراتور ها تست بشه \n\nزمان : نامحدود\nحجم : نامحدود\n\n💥ری اکشن و⭐️ فراموش نشه دوستان💥\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 31,
+          "type": "bold"
+        },
+        {
+          "offset": 33,
+          "length": 4,
+          "type": "bold"
+        },
+        {
+          "offset": 38,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 48,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 54,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 63,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 72,
+          "length": 15,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn"
+        },
+        {
+          "offset": 91,
+          "length": 26,
+          "type": "bold"
+        },
+        {
+          "offset": 118,
+          "length": 28,
+          "type": "blockquote"
+        },
+        {
+          "offset": 118,
+          "length": 14,
+          "type": "bold"
+        },
+        {
+          "offset": 133,
+          "length": 13,
+          "type": "bold"
+        },
+        {
+          "offset": 146,
+          "length": 35,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 194,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

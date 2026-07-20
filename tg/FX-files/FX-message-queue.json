@@ -17938,6 +17938,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5314,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784564958,
+      "text": "غیر رسمی/ دهد حدود 50 دقیقه پیش یک منطقه صنعتی در حاشیه شهر خمین استان مرکازی ایران هدف حمله قرار گرفت.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

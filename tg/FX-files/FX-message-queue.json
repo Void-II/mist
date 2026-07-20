@@ -17831,6 +17831,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5312,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784564560,
+      "text": "Keys:  \nFFW4WS-UW6US2-5CUJV6  \n3DYB5C-W8P4F2-5CUJCN  \nLNXLLG-QMVGF2-5CUJ6N  \nFB9XHD-QEZCZJ-5CUJZS  \nLDX23A-22WZCJ-5CUJS2  \nMUUWZ4-B7C99J-5CUJYW  \nLRSNA2-V43MDJ-5CUJ7E  \nYZ7YGQ-W3UZ52-5CUJXW  \n2ZFC2C-42PGG2-5CUJDW  \nZ7BBJM-RFKVN2-5CUJKE  \n\n-HMA VPN KEY\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 252,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 275,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 275,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 275,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

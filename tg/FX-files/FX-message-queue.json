@@ -19246,6 +19246,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5340,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784584124,
+      "text": "عادل فردوسی پور گفته سایت و اپلیکیشن ۳۶۰ به خاطر امیر قلعه نویی از دسترس خارج شده!\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 83,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 96,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 122,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

@@ -17974,6 +17974,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5315,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784565703,
+      "text": "📣اطلاعیه \n\nاکانت کپ کات کرکی موجود شد\n\nجهت ثبت سفارش به پشتیبانی پیام بدین \n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 80,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 94,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 110,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

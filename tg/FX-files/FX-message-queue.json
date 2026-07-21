@@ -19368,6 +19368,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5343,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784616224,
+      "text": "اینترنت بین‌المللی همراه اول تو بیشتر مناطق با اختلال گسترده همراه و عملا فیلترشکن ها کار نمیدن شهر های شما چطوره؟\n\nاگه برای قطع نت بین المللی اپراتورها اماده میشن که کص ننه همه مسؤلین این مملکت یارو امریکا داره ننه شون میگاد بیان نت مردم رو قطع کنن امیدوارم طوری بمیرین جنازه ای ازشون نمونه\n@XBat_Team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 292,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 315,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 315,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 315,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

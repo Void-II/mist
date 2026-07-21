@@ -21626,6 +21626,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5379,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784672266,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVA2pf8ApW1a0qVlfS1UVVP8IbHDU3AAI7DGsbnJwBU8WLMY8uOrBGAQADAgADcwADPQQ",
+          "file_unique_id": "AQADOwxrG5ycAVN4",
+          "file_size": 1712,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVA2pf8ApW1a0qVlfS1UVVP8IbHDU3AAI7DGsbnJwBU8WLMY8uOrBGAQADAgADbQADPQQ",
+          "file_unique_id": "AQADOwxrG5ycAVNy",
+          "file_size": 19208,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVA2pf8ApW1a0qVlfS1UVVP8IbHDU3AAI7DGsbnJwBU8WLMY8uOrBGAQADAgADeAADPQQ",
+          "file_unique_id": "AQADOwxrG5ycAVN9",
+          "file_size": 78753,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVA2pf8ApW1a0qVlfS1UVVP8IbHDU3AAI7DGsbnJwBU8WLMY8uOrBGAQADAgADeQADPQQ",
+          "file_unique_id": "AQADOwxrG5ycAVN-",
+          "file_size": 173150,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "Avast Secureline\n \nExp: 1 Month\n\nCod:L8DQHW-J4J8FJ-5DUJWS\n\nمحدودیت تا 💯دستگاه\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 16,
+          "type": "bold"
+        },
+        {
+          "offset": 80,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 115,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -21350,6 +21350,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5374,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784665669,
+      "text": "چالش 20 گیگ سرویس مولتی لوکیشن \n\nبین عدد 1 تا 300 یه عدد بذارید فردا ساعت 12 شب یک نفر برنده میشه\n\nیه فاتحه برای امواتش بفرستین همیشه هوای بچه های چنل رو داره\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 160,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 171,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 197,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

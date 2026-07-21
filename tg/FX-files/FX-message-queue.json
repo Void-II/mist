@@ -19546,6 +19546,147 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5347,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784623785,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU42pfMqiQx4g5Chln8OrncTz7bONNAALXDGsbnJz5UvsZsyNQCICiAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD1wxrG5yc-VJ4",
+          "file_size": 1971,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU42pfMqiQx4g5Chln8OrncTz7bONNAALXDGsbnJz5UvsZsyNQCICiAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD1wxrG5yc-VJy",
+          "file_size": 25507,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU42pfMqiQx4g5Chln8OrncTz7bONNAALXDGsbnJz5UvsZsyNQCICiAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD1wxrG5yc-VJ9",
+          "file_size": 106984,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU42pfMqiQx4g5Chln8OrncTz7bONNAALXDGsbnJz5UvsZsyNQCICiAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD1wxrG5yc-VJ-",
+          "file_size": 225443,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "I9 VPN\n\n🌟Status: Premium\n\n⏳Exp: 2026/07/21\n➿➿➿➿➿➿➿➿➿➿➿➿\n📧Email: mosigit634@wudiart.com\n\n🔑Password: @Error404Bin\n➿➿➿➿➿➿➿➿➿\n❗️ظرفیت اکانت محدود میباشد\n➿➿➿➿➿➿\nGoogle play   App Store\n\nWindows\n\nری اکشن یادتون نره🩵 \n\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 3,
+          "length": 3,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 6,
+          "type": "bold"
+        },
+        {
+          "offset": 59,
+          "length": 5,
+          "type": "bold"
+        },
+        {
+          "offset": 66,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 92,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 102,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 114,
+          "length": 10,
+          "type": "bold"
+        },
+        {
+          "offset": 151,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 159,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=app.fortifyvpn.vpn&hl=en"
+        },
+        {
+          "offset": 173,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://apps.apple.com/us/app/i9vpn-fast-secure-vpn-proxy/id6742233486"
+        },
+        {
+          "offset": 184,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://i9vpn.com/i9vpn.exe"
+        },
+        {
+          "offset": 192,
+          "length": 24,
+          "type": "bold"
+        },
+        {
+          "offset": 217,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 230,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 252,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

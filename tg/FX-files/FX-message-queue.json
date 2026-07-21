@@ -19989,6 +19989,110 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5353,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784626425,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU6WpfPPm9nuGdGQoH8Gql1B8yQCSrAALqDGsbnJz5UsC-vZj0GWGOAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD6gxrG5yc-VJ4",
+          "file_size": 1877,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU6WpfPPm9nuGdGQoH8Gql1B8yQCSrAALqDGsbnJz5UsC-vZj0GWGOAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD6gxrG5yc-VJy",
+          "file_size": 25082,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU6WpfPPm9nuGdGQoH8Gql1B8yQCSrAALqDGsbnJz5UsC-vZj0GWGOAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD6gxrG5yc-VJ9",
+          "file_size": 103488,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU6WpfPPm9nuGdGQoH8Gql1B8yQCSrAALqDGsbnJz5UsC-vZj0GWGOAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD6gxrG5yc-VJ-",
+          "file_size": 210155,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🩵Protected VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n𝗘𝗺𝗮𝗶𝗹: mosigit634@wudiart.com\n\n𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: @Error404Bin\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 56,
+          "type": "bold"
+        },
+        {
+          "offset": 57,
+          "length": 22,
+          "type": "email"
+        },
+        {
+          "offset": 79,
+          "length": 20,
+          "type": "bold"
+        },
+        {
+          "offset": 99,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 113,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.vpnpro.protectedvpn"
+        },
+        {
+          "offset": 124,
+          "length": 94,
+          "type": "bold"
+        },
+        {
+          "offset": 220,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 235,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 257,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

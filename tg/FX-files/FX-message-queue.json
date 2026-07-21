@@ -20736,6 +20736,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5363,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784655784,
+      "text": "vless://4f4a70e3-678e-46fb-ace6-59a5bc12e97b@3x-ui-production-b1e9.up.railway.app:443?security=tls&path=%2Fin1&allowInsecure=0&host=3x-ui-production-b1e9.up.railway.app&type=ws&encryption=none&insecure=0&sni=3x-ui-production-b1e9.up.railway.app#IRAN\n\n100گیگ دیگه سرور اهدایی از طرف ممبر عزیزمون\n\nدمش گرمه🧡\n\nبراش یه قلب بذارید دوستان❤️\n\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 337,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 350,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 372,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 372,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 372,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

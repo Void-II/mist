@@ -20886,6 +20886,73 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5366,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784658438,
+      "video": {
+        "duration": 13,
+        "width": 464,
+        "height": 848,
+        "file_name": "IMG_7462.MP4",
+        "mime_type": "video/mp4",
+        "qualities": [
+          {
+            "width": 464,
+            "height": 848,
+            "codec": "h264",
+            "file_id": "BAACAgEAAyEFAATqPDJ3AAIU9mpfugYz-rCBZuJYUv9uf-hqHPyzAALNBgACSNoAAUf0NAh2ZSY2mD0E",
+            "file_unique_id": "AgADzQYAAkjaAAFH",
+            "file_size": 2525241
+          }
+        ],
+        "thumbnail": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhT2al-6BpRLwt4EJ4qteIAHmK-QjQoAAoQHAAIOZfhGAcHEU9tTEUoBAAdtAAM9BA",
+          "file_unique_id": "AQADhAcAAg5l-EZy",
+          "file_size": 8659,
+          "width": 175,
+          "height": 320
+        },
+        "thumb": {
+          "file_id": "AAMCAQADIQUABOo8MncAAhT2al-6BpRLwt4EJ4qteIAHmK-QjQoAAoQHAAIOZfhGAcHEU9tTEUoBAAdtAAM9BA",
+          "file_unique_id": "AQADhAcAAg5l-EZy",
+          "file_size": 8659,
+          "width": 175,
+          "height": 320
+        },
+        "file_id": "BAACAgEAAyEFAATqPDJ3AAIU9mpfugaUS8LeBCeKrXiAB5ivkI0KAAKEBwACDmX4RgHBxFPbUxFKPQQ",
+        "file_unique_id": "AgADhAcAAg5l-EY",
+        "file_size": 2525388
+      },
+      "caption": "💢آتش سوزی شیراز\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 29,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

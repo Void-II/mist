@@ -21468,6 +21468,81 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5376,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784666206,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVAAFqX9he3UOzmyp75PSeDwHLA8_xwAACv74xG9MsQVHnqAdSEd8YHgEAAwIAA3MAAz0E",
+          "file_unique_id": "AQADv74xG9MsQVF4",
+          "file_size": 710,
+          "width": 90,
+          "height": 46
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVAAFqX9he3UOzmyp75PSeDwHLA8_xwAACv74xG9MsQVHnqAdSEd8YHgEAAwIAA20AAz0E",
+          "file_unique_id": "AQADv74xG9MsQVFy",
+          "file_size": 5286,
+          "width": 320,
+          "height": 163
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVAAFqX9he3UOzmyp75PSeDwHLA8_xwAACv74xG9MsQVHnqAdSEd8YHgEAAwIAA3gAAz0E",
+          "file_unique_id": "AQADv74xG9MsQVF9",
+          "file_size": 16491,
+          "width": 800,
+          "height": 407
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVAAFqX9he3UOzmyp75PSeDwHLA8_xwAACv74xG9MsQVHnqAdSEd8YHgEAAwIAA3kAAz0E",
+          "file_unique_id": "AQADv74xG9MsQVF-",
+          "file_size": 22024,
+          "width": 1080,
+          "height": 549
+        }
+      ],
+      "caption": "🗿 برنامه v2rayNG رو پر از کانفینگ نکن!\nبیا اینجا فقط یدونه کافیه ✅👇\n@MyConfig\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 10,
+          "length": 7,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 70,
+          "length": 9,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 92,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 92,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 92,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

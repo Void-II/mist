@@ -21396,6 +21396,78 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5375,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784666026,
+      "text": "اشتراک «20گیگابایت 50 هزار تومان🚀 » به تعداد بسیار محدود به ربات اضافه شد.❤️‍🔥\n\n⏬خرید این نوع اشتراک ⏬\n👤 @MiTiVPNBOT 👑\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 22,
+          "type": "bold"
+        },
+        {
+          "offset": 10,
+          "length": 22,
+          "type": "underline"
+        },
+        {
+          "offset": 35,
+          "length": 39,
+          "type": "bold"
+        },
+        {
+          "offset": 83,
+          "length": 19,
+          "type": "bold"
+        },
+        {
+          "offset": 83,
+          "length": 19,
+          "type": "underline"
+        },
+        {
+          "offset": 108,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 135,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

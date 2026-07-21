@@ -20999,6 +20999,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5368,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784660269,
+      "text": "📣اطلاعیه\n\nنگرانی بابت پریدن پیج های اینستاگرامتون دارید؟\n\nبا سرویس های ایپی ثابت ما این نگرانی رو برطرف کنید بیشتر از 3 سال است بلاگرها و پیج های بزرگ از ما خرید انجام میدن و هیچگونه مشکلی برای پیج این عزیزان پیش نیامده است \n\nجهت تست رایگان و خرید سرویس مولتی لوکیشن فقط کافیه بات رو استارت کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 300,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 314,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 330,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 361,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 361,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 361,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

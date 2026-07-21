@@ -20129,6 +20129,79 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5355,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784626507,
+      "text": "🔰Nest VPN🔰\n\n🔎 GooglePlayLink\n\n💡1.1.2 | #VPN\n\n\nⓂ️ نسخه vip شده\n \n◈ اشتراک پرمیوم فعال شده👑✓ \n◈ حذف فایل‌های اضافه✓\n◈حذف تبلیغات برنامه✓\n\n✪ معماری: arm64-v8\n\nتوضیحات درباره برنامه:\n\nبرای مرور ایمن به Nest VPN متصل شوید.\n\nبا Nest VPN، راه حل نهایی VPN، امنیت بی نظیر آنلاین و حفاظت از داده ها را کشف کنید. چه از Wi-Fi عمومی استفاده کنید یا در خانه، Nest VPN تضمین می‌کند که داده‌ها و آدرس IP شما ایمن می‌مانند و در برابر نفوذ محافظت می‌شوند. از مرور ایمن و محافظت از داده ها لذت ببرید.\n\n● از ناشناس ماندن بیشتری با خط مشی سختگیرانه عدم ورود به سیستم ما لذت ببرید و اطمینان حاصل کنیم که داده های مرور و مکان شما خصوصی باقی می مانند.\n\n● با VPN نامحدود به محتوای مورد علاقه خود دسترسی پیدا کنید\nاز پهنای باند نامحدود و دسترسی ایمن به دنیایی از محتوا لذت ببرید.\n\nNest VPN ویژگی‌های امنیتی و حریم خصوصی زیادی را به شما ارائه می‌دهد، مانند:\n\nویژگی ها\n• نامحدود / ماه از داده ها\n• سیاست دقیق عدم ورود به سیستم\n• پشتیبانی از پروتکل: V2ray\n• محتوای دارای محدودیت جغرافیایی را رفع انسداد کنید\n\nچرا با وجود پروتکل هایی مانند OpenVPN یا Wireguard از V2ray استفاده کرده ایم؟ چون V2ray خیلی سخت مسدود شده و سانسور اینترنت را به خوبی دور می زند.\n⭐️حمایت کنید دوستان با معرفی کردن کانالمون به بقیه.\n\n\n📲برای دانلود فایل از ربات بر روی ( دانــلود )  کلیک کنید.\n\n\n👨‍💻@qatel_seryalei\n\n📥@Ezrael_chanle\n📥@Xbat_team\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 17,
+          "length": 14,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=n24.nest.project"
+        },
+        {
+          "offset": 43,
+          "length": 4,
+          "type": "hashtag"
+        },
+        {
+          "offset": 185,
+          "length": 948,
+          "type": "blockquote"
+        },
+        {
+          "offset": 1223,
+          "length": 8,
+          "type": "text_link",
+          "url": "https://t.me/Xbat_chat/150812"
+        },
+        {
+          "offset": 1253,
+          "length": 15,
+          "type": "mention"
+        },
+        {
+          "offset": 1272,
+          "length": 14,
+          "type": "mention"
+        },
+        {
+          "offset": 1289,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 1312,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 1312,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 1312,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "https://play.google.com/store/apps/details?id=n24.nest.project"
+      }
     }
   ]
 }

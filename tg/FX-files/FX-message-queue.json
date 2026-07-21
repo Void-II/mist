@@ -21132,6 +21132,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5371,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784662969,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU-2pfy7mLG6i7mUpfEh0W16XTP0XiAAKeD2sbpIf4UuU3O9AxV_ByAQADAgADcwADPQQ",
+          "file_unique_id": "AQADng9rG6SH-FJ4",
+          "file_size": 1509,
+          "width": 90,
+          "height": 49
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU-2pfy7mLG6i7mUpfEh0W16XTP0XiAAKeD2sbpIf4UuU3O9AxV_ByAQADAgADbQADPQQ",
+          "file_unique_id": "AQADng9rG6SH-FJy",
+          "file_size": 26499,
+          "width": 320,
+          "height": 175
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU-2pfy7mLG6i7mUpfEh0W16XTP0XiAAKeD2sbpIf4UuU3O9AxV_ByAQADAgADeAADPQQ",
+          "file_unique_id": "AQADng9rG6SH-FJ9",
+          "file_size": 105481,
+          "width": 800,
+          "height": 437
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIU-2pfy7mLG6i7mUpfEh0W16XTP0XiAAKeD2sbpIf4UuU3O9AxV_ByAQADAgADeQADPQQ",
+          "file_unique_id": "AQADng9rG6SH-FJ-",
+          "file_size": 181164,
+          "width": 1280,
+          "height": 699
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nبات نماینده اپدیت شد و قابلیت های زیر بهش اضافه شد\n\nربات نماینده\n\n\nℹ️ پشتیبانی از محدودیت کاربران در بخش خرید و تمدید\nℹ️ اضافه شدن قابلیت خرید کاربر اضافه\nℹ️ اضافه شدن امکان تعیین وضعیت درگاه کارت‌به‌کارت\nℹ️ اضافه شدن درگاه پرداخت NowPayments\nℹ️اضافه شدن بخش تنظیمات درگاه‌های پرداخت\nℹ️ اضافه شدن قابلیت شیشه‌ای کردن کیبورد ربات\nℹ️ اضافه شدن قابلیت گزارش اختلال سرویس\nℹ️ اضافه شدن قابلیت حذف سرویس و بازگشت وجه\nℹ️ اضافه شدن قابلیت تغییر وضعیت کانفیگ\nℹ️ اضافه شدن قابلیت استفاده از کد تخفیف در بخش تمدید\nℹ️ اضافه شدن نمایش مبلغ ریالی در گزارش پرداخت‌های NowPayments\nℹ️ اضافه شدن قابلیت آپدیت همگانی ربات‌های نماینده\nℹ️ بهبود و بازطراحی بخش آمار ربات نماینده\n\nجهت دریافت و سفارش بات نماینده به پشتیبانی پیام بدین\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 63,
+          "length": 12,
+          "type": "bold"
+        },
+        {
+          "offset": 725,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 739,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 755,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 786,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 786,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 786,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

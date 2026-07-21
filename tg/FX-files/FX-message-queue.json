@@ -20685,6 +20685,57 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5362,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784651268,
+      "text": "📣اطلاعیه\n\nدر مورد قیمت سرویس ها خواستیم مقداری شفاف سازی کنیم\n\nسرویس داخل بات چون شامل سرویس تانل هست و بیشتر از 30 لوکیشن کاربردی و پر سرعت داخل ساب هست به شدت برای ما گران تمام شده است و به همین دلیل یه نوع سرویس دیگه هم اضافه کردیم با لوکیشن زیاد به لینک ساب که با 1/2 نام گذاری شده است قابلیت این سرویس این است که حجم مصرفی شما از کانفیگ رو نصف حساب میکنه یعنی شما 100 گیگ خریداری میکنید 200 گیگ میتونید استفاده کنید علت قیمت زیاد سرویس ها به این علت است\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 463,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 477,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 493,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 524,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 524,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 524,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

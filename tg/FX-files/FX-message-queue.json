@@ -19409,6 +19409,67 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5344,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784617904,
+      "poll": {
+        "id": "5978596546206238663",
+        "question": "نت شما هم کند شده یا اختلال داره؟",
+        "options": [
+          {
+            "persistent_id": "0",
+            "text": "نه من خیلی از اینترنت ممکلت راضی ام",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "1",
+            "text": "کند شده این چند روزه",
+            "voter_count": 0
+          },
+          {
+            "persistent_id": "2",
+            "text": "حیف پول که بابت این اینترنت دادم از شیر سگ حروم ترشون باد",
+            "voter_count": 0
+          }
+        ],
+        "total_voter_count": 0,
+        "is_closed": false,
+        "is_anonymous": true,
+        "allows_multiple_answers": true,
+        "allows_revoting": true,
+        "members_only": false,
+        "type": "regular",
+        "description": "• Sent via TeleFeed",
+        "description_entities": [
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "text_link",
+            "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "bold"
+          },
+          {
+            "offset": 11,
+            "length": 8,
+            "type": "underline"
+          }
+        ]
+      }
     }
   ]
 }

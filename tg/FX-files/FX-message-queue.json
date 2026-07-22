@@ -24353,6 +24353,74 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5430,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784758129,
+      "photo": [
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIVNmphP3G-zzrjQA1eWv5K6VGjAAFB4gAC6AxrGw5lCEfOcw4DwMpYSgEAAwIAA3MAAz0E",
+          "file_unique_id": "AQAD6AxrGw5lCEd4",
+          "file_size": 1426,
+          "width": 90,
+          "height": 54
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIVNmphP3G-zzrjQA1eWv5K6VGjAAFB4gAC6AxrGw5lCEfOcw4DwMpYSgEAAwIAA20AAz0E",
+          "file_unique_id": "AQAD6AxrGw5lCEdy",
+          "file_size": 22660,
+          "width": 320,
+          "height": 191
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIVNmphP3G-zzrjQA1eWv5K6VGjAAFB4gAC6AxrGw5lCEfOcw4DwMpYSgEAAwIAA3gAAz0E",
+          "file_unique_id": "AQAD6AxrGw5lCEd9",
+          "file_size": 77404,
+          "width": 800,
+          "height": 477
+        },
+        {
+          "file_id": "AgACAgEAAyEFAATqPDJ3AAIVNmphP3G-zzrjQA1eWv5K6VGjAAFB4gAC6AxrGw5lCEfOcw4DwMpYSgEAAwIAA3kAAz0E",
+          "file_unique_id": "AQAD6AxrGw5lCEd-",
+          "file_size": 87356,
+          "width": 1196,
+          "height": 713
+        }
+      ],
+      "caption": "🔴سنتکام: امروز ساعت ۵:۳۰ بعد از ظهر به وقت شرقی، نیروهای ایالات متحده طبق دستور فرمانده کل قوا، حملات بیشتری را علیه اهداف نظامی ایران آغاز کردند. این مأموریت ادامه خواهد یافت تا توانایی ایران در تهدید دریانوردان غیرنظامی و کشتی‌های تجاری در حال عبور از آب‌های منطقه‌ای را بیشتر تضعیف کند.\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 10,
+          "length": 280,
+          "type": "bold"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 303,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

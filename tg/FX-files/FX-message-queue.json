@@ -24477,6 +24477,42 @@
           }
         ]
       }
+    },
+    {
+      "message_id": 5432,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784760589,
+      "text": "توضیح بدم بهتون برا دوستانی که نمیدونن\n\n۱/۳چه کاربردی داره؟ وقتی با این کانفیگ‌ها 3 گیگابایت دانلود یا وبگردی می‌کنید، اپراتور (همراه اول، ایرانسل، مخابرات و ...) فقط 1 الی 2 گیگابایت از بسته اینترنتتون کم میکنه!\n\n👍 عملا هزینه‌ای که بابت خرید اینترنت به همراه اول و ایرانسل و ... می‌دید با این کانفیگ‌ها تا یک سوم کاهش پیدا می‌کنه !\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 346,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 346,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 346,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

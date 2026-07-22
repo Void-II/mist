@@ -22459,6 +22459,100 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5395,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784723688,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVE2pguOiTc_iow7uDpIYDoJzhv40cAAKJDWsbf8QJU9N8r8bcjui6AQADAgADcwADPQQ",
+          "file_unique_id": "AQADiQ1rG3_ECVN4",
+          "file_size": 2121,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVE2pguOiTc_iow7uDpIYDoJzhv40cAAKJDWsbf8QJU9N8r8bcjui6AQADAgADbQADPQQ",
+          "file_unique_id": "AQADiQ1rG3_ECVNy",
+          "file_size": 26018,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVE2pguOiTc_iow7uDpIYDoJzhv40cAAKJDWsbf8QJU9N8r8bcjui6AQADAgADeAADPQQ",
+          "file_unique_id": "AQADiQ1rG3_ECVN9",
+          "file_size": 107254,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVE2pguOiTc_iow7uDpIYDoJzhv40cAAKJDWsbf8QJU9N8r8bcjui6AQADAgADeQADPQQ",
+          "file_unique_id": "AQADiQ1rG3_ECVN-",
+          "file_size": 230210,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🩵AVG VPN 7 days \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\n\nLicense: E4PXRD-Y6SCH2-5E4J9J\n\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 49,
+          "type": "bold"
+        },
+        {
+          "offset": 71,
+          "length": 11,
+          "type": "text_link",
+          "url": "http://play.google.com/store/apps/details?id=com.avg.android.vpn&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Davg+secure+vpn&pcampaignid=APPU"
+        },
+        {
+          "offset": 82,
+          "length": 67,
+          "type": "bold"
+        },
+        {
+          "offset": 152,
+          "length": 23,
+          "type": "bold"
+        },
+        {
+          "offset": 178,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 193,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 215,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

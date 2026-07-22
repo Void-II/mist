@@ -21964,6 +21964,42 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5386,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784705747,
+      "text": "🔴 ستاد عالی آزمون‌های وزارت آموزش و پرورش: امتحانات نهایی پایه‌های یازدهم و دوازدهم از فردا طبق برنامه برگزار میشن.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

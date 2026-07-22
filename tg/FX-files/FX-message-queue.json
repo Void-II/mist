@@ -24236,6 +24236,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5427,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784757589,
+      "text": "vless://c97b2158-64c9-1f55-8167-72970d347288@157.22.19.5:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%A8%F0%9F%87%B3%20Cn\n\nارسالی ممبر عزیز🚀😍\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 235,
+          "type": "code"
+        },
+        {
+          "offset": 270,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 270,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 270,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

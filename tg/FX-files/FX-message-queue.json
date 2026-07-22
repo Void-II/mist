@@ -24045,6 +24045,86 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5424,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784756574,
+      "media_group_id": "14278052598108324",
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVMGphOV5hC-M1y7ipkc42oBzThthPAALTD2sblZ4JU1GHdOOPt8taAQADAgADcwADPQQ",
+          "file_unique_id": "AQAD0w9rG5WeCVN4",
+          "file_size": 1549,
+          "width": 70,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVMGphOV5hC-M1y7ipkc42oBzThthPAALTD2sblZ4JU1GHdOOPt8taAQADAgADbQADPQQ",
+          "file_unique_id": "AQAD0w9rG5WeCVNy",
+          "file_size": 21390,
+          "width": 248,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVMGphOV5hC-M1y7ipkc42oBzThthPAALTD2sblZ4JU1GHdOOPt8taAQADAgADeAADPQQ",
+          "file_unique_id": "AQAD0w9rG5WeCVN9",
+          "file_size": 99526,
+          "width": 621,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVMGphOV5hC-M1y7ipkc42oBzThthPAALTD2sblZ4JU1GHdOOPt8taAQADAgADeQADPQQ",
+          "file_unique_id": "AQAD0w9rG5WeCVN-",
+          "file_size": 187473,
+          "width": 993,
+          "height": 1280
+        }
+      ],
+      "caption": "🔴امروز آواره‌ های مدرسه میناب رو دوباره بررسی کردن و ۶۲ تیکه جدید از پیکر ۳۲ دانش‌ آموز پیدا شده و امروز دوباره براشون مراسم گرفتن و همشونو کنار هم به خاک سپردن...\n\n+ فارس هم گفته هنوز هیچ اثری از ماکان نصیری پیدا نشده.\nطبق گفته‌ها، موشک مستقیم بهش برخورد کرده و متأسفانه چیزی از پیکرش باقی نمونده.\n\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 221,
+          "length": 80,
+          "type": "blockquote"
+        },
+        {
+          "offset": 301,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 314,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 340,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 340,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 340,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "has_media_spoiler": true
     }
   ]
 }

@@ -23133,6 +23133,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5405,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784743189,
+      "text": "دوستان هرچندتا میتونید برام استارت بزنید با تشکر😊🙏\n\nhttp://telegram.me/reminibedebot?start=7472673832\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 54,
+          "length": 49,
+          "type": "url"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 116,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "url": "http://telegram.me/reminibedebot?start=7472673832"
+      }
     }
   ]
 }

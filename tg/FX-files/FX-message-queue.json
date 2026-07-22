@@ -23690,6 +23690,47 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5416,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784750449,
+      "text": "🔴 دادگستری تهران : مردم به هیچ وجه حق ندارن از استارلینک یا همون اینترنت ماهواره ای یا هیچ گونه ابزاری به جز اوپراتورهای مجاز برای اتصال به اینترنت استفاده کنن.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 3,
+          "length": 15,
+          "type": "bold"
+        },
+        {
+          "offset": 174,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 174,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 174,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

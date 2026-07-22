@@ -22040,6 +22040,105 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5388,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784715708,
+      "document": {
+        "file_name": "𝑭𝑨𝑺𝑻 𝑵𝑷𝑽.npvt",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgEAAyEFAATqPDJ3AAIVDGpgmbygil67AAFXzCT_Z_vT1PV5xgAC-QcAAs9NCEf1DefVP0V2HT0E",
+        "file_unique_id": "AgAD-QcAAs9NCEc",
+        "file_size": 38292
+      },
+      "caption": "🛡 کانفیگ فول پرسرعت برای نت ملی نپستر مخصوص دانلود وب گردی نامحدود برای اندروید و آیفون\n\n🔹نحوه اتصال داخل اندروید کلیک کن👉\n\n🔹نحوه اتصال داخل آیفون کلیک کن👉\n\n✌️ فیلترینگ شدید و نت ملی رو باهاش قورت بده\n\nاینترنت آزاد برای همه, یا هیچکس 🏳️\n\nT.me/MiTiVPN 🔹\nبرای دریافت کانفیگ نت ملی کلیک کن\n👤 @MiTiVPNBOT\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 3,
+          "length": 87,
+          "type": "bold"
+        },
+        {
+          "offset": 92,
+          "length": 23,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/42"
+        },
+        {
+          "offset": 116,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 129,
+          "length": 21,
+          "type": "text_link",
+          "url": "https://t.me/Ads27279/13"
+        },
+        {
+          "offset": 151,
+          "length": 7,
+          "type": "bold"
+        },
+        {
+          "offset": 165,
+          "length": 74,
+          "type": "bold"
+        },
+        {
+          "offset": 244,
+          "length": 12,
+          "type": "url"
+        },
+        {
+          "offset": 257,
+          "length": 2,
+          "type": "bold"
+        },
+        {
+          "offset": 260,
+          "length": 48,
+          "type": "blockquote"
+        },
+        {
+          "offset": 260,
+          "length": 33,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 297,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://t.me/mitivpnbot?start=1"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 321,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

@@ -25982,6 +25982,56 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5460,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784833972,
+      "document": {
+        "file_name": "delfan_v8(@XBat_Team).apk",
+        "mime_type": "application/octet-stream",
+        "file_id": "BQACAgQAAyEFAATqPDJ3AAIVVGpiZ7QWIFsRdMP20L_ybFxCZleHAAK-HQAC_PIYU22tCBJs4fdzPQQ",
+        "file_unique_id": "AgADvh0AAvzyGFM",
+        "file_size": 9485648
+      },
+      "caption": "برنامه دلفان مود شده تاریخ اکانت قرار رو برنامه رو تا 4 ماه دیگه اس تموم شد تمدیدش میکنم براتون\n\nمعرفی میکنم اپلیکیشن دلفان رو:\n● دسترسی به آرشیو کامل فیلم و سریال از همه کشورها \n● فیلم های ایرانی قدیمی رو هم داره\n● بدون نیاز به اشتراک ماهیانه\n● بدون نیاز به لاگین و ثبت‌نام\n● بدون سانسور\n● روی اینترنت ملی پرسرعت عالی کار میکنه\n● آرشیو خوبی داره،\n● قابلیت دانلود مستقیم فیلم و سریال با کیفیت بالا\n● دوبله فارسی و زیرنویس حرفه‌ای\n\n \n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 97,
+          "length": 334,
+          "type": "blockquote"
+        },
+        {
+          "offset": 433,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 456,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 456,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 456,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

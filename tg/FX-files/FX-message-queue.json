@@ -25000,6 +25000,95 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5443,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784805051,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQ2ph9rvOjkwKeGt3aFGXAy7sk-RdAAIJDWsbLMwRU9xg8lf1CF74AQADAgADcwADPQQ",
+          "file_unique_id": "AQADCQ1rGyzMEVN4",
+          "file_size": 1980,
+          "width": 90,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQ2ph9rvOjkwKeGt3aFGXAy7sk-RdAAIJDWsbLMwRU9xg8lf1CF74AQADAgADbQADPQQ",
+          "file_unique_id": "AQADCQ1rGyzMEVNy",
+          "file_size": 31036,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQ2ph9rvOjkwKeGt3aFGXAy7sk-RdAAIJDWsbLMwRU9xg8lf1CF74AQADAgADeAADPQQ",
+          "file_unique_id": "AQADCQ1rGyzMEVN9",
+          "file_size": 132706,
+          "width": 800,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQ2ph9rvOjkwKeGt3aFGXAy7sk-RdAAIJDWsbLMwRU9xg8lf1CF74AQADAgADeQADPQQ",
+          "file_unique_id": "AQADCQ1rGyzMEVN-",
+          "file_size": 263957,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "caption": "🩵1VPN 1 month  \n╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺\nبین 1 تا 50 عدد بزارین 2 نفر رندوم انتخاب میشه  \n\nاسپم ممنوع فقط یک کامنت\nGoogle Play\nلاگین کردین اسکرین بدید همه با هم استفاده کنید\nری اکشن یادتون نعره ❤️\n╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴╴\n© @Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 0,
+          "length": 109,
+          "type": "bold"
+        },
+        {
+          "offset": 110,
+          "length": 11,
+          "type": "text_link",
+          "url": "https://play.google.com/store/apps/details?id=com.one.vpnapp"
+        },
+        {
+          "offset": 121,
+          "length": 92,
+          "type": "bold"
+        },
+        {
+          "offset": 217,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 232,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 254,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

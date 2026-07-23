@@ -25374,6 +25374,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5448,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784807877,
+      "text": "امیرحسین ثابتی :\nنباید تنگه رو از دست بدیم، نباید تنگه رو بدیم بره. شما می‌ گید تنگه رو باز کنیم، مفت بدیم بره.\nشهریاری، عضو کمیسیون امنیت ملی مجلس : \nتنگه مال ننت بوده؟ \nامیرحسین ثابتی :\nآقا ادب\nشهریاری :\nتنگه مال عمه ات بوده؟\nثابتی : \nآقای شهریاری ادب\nشهریاری : \nنه خب تنگه ارث بابات بوده؟\nامیرحسین ثابتی : \nآقای شهریاری ادب داشته باش چرا وارد بحث ناموسی میشی تو پخش زنده\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 374,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 387,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 413,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 413,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 413,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

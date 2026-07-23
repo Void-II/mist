@@ -25610,6 +25610,52 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5453,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784821072,
+      "text": "🔴ترامپ به شبکه 12 اسرائیل:\nدارم فکر یه حملهٔ حسابی و بزرگ می‌کنم، خیلی بزرگ‌تر از همهٔ دفعات قبل. دیگه تقریباً تصمیمم رو گرفتم.\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 2,
+          "length": 25,
+          "type": "bold"
+        },
+        {
+          "offset": 28,
+          "length": 100,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 141,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

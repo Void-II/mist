@@ -25250,6 +25250,84 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5446,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784807876,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRmpiAcSGPnm1t4pUbfaR2fVY5i7FAAIKDWsbZw0RU97JT7KxwiilAQADAgADcwADPQQ",
+          "file_unique_id": "AQADCg1rG2cNEVN4",
+          "file_size": 671,
+          "width": 42,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRmpiAcSGPnm1t4pUbfaR2fVY5i7FAAIKDWsbZw0RU97JT7KxwiilAQADAgADbQADPQQ",
+          "file_unique_id": "AQADCg1rG2cNEVNy",
+          "file_size": 7543,
+          "width": 148,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRmpiAcSGPnm1t4pUbfaR2fVY5i7FAAIKDWsbZw0RU97JT7KxwiilAQADAgADeAADPQQ",
+          "file_unique_id": "AQADCg1rG2cNEVN9",
+          "file_size": 28619,
+          "width": 369,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRmpiAcSGPnm1t4pUbfaR2fVY5i7FAAIKDWsbZw0RU97JT7KxwiilAQADAgADeQADPQQ",
+          "file_unique_id": "AQADCg1rG2cNEVN-",
+          "file_size": 47466,
+          "width": 591,
+          "height": 1280
+        }
+      ],
+      "caption": "📣اطلاعيه \n\nبا ایپی امریکا به راحتی به اپ محبوب gemini notebook دسترسی داشته باشین این اپ بالاترین تحریم رو دارا میباشد\n\nجهت تست رایگان و ثبت سفارش به بات مراجعه کنید\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 170,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 184,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 200,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 231,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 231,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 231,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

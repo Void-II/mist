@@ -26032,6 +26032,69 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5461,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784837572,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVVWpidcS8zho8PmY-AAHcLLxEqj4zqwAC9wxrGyzMGVOQ0McqEm86JQEAAwIAA3MAAz0E",
+          "file_unique_id": "AQAD9wxrGyzMGVN4",
+          "file_size": 1268,
+          "width": 90,
+          "height": 58
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVVWpidcS8zho8PmY-AAHcLLxEqj4zqwAC9wxrGyzMGVOQ0McqEm86JQEAAwIAA20AAz0E",
+          "file_unique_id": "AQAD9wxrGyzMGVNy",
+          "file_size": 19909,
+          "width": 320,
+          "height": 208
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVVWpidcS8zho8PmY-AAHcLLxEqj4zqwAC9wxrGyzMGVOQ0McqEm86JQEAAwIAA3gAAz0E",
+          "file_unique_id": "AQAD9wxrGyzMGVN9",
+          "file_size": 82013,
+          "width": 800,
+          "height": 521
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVVWpidcS8zho8PmY-AAHcLLxEqj4zqwAC9wxrGyzMGVOQ0McqEm86JQEAAwIAA3kAAz0E",
+          "file_unique_id": "AQAD9wxrGyzMGVN-",
+          "file_size": 138250,
+          "width": 1280,
+          "height": 833
+        }
+      ],
+      "caption": "پشماتون بریزه: صف پروازهای نظامی آمریکا به سمت خاورمیانه هر لحظه داره  عین کیرخر طولانی تر میشه\n\n\nاینترنتم افتضاحه مال من بشدت ریدس مال. شمام همینه!؟❤️\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 164,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 164,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 164,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

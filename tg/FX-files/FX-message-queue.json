@@ -24788,6 +24788,89 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5440,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784797976,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQGph2xhEnP7btOeD3JhVFnJz8M4UAALLDGsbZw0RU-nG1n9bYR9eAQADAgADcwADPQQ",
+          "file_unique_id": "AQADywxrG2cNEVN4",
+          "file_size": 1511,
+          "width": 90,
+          "height": 49
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQGph2xhEnP7btOeD3JhVFnJz8M4UAALLDGsbZw0RU-nG1n9bYR9eAQADAgADbQADPQQ",
+          "file_unique_id": "AQADywxrG2cNEVNy",
+          "file_size": 26483,
+          "width": 320,
+          "height": 175
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQGph2xhEnP7btOeD3JhVFnJz8M4UAALLDGsbZw0RU-nG1n9bYR9eAQADAgADeAADPQQ",
+          "file_unique_id": "AQADywxrG2cNEVN9",
+          "file_size": 105655,
+          "width": 800,
+          "height": 437
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQGph2xhEnP7btOeD3JhVFnJz8M4UAALLDGsbZw0RU-nG1n9bYR9eAQADAgADeQADPQQ",
+          "file_unique_id": "AQADywxrG2cNEVN-",
+          "file_size": 181076,
+          "width": 1280,
+          "height": 699
+        }
+      ],
+      "caption": "📣اطلاعیه\n\nکد تخفیف 10 درصدی برای خرید و تمدید\n\nکد محدود است و مخصوص کاربرانی هست که زودتر استفاده کنن\n\nبعد از هر بار تمدید حجم و تایم باقی مانده ریست خواهد شد\n\nجهت ثبت سفارش بات رو استارت کنید\n\nکد تخفیف :\narvanping\n\n📞@Arvanping\n🤖 @ArvanPingBot\n📣@ArvanPing_Notices\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 206,
+          "length": 9,
+          "type": "code"
+        },
+        {
+          "offset": 219,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 233,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 249,
+          "length": 18,
+          "type": "mention"
+        },
+        {
+          "offset": 280,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 280,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 280,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

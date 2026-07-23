@@ -24585,6 +24585,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5435,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784787590,
+      "text": "vless://c97b2158-64c9-1f55-8167-72970d347288@64.49.38.6:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&fp=chrome&type=xhttp&sni=download.nvidia.com#%F0%9F%87%B5%F0%9F%87%B0%20PK%40Error404Bin\n\nلوکیشن پاکستان😁👍\n@Error404Bin\n@ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 248,
+          "type": "code"
+        },
+        {
+          "offset": 269,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 282,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 304,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 304,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 304,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

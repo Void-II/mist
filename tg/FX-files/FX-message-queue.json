@@ -24917,6 +24917,89 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5442,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784801576,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQmph6Sg-eKKSnOGsskeAUfh4fNCoAAIFDWsblZ4RU25Sra4YdVHoAQADAgADcwADPQQ",
+          "file_unique_id": "AQADBQ1rG5WeEVN4",
+          "file_size": 1708,
+          "width": 77,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQmph6Sg-eKKSnOGsskeAUfh4fNCoAAIFDWsblZ4RU25Sra4YdVHoAQADAgADbQADPQQ",
+          "file_unique_id": "AQADBQ1rG5WeEVNy",
+          "file_size": 22808,
+          "width": 275,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQmph6Sg-eKKSnOGsskeAUfh4fNCoAAIFDWsblZ4RU25Sra4YdVHoAQADAgADeAADPQQ",
+          "file_unique_id": "AQADBQ1rG5WeEVN9",
+          "file_size": 97607,
+          "width": 687,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVQmph6Sg-eKKSnOGsskeAUfh4fNCoAAIFDWsblZ4RU25Sra4YdVHoAQADAgADeQADPQQ",
+          "file_unique_id": "AQADBQ1rG5WeEVN-",
+          "file_size": 119863,
+          "width": 879,
+          "height": 1024
+        }
+      ],
+      "caption": "یه دختر 20 ساله نیشابوری که با پسرا رابطه ارباب برده‌ای داشته؛\n\nپسرا رو سگ خودش میدونسته و اونارو مجبور می‌کرده براش هاپ هاپ کنن،\nهمچین موقع رابطه دست و پای پسرا رو می‌بسته و اونارو کتک میزده، دستگیر شد.\n\n@odin_club\n@Arvanpingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 64,
+          "length": 65,
+          "type": "blockquote"
+        },
+        {
+          "offset": 142,
+          "length": 73,
+          "type": "blockquote"
+        },
+        {
+          "offset": 205,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 216,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 242,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

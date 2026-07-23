@@ -26141,6 +26141,57 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5463,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784839372,
+      "text": "vless://c97b2158-64c9-1f55-8167-72970d347288@64.49.38.6:993?security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#%F0%9F%87%B8%F0%9F%87%A8%20SC-%40Error404Bin\n\nبزنید سرعت پشم ریزوون \nعشق کنید\n@Error404Bin\n© @ErrorBin\n\n• Sent via TeleFeed",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 260,
+          "type": "code"
+        },
+        {
+          "offset": 294,
+          "length": 12,
+          "type": "mention"
+        },
+        {
+          "offset": 309,
+          "length": 9,
+          "type": "mention"
+        },
+        {
+          "offset": 331,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 331,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 331,
+          "length": 8,
+          "type": "underline"
+        }
+      ],
+      "link_preview_options": {
+        "is_disabled": true
+      }
     }
   ]
 }

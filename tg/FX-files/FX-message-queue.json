@@ -25089,6 +25089,89 @@
           "type": "underline"
         }
       ]
+    },
+    {
+      "message_id": 5444,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784805176,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRGph9zh0evIHjXeClIrjeJ_q91pJAAIfDWsblZ4RU0BLFMeE_91ZAQADAgADcwADPQQ",
+          "file_unique_id": "AQADHw1rG5WeEVN4",
+          "file_size": 2594,
+          "width": 90,
+          "height": 86
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRGph9zh0evIHjXeClIrjeJ_q91pJAAIfDWsblZ4RU0BLFMeE_91ZAQADAgADbQADPQQ",
+          "file_unique_id": "AQADHw1rG5WeEVNy",
+          "file_size": 34158,
+          "width": 320,
+          "height": 305
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRGph9zh0evIHjXeClIrjeJ_q91pJAAIfDWsblZ4RU0BLFMeE_91ZAQADAgADeAADPQQ",
+          "file_unique_id": "AQADHw1rG5WeEVN9",
+          "file_size": 121743,
+          "width": 800,
+          "height": 763
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVRGph9zh0evIHjXeClIrjeJ_q91pJAAIfDWsblZ4RU0BLFMeE_91ZAQADAgADeQADPQQ",
+          "file_unique_id": "AQADHw1rG5WeEVN-",
+          "file_size": 137575,
+          "width": 1040,
+          "height": 992
+        }
+      ],
+      "caption": "این دو خواهر عزیز هم دیروز هم زمان با اذان صبح اعدام شدند ، روحشون شاد .\n\nمادر اونها گفته که در زندان به یکی از دخترانش تجاوز شده.\n@odin_club | @ArvanPingbot\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 74,
+          "length": 56,
+          "type": "blockquote"
+        },
+        {
+          "offset": 74,
+          "length": 55,
+          "type": "bold"
+        },
+        {
+          "offset": 131,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 144,
+          "length": 13,
+          "type": "mention"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 170,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

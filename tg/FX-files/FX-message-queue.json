@@ -25456,6 +25456,84 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 5450,
+      "sender_chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "chat": {
+        "id": -1003929813623,
+        "title": "Backup",
+        "type": "channel"
+      },
+      "date": 1784816751,
+      "photo": [
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVSmpiJG9jdu9u3E1KjIe_rsbI5jtqAAK5DGsb_PIQU9mkq5TJLF0DAQADAgADcwADPQQ",
+          "file_unique_id": "AQADuQxrG_zyEFN4",
+          "file_size": 1973,
+          "width": 90,
+          "height": 60
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVSmpiJG9jdu9u3E1KjIe_rsbI5jtqAAK5DGsb_PIQU9mkq5TJLF0DAQADAgADbQADPQQ",
+          "file_unique_id": "AQADuQxrG_zyEFNy",
+          "file_size": 23623,
+          "width": 320,
+          "height": 213
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVSmpiJG9jdu9u3E1KjIe_rsbI5jtqAAK5DGsb_PIQU9mkq5TJLF0DAQADAgADeAADPQQ",
+          "file_unique_id": "AQADuQxrG_zyEFN9",
+          "file_size": 91287,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "file_id": "AgACAgQAAyEFAATqPDJ3AAIVSmpiJG9jdu9u3E1KjIe_rsbI5jtqAAK5DGsb_PIQU9mkq5TJLF0DAQADAgADeQADPQQ",
+          "file_unique_id": "AQADuQxrG_zyEFN-",
+          "file_size": 144450,
+          "width": 1280,
+          "height": 853
+        }
+      ],
+      "caption": "یه آسیب‌پذیری در تلگرام پیدا شده که کاربران ژاپنی دارن استارز رو با قیمت خیلی خیلی پایین می‌خرن.\n\nهزینه ۱۰ هزار ⭐️ در این حساب‌ها فقط ۱.۵ دلار است، در حالی که قیمت واقعی ۱۰ هزار ⭐️ صد برابر بیشتر است - ۱۵۰ دلار\nشانس ما رو شماره مجازی ژاپن و کارت ژاپن میخواهد دوستایی یاسیم همه بنگلادشی برمه ای پاکستانی مالزیایی اند \nراستی این پرچم کره جنوبیه و ژاپن نیست فرق زیادی هم ندارن ها🥴\n@XBat_Team\n\n• Sent via TeleFeed",
+      "caption_entities": [
+        {
+          "offset": 211,
+          "length": 104,
+          "type": "spoiler"
+        },
+        {
+          "offset": 317,
+          "length": 61,
+          "type": "bold"
+        },
+        {
+          "offset": 379,
+          "length": 10,
+          "type": "mention"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "text_link",
+          "url": "http://t.me/tg_feedbot?start=atid-DBZDQBFREE"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "bold"
+        },
+        {
+          "offset": 402,
+          "length": 8,
+          "type": "underline"
+        }
+      ]
     }
   ]
 }

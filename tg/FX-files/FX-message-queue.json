@@ -26310,6 +26310,31 @@
       "link_preview_options": {
         "is_disabled": true
       }
+    },
+    {
+      "message_id": 4,
+      "from": {
+        "id": 5970314725,
+        "is_bot": false,
+        "first_name": "yi",
+        "last_name": "L",
+        "language_code": "en"
+      },
+      "chat": {
+        "id": 5970314725,
+        "first_name": "yi",
+        "last_name": "L",
+        "type": "private"
+      },
+      "date": 1787622584,
+      "text": "/start",
+      "entities": [
+        {
+          "offset": 0,
+          "length": 6,
+          "type": "bot_command"
+        }
+      ]
     }
   ]
 }
